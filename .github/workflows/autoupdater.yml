@@ -19,6 +19,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        repository: N0-0NE-Dev/no-fasel-scrapers
+        path: no-fasel-scrapers
+        token: ${{secrets.PUSH_TOKEN}}
     - name: Setup Browser
       uses: abhi1693/setup-browser@v0.3.4
       with:
@@ -48,5 +52,8 @@ jobs:
         git rm -r --cached
         git add .
         git commit -m "Updated scraped files"
-        git push
+        git push https://$USERNAME:$REPO_KEY@github.com/N0-0NE-Dev/no-fasel-scrapers.git
+      env:
+        REPO_KEY: ${{secrets.PUSH_TOKEN}}
+        USERNAME: github-actions[bot]
 
