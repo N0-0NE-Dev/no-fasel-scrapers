@@ -42,8 +42,9 @@ jobs:
         git add .
         git commit -m "Updated scraped files"
     - name: Push changes
-      uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH_NAME: '' #optional defaults to master
+      run: |
+        git config --global user.name 'Ahmed Badawe'
+        git config --global user.email 'N0-0NE-Dev@users.noreply.github.com'
+        git commit -am "Updated scraped files"
+        git push
 
