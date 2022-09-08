@@ -45,4 +45,5 @@ jobs:
     - name: fetch from main
       run: git fetch origin main
     - name: push code to main
+      run: git push origin HEAD:main
 
