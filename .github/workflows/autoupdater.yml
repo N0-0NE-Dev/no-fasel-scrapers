@@ -34,6 +34,10 @@ jobs:
         pip install -r requirements.txt
     - name: Run the scrappers
       run: python MovieScraper.py
+    - name: Configure identity
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
     - name: switching from HTTPS to SSH
       run: git remote set-url origin git@github.com:N0-0NE-Dev/no-fasel-scrapers.git ${{ secrets.ssh }}
     - name: check for changes
