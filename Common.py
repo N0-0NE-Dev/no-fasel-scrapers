@@ -23,7 +23,7 @@ def get_cookies() -> None:
 
     driver.refresh()
 
-    WebDriverWait(driver, 30).until(
+    WebDriverWait(driver, 60).until(
         EC.presence_of_element_located(
             (
                 By.CLASS_NAME,
