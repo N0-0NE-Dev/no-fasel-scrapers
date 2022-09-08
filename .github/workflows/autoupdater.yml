@@ -1,13 +1,9 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
-name: Python application
+name: Update Scraped Files
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */6 * * *
 
 permissions:
   contents: read
@@ -20,6 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
+        repository: N0-0NE-Dev/no-fasel-scrapers
         persist-credentials: false
         fetch-depth: 0
     - name: Setup Browser
@@ -35,12 +32,17 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Run the scrappers
-      run: python MovieScraper.py
+    - name: Run scrappers
+      run: |
+        python MovieScraper.py
+        python SeriesScraper.py
+        python AnimeScraper.py
     - name: Commit files
-      uses: EndBug/add-and-commit@v9
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Updated scraped files" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
-        message: 'Updated scraped files'
-        author_name: Ahmed Badawe
-        author_email: modamoon48@gmail.com
-
+        github_token: ${{ secrets.PUSH_TOKEN }}
