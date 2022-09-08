@@ -38,9 +38,15 @@ jobs:
     - name: Run the scrappers
       run: python MovieScraper.py
     - name: Commit files
-      uses: EndBug/add-and-commit@v9
+      run: |
+        git config --local user.email "modamoon48@gmail.com"
+        git config --local user.name "GitHub Automated Action"
+        git rm -r --cacched .
+        git add .
+        git commit -m "Updated scraped files"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
-        message: 'Updated scraped files'
-        author_name: Ahmed Badawe
-        author_email: modamoon48@gmail.com
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
 
