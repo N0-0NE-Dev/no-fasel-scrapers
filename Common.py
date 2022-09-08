@@ -9,6 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import undetected_chromedriver as uc
 from threading import Lock
+from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema
 
 
 cookie_lock = Lock()
@@ -61,25 +62,21 @@ def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
                 webpage_url, headers=headers, cookies=cookies)
 
             if "Cloudflare" in str(webpage.text):
-                print("We are detected, getting new cookies...")
-
                 if not cookie_lock.locked():
                     with cookie_lock:
                         get_cookies()
                 else:
                     while cookie_lock.locked():
                         sleep(1)
-                    print("Done sleeping")
-
                 cookies = load_cookies()
                 webpage = None
             else:
                 pass
 
-        except requests.exceptions.ConnectionError:
+        except ConnectionError:
             print("Fetching website failed, trying again...")
             webpage = None
-        except requests.exceptions.TooManyRedirects:
+        except TooManyRedirects:
             print(
                 f"Experinced too many redirects when fetching {webpage_url}, skipping it..."
             )
@@ -183,5 +180,14 @@ def save_image(url: str, dir_path: str, content_id: str) -> str:
 
             return "New Image Please Upload"
 
-    except requests.exceptions.InvalidURL or requests.exceptions.MissingSchema:
+    except InvalidURL or MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
+
+
+def remove_year_from_title(title: str) -> str:
+    if title[-4:].isdigit() and len(title) > 4:
+        title = title.replace(title[-5:], "")
+    else:
+        pass
+
+    return title

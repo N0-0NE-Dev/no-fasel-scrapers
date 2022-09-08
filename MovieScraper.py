@@ -15,14 +15,9 @@ with open("./output/json/movies.json") as fp:
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
     movies_dict = {}
     for movie_div in movie_divs:
-        movie_title = remove_arabic_chars(
+        movie_title = remove_year_from_title(remove_arabic_chars(
             movie_div.find("div", class_="h1").text
-        ).strip()
-
-        if movie_title[-4:].isdigit():
-            movie_title.replace(movie_title[-5:], "")
-        else:
-            pass
+        ).strip())
 
         if movie_title in movie_titles:
             continue
