@@ -35,10 +35,11 @@ jobs:
     - name: Run the scrappers
       run: python MovieScraper.py
     - name: Commit and push if content changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "Ahmed Islam"
+        git config --global user.email "modamoon48@gmail.com"
         git add -A
-        git commit -m "Updated the files" || exit 0
+        git commit -m "Updated the files"
         git push
 
