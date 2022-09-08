@@ -30,6 +30,7 @@ def get_iframe_source(episodes: list[str]) -> dict:
             continue
 
         episode_id = get_content_id(soup)
+
         try:
             iframeSource = soup.find("iframe")["src"]
         except TypeError:
@@ -58,6 +59,7 @@ def clean_anime_title(anime_title: str) -> str:
 
     cleaned_anime_title = translation.replace(
         "Anime", "").replace("?", "").strip()
+
     cleaned_anime_title = cleaned_anime_title.encode(
         "ascii", "ignore").decode()
 
@@ -66,14 +68,13 @@ def clean_anime_title(anime_title: str) -> str:
 
 def scrapeEpisodes(number_of_episodes: int, episodes_sources: list[str]) -> dict:
     episode_ranges = split_into_ranges(8, number_of_episodes)
-    # print(episode_ranges)
+
     splitted_episodes_list = [
         episodes_sources[episode_range[0] - 1: episode_range[1] - 1]
         for episode_range in episode_ranges
     ]
 
     master_dict = {}
-
     with ThreadPoolExecutor() as executor:
         results = executor.map(get_iframe_source, splitted_episodes_list)
         for result in results:
@@ -155,7 +156,6 @@ def main():
         8, get_number_of_pages("https://www.faselhd.club/anime")
     )
 
-    # page_ranges_list = split_into_ranges(4, 4)
     print(page_ranges_list)
 
     with ThreadPoolExecutor() as executor:

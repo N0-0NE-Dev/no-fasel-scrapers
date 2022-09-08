@@ -35,14 +35,14 @@ def get_cookies() -> None:
 
     cookie_dict = {cookie["name"]: cookie["value"] for cookie in cookies}
 
-    with open("./main/config/cookies.json", "w") as fp:
+    with open("./config/cookies.json", "w") as fp:
         json.dump(cookie_dict, fp)
 
     return
 
 
 def load_cookies() -> dict:
-    with open("./main/config/cookies.json", "r") as fp:
+    with open("./config/cookies.json", "r") as fp:
         cookies = json.load(fp)
 
     return cookies
@@ -51,13 +51,14 @@ def load_cookies() -> dict:
 def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
     global cookie_lock
     cookies = load_cookies()
-    with open("main\config\headers.json", "r") as fp:
+    with open("./config/headers.json", "r") as fp:
         headers = json.load(fp)
 
     webpage = None
     while webpage is None:
         try:
-            webpage = requests.get(webpage_url, headers=headers, cookies=cookies)
+            webpage = requests.get(
+                webpage_url, headers=headers, cookies=cookies)
 
             if "Cloudflare" in str(webpage.text):
                 print("We are detected, getting new cookies...")
@@ -147,14 +148,12 @@ def get_content_format(soup: BeautifulSoup) -> str:
         )
 
         if content_format.isascii():
-            pass
+            return content_format
         else:
-            raise AttributeError
+            return "N/A"
 
     except AttributeError:
-        content_format = "N/A"
-
-    return content_format
+        return "N/A"
 
 
 def get_content_id(soup: BeautifulSoup) -> str:
