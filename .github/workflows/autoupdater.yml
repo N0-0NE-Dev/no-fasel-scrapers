@@ -5,7 +5,7 @@ name: Python application
 
 on:
   schedule:
-    0 */6 * * *
+    -corn: 0 */6 * * *
 
 permissions:
   contents: read
