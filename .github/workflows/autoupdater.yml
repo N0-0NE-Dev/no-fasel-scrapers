@@ -41,4 +41,6 @@ jobs:
       uses: EndBug/add-and-commit@v9
       with:
         message: 'Updated scraped files'
+        author_name: Ahmed Badawe
+        author_email: modamoon48@gmail.com
 
