@@ -34,11 +34,15 @@ jobs:
         pip install -r requirements.txt
     - name: Run the scrappers
       run: python MovieScraper.py
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "Ahmed Islam"
-        git config --global user.email "modamoon48@gmail.com"
-        git add -A
-        git commit -m "Updated the files"
-        git push
+    - name: switching from HTTPS to SSH
+      run: git remote git@github.com:N0-0NE-Dev/no-fasel-scrapers.git origin ${{ secrets.ssh }}
+    - name: check for changes
+      run: git status
+    - name: stage changed files
+      run: git add .
+    - name: commit changed files
+      run: git commit -m "Auto updating scraper files"
+    - name: fetch from main
+      run: git fetch origin main
+    - name: push code to main
 
