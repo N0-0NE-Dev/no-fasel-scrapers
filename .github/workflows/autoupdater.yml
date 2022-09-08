@@ -19,6 +19,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+        fetch-depth: 0
     - name: Setup Browser
       uses: abhi1693/setup-browser@v0.3.4
       with:
@@ -34,16 +37,10 @@ jobs:
         pip install -r requirements.txt
     - name: Run the scrappers
       run: python MovieScraper.py
-    - name: switching from HTTPS to SSH
-      run: git remote set-url origin git@github.com:N0-0NE-Dev/no-fasel-scrapers.git ${{ secrets.ssh }}
-    - name: check for changes
-      run: git status
-    - name: stage changed files
-      run: git add .
-    - name: commit changed files
-      run: git commit -m "Auto updating scraper files"
-    - name: fetch from main
-      run: git fetch origin main
-    - name: push code to main
-      run: git push origin HEAD:main
+    - name: Commit files
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: 'Updated scraped files'
+        author_name: Ahmed Badawe
+        author_email: modamoon48@gmail.com
 
