@@ -4,10 +4,8 @@
 name: Python application
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    0 */6 * * *
 
 permissions:
   contents: read
@@ -36,8 +34,11 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Run the scrappers
-      run: python MovieScraper.py
+    - name: Run scrappers
+      run: |
+        python MovieScraper.py
+        python SeriesScraper.py
+        python AnimeScraper.py
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
