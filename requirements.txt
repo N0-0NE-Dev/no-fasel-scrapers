@@ -1,3 +1,4 @@
+anyio==3.6.1
 async-generator==1.10
 attrs==22.1.0
 autopep8==1.7.0
@@ -7,14 +8,14 @@ certifi==2022.6.15
 cffi==1.15.1
 chardet==3.0.4
 charset-normalizer==2.1.1
-googletrans==4.0.0rc1
-h11==0.9.0
-h2==3.2.0
-hpack==3.0.0
+googletrans-py==4.0.0
+h11==0.12.0
+h2==4.1.0
+hpack==4.0.0
 hstspreload==2022.9.1
-httpcore==0.9.1
-httpx==0.13.3
-hyperframe==5.2.0
+httpcore==0.15.0
+httpx==0.23.0
+hyperframe==6.0.1
 idna==2.10
 outcome==1.2.0
 pycodestyle==2.9.1
