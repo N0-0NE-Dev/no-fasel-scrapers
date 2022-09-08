@@ -34,7 +34,6 @@ jobs:
         pip install -r requirements.txt
     - name: Run the scrappers
       run: python MovieScraper.py
-    - name: Commit and push if content changed
     - name: Commit and push changes
       run: |
         git config --global user.name "Ahmed Islam"
