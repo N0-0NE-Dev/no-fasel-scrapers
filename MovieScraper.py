@@ -7,10 +7,9 @@ import time
 
 setrecursionlimit(25000)
 
-with open("./main/output/json/movies.json") as fp:
+with open("./output/json/movies.json") as fp:
     movies = json.load(fp)
     movie_titles = [movies[key]["Title"] for key in movies]
-    # print(movie_titles)
 
 
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
@@ -49,7 +48,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         movies_dict[movie_id]["Format"] = get_content_format(soup)
 
         movies_dict[movie_id]["Image Source"] = save_image(
-            movie_image_source, "./main/output/images/movies", movie_id
+            movie_image_source, "./output/images/movies", movie_id
         )
 
         movies_dict[movie_id]["Source"] = iframeSource
@@ -61,14 +60,16 @@ def scrape_all_movies(page_range: tuple) -> dict:
     movies_dict = {}
     for page in range(page_range[0], page_range[1]):
 
-        main_page = get_website_safe(f"https://www.faselhd.club/all-movies/page/{page}")
+        main_page = get_website_safe(
+            f"https://www.faselhd.club/all-movies/page/{page}")
         soup = BeautifulSoup(main_page.content, "html.parser")
 
-        movie_divs = soup.find_all("div", class_="col-xl-2 col-lg-2 col-md-3 col-sm-3")
+        movie_divs = soup.find_all(
+            "div", class_="col-xl-2 col-lg-2 col-md-3 col-sm-3")
 
         movie_divs_ranges = split_into_ranges(6, len(movie_divs))
         splitted_movie_divs_list = [
-            movie_divs[movie_divs_range[0] - 1 : movie_divs_range[1] - 1]
+            movie_divs[movie_divs_range[0] - 1: movie_divs_range[1] - 1]
             for movie_divs_range in movie_divs_ranges
         ]
 
@@ -85,11 +86,12 @@ def scrape_all_movies(page_range: tuple) -> dict:
 
 def main() -> None:
     get_cookies()
+
     page_ranges_list = split_into_ranges(
         16,
         get_number_of_pages("https://www.faselhd.club/all-movies"),
     )
-    # page_ranges_list = split_into_ranges(8, 64)
+
     print(page_ranges_list)
 
     with ThreadPoolExecutor() as executor:
@@ -98,7 +100,7 @@ def main() -> None:
         for result in results:
             movies.update(result)
 
-    with open("./main/output/json/movies.json", "w") as fp:
+    with open("./output/json/movies.json", "w") as fp:
         json.dump(movies, fp)
 
 

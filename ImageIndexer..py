@@ -36,7 +36,7 @@ for page in range(1, 165):
 
     print(f"Finished scraping page {page}")
 
-with open("./main/output/json/image-index.json", "w") as outputFile:
+with open("./output/json/image-index.json", "w") as outputFile:
     json.dump(imagesIndex, outputFile)
 
 driver.quit()

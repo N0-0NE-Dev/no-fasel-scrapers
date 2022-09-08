@@ -9,7 +9,7 @@ from httpcore._exceptions import ConnectTimeout
 
 setrecursionlimit(25000)
 
-with open("./main/output/json/anime.json", "r") as fp:
+with open("./output/json/anime.json", "r") as fp:
     old_animes = json.load(fp)
 
 
@@ -33,7 +33,8 @@ def get_iframe_source(episodes: list[str]) -> dict:
         try:
             iframeSource = soup.find("iframe")["src"]
         except TypeError:
-            print(f"The episode on page {episode_url} has no source, skipping it...")
+            print(
+                f"The episode on page {episode_url} has no source, skipping it...")
             continue
 
         episodes_dict[episode_id] = {}
@@ -49,13 +50,16 @@ def clean_anime_title(anime_title: str) -> str:
     translation = None
     while translation == None:
         try:
-            translation = translator.translate(anime_title, src="ar", dest="en").text
+            translation = translator.translate(
+                anime_title, src="ar", dest="en").text
         except ConnectTimeout:
             print("Failed to translate anime title, trying again...")
             translation = None
 
-    cleaned_anime_title = translation.replace("Anime", "").replace("?", "").strip()
-    cleaned_anime_title = cleaned_anime_title.encode("ascii", "ignore").decode()
+    cleaned_anime_title = translation.replace(
+        "Anime", "").replace("?", "").strip()
+    cleaned_anime_title = cleaned_anime_title.encode(
+        "ascii", "ignore").decode()
 
     return cleaned_anime_title
 
@@ -64,7 +68,7 @@ def scrapeEpisodes(number_of_episodes: int, episodes_sources: list[str]) -> dict
     episode_ranges = split_into_ranges(8, number_of_episodes)
     # print(episode_ranges)
     splitted_episodes_list = [
-        episodes_sources[episode_range[0] - 1 : episode_range[1] - 1]
+        episodes_sources[episode_range[0] - 1: episode_range[1] - 1]
         for episode_range in episode_ranges
     ]
 
@@ -83,9 +87,11 @@ def scrape_anime(page_range: tuple) -> dict:
     anime_dict = {}
 
     for page in range(page_range[0], page_range[1]):
-        main_page = get_website_safe(f"https://www.faselhd.club/anime/page/{page}")
+        main_page = get_website_safe(
+            f"https://www.faselhd.club/anime/page/{page}")
         soup = BeautifulSoup(main_page.content, "html.parser")
-        anime_divs = soup.find_all("div", class_="col-xl-2 col-lg-2 col-md-3 col-sm-3")
+        anime_divs = soup.find_all(
+            "div", class_="col-xl-2 col-lg-2 col-md-3 col-sm-3")
 
         for anime_div in anime_divs:
             anime_title = anime_div.find("div", class_="h1").text
@@ -98,7 +104,8 @@ def scrape_anime(page_range: tuple) -> dict:
             anime_id = get_content_id(soup)
 
             try:
-                anime_episodes_list = soup.find("div", class_="epAll").find_all("a")
+                anime_episodes_list = soup.find(
+                    "div", class_="epAll").find_all("a")
             except AttributeError:
                 print(
                     f"The anime on page {anime_page_source} has no episodes, skipping it..."
@@ -123,7 +130,7 @@ def scrape_anime(page_range: tuple) -> dict:
             anime_dict[anime_id]["Format"] = get_content_format(soup)
 
             anime_dict[anime_id]["Image Source"] = save_image(
-                anime_image_source, "./main/output/images/anime", anime_id
+                anime_image_source, "./output/images/anime", anime_id
             )
 
             anime_dict[anime_id]["Episodes"] = scrapeEpisodes(
@@ -156,7 +163,7 @@ def main():
         for result in results:
             old_animes.update(result)
 
-    with open("./main/output/json/anime.json", "w") as fp:
+    with open("./output/json/anime.json", "w") as fp:
         json.dump(old_animes, fp)
 
 
