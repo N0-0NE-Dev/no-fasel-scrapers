@@ -20,8 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        persist-credentials: false
-        fetch-depth: 0
+        token: ${{ secrets.GH_TOKEN }}
     - name: Setup Browser
       uses: abhi1693/setup-browser@v0.3.4
       with:
