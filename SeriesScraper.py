@@ -9,8 +9,8 @@ from Common import *
 setrecursionlimit(25000)
 
 urls_to_scrape = [
-    # "https://www.faselhd.club/series",
-    # "https://www.faselhd.club/tvshows",
+    "https://www.faselhd.club/series",
+    "https://www.faselhd.club/tvshows",
     "https://www.faselhd.club/asian-series",
 ]
 
