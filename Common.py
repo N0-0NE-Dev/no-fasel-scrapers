@@ -1,4 +1,7 @@
+import base64
+import sys
 from time import sleep
+from wsgiref import headers
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import quote
@@ -29,6 +32,7 @@ HEADERS = {
 }
 
 cookie_lock = Lock()
+cookies_dict = {}
 driver = uc.Chrome(use_subprocess=True)
 driver.minimize_window()
 driver.get("https://www.faselhd.club/home3")
@@ -63,7 +67,7 @@ def load_cookies() -> dict:
 
 
 def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
-    global cookie_lock
+    global cookie_lock, cookies_dict
 
     webpage = None
     while webpage is None:
@@ -177,18 +181,18 @@ with open("./output/json/image-index.json", "r") as fp:
     image_sources = json.load(fp)
 
 
-def save_image(url: str, dir_path: str, content_id: str) -> str:
+def save_image(image_url: str, content_id: str) -> str:
     try:
         if content_id in image_sources:
             return image_sources[content_id]
 
         else:
-            url = fix_url(url)
-            imagePage = get_website_safe(url)
-            with open(f"{dir_path}/{content_id}.jpg", "wb") as fp:
-                fp.write(imagePage.content)
-
-            return "New Image Please Upload"
+            image = get_website_safe(image_url)
+            data = {"image": base64.b64decode(image.content).decode("utf8")}
+            headers = {'Authorization': f'Client-ID {sys.argv[1]}'}
+            response = requests.post(
+                "https://api.imgur.com/3/image", headers=headers, data=data)
+            return response.text['data']["link"].replace('\/', '/')
 
     except InvalidURL or MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
