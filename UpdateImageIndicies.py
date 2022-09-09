@@ -1,9 +1,10 @@
 import json
 
 
-def update_indicies():
+def main():
     file_names = ['anime', 'asian-series', 'movies', 'series', 'tvshows']
     image_indices = {}
+
     for file in file_names:
         with open(f'./output/json/{file}.json', 'r') as fp:
             content = json.load(fp)
@@ -13,3 +14,9 @@ def update_indicies():
 
     with open('./output/json/image-index.json', 'w') as fp:
         json.dump(image_indices, fp)
+
+
+if __name__ == '__main__':
+    main()
+else:
+    pass
