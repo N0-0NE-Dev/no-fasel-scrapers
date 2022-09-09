@@ -1,3 +1,4 @@
+import os
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet, Tag
 from concurrent.futures import ThreadPoolExecutor
@@ -136,8 +137,9 @@ def scrape_page(series_divs: list[ResultSet], url: str) -> dict:
             series_dict[series_id]["Seasons"].update(season_dict)
 
         if len(series_dict[series_id]["Seasons"]) == 0:
-            # print("Encountered a totally empty series, deleting it...")
             del series_dict[series_id]
+            os.remove(
+                f"./output/new-images/{url.split('/')[-1]}/{series_id}.jpg")
         else:
             pass
 
