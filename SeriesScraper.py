@@ -164,8 +164,6 @@ def scrape_all_series(url: str, page_range: tuple) -> dict:
         for result in results:
             all_series_dict.update(result)
 
-        print(f"Page {page} in {url.split('/')[-1]} is done")
-
     return all_series_dict
 
 

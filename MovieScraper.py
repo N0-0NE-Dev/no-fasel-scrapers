@@ -72,8 +72,6 @@ def scrape_all_movies(page_range: tuple) -> dict:
         for result in results:
             movies_dict.update(result)
 
-        print(f"Page {page} is done")
-
     return movies_dict
 
 

@@ -144,8 +144,6 @@ def scrape_anime(page_range: tuple) -> dict:
             else:
                 pass
 
-        print(f"Done scraping page {page}")
-
     return anime_dict
 
 
