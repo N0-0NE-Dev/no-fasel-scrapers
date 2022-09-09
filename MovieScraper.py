@@ -8,8 +8,7 @@ import time
 setrecursionlimit(25000)
 
 with open("./output/json/movies.json") as fp:
-    movies = json.load(fp)
-    movie_titles = [movies[key]["Title"] for key in movies]
+    old_movies = json.load(fp)
 
 
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
@@ -19,11 +18,6 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             movie_div.find("div", class_="h1").text
         ).strip())
 
-        if movie_title in movie_titles:
-            continue
-        else:
-            pass
-
         movie_image_source = movie_div.find("img")["data-src"]
         movie_page_url = movie_div.find("a")["href"]
         movie_page = get_website_safe(movie_page_url)
@@ -31,6 +25,11 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         soup = BeautifulSoup(movie_page.content, "html.parser")
 
         movie_id = get_content_id(soup)
+
+        if movie_id in old_movies:
+            continue
+        else:
+            pass
 
         try:
             iframeSource = soup.find("iframe")["src"]
