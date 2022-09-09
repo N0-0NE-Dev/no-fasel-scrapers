@@ -31,14 +31,13 @@ HEADERS = {
 }
 
 cookie_lock = Lock()
-cookies_dict = {}
 driver = uc.Chrome(use_subprocess=True)
 driver.minimize_window()
 driver.get("https://www.faselhd.club/home3")
 
 
 def get_cookies() -> None:
-    global driver, cookies_dict
+    global cookies_dict
 
     driver.refresh()
 
@@ -66,7 +65,7 @@ def load_cookies() -> dict:
 
 
 def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
-    global cookie_lock, cookies_dict
+    global cookies_dict
 
     webpage = None
     while webpage is None:
