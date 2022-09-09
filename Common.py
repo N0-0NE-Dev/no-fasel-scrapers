@@ -1,7 +1,6 @@
 import base64
 import sys
 from time import sleep
-from wsgiref import headers
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import quote

@@ -88,14 +88,6 @@ def scrape_page(series_divs: list[ResultSet], url: str) -> dict:
 
     for series_div in series_divs:
         series_image_source = series_div.img.attrs['data-src']
-        # try:
-        #     series_image_source = series_div.find("div", class_="imgdiv-class").find("img")[
-        #         "data-src"
-        #     ]
-        # except AttributeError:
-        #     series_image_source = series_div.img.attrs['data-src']
-        #     print(series_image_source)
-        #     # series_image_source = ""
 
         series_page_source = series_div.find("a")["href"]
         series_title = remove_year_from_title(remove_arabic_chars(
@@ -118,7 +110,7 @@ def scrape_page(series_divs: list[ResultSet], url: str) -> dict:
         series_dict[series_id]["Format"] = get_content_format(soup)
 
         series_dict[series_id]["Image Source"] = save_image(
-            series_image_source, f"./output/new-images/{url.split('/')[-1]}", series_id
+            series_image_source, series_id
         )
 
         series_dict[series_id]["Seasons"] = {}
