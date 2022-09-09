@@ -92,10 +92,10 @@ def main() -> None:
         results = executor.map(scrape_all_movies, page_ranges_list)
 
         for result in results:
-            movies.update(result)
+            old_movies.update(result)
 
     with open("./output/json/movies.json", "w") as fp:
-        json.dump(movies, fp)
+        json.dump(old_movies, fp)
 
 
 if __name__ == "__main__":
