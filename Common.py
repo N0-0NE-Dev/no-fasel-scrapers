@@ -12,6 +12,22 @@ from threading import Lock
 from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema
 
 
+HEADERS = {
+    "authority": "www.faselhd.club",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-US,en;q=0.9",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"105\", \"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"105\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+}
+
 cookie_lock = Lock()
 driver = uc.Chrome(use_subprocess=True)
 driver.minimize_window()
@@ -19,7 +35,7 @@ driver.get("https://www.faselhd.club/home3")
 
 
 def get_cookies() -> None:
-    global driver, cookie_lock
+    global driver, cookies_dict
 
     driver.refresh()
 
@@ -34,10 +50,7 @@ def get_cookies() -> None:
 
     cookies = driver.get_cookies()
 
-    cookie_dict = {cookie["name"]: cookie["value"] for cookie in cookies}
-
-    with open("./config/cookies.json", "w") as fp:
-        json.dump(cookie_dict, fp)
+    cookies_dict = {cookie["name"]: cookie["value"] for cookie in cookies}
 
     return
 
@@ -51,15 +64,12 @@ def load_cookies() -> dict:
 
 def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
     global cookie_lock
-    cookies = load_cookies()
-    with open("./config/headers.json", "r") as fp:
-        headers = json.load(fp)
 
     webpage = None
     while webpage is None:
         try:
             webpage = requests.get(
-                webpage_url, headers=headers, cookies=cookies)
+                webpage_url, headers=HEADERS, cookies=cookies_dict)
 
             if "Cloudflare" in str(webpage.text):
                 if not cookie_lock.locked():
@@ -68,7 +78,7 @@ def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
                 else:
                     while cookie_lock.locked():
                         sleep(1)
-                cookies = load_cookies()
+
                 webpage = None
             else:
                 pass
