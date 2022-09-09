@@ -131,7 +131,7 @@ def scrape_anime(page_range: tuple) -> dict:
             anime_dict[anime_id]["Format"] = get_content_format(soup)
 
             anime_dict[anime_id]["Image Source"] = save_image(
-                anime_image_source, "./output/images/anime", anime_id
+                anime_image_source, "./output/new-images/anime", anime_id
             )
 
             anime_dict[anime_id]["Episodes"] = scrapeEpisodes(

@@ -117,7 +117,7 @@ def scrape_page(series_divs: list[ResultSet], url: str) -> dict:
         series_dict[series_id]["Format"] = get_content_format(soup)
 
         series_dict[series_id]["Image Source"] = save_image(
-            series_image_source, f"./output/images/{url.split('/')[-1]}", series_id
+            series_image_source, f"./output/new-images/{url.split('/')[-1]}", series_id
         )
 
         series_dict[series_id]["Seasons"] = {}

@@ -43,7 +43,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         movies_dict[movie_id]["Format"] = get_content_format(soup)
 
         movies_dict[movie_id]["Image Source"] = save_image(
-            movie_image_source, "./output/images/movies", movie_id
+            movie_image_source, "./output/new-images/movies", movie_id
         )
 
         movies_dict[movie_id]["Source"] = iframeSource
