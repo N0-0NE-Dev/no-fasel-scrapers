@@ -7,7 +7,7 @@ import time
 
 setrecursionlimit(25000)
 
-with open("./output/json/movies.json") as fp:
+with open("./output/movies.json") as fp:
     old_movies = json.load(fp)
 
 
@@ -91,7 +91,7 @@ def main() -> None:
         for result in results:
             old_movies.update(result)
 
-    with open("./output/json/movies.json", "w") as fp:
+    with open("./output/movies.json", "w") as fp:
         json.dump(old_movies, fp)
 
 

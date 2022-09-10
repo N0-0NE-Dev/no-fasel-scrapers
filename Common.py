@@ -175,7 +175,7 @@ def get_content_id(soup: BeautifulSoup) -> str:
     return content_id
 
 
-with open("./output/json/image-index.json", "r") as fp:
+with open("./output/image-index.json", "r") as fp:
     image_sources = json.load(fp)
 
 

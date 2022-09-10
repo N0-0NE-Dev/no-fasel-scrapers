@@ -9,7 +9,7 @@ from httpcore._exceptions import ConnectTimeout
 
 setrecursionlimit(25000)
 
-with open("./output/json/anime.json", "r") as fp:
+with open("./output/anime.json", "r") as fp:
     old_animes = json.load(fp)
 
 
@@ -161,7 +161,7 @@ def main():
         for result in results:
             old_animes.update(result)
 
-    with open("./output/json/anime.json", "w") as fp:
+    with open("./output/anime.json", "w") as fp:
         json.dump(old_animes, fp)
 
 

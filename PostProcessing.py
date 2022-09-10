@@ -6,7 +6,7 @@ def main():
     image_indices = {}
 
     for file in file_names:
-        with open(f'./output/json/{file}.json', 'r') as fp:
+        with open(f'./output/{file}.json', 'r') as fp:
             content = json.load(fp)
 
         for key in content:
@@ -19,10 +19,10 @@ def main():
                 else:
                     continue
 
-            with open('./output/json/series.json', 'w') as fp:
+            with open('./output/series.json', 'w') as fp:
                 json.dump(content, fp)
 
-    with open('./output/json/image-index.json', 'w') as fp:
+    with open('./output/image-index.json', 'w') as fp:
         json.dump(image_indices, fp)
 
 

@@ -165,7 +165,7 @@ def main():
         start_time = time.time()
 
         global old_series_dict
-        file_path = f"./output/json/{url.split('/')[-1]}.json"
+        file_path = f"./output/{url.split('/')[-1]}.json"
         get_cookies()
 
         with open(file_path, "r") as fp:
