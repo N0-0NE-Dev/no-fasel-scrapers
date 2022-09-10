@@ -57,13 +57,6 @@ def get_cookies() -> None:
     return
 
 
-def load_cookies() -> dict:
-    with open("./config/cookies.json", "r") as fp:
-        cookies = json.load(fp)
-
-    return cookies
-
-
 def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
     global cookies_dict
 
