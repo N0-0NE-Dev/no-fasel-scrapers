@@ -128,13 +128,6 @@ def scrape_page(series_divs: list[ResultSet], url: str) -> dict:
         for season_dict in seasons_dicts:
             series_dict[series_id]["Seasons"].update(season_dict)
 
-        if len(series_dict[series_id]["Seasons"]) == 0:
-            del series_dict[series_id]
-            os.remove(
-                f"./output/new-images/{url.split('/')[-1]}/{series_id}.jpg")
-        else:
-            pass
-
     return series_dict
 
 

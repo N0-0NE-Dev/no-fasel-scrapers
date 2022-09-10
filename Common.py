@@ -185,17 +185,15 @@ def save_image(image_url: str, content_id: str) -> str:
             return image_sources[content_id]
 
         else:
+            image_url = fix_url(image_url)
             image = get_website_safe(image_url)
-            data = {"image": base64.b64decode(image.content).decode("utf8")}
+            data = {"image": base64.b64encode(image.content).decode("utf8")}
             headers = {'Authorization': f'Client-ID {sys.argv[1]}'}
 
             response = requests.post(
                 "https://api.imgur.com/3/image", headers=headers, data=data)
 
-            imgur_link = response.text['data']["link"].replace('\/', '/')
-            image_sources[content_id] = imgur_link
-
-            return imgur_link
+            return response.json()["data"]["link"]
 
     except InvalidURL or MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"

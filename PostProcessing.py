@@ -12,6 +12,16 @@ def main():
         for key in content:
             image_indices[key] = content[key]["Image Source"]
 
+        if file == 'series':
+            for key in list(content.keys()):
+                if len(content[key]["Seasons"]) == 0:
+                    del content[key]
+                else:
+                    continue
+
+            with open('./output/json/series.json', 'w') as fp:
+                json.dump(content, fp)
+
     with open('./output/json/image-index.json', 'w') as fp:
         json.dump(image_indices, fp)
 
