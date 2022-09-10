@@ -181,12 +181,17 @@ def save_image(image_url: str, content_id: str) -> str:
             image_url = fix_url(image_url)
             image = get_website_safe(image_url)
             data = {"image": base64.b64encode(image.content).decode("utf8")}
-            headers = {'Authorization': f'Client-ID {sys.argv[1]}'}
+            headers = {"Authorization": f"Client-ID {sys.argv[1]}"}
 
             response = requests.post(
                 "https://api.imgur.com/3/image", headers=headers, data=data)
 
-            return response.json()["data"]["link"]
+            if response['status'] == 200:
+                return response.json()["data"]["link"]
+            else:
+                with open(f"./output/{content_id}.jpg", 'wb') as handler:
+                    handler.write(image.content)
+                    return "Manual upload required"
 
     except InvalidURL or MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
