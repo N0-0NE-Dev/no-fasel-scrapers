@@ -2,8 +2,8 @@ name: Update Scraped Files
 
 on:
   workflow_dispatch:
-#   schedule:
-#     - cron: 0 0 * * *
+  schedule:
+    - cron: 0 0 * * *
 
 permissions:
   contents: write
@@ -37,6 +37,7 @@ jobs:
         python MovieScraper.py ${{ secrets.IMGUR_CLIENT_KEY }}
         python SeriesScraper.py ${{ secrets.IMGUR_CLIENT_KEY }}
         python AnimeScraper.py ${{ secrets.IMGUR_CLIENT_KEY }}
+        python TrendingScraper.py
         python PostProcessing.py
     - name: Commit files
       run: |
