@@ -138,11 +138,10 @@ def scrape_anime(page_range: tuple) -> dict:
                 number_of_episodes, anime_episodes_list
             )
 
-            if len(anime_dict[anime_id]["Episodes"]) == 0:
-                print("Encountered a totally empty anime, deleting it...")
-                del anime_dict[anime_id]
-            else:
-                pass
+        if DEBUG:
+            print(f'Done scraping page {page}')
+        else:
+            pass
 
     return anime_dict
 

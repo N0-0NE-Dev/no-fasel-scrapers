@@ -156,7 +156,10 @@ def scrape_all_series(page_range: tuple) -> dict:
         for result in results:
             all_series_dict.update(result)
 
-        print(f'Done scraping page {page}')
+        if DEBUG:
+            print(f'Done scraping page {page}')
+        else:
+            pass
 
     return all_series_dict
 

@@ -13,7 +13,7 @@ import undetected_chromedriver as uc
 from threading import Lock
 from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema
 
-
+DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
 HEADERS = {
     "authority": "www.faselhd.club",
