@@ -54,7 +54,7 @@ def scrape_all_movies(page_range: tuple) -> dict:
     for page in range(page_range[0], page_range[1]):
 
         main_page = get_website_safe(
-            f"https://www.faselhd.club/all-movies/page/{page}")
+            BASE_URL + f"all-movies/page/{page}")
         soup = BeautifulSoup(main_page.content, "html.parser")
 
         movie_divs = soup.find_all(
@@ -80,7 +80,7 @@ def main() -> None:
 
     page_ranges_list = split_into_ranges(
         16,
-        get_number_of_pages("https://www.faselhd.club/all-movies"),
+        get_number_of_pages(BASE_URL + "all-movies"),
     )
 
     print(page_ranges_list)

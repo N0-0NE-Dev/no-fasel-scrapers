@@ -9,10 +9,10 @@ from Common import *
 
 setrecursionlimit(25000)
 
-urls_to_scrape = [
-    "https://www.faselhd.club/series",
-    "https://www.faselhd.club/tvshows",
-    "https://www.faselhd.club/asian-series",
+PATHS_TO_SCRAPE = [
+    "series",
+    "tvshows",
+    "asian-series",
 ]
 
 
@@ -29,7 +29,7 @@ def scrape_season(
         season.find("div", class_="title").text
     ).lstrip())
 
-    season_page = get_website_safe(f"https://www.faselhd.club/?p={season_id}")
+    season_page = get_website_safe(BASE_URL + f"?p={season_id}")
     soup = BeautifulSoup(season_page.content, "html.parser")
 
     try:
@@ -83,7 +83,7 @@ def scrape_season(
     return season_dict
 
 
-def scrape_page(series_divs: list[ResultSet], url: str) -> dict:
+def scrape_page(series_divs: list[ResultSet]) -> dict:
     series_dict = {}
 
     for series_div in series_divs:
@@ -131,8 +131,8 @@ def scrape_page(series_divs: list[ResultSet], url: str) -> dict:
     return series_dict
 
 
-def scrape_all_series(url: str, page_range: tuple) -> dict:
-    global old_series_dict
+def scrape_all_series(page_range: tuple) -> dict:
+    global old_series_dict, url
     all_series_dict = {}
 
     for page in range(page_range[0], page_range[1]):
@@ -150,22 +150,26 @@ def scrape_all_series(url: str, page_range: tuple) -> dict:
         with ThreadPoolExecutor() as executor:
             results = executor.map(
                 scrape_page,
-                splitted_series_divs_list,
-                repeat(url)
+                splitted_series_divs_list
             )
 
         for result in results:
             all_series_dict.update(result)
 
+        print(f'Done scraping page {page}')
+
     return all_series_dict
 
 
 def main():
-    for url in urls_to_scrape:
+    global old_series_dict, url
+
+    for path in PATHS_TO_SCRAPE:
         start_time = time.time()
 
-        global old_series_dict
-        file_path = f"./output/{url.split('/')[-1]}.json"
+        url = BASE_URL + path
+        print(url)
+        file_path = f"./output/{path}.json"
         get_cookies()
 
         with open(file_path, "r") as fp:
@@ -174,10 +178,9 @@ def main():
         page_ranges_list = split_into_ranges(8, get_number_of_pages(url))
         print(page_ranges_list)
 
-        with ThreadPoolExecutor() as executor:
+        with ThreadPoolExecutor(max_workers=8) as executor:
             results = executor.map(
                 scrape_all_series,
-                repeat(url),
                 page_ranges_list,
             )
 

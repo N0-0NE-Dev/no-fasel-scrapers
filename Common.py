@@ -14,6 +14,7 @@ from threading import Lock
 from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema
 
 
+BASE_URL = "https://www.faselhd.club/"
 HEADERS = {
     "authority": "www.faselhd.club",
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
@@ -168,7 +169,7 @@ def get_content_id(soup: BeautifulSoup) -> str:
     return content_id
 
 
-with open("./output/image-index.json", "r") as fp:
+with open("./output/image_indices.json", "r") as fp:
     image_sources = json.load(fp)
 
 
@@ -184,10 +185,10 @@ def save_image(image_url: str, content_id: str) -> str:
             headers = {"Authorization": f"Client-ID {sys.argv[1]}"}
 
             response = requests.post(
-                "https://api.imgur.com/3/image", headers=headers, data=data)
+                "https://api.imgur.com/3/image", headers=headers, data=data).json()
 
-            if response['status'] == 200:
-                return response.json()["data"]["link"]
+            if response["status"] == 200:
+                return response["data"]["link"]
             else:
                 with open(f"./output/{content_id}.jpg", 'wb') as handler:
                     handler.write(image.content)
