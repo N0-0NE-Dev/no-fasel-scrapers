@@ -80,12 +80,18 @@ def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
                 pass
 
         except ConnectionError:
-            print("Fetching website failed, trying again...")
+            if DEBUG:
+                print("Fetching website failed, trying again...")
+            else:
+                pass
             webpage = None
         except TooManyRedirects:
-            print(
-                f"Experinced too many redirects when fetching {webpage_url}, skipping it..."
-            )
+            if DEBUG:
+                print(
+                    f"Experinced too many redirects when fetching {webpage_url}, skipping it..."
+                )
+            else:
+                pass
             return None
 
     return webpage
@@ -129,7 +135,10 @@ def get_number_of_pages(url: str) -> int:
         last_page_url = last_page_button["href"]
         last_page_number = int(last_page_url.split("/")[-1])
     except TypeError:
-        print("No last page button found, trying another way...")
+        if DEBUG:
+            print("No last page button found, trying another way...")
+        else:
+            pass
         pagesList = soup.find_all("li", class_="page-item")
         last_page_number = int(pagesList[-1].text)
 

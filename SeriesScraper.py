@@ -10,8 +10,8 @@ from Common import *
 setrecursionlimit(25000)
 
 PATHS_TO_SCRAPE = [
-    "series",
-    "tvshows",
+    # "series",
+    # "tvshows",
     "asian-series",
 ]
 
@@ -171,17 +171,21 @@ def main():
         start_time = time.time()
 
         url = BASE_URL + path
-        print(url)
         file_path = f"./output/{path}.json"
+
         get_cookies()
 
         with open(file_path, "r") as fp:
             old_series_dict = json.load(fp)
 
         page_ranges_list = split_into_ranges(8, get_number_of_pages(url))
-        print(page_ranges_list)
 
-        with ThreadPoolExecutor(max_workers=8) as executor:
+        if DEBUG:
+            print(page_ranges_list)
+        else:
+            pass
+
+        with ThreadPoolExecutor() as executor:
             results = executor.map(
                 scrape_all_series,
                 page_ranges_list,

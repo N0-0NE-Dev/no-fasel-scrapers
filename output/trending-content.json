@@ -1,51 +1,169 @@
 {
   "movies": [
-    "173338",
-    "173334",
-    "173332",
-    "173330",
-    "173327",
-    "173326",
-    "152492",
-    "173148",
-    "173146",
-    "173144",
-    "173100",
-    "173098"
+    {
+      "173338": {
+        "Title": "Les passagers de la nuit",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/MSaDTXM.jpg"
+      }
+    },
+    {
+      "173334": {
+        "Title": "Explorer",
+        "Format": "Bluray",
+        "Image Source": "https://i.imgur.com/aRghgFr.jpg"
+      }
+    },
+    {
+      "173332": {
+        "Title": "Emergency Declaration",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/XLaGdfS.jpg"
+      }
+    },
+    {
+      "173330": {
+        "Title": "Ek Villain Returns",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/CQ56Rix.jpg"
+      }
+    },
+    {
+      "173327": {
+        "Title": "Fire",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/2T4ynXP.jpg"
+      }
+    },
+    {
+      "173326": {
+        "Title": "Animals",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/KwjhoWg.jpg"
+      }
+    },
+    {
+      "152492": {
+        "Title": "Crimes of the Future",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TUhcuP.jpg"
+      }
+    },
+    {
+      "173148": {
+        "Title": "Obi-Wan Kenobi: A Jedis Return",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/93MTMK5.jpg"
+      }
+    },
+    {
+      "173146": {
+        "Title": "No Limit",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/sIsvNo4.jpg"
+      }
+    },
+    {
+      "173144": {
+        "Title": "End of the Road",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/tfsK2JL.jpg"
+      }
+    },
+    {
+      "173100": {
+        "Title": "The Anthrax Attacks",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TscNP2.jpg"
+      }
+    },
+    {
+      "173098": {
+        "Title": "Pinocchio",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TslOL2.jpg"
+      }
+    }
   ],
-  "asian-series": [
-    "173305",
-    "173298",
-    "173294",
-    "173279",
-    "173278",
-    "173283",
-    "173275",
-    "173274",
-    "173266",
-    "173258",
-    "173256",
-    "173254"
-  ],
-  "anime": ["173272", "173269", "173271", "173270", "173265", "173264"],
+  "asian-series": [],
+  "anime": [],
   "series": [
-    "173130",
-    "173116",
-    "173025",
-    "172694",
-    "172668",
-    "168137",
-    "165107",
-    "156279",
-    "155925",
-    "155296",
-    "155194",
-    "154974",
-    "173288",
-    "173276",
-    "173262",
-    "173234",
-    "173193",
-    "173176"
+    {
+      "173130": {
+        "Title": "American Gigolo",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/qex6y7t.jpg"
+      }
+    },
+    {
+      "173116": {
+        "Title": "Cobra Kai",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/KfBT5Pe.jpg"
+      }
+    },
+    {
+      "173025": {
+        "Title": "The Good Fight",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/Ti6pKN.jpg"
+      }
+    },
+    {
+      "172694": {
+        "Title": "Stargirl",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPatTL.jpg"
+      }
+    },
+    {
+      "172668": {
+        "Title": "The Lord of the Rings: The Rings of Power",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TM5XGu.jpg"
+      }
+    },
+    {
+      "165107": {
+        "Title": "See",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TM5UAE.jpg"
+      }
+    },
+    {
+      "156279": {
+        "Title": "Love, Victor",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TMwpMF.jpg"
+      }
+    },
+    {
+      "155925": {
+        "Title": "House of the Dragon",
+        "Format": "4K UltraHD",
+        "Image Source": "https://imgpile.com/images/TMwvc3.jpg"
+      }
+    },
+    {
+      "155296": {
+        "Title": "Kleo",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TMwWCC.jpg"
+      }
+    },
+    {
+      "155194": {
+        "Title": "High Heat",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TMwLMx.jpg"
+      }
+    },
+    {
+      "154974": {
+        "Title": "Power Book III: Raising Kanan",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TMwmeR.jpg"
+      }
+    }
   ]
 }
