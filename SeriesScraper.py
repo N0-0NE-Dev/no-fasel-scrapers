@@ -10,8 +10,8 @@ from Common import *
 setrecursionlimit(25000)
 
 PATHS_TO_SCRAPE = [
-    # "series",
-    # "tvshows",
+    "series",
+    "tvshows",
     "asian-series",
 ]
 
