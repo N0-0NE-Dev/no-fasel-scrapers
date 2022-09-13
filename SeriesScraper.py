@@ -88,11 +88,8 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
 
     for series_div in series_divs:
         series_image_source = series_div.img.attrs['data-src']
-
         series_page_source = series_div.find("a")["href"]
-        series_title = remove_year_from_title(remove_arabic_chars(
-            series_div.find("div", class_="h1").text
-        ).strip())
+        series_title = get_content_title(series_div)
 
         series_page = get_website_safe(series_page_source)
         soup = BeautifulSoup(series_page.content, "html.parser")

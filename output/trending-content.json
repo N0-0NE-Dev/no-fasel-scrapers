@@ -36,10 +36,10 @@
       }
     },
     {
-      "173326": {
+      "94160": {
         "Title": "Animals",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/KwjhoWg.jpg"
+        "Format": "Bluray",
+        "Image Source": "https://imgpile.com/images/T5F268.jpg"
       }
     },
     {
@@ -47,13 +47,6 @@
         "Title": "Crimes of the Future",
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TUhcuP.jpg"
-      }
-    },
-    {
-      "173148": {
-        "Title": "Obi-Wan Kenobi: A Jedis Return",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/93MTMK5.jpg"
       }
     },
     {
@@ -78,15 +71,122 @@
       }
     },
     {
-      "173098": {
+      "100895": {
         "Title": "Pinocchio",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://imgpile.com/images/TslOL2.jpg"
+        "Format": "Bluray",
+        "Image Source": "https://imgpile.com/images/T1Orn1.jpg"
       }
     }
   ],
-  "asian-series": [],
-  "anime": [],
+  "asian-series": [
+    {
+      "172925": {
+        "Title": "Once Upon a Small Town",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/Ts5GaX.jpg"
+      }
+    },
+    {
+      "173303": {
+        "Title": "Young Actors Retreat",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/gW2bIVb.jpg"
+      }
+    },
+    {
+      "154595": {
+        "Title": "To Fly With You",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TKXJAl.jpg"
+      }
+    },
+    {
+      "154587": {
+        "Title": "To Be a Brave One",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TKXPjw.jpg"
+      }
+    },
+    {
+      "154563": {
+        "Title": "A Year Without a Job",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TKXGcS.jpg"
+      }
+    },
+    {
+      "154563": {
+        "Title": "A Year Without a Job",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TKXGcS.jpg"
+      }
+    },
+    {
+      "172546": {
+        "Title": "Glory of Special Forces",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TKXAEr.jpg"
+      }
+    },
+    {
+      "106890": {
+        "Title": "Knowing Bros",
+        "Format": "1080p HDTV",
+        "Image Source": "https://imgpile.com/images/TKcwfa.jpg"
+      }
+    },
+    {
+      "147280": {
+        "Title": "Its Beautiful Now",
+        "Format": "1080p HDTV",
+        "Image Source": "https://imgpile.com/images/TK8OHE.jpg"
+      }
+    },
+    {
+      "172803": {
+        "Title": "Little Women",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/Ts5M3r.jpg"
+      }
+    },
+    {
+      "147280": {
+        "Title": "Its Beautiful Now",
+        "Format": "1080p HDTV",
+        "Image Source": "https://imgpile.com/images/TK8OHE.jpg"
+      }
+    },
+    {
+      "153828": {
+        "Title": "Todays Webtoon",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TKX5MP.jpg"
+      }
+    }
+  ],
+  "anime": [
+    {
+      "152534": {
+        "Title": "Youkoso Jitsuryoku Shijou Shugi 2",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TJUcVM.jpg"
+      }
+    },
+    {
+      "152074": {
+        "Title": "RWBY: Hyousetsu Teikoku",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TJUhCC.jpg"
+      }
+    },
+    {
+      "152470": {
+        "Title": "Yurei Deco",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TJUJMF.jpg"
+      }
+    }
+  ],
   "series": [
     {
       "173130": {
@@ -114,13 +214,6 @@
         "Title": "Stargirl",
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPatTL.jpg"
-      }
-    },
-    {
-      "172668": {
-        "Title": "The Lord of the Rings: The Rings of Power",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://imgpile.com/images/TM5XGu.jpg"
       }
     },
     {
@@ -163,6 +256,41 @@
         "Title": "Power Book III: Raising Kanan",
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TMwmeR.jpg"
+      }
+    },
+    {
+      "172921": {
+        "Title": "Rick and Morty",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/Tiw73k.jpg"
+      }
+    },
+    {
+      "154354": {
+        "Title": "The Resort",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TMwTw3.jpg"
+      }
+    },
+    {
+      "155925": {
+        "Title": "House of the Dragon",
+        "Format": "4K UltraHD",
+        "Image Source": "https://imgpile.com/images/TMwvc3.jpg"
+      }
+    },
+    {
+      "154860": {
+        "Title": "Tales of the Walking Dead",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TMwcIh.jpg"
+      }
+    },
+    {
+      "139953": {
+        "Title": "Dynasty",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TKy4kS.jpg"
       }
     }
   ]

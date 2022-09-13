@@ -14,9 +14,7 @@ with open("./output/movies.json") as fp:
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
     movies_dict = {}
     for movie_div in movie_divs:
-        movie_title = remove_year_from_title(remove_arabic_chars(
-            movie_div.find("div", class_="h1").text
-        ).strip())
+        movie_title = get_content_title(movie_div)
 
         movie_image_source = movie_div.img.attrs['data-src']
         movie_page_url = movie_div.find("a")["href"]

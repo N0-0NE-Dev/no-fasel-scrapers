@@ -2,7 +2,7 @@ import base64
 import sys
 from time import sleep
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, ResultSet
 from urllib.parse import quote
 from typing import Optional
 import json
@@ -207,10 +207,18 @@ def save_image(image_url: str, content_id: str) -> str:
         return "https://imgpile.com/images/TPDrVl.jpg"
 
 
-def remove_year_from_title(title: str) -> str:
+def remove_year(title: str) -> str:
     if title[-4:].isdigit() and len(title) > 4:
         title = title.replace(title[-5:], "")
     else:
         pass
+    
+    return title
+
+
+def get_content_title(soup_result: ResultSet) -> str:
+    title = remove_year(remove_arabic_chars(
+        soup_result.find("div", class_="h1").text
+    ).strip())
 
     return title
