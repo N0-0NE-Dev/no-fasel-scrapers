@@ -10,6 +10,8 @@ new_content = soup.find_all('div', 'blockMovie')
 new_content += soup.find_all('div', 'epDivHome')
 
 content_dict = {'movies': [], 'asian-series': [], 'anime': [], 'series': []}
+seen = []
+
 for element in new_content:
     link = element.find('a')['href']
 
@@ -45,7 +47,8 @@ for element in new_content:
 
     for key in content_file:
         current_element = content_file[key]
-        if current_element["Title"] == content_title:
+        if (current_element["Title"] == content_title) and (key not in seen):
+            seen.append(key)
             content_dict[content_category].append(
                 {key: {"Title": current_element["Title"], "Format": current_element["Format"], "Image Source": current_element["Image Source"]}})
             break
