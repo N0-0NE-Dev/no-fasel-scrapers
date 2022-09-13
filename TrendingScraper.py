@@ -21,7 +21,10 @@ for element in new_content:
 
     content_title = re.split(r'\s{2,}', content_title)[0]
 
-    print(content_title)
+    if DEBUG:
+        print(content_title)
+    else:
+        pass
 
     if '%d9%81%d9%8a%d9%84%d9%85' in link:
         content_category = 'movies'
