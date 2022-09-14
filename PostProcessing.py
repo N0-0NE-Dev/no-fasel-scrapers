@@ -14,14 +14,14 @@ def main():
         for key in content:
             image_indices[key] = content[key]["Image Source"]
 
-        if file == 'series':
+        if file in ['asian-series', 'series', 'tvshows']:
             for key in list(content.keys()):
                 if len(content[key]["Seasons"]) == 0:
                     del content[key]
                 else:
                     continue
 
-            with open('./output/series.json', 'w') as fp:
+            with open(f'./output/{file}.json', 'w') as fp:
                 json.dump(content, fp)
 
     with open('./output/image_indices.json', 'w') as fp:

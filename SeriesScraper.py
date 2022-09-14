@@ -41,10 +41,9 @@ def scrape_season(
         return {}
 
     try:
-        if len(all_episodes) == len(
-            old_series_dict[series_id]["Seasons"][season_id]["Episodes"]
-        ):
-            return {}
+        old_series_episodes = old_series_dict[series_id]["Seasons"][season_id]["Episodes"]
+        if len(all_episodes) == len(old_series_episodes):
+            return old_series_episodes
         else:
             pass
     except KeyError:
