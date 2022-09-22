@@ -191,7 +191,7 @@ def main():
             old_series_dict.update(result)
 
         with open(file_path, "w") as fp:
-            json.dump(old_series_dict, fp)
+            json.dump(old_series_dict, fp, indent=4)
 
         print(
             f"Done scraping {url} in about {round((time.time() - start_time) / 60)} minute(s)"

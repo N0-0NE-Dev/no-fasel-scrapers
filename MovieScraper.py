@@ -95,7 +95,7 @@ def main() -> None:
             old_movies.update(result)
 
     with open("./output/movies.json", "w") as fp:
-        json.dump(old_movies, fp)
+        json.dump(old_movies, fp, indent=4)
 
 
 if __name__ == "__main__":

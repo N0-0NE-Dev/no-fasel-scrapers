@@ -56,4 +56,4 @@ for element in new_content:
             continue
 
 with open('./output/trending-content.json', 'w') as fp:
-    json.dump(content_dict, fp)
+    json.dump(content_dict, fp, indent=4)

@@ -161,7 +161,7 @@ def main():
             old_animes.update(result)
 
     with open("./output/anime.json", "w") as fp:
-        json.dump(old_animes, fp)
+        json.dump(old_animes, fp, indent=4)
 
 
 if __name__ == "__main__":

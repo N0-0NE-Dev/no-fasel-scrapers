@@ -22,10 +22,10 @@ def main():
                     continue
 
             with open(f'./output/{file}.json', 'w') as fp:
-                json.dump(content, fp)
+                json.dump(content, fp, indent=4)
 
     with open('./output/image_indices.json', 'w') as fp:
-        json.dump(image_indices, fp)
+        json.dump(image_indices, fp, indent=4)
 
 
 if __name__ == '__main__':
