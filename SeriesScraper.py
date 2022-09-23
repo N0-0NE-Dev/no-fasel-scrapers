@@ -41,14 +41,14 @@ def scrape_season(
         return {}
 
     try:
-        old_series_episodes = old_series_dict[series_id]["Seasons"][season_id]["Episodes"]
-        if len(all_episodes) == len(old_series_episodes):
-            return old_series_episodes
+        old_series_dict[series_id]["Seasons"][season_id]["Episodes"]
+        if len(all_episodes) == len(old_series_dict[series_id]["Seasons"][season_id]["Episodes"]):
+            return {}
         else:
             pass
     except KeyError:
-        pass
         # Encountered a new series or season of a series_div, scraping it...
+        pass
 
     season_dict[season_id] = {}
     season_dict[season_id]["Season Number"] = season_number

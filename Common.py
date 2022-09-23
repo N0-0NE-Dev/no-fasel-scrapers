@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import undetected_chromedriver as uc
 from threading import Lock
-from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema
+from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout
 
 DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
@@ -74,6 +74,7 @@ def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
                 else:
                     while cookie_lock.locked():
                         sleep(1)
+                    print("Done")
 
                 webpage = None
             else:
@@ -206,13 +207,18 @@ def save_image(image_url: str, content_id: str) -> str:
     except InvalidURL or MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
 
+    except ConnectTimeout:
+        with open(f"./output/{content_id}.jpg", 'wb') as handler:
+            handler.write(image.content)
+        return "Manual upload required"
+
 
 def remove_year(title: str) -> str:
     if title[-4:].isdigit() and len(title) > 4:
         title = title.replace(title[-5:], "")
     else:
         pass
-    
+
     return title
 
 
