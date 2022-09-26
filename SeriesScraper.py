@@ -64,7 +64,13 @@ def scrape_season(
             pass
 
         soup = BeautifulSoup(episode_page.content, "html.parser")
-        episode_id = soup.find("span", {"id": "liskSh"}).text.split("=")[-1]
+        try:
+            episode_id = soup.find(
+                "span", {"id": "liskSh"}).text.split("=")[-1]
+        except AttributeError:
+            print(
+                f"Episode {episode_number} in season {season_number} in the series with id {series_id} has no id")
+            continue
 
         try:
             iframe_source = soup.find("iframe")["src"]

@@ -99,38 +99,6 @@
             }
         }
     },
-    "155925": {
-        "Title": "House of the Dragon",
-        "Format": "4K UltraHD",
-        "Image Source": "https://i.imgur.com/BsK13Jp.png",
-        "Seasons": {
-            "155925": {
-                "Season Number": 1,
-                "Episodes": {
-                    "155932": {
-                        "Episode Number": 1,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=d344944d8da9c6a1807ad1118c135fd2&img=https://img.scdn.to/thumb/d344944d8da9c6a1807ad1118c135fd2/large.jpg"
-                    },
-                    "172486": {
-                        "Episode Number": 2,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=333f94a8a6c294d6996fa159ae230f22&img=https://img.scdn.to/thumb/333f94a8a6c294d6996fa159ae230f22/large.jpg"
-                    },
-                    "172884": {
-                        "Episode Number": 3,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=78a55c435a098e9c3b6ba6b3a5709d09&img=https://img.scdn.to/thumb/78a55c435a098e9c3b6ba6b3a5709d09/large.jpg"
-                    },
-                    "173276": {
-                        "Episode Number": 4,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=3f0b9ffa9167da083c51cf89a0c392b4&img=https://img.scdn.to/thumb/3f0b9ffa9167da083c51cf89a0c392b4/large.jpg"
-                    },
-                    "185097": {
-                        "Episode Number": 5,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=da76416de99a50db97b2b018f2daae5b&img=https://img.scdn.to/thumb/da76416de99a50db97b2b018f2daae5b/large.jpg"
-                    }
-                }
-            }
-        }
-    },
     "155282": {
         "Title": "Bad Sisters",
         "Format": "1080p WEB-DL",
@@ -16218,30 +16186,6 @@
             }
         }
     },
-    "172921": {
-        "Title": "Rick and Morty",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://imgpile.com/images/Tiw73k.jpg",
-        "Seasons": {
-            "172921": {
-                "Season Number": 6,
-                "Episodes": {
-                    "172923": {
-                        "Episode Number": 1,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=8c1456fa59f5be8f8574faaaad9f8625&img=https://img.scdn.to/thumb/8c1456fa59f5be8f8574faaaad9f8625/large.jpg"
-                    },
-                    "173342": {
-                        "Episode Number": 2,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=12cc36f70032526b8e068fb9f3d876e6&img=https://img.scdn.to/thumb/12cc36f70032526b8e068fb9f3d876e6/large.jpg"
-                    },
-                    "185978": {
-                        "Episode Number": 3,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=490b324eed1c91c6d850bcaa9cf79e1a&img=https://img.scdn.to/thumb/490b324eed1c91c6d850bcaa9cf79e1a/large.jpg"
-                    }
-                }
-            }
-        }
-    },
     "186394": {
         "Title": "The Girls at the Back",
         "Format": "1080p WEB-DL",
@@ -16373,34 +16317,6 @@
                     "186228": {
                         "Episode Number": 2,
                         "Source": "https://embed.scdn.to/video_player?uid=0&vid=18d5fd0d9dd4555f10302e90b017ce3c&img=https://img.scdn.to/thumb/18d5fd0d9dd4555f10302e90b017ce3c/large.jpg"
-                    }
-                }
-            }
-        }
-    },
-    "186187": {
-        "Title": "Vampire Academy",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/1jsioqy.jpg",
-        "Seasons": {
-            "186187": {
-                "Season Number": 1,
-                "Episodes": {
-                    "186189": {
-                        "Episode Number": 1,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=852a96e243c8a8ceb0de4d3dfd282e10&img=https://img.scdn.to/thumb/852a96e243c8a8ceb0de4d3dfd282e10/large.jpg"
-                    },
-                    "186190": {
-                        "Episode Number": 2,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=2c3e28acb8eded70645e25062a8891f6&img=https://img.scdn.to/thumb/2c3e28acb8eded70645e25062a8891f6/large.jpg"
-                    },
-                    "186191": {
-                        "Episode Number": 3,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=cc1d123b2d3bd8376cad5e74016b1d14&img=https://img.scdn.to/thumb/cc1d123b2d3bd8376cad5e74016b1d14/large.jpg"
-                    },
-                    "186192": {
-                        "Episode Number": 4,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=748a0b575f8214c40b515190a826e7a3&img=https://img.scdn.to/thumb/748a0b575f8214c40b515190a826e7a3/large.jpg"
                     }
                 }
             }
@@ -16729,22 +16645,6 @@
                     "173399": {
                         "Episode Number": 8,
                         "Source": "https://embed.scdn.to/video_player?uid=0&vid=7c6fad1772b004eb5038b1c22fe9fb5d&img=https://img.scdn.to/thumb/7c6fad1772b004eb5038b1c22fe9fb5d/large.jpg"
-                    }
-                }
-            }
-        }
-    },
-    "173345": {
-        "Title": "Monarch",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/2lcf7uz.jpg",
-        "Seasons": {
-            "173345": {
-                "Season Number": 1,
-                "Episodes": {
-                    "173348": {
-                        "Episode Number": 1,
-                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=adbb90fd3b9e2be41002947975d68942&img=https://img.scdn.to/thumb/adbb90fd3b9e2be41002947975d68942/large.jpg"
                     }
                 }
             }
@@ -23731,6 +23631,102 @@
                     "186360": {
                         "Episode Number": 3,
                         "Source": "https://embed.scdn.to/video_player?uid=0&vid=ec3349ba612f3afc2094cafc4b259778&img=https://img.scdn.to/thumb/ec3349ba612f3afc2094cafc4b259778/large.jpg"
+                    }
+                }
+            }
+        }
+    },
+    "186476": {
+        "Title": "The Simpsons",
+        "Format": "1080p WEBRIP",
+        "Image Source": "https://i.imgur.com/ryAvHli.jpg",
+        "Seasons": {
+            "134372": {
+                "Season Number": 33,
+                "Episodes": {
+                    "134374": {
+                        "Episode Number": 1,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=4171d343fcb8ec2ac31600a4f33060d7&img=https://img.scdn.to/thumb/4171d343fcb8ec2ac31600a4f33060d7/large.jpg"
+                    },
+                    "134848": {
+                        "Episode Number": 2,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=4edd168ee0cfe0c16184aee4a54e8440&img=https://img.scdn.to/thumb/4edd168ee0cfe0c16184aee4a54e8440/large.jpg"
+                    },
+                    "135263": {
+                        "Episode Number": 3,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=f45e16bc29f2e1ba3a40b2f0be4fa3c7&img=https://img.scdn.to/thumb/f45e16bc29f2e1ba3a40b2f0be4fa3c7/large.jpg"
+                    },
+                    "135668": {
+                        "Episode Number": 4,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=e4fdb7920dd928ffaab2fdfecdf1e5b2&img=https://img.scdn.to/thumb/e4fdb7920dd928ffaab2fdfecdf1e5b2/large.jpg"
+                    },
+                    "136040": {
+                        "Episode Number": 5,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=50b070f09d6646afd793559be37ed8bd&img=https://img.scdn.to/thumb/50b070f09d6646afd793559be37ed8bd/large.jpg"
+                    },
+                    "136927": {
+                        "Episode Number": 6,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=41fe33340e2cb5a010e7e8c410bec73a&img=https://img.scdn.to/thumb/41fe33340e2cb5a010e7e8c410bec73a/large.jpg"
+                    },
+                    "137338": {
+                        "Episode Number": 7,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=25b7efc475bdd065499ba8ed62402ce4&img=https://img.scdn.to/thumb/25b7efc475bdd065499ba8ed62402ce4/large.jpg"
+                    },
+                    "138054": {
+                        "Episode Number": 8,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=b3c8fd06df3af3b549b315508f3b901d&img=https://img.scdn.to/thumb/b3c8fd06df3af3b549b315508f3b901d/large.jpg"
+                    },
+                    "138573": {
+                        "Episode Number": 9,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=aaad8ad44911b57ca409e0d60380aa57&img=https://img.scdn.to/thumb/aaad8ad44911b57ca409e0d60380aa57/large.jpg"
+                    },
+                    "139712": {
+                        "Episode Number": 10,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=80453d6fb542fe42610613844bc6f3f0&img=https://img.scdn.to/thumb/80453d6fb542fe42610613844bc6f3f0/large.jpg"
+                    },
+                    "140793": {
+                        "Episode Number": 11,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=c973b1301bccd9dc161ad455e69ff0f1&img=https://img.scdn.to/thumb/c973b1301bccd9dc161ad455e69ff0f1/large.jpg"
+                    },
+                    "145026": {
+                        "Episode Number": 12,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=1dd525e54ff32a4970a387bc72fc9cc1&img=https://img.scdn.to/thumb/1dd525e54ff32a4970a387bc72fc9cc1/large.jpg"
+                    },
+                    "145616": {
+                        "Episode Number": 13,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=b6ef72da7dcbbc51b8da0c47889d24d8&img=https://img.scdn.to/thumb/b6ef72da7dcbbc51b8da0c47889d24d8/large.jpg"
+                    },
+                    "146085": {
+                        "Episode Number": 14,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=f7ab8ce3e8a981b80c880196cd2fd484&img=https://img.scdn.to/thumb/f7ab8ce3e8a981b80c880196cd2fd484/large.jpg"
+                    },
+                    "146636": {
+                        "Episode Number": 22,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=bd88757580a8c511ddd9545c6d5a29c9&img=https://img.scdn.to/thumb/bd88757580a8c511ddd9545c6d5a29c9/large.jpg"
+                    },
+                    "146929": {
+                        "Episode Number": 16,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=66dfbbb875b795c24294f3e18c6696d1&img=https://img.scdn.to/thumb/66dfbbb875b795c24294f3e18c6696d1/large.jpg"
+                    },
+                    "147796": {
+                        "Episode Number": 17,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=f025b5997b4da957469dd6f845845641&img=https://img.scdn.to/thumb/f025b5997b4da957469dd6f845845641/large.jpg"
+                    },
+                    "148587": {
+                        "Episode Number": 18,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=336bebdfa9e097365af99dbbb9f3c59e&img=https://img.scdn.to/thumb/336bebdfa9e097365af99dbbb9f3c59e/large.jpg"
+                    },
+                    "148925": {
+                        "Episode Number": 19,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=e457c6205c4517caec27502fb4c22dfa&img=https://img.scdn.to/thumb/e457c6205c4517caec27502fb4c22dfa/large.jpg"
+                    },
+                    "149403": {
+                        "Episode Number": 20,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=2f2851b14900f9cf9cc9e3a5c0f7e0f8&img=https://img.scdn.to/thumb/2f2851b14900f9cf9cc9e3a5c0f7e0f8/large.jpg"
+                    },
+                    "149782": {
+                        "Episode Number": 21,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=558de1f695f8378d98047c022598bcd5&img=https://img.scdn.to/thumb/558de1f695f8378d98047c022598bcd5/large.jpg"
                     }
                 }
             }
