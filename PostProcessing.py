@@ -23,6 +23,8 @@ def main():
 
             with open(f'./output/{file}.json', 'w') as fp:
                 json.dump(content, fp, indent=4)
+        else:
+            pass
 
     with open('./output/image_indices.json', 'w') as fp:
         json.dump(image_indices, fp, indent=4)

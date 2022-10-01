@@ -1,4 +1,3 @@
-import os
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet, Tag
 from concurrent.futures import ThreadPoolExecutor
@@ -181,6 +180,7 @@ def main():
             old_series_dict = json.load(fp)
 
         page_ranges_list = split_into_ranges(8, get_number_of_pages(url))
+        print(page_ranges_list)
 
         if DEBUG:
             print(page_ranges_list)

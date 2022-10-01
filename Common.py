@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import undetected_chromedriver as uc
 from threading import Lock
-from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout
+from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout, ReadTimeout
 
 DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
@@ -74,13 +74,11 @@ def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
                 else:
                     while cookie_lock.locked():
                         sleep(1)
-                    print("Done")
-
                 webpage = None
             else:
                 pass
 
-        except ConnectionError:
+        except ConnectionError or ReadTimeout:
             if DEBUG:
                 print("Fetching website failed, trying again...")
             else:
