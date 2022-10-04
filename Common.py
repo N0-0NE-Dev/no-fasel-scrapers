@@ -73,7 +73,6 @@ def get_website_safe(webpage_url: str) -> Optional[requests.Response]:
                         get_cookies()
                 else:
                     while cookie_lock.locked():
-                        print("I am sleeping")
                         sleep(1)
                 webpage = None
             else:
