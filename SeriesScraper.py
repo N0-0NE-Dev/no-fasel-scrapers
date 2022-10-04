@@ -1,3 +1,4 @@
+from operator import le
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet, Tag
 from concurrent.futures import ThreadPoolExecutor
@@ -8,11 +9,14 @@ from Common import *
 
 setrecursionlimit(25000)
 
-PATHS_TO_SCRAPE = [
-    "series",
-    "tvshows",
-    "asian-series",
-]
+if DEBUG:
+    PATHS_TO_SCRAPE = ["series"]
+else:
+    PATHS_TO_SCRAPE = [
+        "series",
+        "tvshows",
+        "asian-series",
+    ]
 
 
 def scrape_season(
@@ -180,7 +184,6 @@ def main():
             old_series_dict = json.load(fp)
 
         page_ranges_list = split_into_ranges(8, get_number_of_pages(url))
-        print(page_ranges_list)
 
         if DEBUG:
             print(page_ranges_list)
@@ -193,11 +196,14 @@ def main():
                 page_ranges_list,
             )
 
+        new_series_dict = {}
         for result in results:
-            old_series_dict.update(result)
+            new_series_dict.update(result)
+
+        combined_series_dict = new_series_dict | old_series_dict
 
         with open(file_path, "w") as fp:
-            json.dump(old_series_dict, fp, indent=4)
+            json.dump(combined_series_dict, fp, indent=4)
 
         print(
             f"Done scraping {url} in about {round((time.time() - start_time) / 60)} minute(s)"

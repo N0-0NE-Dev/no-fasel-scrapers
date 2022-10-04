@@ -20,7 +20,10 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         movie_page_url = movie_div.find("a")["href"]
         movie_page = get_website_safe(movie_page_url)
 
-        soup = BeautifulSoup(movie_page.content, "html.parser")
+        if movie_page is not None:
+            soup = BeautifulSoup(movie_page.content, "html.parser")
+        else:
+            continue
 
         movie_id = get_content_id(soup)
 
