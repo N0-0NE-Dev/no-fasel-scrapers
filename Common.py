@@ -14,6 +14,7 @@ from undetected_chromedriver import Chrome
 from threading import Lock
 from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout, ReadTimeout
 from requests import Response
+from os import environ
 
 DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
@@ -206,7 +207,7 @@ def save_image(image_url: str, content_id: str) -> str:
             data: dict[str, str] = {
                 "image": base64.b64encode(image.content).decode("utf8")}
             headers: dict[str, str] = {
-                "Authorization": f"Client-ID {sys.argv[1]}"}
+                "Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
 
             response: dict[str, Any] = requests.post(
                 "https://api.imgur.com/3/image", headers=headers, data=data).json()

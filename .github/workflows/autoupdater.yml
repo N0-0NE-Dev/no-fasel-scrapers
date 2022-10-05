@@ -5,14 +5,15 @@ on:
   schedule:
     - cron: 0 0 * * *
 
+env:
+  IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_KEY }}
+
 permissions:
   contents: write
 
 jobs:
-  build:
-
+  scrape_fasel:
     runs-on: windows-latest
-
     steps:
     - uses: actions/checkout@v3
       with:
@@ -34,9 +35,9 @@ jobs:
         pip install -r requirements.txt
     - name: Run scrappers
       run: |
-        python MovieScraper.py ${{ secrets.IMGUR_CLIENT_KEY }}
-        python SeriesScraper.py ${{ secrets.IMGUR_CLIENT_KEY }}
-        python AnimeScraper.py ${{ secrets.IMGUR_CLIENT_KEY }}
+        python MovieScraper.py
+        python SeriesScraper.py
+        python AnimeScraper.py
         python TrendingScraper.py
         python PostProcessing.py
     - name: Commit files
