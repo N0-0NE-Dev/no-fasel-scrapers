@@ -24,6 +24,7 @@ def scrape_season(
     series_title: str,
     series_id: str
 ) -> dict:
+    """Gets the sources of all the episodes in the season provided"""
     global old_series_dict
     season_dict = {}
     season_id = season.find("div")["data-href"]
@@ -98,6 +99,7 @@ def scrape_season(
 
 
 def scrape_page(series_divs: list[ResultSet]) -> dict:
+    """Scrapes all the series in the page provided"""
     series_dict = {}
 
     for series_div in series_divs:
@@ -146,6 +148,7 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
 
 
 def scrape_all_series(page_range: tuple) -> dict:
+    """Scrapes all the series in the page range provided"""
     global old_series_dict, url
     all_series_dict = {}
 
@@ -179,6 +182,7 @@ def scrape_all_series(page_range: tuple) -> dict:
 
 
 def main():
+    """Scrapes all the series, tv shows and asian series from fasel"""
     global old_series_dict, url
 
     for path in PATHS_TO_SCRAPE:

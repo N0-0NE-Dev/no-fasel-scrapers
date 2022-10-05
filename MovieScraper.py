@@ -12,6 +12,7 @@ with open("./output/movies.json") as fp:
 
 
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
+    """Scrapes all the movies in the page provided"""
     movies_dict = {}
     for movie_div in movie_divs:
         movie_title = get_content_title(movie_div)
@@ -55,6 +56,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
 
 
 def scrape_all_movies(page_range: tuple) -> dict:
+    """Scrapes all the movies in the page range provided"""
     movies_dict = {}
     for page in range(page_range[0], page_range[1]):
 
@@ -86,6 +88,7 @@ def scrape_all_movies(page_range: tuple) -> dict:
 
 
 def main() -> None:
+    """Scapes all the movies from fasel"""
     get_cookies()
 
     page_ranges_list = split_into_ranges(

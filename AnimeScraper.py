@@ -14,6 +14,7 @@ with open("./output/anime.json", "r") as fp:
 
 
 def get_iframe_source(episodes: list[str]) -> dict:
+    """Gets the video source for each episode"""
     episodes_dict = {}
 
     for episode in episodes:
@@ -52,6 +53,7 @@ def get_iframe_source(episodes: list[str]) -> dict:
 
 
 def clean_anime_title(anime_title: str) -> str:
+    """Translate the anime title and remove all unnecessary characters"""
     translator = Translator()
 
     translation = None
@@ -76,6 +78,7 @@ def clean_anime_title(anime_title: str) -> str:
 
 
 def scrapeEpisodes(number_of_episodes: int, episodes_sources: list[str]) -> dict:
+    """Scrapes all the episodes of the anime and their sources"""
     episode_ranges = split_into_ranges(8, number_of_episodes)
 
     splitted_episodes_list = [
@@ -93,6 +96,7 @@ def scrapeEpisodes(number_of_episodes: int, episodes_sources: list[str]) -> dict
 
 
 def scrape_anime(page_range: tuple) -> dict:
+    """Scrapes all the animes in the page range provided"""
     global old_animes
     anime_dict = {}
 
@@ -159,6 +163,7 @@ def scrape_anime(page_range: tuple) -> dict:
 
 
 def main():
+    """Scrapes all the anime from fasel"""
     global old_animes
     get_cookies()
     page_ranges_list = split_into_ranges(
@@ -182,7 +187,6 @@ def main():
 if __name__ == "__main__":
     start_time = time.time()
     main()
-
     print(
         f"Done scraping all animes from fasel in about {round((time.time() - start_time) / 60)} minute(s)"
     )
