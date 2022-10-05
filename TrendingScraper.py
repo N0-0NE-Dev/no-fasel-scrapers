@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 def main():
-    """Scrapes the content on the home page of fasel"""
+    """Scrapes the content on the home page of fasels"""
     get_cookies()
     main_page = get_website_safe('https://www.faselhd.club/home3')
     soup = BeautifulSoup(main_page.content, 'html.parser')

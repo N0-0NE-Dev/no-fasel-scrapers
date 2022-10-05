@@ -1,0 +1,13 @@
+output/images/*
+backup/*
+
+ImageIndexer.py
+test.py
+DataDecoder.py
+
+Lib/*
+Scripts/*
+Include/*
+pyvenv.cfg
+__pycache__/*
+ScrapeAll.py

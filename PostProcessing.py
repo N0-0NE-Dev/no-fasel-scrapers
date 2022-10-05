@@ -4,7 +4,7 @@ import json
 def main():
     file_names = ['anime', 'asian-series', 'movies', 'series', 'tvshows']
 
-    with open('./output/image_indices.json', 'r') as fp:
+    with open('./output/image-indices.json', 'r') as fp:
         image_indices = json.load(fp)
 
     for file in file_names:
@@ -26,7 +26,7 @@ def main():
         else:
             pass
 
-    with open('./output/image_indices.json', 'w') as fp:
+    with open('./output/image-indices.json', 'w') as fp:
         json.dump(image_indices, fp, indent=4)
 
 
