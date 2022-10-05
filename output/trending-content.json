@@ -87,13 +87,6 @@
     ],
     "asian-series": [
         {
-            "173205": {
-                "Title": "The Zone: Survival Mission",
-                "Format": "1080p WEB-DL",
-                "Image Source": "https://i.imgur.com/cag48iC.jpg"
-            }
-        },
-        {
             "173363": {
                 "Title": "Mental Coach Jegal",
                 "Format": "1080p WEB-DL",
@@ -105,6 +98,13 @@
                 "Title": "The Law Cafe",
                 "Format": "1080p WEB-DL",
                 "Image Source": "https://imgpile.com/images/Ts5CKG.jpg"
+            }
+        },
+        {
+            "173205": {
+                "Title": "The Zone: Survival Mission",
+                "Format": "1080p WEB-DL",
+                "Image Source": "https://i.imgur.com/cag48iC.jpg"
             }
         },
         {
@@ -141,49 +141,21 @@
                 "Format": "1080p WEB-DL",
                 "Image Source": "https://imgpile.com/images/Ts5KzE.jpg"
             }
-        },
-        {
-            "172907": {
-                "Title": "My Poseidon",
-                "Format": "1080p WEB-DL",
-                "Image Source": "https://imgpile.com/images/Ts5x9h.jpg"
-            }
-        },
-        {
-            "172546": {
-                "Title": "Glory of Special Forces",
-                "Format": "1080p WEB-DL",
-                "Image Source": "https://imgpile.com/images/TKXAEr.jpg"
-            }
-        },
-        {
-            "144207": {
-                "Title": "Be My Dream Family",
-                "Format": "1080p WEB-DL",
-                "Image Source": "https://imgpile.com/images/TK8uXr.jpg"
-            }
         }
     ],
     "anime": [
+        {
+            "186932": {
+                "Title": "Xian Wang de Richang Shenghuo Season 3",
+                "Format": "1080p WEB-DL",
+                "Image Source": "https://i.imgur.com/i6ZGIUv.jpg"
+            }
+        },
         {
             "187143": {
                 "Title": "Golden Kamuy 4th Season",
                 "Format": "1080p WEB-DL",
                 "Image Source": "https://i.imgur.com/CUj6OIk.jpg"
-            }
-        },
-        {
-            "154068": {
-                "Title": "Fuuto Tantei",
-                "Format": "1080p WEB-DL",
-                "Image Source": "https://imgpile.com/images/TJwuGu.jpg"
-            }
-        },
-        {
-            "187027": {
-                "Title": "Mobile Suit Gundam: The Witch from Mercury",
-                "Format": "1080p WEB-DL",
-                "Image Source": "https://i.imgur.com/0pJPlW0.jpg"
             }
         }
     ],
