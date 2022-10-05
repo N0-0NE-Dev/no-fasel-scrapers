@@ -1,3 +1,4 @@
+from lib2to3.pgen2.token import DEDENT
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet, Tag
 from concurrent.futures import ThreadPoolExecutor
@@ -37,9 +38,12 @@ def scrape_season(
     try:
         all_episodes = soup.find("div", class_="epAll").find_all("a")
     except AttributeError:
-        print(
-            f"No episodes found for the series {series_title} season {season_number}, skipping it..."
-        )
+        if DEBUG:
+            print(
+                f"No episodes found for the series {series_title} season {season_number}, skipping it..."
+            )
+        else:
+            pass
         return {}
 
     try:
@@ -70,8 +74,11 @@ def scrape_season(
             episode_id = soup.find(
                 "span", {"id": "liskSh"}).text.split("=")[-1]
         except AttributeError:
-            print(
-                f"Episode {episode_number} in season {season_number} in the series with id {series_id} has no id")
+            if DEBUG:
+                print(
+                    f"Episode {episode_number} in season {season_number} in the series with id {series_id} has no id")
+            else:
+                pass
             continue
 
         try:
@@ -104,9 +111,12 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
         try:
             series_id = get_content_id(soup)
         except AttributeError:
-            print(
-                f"The series {series_title} either has no ID or is blank, skipping it..."
-            )
+            if DEBUG:
+                print(
+                    f"The series {series_title} either has no ID or is blank, skipping it..."
+                )
+            else:
+                pass
             return {}
 
         series_dict[series_id] = {}

@@ -35,7 +35,11 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         try:
             iframeSource = soup.find("iframe")["src"]
         except Exception:
-            print(f"No source found for movie {movie_title}, skipping it...")
+            if DEBUG:
+                print(
+                    f"No source found for movie {movie_title}, skipping it...")
+            else:
+                pass
             continue
 
         movies_dict[movie_id] = {}
@@ -89,7 +93,10 @@ def main() -> None:
         get_number_of_pages(BASE_URL + "all-movies"),
     )
 
-    print(page_ranges_list)
+    if DEBUG:
+        print(page_ranges_list)
+    else:
+        pass
 
     with ThreadPoolExecutor() as executor:
         results = executor.map(scrape_all_movies, page_ranges_list)

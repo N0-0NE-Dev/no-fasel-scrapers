@@ -24,9 +24,12 @@ def get_iframe_source(episodes: list[str]) -> dict:
         try:
             soup = BeautifulSoup(episode_page.content, "html.parser")
         except AttributeError:
-            print(
-                f"Experinced too many redirects when fetching {episode_url}, skipping it..."
-            )
+            if DEBUG:
+                print(
+                    f"Experinced too many redirects when fetching {episode_url}, skipping it..."
+                )
+            else:
+                pass
             continue
 
         episode_id = get_content_id(soup)
@@ -34,8 +37,11 @@ def get_iframe_source(episodes: list[str]) -> dict:
         try:
             iframeSource = soup.find("iframe")["src"]
         except TypeError:
-            print(
-                f"The episode on page {episode_url} has no source, skipping it...")
+            if DEBUG:
+                print(
+                    f"The episode on page {episode_url} has no source, skipping it...")
+            else:
+                pass
             continue
 
         episodes_dict[episode_id] = {}
@@ -54,7 +60,10 @@ def clean_anime_title(anime_title: str) -> str:
             translation = translator.translate(
                 anime_title, src="ar", dest="en").text
         except ConnectTimeout:
-            print("Failed to translate anime title, trying again...")
+            if DEBUG:
+                print("Failed to translate anime title, trying again...")
+            else:
+                pass
             translation = None
 
     cleaned_anime_title = translation.replace(
@@ -108,9 +117,12 @@ def scrape_anime(page_range: tuple) -> dict:
                 anime_episodes_list = soup.find(
                     "div", class_="epAll").find_all("a")
             except AttributeError:
-                print(
-                    f"The anime on page {anime_page_source} has no episodes, skipping it..."
-                )
+                if DEBUG:
+                    print(
+                        f"The anime on page {anime_page_source} has no episodes, skipping it..."
+                    )
+                else:
+                    pass
                 continue
 
             number_of_episodes = len(anime_episodes_list)
@@ -153,7 +165,10 @@ def main():
         8, get_number_of_pages(BASE_URL + "anime")
     )
 
-    print(page_ranges_list)
+    if DEBUG:
+        print(page_ranges_list)
+    else:
+        pass
 
     with ThreadPoolExecutor() as executor:
         results = executor.map(scrape_anime, page_ranges_list)
