@@ -126,10 +126,7 @@ def split_into_ranges(number_of_ranges: int, number_to_be_split: int) -> list[tu
 
 def remove_arabic_chars(string: str) -> str:
     """Removes the Arabic characters from the string provided"""
-    encoded_output_string = string.encode("ascii", "ignore")
-    decoded_output_string = encoded_output_string.decode()
-
-    return decoded_output_string
+    return string.encode("ascii", "ignore").decode()
 
 
 def get_number_of_pages(url: str) -> int:
