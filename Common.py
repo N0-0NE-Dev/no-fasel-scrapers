@@ -1,5 +1,4 @@
-import base64
-import sys
+from base64 import b64encode
 from time import sleep
 import requests
 from bs4 import BeautifulSoup, ResultSet, Tag
@@ -54,9 +53,10 @@ def get_cookies() -> None:
         )
     )
 
-    cookies = driver.get_cookies()
+    cookies: list[dict[str, Any]] = driver.get_cookies()
 
-    cookies_dict = {cookie["name"]: cookie["value"] for cookie in cookies}
+    cookies_dict: dict[str, Any] = {
+        cookie["name"]: cookie["value"] for cookie in cookies}
 
     return
 
@@ -65,7 +65,7 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
     """Get the webpage at the url provided; automatically gets new cookies when needed, returns None if the page where impossible to reach due to too many redirects"""
     global cookies_dict
 
-    webpage = None
+    webpage: Optional[Response] = None
     while webpage is None:
         try:
             webpage = requests.get(
@@ -100,10 +100,11 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
     return webpage
 
 
-def split_into_ranges(number_of_ranges: int, number_to_be_split: int) -> list[tuple]:
+def split_into_ranges(number_of_ranges: int, number_to_be_split: int) -> list[tuple[int, int]]:
     """Splits the number into (more or less) equal intervals"""
-    pages_per_chunk = number_to_be_split // number_of_ranges
-    ranges_list = []
+    pages_per_chunk: int = number_to_be_split // number_of_ranges
+    ranges_list: list[tuple[int, int]] = []
+
     for _ in range(number_of_ranges):
         start_page = pages_per_chunk * _
 
@@ -132,12 +133,12 @@ def get_number_of_pages(url: str) -> int:
     """Gets the total number of pages of the category"""
     webpage: Optional[Response] = get_website_safe(url)
     soup: BeautifulSoup = BeautifulSoup(webpage.content, "html.parser")
+    last_page_button: Optional[Tag] = soup.find("a", string="»")
 
-    try:
-        last_page_button: Optional[Tag] = soup.find("a", string="»")
+    if last_page_button is not None:
         last_page_url: str = last_page_button["href"]
         last_page_number: int = int(last_page_url.split("/")[-1])
-    except TypeError:
+    else:
         if DEBUG:
             print("No last page button found, trying another way...")
         else:
@@ -201,7 +202,7 @@ def save_image(image_url: str, content_id: str) -> str:
             image_url: str = fix_url(image_url)
             image: Optional[Response] = get_website_safe(image_url)
             data: dict[str, str] = {
-                "image": base64.b64encode(image.content).decode("utf8")}
+                "image": b64encode(image.content).decode("utf8")}
             headers: dict[str, str] = {
                 "Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
 

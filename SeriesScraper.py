@@ -1,4 +1,3 @@
-from lib2to3.pgen2.token import DEDENT
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet, Tag
 from concurrent.futures import ThreadPoolExecutor
@@ -9,14 +8,11 @@ from Common import *
 
 setrecursionlimit(25000)
 
-if DEBUG:
-    PATHS_TO_SCRAPE = ["series"]
-else:
-    PATHS_TO_SCRAPE = [
-        "series",
-        "tvshows",
-        "asian-series",
-    ]
+PATHS_TO_SCRAPE = [
+    "series",
+    "tvshows",
+    "asian-series",
+]
 
 
 def scrape_season(

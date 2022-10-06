@@ -35,7 +35,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
 
         try:
             iframeSource = soup.find("iframe")["src"]
-        except Exception:
+        except TypeError:
             if DEBUG:
                 print(
                     f"No source found for movie {movie_title}, skipping it...")
@@ -114,7 +114,6 @@ def main() -> None:
 if __name__ == "__main__":
     start_time = time.time()
     main()
-
     print(
         f"Finished scraping all movies from fasel in about {round((time.time() - start_time) / 60)} minute(s)"
     )
