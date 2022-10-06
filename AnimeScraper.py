@@ -13,6 +13,31 @@ with open("./output/anime.json", "r") as fp:
     old_animes = json.load(fp)
 
 
+def clean_anime_title(anime_title: str) -> str:
+    """Translate the anime title and remove all unnecessary characters"""
+    translator = Translator()
+
+    translation = None
+    while translation == None:
+        try:
+            translation = translator.translate(
+                anime_title, src="ar", dest="en").text
+        except ConnectTimeout:
+            if DEBUG:
+                print("Failed to translate anime title, trying again...")
+            else:
+                pass
+            translation = None
+
+    cleaned_anime_title = translation.replace(
+        "Anime", "").replace("?", "").strip()
+
+    cleaned_anime_title = cleaned_anime_title.encode(
+        "ascii", "ignore").decode()
+
+    return cleaned_anime_title
+
+
 def get_iframe_source(episodes: list[str]) -> dict:
     """Gets the video source for each episode"""
     episodes_dict = {}
@@ -52,32 +77,7 @@ def get_iframe_source(episodes: list[str]) -> dict:
     return episodes_dict
 
 
-def clean_anime_title(anime_title: str) -> str:
-    """Translate the anime title and remove all unnecessary characters"""
-    translator = Translator()
-
-    translation = None
-    while translation == None:
-        try:
-            translation = translator.translate(
-                anime_title, src="ar", dest="en").text
-        except ConnectTimeout:
-            if DEBUG:
-                print("Failed to translate anime title, trying again...")
-            else:
-                pass
-            translation = None
-
-    cleaned_anime_title = translation.replace(
-        "Anime", "").replace("?", "").strip()
-
-    cleaned_anime_title = cleaned_anime_title.encode(
-        "ascii", "ignore").decode()
-
-    return cleaned_anime_title
-
-
-def scrapeEpisodes(number_of_episodes: int, episodes_sources: list[str]) -> dict:
+def scrape_episodes(number_of_episodes: int, episodes_sources: list[str]) -> dict:
     """Scrapes all the episodes of the anime and their sources"""
     episode_ranges = split_into_ranges(8, number_of_episodes)
 
@@ -150,7 +150,7 @@ def scrape_anime(page_range: tuple) -> dict:
                 anime_image_source, anime_id
             )
 
-            anime_dict[anime_id]["Episodes"] = scrapeEpisodes(
+            anime_dict[anime_id]["Episodes"] = scrape_episodes(
                 number_of_episodes, anime_episodes_list
             )
 
