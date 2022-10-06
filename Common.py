@@ -9,7 +9,6 @@ import json
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import undetected_chromedriver as uc
 from undetected_chromedriver import Chrome
 from threading import Lock
 from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout, ReadTimeout
@@ -35,7 +34,7 @@ HEADERS = {
 }
 
 cookie_lock: Lock = Lock()
-driver: Chrome = uc.Chrome(use_subprocess=True)
+driver: Chrome = Chrome(use_subprocess=True)
 driver.minimize_window()
 driver.get("https://www.faselhd.club/home3")
 
@@ -126,7 +125,7 @@ def split_into_ranges(number_of_ranges: int, number_to_be_split: int) -> list[tu
 
 def remove_arabic_chars(string: str) -> str:
     """Removes the Arabic characters from the string provided"""
-    return string.encode("ascii", "ignore").decode()
+    return string.encode("ascii", "ignore").decode().strip()
 
 
 def get_number_of_pages(url: str) -> int:
@@ -180,7 +179,7 @@ def get_content_id(soup: BeautifulSoup) -> str:
         soup.find("i", class_="fas fa-dot-circle")
         .parent.text.replace(":", "")
         .replace("#", "")
-    ).strip()
+    )
 
     return content_id
 
@@ -239,6 +238,6 @@ def get_content_title(soup_result: ResultSet) -> str:
     """Gets the title of the content"""
     title: str = remove_year(remove_arabic_chars(
         soup_result.find("div", class_="h1").text
-    ).strip())
+    ))
 
     return title
