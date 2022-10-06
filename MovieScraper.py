@@ -1,9 +1,12 @@
+from lib2to3.pgen2.token import OP
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet
 from Common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
 import time
+from typing import Optional
+from requests import Response
 
 setrecursionlimit(25000)
 
@@ -13,20 +16,22 @@ with open("./output/movies.json") as fp:
 
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
     """Scrapes all the movies in the page provided"""
-    movies_dict = {}
-    for movie_div in movie_divs:
-        movie_title = get_content_title(movie_div)
+    movies_dict: dict[str, dict[str, str]] = {}
 
-        movie_image_source = movie_div.img.attrs['data-src']
-        movie_page_url = movie_div.find("a")["href"]
-        movie_page = get_website_safe(movie_page_url)
+    for movie_div in movie_divs:
+        movie_title: str = get_content_title(movie_div)
+
+        movie_image_source: str = movie_div.img.attrs['data-src']
+        movie_page_url: str = movie_div.find("a")["href"]
+        movie_page: Optional[Response] = get_website_safe(movie_page_url)
 
         if movie_page is not None:
-            soup = BeautifulSoup(movie_page.content, "html.parser")
+            soup: BeautifulSoup = BeautifulSoup(
+                movie_page.content, "html.parser")
         else:
             continue
 
-        movie_id = get_content_id(soup)
+        movie_id: str = get_content_id(soup)
 
         if movie_id in old_movies:
             continue
@@ -34,7 +39,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             pass
 
         try:
-            iframeSource = soup.find("iframe")["src"]
+            iframeSource: str = soup.find("iframe")["src"]
         except TypeError:
             if DEBUG:
                 print(
@@ -44,7 +49,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             continue
 
         movies_dict[movie_id] = {}
-        movies_dict[movie_id]["Title"] = movie_title
+        movies_dict[movie_id]["Title"]= movie_title
         movies_dict[movie_id]["Format"] = get_content_format(soup)
 
         movies_dict[movie_id]["Image Source"] = save_image(
@@ -58,10 +63,11 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
 def scrape_all_movies(page_range: tuple) -> dict:
     """Scrapes all the movies in the page range provided"""
     movies_dict = {}
-    for page in range(page_range[0], page_range[1]):
 
+    for page in range(page_range[0], page_range[1]):
         main_page = get_website_safe(
             BASE_URL + f"all-movies/page/{page}")
+
         soup = BeautifulSoup(main_page.content, "html.parser")
 
         movie_divs = soup.find_all(

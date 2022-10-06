@@ -1,32 +1,29 @@
 import re
 from Common import *
-from bs4 import BeautifulSoup, ResultSet
-from typing import Optional, Any
-from requests import Response
+from bs4 import BeautifulSoup
 
 
 def main():
     """Scrapes the content on the home page of fasels"""
     get_cookies()
-    main_page: Optional[Response] = get_website_safe(
+    main_page = get_website_safe(
         'https://www.faselhd.club/home3')
-    soup: BeautifulSoup = BeautifulSoup(main_page.content, 'html.parser')
+    soup = BeautifulSoup(main_page.content, 'html.parser')
 
-    new_content: ResultSet = soup.find_all('div', 'blockMovie')
+    new_content = soup.find_all('div', 'blockMovie')
     new_content += soup.find_all('div', 'epDivHome')
 
-    content_dict: dict[str, list[dict[str, dict[str, str]]]] = {'movies': [], 'asian-series': [],
-                                                                'anime': [], 'series': []}
-    seen: list[str] = []
+    content_dict = {'movies': [], 'asian-series': [],
+                    'anime': [], 'series': []}
+    seen = []
 
     for element in new_content:
-        link: str = element.find('a')['href']
+        link = element.find('a')['href']
 
-        content_page: Optional[Response] = get_website_safe(link)
-        soup: BeautifulSoup = BeautifulSoup(
-            content_page.content, 'html.parser')
+        content_page = get_website_safe(link)
+        soup = BeautifulSoup(content_page.content, 'html.parser')
 
-        content_title: str = remove_year(remove_arabic_chars(
+        content_title = remove_year(remove_arabic_chars(
             soup.find('div', class_='h3').text.split('-')[0]))
 
         content_title: str = re.split(r'\s{2,}', content_title)[0]
@@ -37,13 +34,13 @@ def main():
             pass
 
         if '%d9%81%d9%8a%d9%84%d9%85' in link:
-            content_category: str = 'movies'
+            content_category = 'movies'
         elif 'asian-episodes' in link:
-            content_category: str = 'asian-series'
+            content_category = 'asian-series'
         elif 'anime-episodes' in link:
-            content_category: str = 'anime'
+            content_category = 'anime'
         else:
-            content_category: str = 'series'
+            content_category = 'series'
 
         if DEBUG:
             print(link, content_category)
@@ -51,10 +48,10 @@ def main():
             pass
 
         with open(f'./output/{content_category}.json', 'r') as fp:
-            content_file: dict[str, dict[str, Any]] = json.load(fp)
+            content_file = json.load(fp)
 
         for key in content_file:
-            current_element: dict[str, Any] = content_file[key]
+            current_element = content_file[key]
             if (current_element["Title"] == content_title) and (key not in seen):
                 seen.append(key)
                 content_dict[content_category].append(

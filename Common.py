@@ -32,8 +32,8 @@ HEADERS = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
 }
 
-cookie_lock: Lock = Lock()
-driver: Chrome = Chrome(use_subprocess=True)
+cookie_lock = Lock()
+driver = Chrome(use_subprocess=True)
 driver.minimize_window()
 driver.get("https://www.faselhd.club/home3")
 
@@ -53,10 +53,9 @@ def get_cookies() -> None:
         )
     )
 
-    cookies: list[dict[str, Any]] = driver.get_cookies()
+    cookies = driver.get_cookies()
 
-    cookies_dict: dict[str, Any] = {
-        cookie["name"]: cookie["value"] for cookie in cookies}
+    cookies_dict = {cookie["name"]: cookie["value"] for cookie in cookies}
 
     return
 
@@ -65,7 +64,7 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
     """Get the webpage at the url provided; automatically gets new cookies when needed, returns None if the page where impossible to reach due to too many redirects"""
     global cookies_dict
 
-    webpage: Optional[Response] = None
+    webpage = None
     while webpage is None:
         try:
             webpage = requests.get(
@@ -102,8 +101,8 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
 
 def split_into_ranges(number_of_ranges: int, number_to_be_split: int) -> list[tuple[int, int]]:
     """Splits the number into (more or less) equal intervals"""
-    pages_per_chunk: int = number_to_be_split // number_of_ranges
-    ranges_list: list[tuple[int, int]] = []
+    pages_per_chunk = number_to_be_split // number_of_ranges
+    ranges_list = []
 
     for _ in range(number_of_ranges):
         start_page = pages_per_chunk * _
@@ -131,29 +130,29 @@ def remove_arabic_chars(string: str) -> str:
 
 def get_number_of_pages(url: str) -> int:
     """Gets the total number of pages of the category"""
-    webpage: Optional[Response] = get_website_safe(url)
-    soup: BeautifulSoup = BeautifulSoup(webpage.content, "html.parser")
-    last_page_button: Optional[Tag] = soup.find("a", string="»")
+    webpage = get_website_safe(url)
+    soup = BeautifulSoup(webpage.content, "html.parser")
+    last_page_button = soup.find("a", string="»")
 
     if last_page_button is not None:
-        last_page_url: str = last_page_button["href"]
-        last_page_number: int = int(last_page_url.split("/")[-1])
+        last_page_url = last_page_button["href"]
+        last_page_number = int(last_page_url.split("/")[-1])
     else:
         if DEBUG:
             print("No last page button found, trying another way...")
         else:
             pass
-        pages_list: ResultSet = soup.find_all("li", class_="page-item")
-        last_page_number: int = int(pages_list[-1].text)
+        pages_list = soup.find_all("li", class_="page-item")
+        last_page_number = int(pages_list[-1].text)
 
     return last_page_number
 
 
 def fix_url(url: str) -> str:
     """Fixes the url by changing the unicode characters back to their original form"""
-    url_no_params: str = url.split("?")[0]
-    to_replace: Literal = "%3A"
-    clean_url: str = quote(url_no_params).replace(to_replace, ":")
+    url_no_params = url.split("?")[0]
+    to_replace = "%3A"
+    clean_url = quote(url_no_params).replace(to_replace, ":")
 
     return clean_url
 
@@ -161,7 +160,7 @@ def fix_url(url: str) -> str:
 def get_content_format(soup: BeautifulSoup) -> str:
     """Gets the format of the content or returns N/A if no format was found"""
     try:
-        content_format: str = (
+        content_format = (
             soup.find("i", class_="fas fa-play-circle").find_next_sibling().text
         )
 
@@ -176,7 +175,7 @@ def get_content_format(soup: BeautifulSoup) -> str:
 
 def get_content_id(soup: BeautifulSoup) -> str:
     """Gets the ID of the content"""
-    content_id: str = remove_arabic_chars(
+    content_id = remove_arabic_chars(
         soup.find("i", class_="fas fa-dot-circle")
         .parent.text.replace(":", "")
         .replace("#", "")
@@ -186,7 +185,7 @@ def get_content_id(soup: BeautifulSoup) -> str:
 
 
 with open("./output/image-indices.json", "r") as fp:
-    image_sources: dict[str, str] = json.load(fp)
+    image_sources = json.load(fp)
 
 
 def save_image(image_url: str, content_id: str) -> str:
@@ -199,14 +198,14 @@ def save_image(image_url: str, content_id: str) -> str:
             return image_sources[content_id]
 
         else:
-            image_url: str = fix_url(image_url)
-            image: Optional[Response] = get_website_safe(image_url)
-            data: dict[str, str] = {
+            image_url = fix_url(image_url)
+            image = get_website_safe(image_url)
+            data = {
                 "image": b64encode(image.content).decode("utf8")}
-            headers: dict[str, str] = {
+            headers = {
                 "Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
 
-            response: dict[str, Any] = requests.post(
+            response = requests.post(
                 "https://api.imgur.com/3/image", headers=headers, data=data).json()
 
             if response["status"] == 200:
@@ -237,7 +236,7 @@ def remove_year(title: str) -> str:
 
 def get_content_title(soup_result: ResultSet) -> str:
     """Gets the title of the content"""
-    title: str = remove_year(remove_arabic_chars(
+    title = remove_year(remove_arabic_chars(
         soup_result.find("div", class_="h1").text
     ))
 
