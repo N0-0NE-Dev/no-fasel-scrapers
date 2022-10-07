@@ -14,7 +14,7 @@ from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, M
 from requests import Response
 from os import environ
 
-DEBUG = False
+DEBUG = True
 BASE_URL = "https://www.faselhd.club/"
 HEADERS = {
     'authority': 'www.faselhd.club',

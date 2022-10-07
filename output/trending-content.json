@@ -7,6 +7,30 @@
             "Source": "https://embed.scdn.to/video_player?uid=0&vid=5bdc9700f8971a90b5850d0ef36c6f97&img=https://img.scdn.to/thumb/5bdc9700f8971a90b5850d0ef36c6f97/large.jpg"
         },
         {
+            "Title": "Nobodys Hero",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/hWWBqoy.jpg",
+            "Source": "https://embed.scdn.to/video_player?uid=0&vid=10db985f824bf9cf4be09b232cecffb9&img=https://img.scdn.to/thumb/10db985f824bf9cf4be09b232cecffb9/large.jpg"
+        },
+        {
+            "Title": "Laal Singh Chaddha",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/xnl8CBi.jpg",
+            "Source": "https://embed.scdn.to/video_player?uid=0&vid=fe3257c2153dde2f5a78e7720d62cffc&img=https://img.scdn.to/thumb/fe3257c2153dde2f5a78e7720d62cffc/large.jpg"
+        },
+        {
+            "Title": "Aftersun",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/oqJtcFE.jpg",
+            "Source": "https://embed.scdn.to/video_player?uid=0&vid=09f200b0a6320f6955e538b81f73b94c&img=https://img.scdn.to/thumb/09f200b0a6320f6955e538b81f73b94c/large.jpg"
+        },
+        {
+            "Title": "Trick or Treat Scooby-Doo!",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/jf88TVh.jpg",
+            "Source": "https://embed.scdn.to/video_player?uid=0&vid=fe8b8c7ffd7c559cec30909d1064de8c&img=https://img.scdn.to/thumb/fe8b8c7ffd7c559cec30909d1064de8c/large.jpg"
+        },
+        {
             "Title": "Togo",
             "Format": "WEB-DL",
             "Image Source": "https://imgpile.com/images/T5BXr2.jpg",
@@ -26,6 +50,38 @@
         }
     ],
     "asian-series": [
+        {
+            "Title": "Young Actors Retreat",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/gW2bIVb.jpg",
+            "Seasons": {
+                "173303": {
+                    "Season Number": 1,
+                    "Episodes": {
+                        "173305": {
+                            "Episode Number": 1,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=373369e9053792b00d1972b39cda6f0d&img=https://img.scdn.to/thumb/373369e9053792b00d1972b39cda6f0d/large.jpg"
+                        },
+                        "173356": {
+                            "Episode Number": 2,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=d1d4ec7aa121d9200e4ee5f740600fe1&img=https://img.scdn.to/thumb/d1d4ec7aa121d9200e4ee5f740600fe1/large.jpg"
+                        },
+                        "186015": {
+                            "Episode Number": 3,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=cf89fb4b95821dd479a3aa40bb8f2f3a&img=https://img.scdn.to/thumb/cf89fb4b95821dd479a3aa40bb8f2f3a/large.jpg"
+                        },
+                        "186405": {
+                            "Episode Number": 4,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=6c557d138824764ffae17e8dcfbf3a14&img=https://img.scdn.to/thumb/6c557d138824764ffae17e8dcfbf3a14/large.jpg"
+                        },
+                        "186825": {
+                            "Episode Number": 5,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=02d23a693a54f36e5cf2e28cfdd213e5&img=https://img.scdn.to/thumb/02d23a693a54f36e5cf2e28cfdd213e5/large.jpg"
+                        }
+                    }
+                }
+            }
+        },
         {
             "Title": "May It Please the Court",
             "Format": "1080p WEB-DL",
@@ -141,45 +197,204 @@
                     }
                 }
             }
+        }
+    ],
+    "anime": [
+        {
+            "Title": "Akiba Maid Sensou",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/Th1R7TO.jpg",
+            "Episodes": {
+                "187489": {
+                    "Episode Number": 1,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=9868d3889124a51c6974b656390beb9a&img=https://img.scdn.to/thumb/9868d3889124a51c6974b656390beb9a/large.jpg"
+                }
+            }
         },
         {
-            "Title": "Seasons of Blossom",
+            "Title": "Tiger & Bunny Season 2",
             "Format": "1080p WEB-DL",
-            "Image Source": "https://i.imgur.com/VugXq5U.jpg",
-            "Seasons": {
-                "186122": {
-                    "Season Number": 1,
-                    "Episodes": {
-                        "186124": {
-                            "Episode Number": 1,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=a1943f97e6883c7659a8835644a8db78&img=https://img.scdn.to/thumb/a1943f97e6883c7659a8835644a8db78/large.jpg"
-                        },
-                        "186126": {
-                            "Episode Number": 2,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=2b04b844adc59b5d093c402d6d3a9031&img=https://img.scdn.to/thumb/2b04b844adc59b5d093c402d6d3a9031/large.jpg"
-                        },
-                        "186127": {
-                            "Episode Number": 3,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=50a49b8d83806acda9fb19962ddbd89c&img=https://img.scdn.to/thumb/50a49b8d83806acda9fb19962ddbd89c/large.jpg"
-                        },
-                        "186128": {
-                            "Episode Number": 4,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=dff150bfa595ee84b397d0b90f52e409&img=https://img.scdn.to/thumb/dff150bfa595ee84b397d0b90f52e409/large.jpg"
-                        },
-                        "186647": {
-                            "Episode Number": 5,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=dec7781438afb11902fa98baceca307e&img=https://img.scdn.to/thumb/dec7781438afb11902fa98baceca307e/large.jpg"
-                        },
-                        "186649": {
-                            "Episode Number": 6,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=a3f3e72d2f0be995b12964acfd222d01&img=https://img.scdn.to/thumb/a3f3e72d2f0be995b12964acfd222d01/large.jpg"
-                        }
-                    }
+            "Image Source": "https://imgpile.com/images/TJNE5G.jpg",
+            "Episodes": {
+                "147647": {
+                    "Episode Number": 1,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=f3868ba22d25ed25a66879dfbed4094f&img=https://img.scdn.to/thumb/f3868ba22d25ed25a66879dfbed4094f/large.jpg"
+                },
+                "147648": {
+                    "Episode Number": 2,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=794d9a36a42aa70f88870fefb51efc1d&img=https://img.scdn.to/thumb/794d9a36a42aa70f88870fefb51efc1d/large.jpg"
+                },
+                "147649": {
+                    "Episode Number": 3,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=1f1484d936ac15f9abe67921afb0e23c&img=https://img.scdn.to/thumb/1f1484d936ac15f9abe67921afb0e23c/large.jpg"
+                },
+                "147650": {
+                    "Episode Number": 4,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=9af1defee88868612bc8ee6210bcc858&img=https://img.scdn.to/thumb/9af1defee88868612bc8ee6210bcc858/large.jpg"
+                },
+                "147651": {
+                    "Episode Number": 5,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=6b3d697b6b3307fb0e3cd304e87c29d7&img=https://img.scdn.to/thumb/6b3d697b6b3307fb0e3cd304e87c29d7/large.jpg"
+                },
+                "147652": {
+                    "Episode Number": 6,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=2ccd6c2575b71edefe90938dd1021b72&img=https://img.scdn.to/thumb/2ccd6c2575b71edefe90938dd1021b72/large.jpg"
+                },
+                "147653": {
+                    "Episode Number": 7,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=710ecf72e98cac1ebdfd4145f3ef4abe&img=https://img.scdn.to/thumb/710ecf72e98cac1ebdfd4145f3ef4abe/large.jpg"
+                },
+                "147654": {
+                    "Episode Number": 8,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=53b7196e609a1da980be587dc6ab2945&img=https://img.scdn.to/thumb/53b7196e609a1da980be587dc6ab2945/large.jpg"
+                },
+                "147655": {
+                    "Episode Number": 9,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=1bcbb549cba1dc3900f2de4cb0fa212c&img=https://img.scdn.to/thumb/1bcbb549cba1dc3900f2de4cb0fa212c/large.jpg"
+                },
+                "147656": {
+                    "Episode Number": 10,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=4aec3b0e907954e6836e54475ea90dfb&img=https://img.scdn.to/thumb/4aec3b0e907954e6836e54475ea90dfb/large.jpg"
+                },
+                "147657": {
+                    "Episode Number": 11,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=18fc6cae9cbc2ce49e2dd878cd3f5f93&img=https://img.scdn.to/thumb/18fc6cae9cbc2ce49e2dd878cd3f5f93/large.jpg"
+                },
+                "147658": {
+                    "Episode Number": 12,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=ac38f235a0001117b4653f1e78397a56&img=https://img.scdn.to/thumb/ac38f235a0001117b4653f1e78397a56/large.jpg"
+                },
+                "147659": {
+                    "Episode Number": 13,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=8cc8b465045f88eb0c28e85b1f45b10a&img=https://img.scdn.to/thumb/8cc8b465045f88eb0c28e85b1f45b10a/large.jpg"
+                },
+                "187468": {
+                    "Episode Number": 14,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=aeed8684643adcdf0c06248557ca84bc&img=https://img.scdn.to/thumb/aeed8684643adcdf0c06248557ca84bc/large.jpg"
+                },
+                "187471": {
+                    "Episode Number": 15,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=97beefb7ef19e7081a65b2ded5269ada&img=https://img.scdn.to/thumb/97beefb7ef19e7081a65b2ded5269ada/large.jpg"
+                },
+                "187472": {
+                    "Episode Number": 16,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=1c3c36b3d862e07ffe172aba4420c351&img=https://img.scdn.to/thumb/1c3c36b3d862e07ffe172aba4420c351/large.jpg"
+                },
+                "187473": {
+                    "Episode Number": 17,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=4754df6ba166bb2c4c55e057931ba372&img=https://img.scdn.to/thumb/4754df6ba166bb2c4c55e057931ba372/large.jpg"
+                },
+                "187474": {
+                    "Episode Number": 18,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=3484a63d9da21a4ce4e916e206197918&img=https://img.scdn.to/thumb/3484a63d9da21a4ce4e916e206197918/large.jpg"
+                },
+                "187475": {
+                    "Episode Number": 19,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=fa210e12e559ab3ef49b3dbaf08d856d&img=https://img.scdn.to/thumb/fa210e12e559ab3ef49b3dbaf08d856d/large.jpg"
+                },
+                "187476": {
+                    "Episode Number": 20,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=065d99424a3b7629711aec95df1b89d3&img=https://img.scdn.to/thumb/065d99424a3b7629711aec95df1b89d3/large.jpg"
+                },
+                "187477": {
+                    "Episode Number": 21,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=3f9a406d4cde6502cc602fb98039679c&img=https://img.scdn.to/thumb/3f9a406d4cde6502cc602fb98039679c/large.jpg"
+                },
+                "187478": {
+                    "Episode Number": 22,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=e8cbb9081c6f289530e43cad73daaf2e&img=https://img.scdn.to/thumb/e8cbb9081c6f289530e43cad73daaf2e/large.jpg"
+                },
+                "187479": {
+                    "Episode Number": 23,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=a2314e3dcc91260665bb0871597e59f3&img=https://img.scdn.to/thumb/a2314e3dcc91260665bb0871597e59f3/large.jpg"
+                },
+                "187480": {
+                    "Episode Number": 24,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=bd6b0fb286880c73817f2d866d7ee525&img=https://img.scdn.to/thumb/bd6b0fb286880c73817f2d866d7ee525/large.jpg"
+                },
+                "187481": {
+                    "Episode Number": 25,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=4ecd9325be14ea66e59f3fce35673e26&img=https://img.scdn.to/thumb/4ecd9325be14ea66e59f3fce35673e26/large.jpg"
+                }
+            }
+        },
+        {
+            "Title": "Tensei Shitara Ken Deshita",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/lA7XnmM.jpg",
+            "Episodes": {
+                "187469": {
+                    "Episode Number": 1,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=bf7fbd47a4c12354a5f38bdf4cbf4b47&img=https://img.scdn.to/thumb/bf7fbd47a4c12354a5f38bdf4cbf4b47/large.jpg"
+                }
+            }
+        },
+        {
+            "Title": "Saikin Yatotta Maid Ga Ayashii",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://imgpile.com/images/TJw4Pw.jpg",
+            "Episodes": {
+                "153494": {
+                    "Episode Number": 1,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=4715fb877f2dca32785289896907ac1e&img=https://img.scdn.to/thumb/4715fb877f2dca32785289896907ac1e/large.jpg"
+                },
+                "153947": {
+                    "Episode Number": 2,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=68c74f5605326fcd9003fe7751112701&img=https://img.scdn.to/thumb/68c74f5605326fcd9003fe7751112701/large.jpg"
+                },
+                "154887": {
+                    "Episode Number": 3,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=1b351f4d38b685dd8f95ccab431a4021&img=https://img.scdn.to/thumb/1b351f4d38b685dd8f95ccab431a4021/large.jpg"
+                },
+                "156156": {
+                    "Episode Number": 4,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=e80819b9d33a0e5dc3efcbd33666455f&img=https://img.scdn.to/thumb/e80819b9d33a0e5dc3efcbd33666455f/large.jpg"
+                },
+                "172503": {
+                    "Episode Number": 5,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=957c7eead6a963d5af670021a95352a6&img=https://img.scdn.to/thumb/957c7eead6a963d5af670021a95352a6/large.jpg"
+                },
+                "172938": {
+                    "Episode Number": 6,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=9517236a4fb39114523ed1106d057a1a&img=https://img.scdn.to/thumb/9517236a4fb39114523ed1106d057a1a/large.jpg"
+                },
+                "173248": {
+                    "Episode Number": 7,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=0c362c15c1332c6e115fa27bdf640535&img=https://img.scdn.to/thumb/0c362c15c1332c6e115fa27bdf640535/large.jpg"
+                },
+                "186351": {
+                    "Episode Number": 8,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=daca17e96dc83c35473305411a1808a1&img=https://img.scdn.to/thumb/daca17e96dc83c35473305411a1808a1/large.jpg"
+                },
+                "187365": {
+                    "Episode Number": 9,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=766222e17800d83d7eed5205369669f0&img=https://img.scdn.to/thumb/766222e17800d83d7eed5205369669f0/large.jpg"
+                }
+            }
+        },
+        {
+            "Title": "Do It Yourself !!",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/ThqTYWD.jpg",
+            "Episodes": {
+                "187362": {
+                    "Episode Number": 1,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=870c33bac1c89cd49f9f7fcca99c4d38&img=https://img.scdn.to/thumb/870c33bac1c89cd49f9f7fcca99c4d38/large.jpg"
+                }
+            }
+        },
+        {
+            "Title": "Mushikaburi-Hime",
+            "Format": "1080p WEB-DL",
+            "Image Source": "https://i.imgur.com/ug2Xean.jpg",
+            "Episodes": {
+                "187352": {
+                    "Episode Number": 1,
+                    "Episode Source": "https://embed.scdn.to/video_player?uid=0&vid=4da22aac702e9e8386d43a8740ba56a7&img=https://img.scdn.to/thumb/4da22aac702e9e8386d43a8740ba56a7/large.jpg"
                 }
             }
         }
     ],
-    "anime": [],
     "series": [
         {
             "Title": "Walker",
@@ -2046,7 +2261,7 @@
         {
             "Title": "Chucky",
             "Format": "1080p WEB-DL",
-            "Image Source": "https://imgpile.com/images/TKazhF.jpg",
+            "Image Source": "https://i.imgur.com/P8xqABF.jpg",
             "Seasons": {
                 "135375": {
                     "Season Number": 1,
@@ -2082,6 +2297,15 @@
                         "138633": {
                             "Episode Number": 8,
                             "Source": "https://embed.scdn.to/video_player?uid=0&vid=2d90a138b771317759b3d6faa411128a&img=https://img.scdn.to/thumb/2d90a138b771317759b3d6faa411128a/large.jpg"
+                        }
+                    }
+                },
+                "187353": {
+                    "Season Number": 2,
+                    "Episodes": {
+                        "187355": {
+                            "Episode Number": 1,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=bc81b6d8f05499117e16b6b176733c9b&img=https://img.scdn.to/thumb/bc81b6d8f05499117e16b6b176733c9b/large.jpg"
                         }
                     }
                 }

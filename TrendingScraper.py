@@ -10,28 +10,20 @@ def main():
         'https://www.faselhd.club/home3')
     soup = BeautifulSoup(home_page.content, 'html.parser')
 
-    new_content = soup.find_all('div', 'blockMovie')
-    new_content += soup.find_all('div', 'epDivHome')
+    trending_content = soup.find_all('div', 'blockMovie')
+    trending_content += soup.find_all('div', 'epDivHome')
 
     content_dict = {'movies': [], 'asian-series': [],
                     'anime': [], 'series': []}
     seen = []
 
-    for element in new_content:
+    for element in trending_content:
         link = element.find('a')['href']
-
         content_page = get_website_safe(link)
         soup = BeautifulSoup(content_page.content, 'html.parser')
 
-        content_title = remove_year(remove_arabic_chars(
-            soup.find('div', class_='h3').text.split('-')[0]))
-
-        content_title: str = re.split(r'\s{2,}', content_title)[0]
-
-        if DEBUG:
-            print(content_title)
-        else:
-            pass
+        content_title = remove_year(remove_arabic_chars(soup.find(
+            "div", class_="h1 title").text.split('\n')[1].strip()))
 
         if '%d9%81%d9%8a%d9%84%d9%85' in link:
             content_category = 'movies'
@@ -43,7 +35,7 @@ def main():
             content_category = 'series'
 
         if DEBUG:
-            print(link, content_category)
+            print(f"{content_title} // {link} // {content_category}\n")
         else:
             pass
 
@@ -51,8 +43,9 @@ def main():
             content_file = json.load(fp)
 
         for key in content_file:
-            current_element = content_file[key]
-            if (current_element["Title"] == content_title) and (key not in seen):
+            current_title = "".join(content_file[key]["Title"].lower().split())
+            clean_content_title = "".join(content_title.lower().split())
+            if (current_title == clean_content_title) and (key not in seen):
                 seen.append(key)
                 content_dict[content_category].append(content_file[key])
                 break

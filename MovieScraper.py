@@ -1,12 +1,9 @@
-from lib2to3.pgen2.token import OP
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet
 from Common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
 import time
-from typing import Optional
-from requests import Response
 
 setrecursionlimit(25000)
 
@@ -16,17 +13,17 @@ with open("./output/movies.json") as fp:
 
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
     """Scrapes all the movies in the page provided"""
-    movies_dict: dict[str, dict[str, str]] = {}
+    movies_dict = {}
 
     for movie_div in movie_divs:
-        movie_title: str = get_content_title(movie_div)
+        movie_title = get_content_title(movie_div)
 
-        movie_image_source: str = movie_div.img.attrs['data-src']
-        movie_page_url: str = movie_div.find("a")["href"]
-        movie_page: Optional[Response] = get_website_safe(movie_page_url)
+        movie_image_source = movie_div.img.attrs['data-src']
+        movie_page_url = movie_div.find("a")["href"]
+        movie_page = get_website_safe(movie_page_url)
 
         if movie_page is not None:
-            soup: BeautifulSoup = BeautifulSoup(
+            soup = BeautifulSoup(
                 movie_page.content, "html.parser")
         else:
             continue
@@ -39,7 +36,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             pass
 
         try:
-            iframeSource: str = soup.find("iframe")["src"]
+            iframeSource = soup.find("iframe")["src"]
         except TypeError:
             if DEBUG:
                 print(
@@ -49,7 +46,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             continue
 
         movies_dict[movie_id] = {}
-        movies_dict[movie_id]["Title"]= movie_title
+        movies_dict[movie_id]["Title"] = movie_title
         movies_dict[movie_id]["Format"] = get_content_format(soup)
 
         movies_dict[movie_id]["Image Source"] = save_image(
