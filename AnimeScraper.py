@@ -47,13 +47,12 @@ def get_iframe_source(episodes: list[str]) -> dict:
         episode_number = int(remove_arabic_chars(episode.text).strip())
         episode_page = get_website_safe(episode_url)
 
-        try:
+        if episode_page is not None:
             soup = BeautifulSoup(episode_page.content, "html.parser")
-        except AttributeError:
+        else:
             if DEBUG:
                 print(
-                    f"Experinced too many redirects when fetching {episode_url}, skipping it..."
-                )
+                    f"Could not reach {episode_url}")
             else:
                 pass
             continue

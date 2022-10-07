@@ -1,9 +1,9 @@
 from base64 import b64encode
 from time import sleep
 import requests
-from bs4 import BeautifulSoup, ResultSet, Tag
+from bs4 import BeautifulSoup, ResultSet
 from urllib.parse import quote
-from typing import Literal, Optional, Any
+from typing import Optional
 import json
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
