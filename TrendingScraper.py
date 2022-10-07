@@ -10,15 +10,15 @@ def main():
         'https://www.faselhd.club/home3')
     soup = BeautifulSoup(home_page.content, 'html.parser')
 
-    trending_content = soup.find_all('div', 'blockMovie')
-    trending_content += soup.find_all('div', 'epDivHome')
+    trending_content_divs = soup.find_all('div', 'blockMovie')
+    trending_content_divs += soup.find_all('div', 'epDivHome')
 
     content_dict = {'movies': [], 'asian-series': [],
                     'anime': [], 'series': []}
     seen = []
 
-    for element in trending_content:
-        link = element.find('a')['href']
+    for div in trending_content_divs:
+        link = div.find('a')['href']
         content_page = get_website_safe(link)
         soup = BeautifulSoup(content_page.content, 'html.parser')
 
