@@ -1,6 +1,6 @@
-import re
 from Common import *
 from bs4 import BeautifulSoup
+import time
 
 
 def main():
@@ -47,7 +47,7 @@ def main():
             clean_content_title = "".join(content_title.lower().split())
             if (current_title == clean_content_title) and (key not in seen):
                 seen.append(key)
-                content_dict[content_category].append(content_file[key])
+                content_dict[content_category].append({key: content_file[key]})
                 break
             else:
                 continue
@@ -57,6 +57,10 @@ def main():
 
 
 if __name__ == "__main__":
+    start_time = time.time()
     main()
+    print(
+        f"Finished scraping the homepage of fasel in about {round((time.time() - start_time) / 60)} minute(s)"
+    )
 else:
     pass
