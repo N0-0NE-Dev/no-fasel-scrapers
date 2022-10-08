@@ -145,12 +145,8 @@ def get_number_of_pages(url: str) -> int:
 
 
 def fix_url(url: str) -> str:
-    """Fixes the url by changing the unicode characters back to their original form"""
-    url_no_params = url.split("?")[0]
-    to_replace = "%3A"
-    clean_url = quote(url_no_params).replace(to_replace, ":")
-
-    return clean_url
+    """Fixes the url by changing the encoded characters back to their original form"""
+    return quote(url.split("?")[0]).replace("%3A", ":")
 
 
 def get_content_format(soup: BeautifulSoup) -> str:
@@ -209,13 +205,13 @@ def save_image(image_url: str, content_id: str) -> str:
             if response["status"] == 200:
                 return response["data"]["link"]
             else:
-                save_image_locally(content_id, image)
+                return save_image_locally(content_id, image)
 
     except InvalidURL or MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
 
     except ConnectTimeout:
-        save_image_locally(content_id, image)
+        return save_image_locally(content_id, image)
 
 
 def remove_year(title: str) -> str:
