@@ -177,7 +177,7 @@ def scrape_all_series(page_range: tuple) -> dict:
     return all_series_dict
 
 
-def main():
+def main() -> None:
     """Scrapes all the series, tv shows and asian series from fasel"""
     global old_series_dict, url
 

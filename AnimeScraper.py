@@ -161,7 +161,7 @@ def scrape_anime(page_range: tuple) -> dict:
     return anime_dict
 
 
-def main():
+def main() -> None:
     """Scrapes all the anime from fasel"""
     global old_animes
     get_cookies()

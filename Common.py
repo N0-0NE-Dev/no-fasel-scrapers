@@ -32,6 +32,9 @@ HEADERS = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
 }
 
+with open("./output/image-indices.json", "r") as fp:
+    IMAGE_SOURCES = json.load(fp)
+
 cookie_lock = Lock()
 driver = Chrome(use_subprocess=True)
 driver.minimize_window()
@@ -101,21 +104,18 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
 
 def split_into_ranges(number_of_ranges: int, number_to_be_split: int) -> list[tuple[int, int]]:
     """Splits the number into (more or less) equal intervals"""
-    pages_per_chunk = number_to_be_split // number_of_ranges
+    number_per_chunk = number_to_be_split // number_of_ranges
     ranges_list = []
 
-    for _ in range(number_of_ranges):
-        start_page = pages_per_chunk * _
+    for r in range(number_of_ranges):
+        start_page = number_per_chunk * r
 
-        if _ == number_of_ranges - 1:
+        if r == number_of_ranges - 1:
             end_page = number_to_be_split
         else:
-            end_page = pages_per_chunk * (_ + 1)
+            end_page = number_per_chunk * (r + 1)
 
-        if (
-            start_page + 1,
-            end_page + 1,
-        ) in ranges_list or start_page + 1 == end_page + 1:
+        if (start_page + 1, end_page + 1) in ranges_list or (start_page + 1 == end_page + 1):
             continue
         else:
             ranges_list.append((start_page + 1, end_page + 1))
@@ -129,7 +129,7 @@ def remove_arabic_chars(string: str) -> str:
 
 
 def get_number_of_pages(url: str) -> int:
-    """Gets the total number of pages of the category"""
+    """Gets the total number of pages for the category"""
     webpage = get_website_safe(url)
     soup = BeautifulSoup(webpage.content, "html.parser")
     last_page_button = soup.find("a", string="»")
@@ -138,10 +138,6 @@ def get_number_of_pages(url: str) -> int:
         last_page_url = last_page_button["href"]
         last_page_number = int(last_page_url.split("/")[-1])
     else:
-        if DEBUG:
-            print("No last page button found, trying another way...")
-        else:
-            pass
         pages_list = soup.find_all("li", class_="page-item")
         last_page_number = int(pages_list[-1].text)
 
@@ -158,7 +154,7 @@ def fix_url(url: str) -> str:
 
 
 def get_content_format(soup: BeautifulSoup) -> str:
-    """Gets the format of the content or returns N/A if no format was found"""
+    """Gets the format of the content, returns N/A if no format was found"""
     try:
         content_format = (
             soup.find("i", class_="fas fa-play-circle").find_next_sibling().text
@@ -175,17 +171,18 @@ def get_content_format(soup: BeautifulSoup) -> str:
 
 def get_content_id(soup: BeautifulSoup) -> str:
     """Gets the ID of the content"""
-    content_id = remove_arabic_chars(
+    return remove_arabic_chars(
         soup.find("i", class_="fas fa-dot-circle")
         .parent.text.replace(":", "")
         .replace("#", "")
     )
 
-    return content_id
 
+def save_image_locally(content_id: str, image: Response) -> str:
+    with open(f"./output/{content_id}.jpg", 'wb') as handler:
+        handler.write(image.content)
 
-with open("./output/image-indices.json", "r") as fp:
-    image_sources = json.load(fp)
+    return "Manual upload required"
 
 
 def save_image(image_url: str, content_id: str) -> str:
@@ -194,14 +191,15 @@ def save_image(image_url: str, content_id: str) -> str:
     If the image origin url could not be reached a default url for a balnk image is returned
     """
     try:
-        if content_id in image_sources:
-            return image_sources[content_id]
-
+        if content_id in IMAGE_SOURCES:
+            return IMAGE_SOURCES[content_id]
         else:
             image_url = fix_url(image_url)
             image = get_website_safe(image_url)
+
             data = {
                 "image": b64encode(image.content).decode("utf8")}
+
             headers = {
                 "Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
 
@@ -211,17 +209,13 @@ def save_image(image_url: str, content_id: str) -> str:
             if response["status"] == 200:
                 return response["data"]["link"]
             else:
-                with open(f"./output/{content_id}.jpg", 'wb') as handler:
-                    handler.write(image.content)
-                    return "Manual upload required"
+                save_image_locally(content_id, image)
 
     except InvalidURL or MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
 
     except ConnectTimeout:
-        with open(f"./output/{content_id}.jpg", 'wb') as handler:
-            handler.write(image.content)
-        return "Manual upload required"
+        save_image_locally(content_id, image)
 
 
 def remove_year(title: str) -> str:
@@ -236,8 +230,6 @@ def remove_year(title: str) -> str:
 
 def get_content_title(soup_result: ResultSet) -> str:
     """Gets the title of the content"""
-    title = remove_year(remove_arabic_chars(
+    return remove_year(remove_arabic_chars(
         soup_result.find("div", class_="h1").text
     ))
-
-    return title

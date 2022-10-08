@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 
 
-def main():
+def main() -> None:
     """Scrapes the content on the home page of fasel"""
     get_cookies()
     home_page = get_website_safe(

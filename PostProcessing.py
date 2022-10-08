@@ -1,17 +1,16 @@
 import json
-from typing import Any
 
 
-def main():
+def main() -> None:
     file_names: list[str] = [
         'anime', 'asian-series', 'movies', 'series', 'tvshows']
 
     with open('./output/image-indices.json', 'r') as fp:
-        image_indices: dict[str, str] = json.load(fp)
+        image_indices = json.load(fp)
 
     for file in file_names:
         with open(f'./output/{file}.json', 'r') as fp:
-            content: dict[str, dict[str, Any]] = json.load(fp)
+            content = json.load(fp)
 
         for key in content:
             image_indices[key] = content[key]["Image Source"]
