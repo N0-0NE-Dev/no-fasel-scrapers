@@ -13,8 +13,8 @@ def main() -> None:
     trending_content_divs = soup.find_all('div', 'blockMovie')
     trending_content_divs += soup.find_all('div', 'epDivHome')
 
-    content_dict = {'movies': [], 'asian-series': [],
-                    'anime': [], 'series': []}
+    content_dict = {'movies': {}, 'asian-series': {},
+                    'anime': {}, 'series': {}}
     seen = []
 
     for div in trending_content_divs:
@@ -47,7 +47,7 @@ def main() -> None:
             clean_content_title = "".join(content_title.lower().split())
             if (current_title == clean_content_title) and (key not in seen):
                 seen.append(key)
-                content_dict[content_category].append({key: content_file[key]})
+                content_dict[content_category].update({key: content_file[key]})
                 break
             else:
                 continue
