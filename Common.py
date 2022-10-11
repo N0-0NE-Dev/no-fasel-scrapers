@@ -14,7 +14,7 @@ from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, M
 from requests import Response
 from os import environ
 
-DEBUG = False
+DEBUG = True
 BASE_URL = "https://www.faselhd.club/"
 HEADERS = {
     'authority': 'www.faselhd.club',
@@ -102,23 +102,24 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
     return webpage
 
 
-def split_into_ranges(number_of_ranges: int, number_to_be_split: int) -> list[tuple[int, int]]:
+def split_into_ranges(number_of_ranges: int, range_end: int, range_start: int = 0) -> list[tuple[int, int]]:
     """Splits the number into (more or less) equal intervals"""
+    number_to_be_split = range_end - range_start
     number_per_chunk = number_to_be_split // number_of_ranges
     ranges_list = []
 
     for r in range(number_of_ranges):
-        start_page = number_per_chunk * r
+        begin = range_start + (number_per_chunk * r)
 
         if r == number_of_ranges - 1:
-            end_page = number_to_be_split
+            end = range_end
         else:
-            end_page = number_per_chunk * (r + 1)
+            end = range_start + (number_per_chunk * (r + 1))
 
-        if (start_page + 1, end_page + 1) in ranges_list or (start_page + 1 == end_page + 1):
+        if (begin + 1, end + 1) in ranges_list or (begin + 1 == end + 1):
             continue
         else:
-            ranges_list.append((start_page + 1, end_page + 1))
+            ranges_list.append((begin + 1, end + 1))
 
     return ranges_list
 

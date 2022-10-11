@@ -15,11 +15,7 @@ PATHS_TO_SCRAPE = [
 ]
 
 
-def scrape_season(
-    season: Tag,
-    series_title: str,
-    series_id: str
-) -> dict:
+def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
     """Gets the sources of all the episodes in the season provided"""
     global old_series_dict
     season_dict = {}
@@ -33,7 +29,7 @@ def scrape_season(
     soup = BeautifulSoup(season_page.content, "html.parser")
 
     try:
-        all_episodes = soup.find("div", class_="epAll").find_all("a")
+        all_season_episodes = soup.find("div", class_="epAll").find_all("a")
     except AttributeError:
         if DEBUG:
             print(
@@ -45,19 +41,19 @@ def scrape_season(
 
     try:
         old_series_dict[series_id]["Seasons"][season_id]["Episodes"]
-        if len(all_episodes) == len(old_series_dict[series_id]["Seasons"][season_id]["Episodes"]):
+        if len(all_season_episodes) == len(old_series_dict[series_id]["Seasons"][season_id]["Episodes"]):
             return {}
         else:
             pass
     except KeyError:
-        # Encountered a new series or season of a series_div, scraping it...
+        # Totally new series or season
         pass
 
     season_dict[season_id] = {}
     season_dict[season_id]["Season Number"] = season_number
     season_dict[season_id]["Episodes"] = {}
 
-    for episode_number, episode in enumerate(all_episodes, start=1):
+    for episode_number, episode in enumerate(all_season_episodes, start=1):
         episode_source = episode["href"]
         episode_page = get_website_safe(episode_source)
 
@@ -215,7 +211,7 @@ def main() -> None:
             json.dump(combined_series_dict, fp, indent=4)
 
         print(
-            f"Done scraping {url} in about {round((time.time() - start_time) / 60)} minute(s)"
+            f"Done scraping  all {path} from fasel in about {round((time.time() - start_time) / 60)} minute(s)"
         )
 
 

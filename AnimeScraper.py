@@ -6,6 +6,7 @@ from Common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
 from httpcore._exceptions import ConnectTimeout
+from httpx import ReadTimeout
 
 setrecursionlimit(25000)
 
@@ -15,14 +16,12 @@ with open("./output/anime.json", "r") as fp:
 
 def clean_anime_title(anime_title: str) -> str:
     """Translate the anime title and remove all unnecessary characters"""
-    translator = Translator()
-
     translation = None
-    while translation == None:
+    while translation is None:
         try:
-            translation = translator.translate(
+            translation = Translator().translate(
                 anime_title, src="ar", dest="en").text
-        except ConnectTimeout:
+        except ConnectTimeout or ReadTimeout:
             if DEBUG:
                 print("Failed to translate anime title, trying again...")
             else:
@@ -76,9 +75,10 @@ def get_iframe_source(episodes: list[str]) -> dict:
     return episodes_dict
 
 
-def scrape_episodes(number_of_episodes: int, episodes_sources: list[str]) -> dict:
+def scrape_episodes(current_number_of_episodes: int, episodes_sources: list[str], start_episode: int = 0) -> dict:
     """Scrapes all the episodes of the anime and their sources"""
-    episode_ranges = split_into_ranges(8, number_of_episodes)
+    episode_ranges = split_into_ranges(
+        8, current_number_of_episodes, start_episode)
 
     splitted_episodes_list = [
         episodes_sources[episode_range[0] - 1: episode_range[1] - 1]
@@ -96,7 +96,6 @@ def scrape_episodes(number_of_episodes: int, episodes_sources: list[str]) -> dic
 
 def scrape_anime(page_range: tuple) -> dict:
     """Scrapes all the animes in the page range provided"""
-    global old_animes
     anime_dict = {}
 
     for page in range(page_range[0], page_range[1]):
@@ -128,13 +127,22 @@ def scrape_anime(page_range: tuple) -> dict:
                     pass
                 continue
 
-            number_of_episodes = len(anime_episodes_list)
+            current_number_of_episodes = len(anime_episodes_list)
 
             try:
-                if number_of_episodes == len(old_animes[anime_id]["Episodes"]):
+                old_number_of_episodes = old_animes[anime_id]["Number Of Episodes"]
+                if current_number_of_episodes == old_number_of_episodes:
                     continue
                 else:
-                    pass
+                    new_episodes = scrape_episodes(
+                        current_number_of_episodes, anime_episodes_list, old_number_of_episodes)
+
+                    print(
+                        f"The anime with id {anime_id} needs {len(new_episodes)} new episodes")
+
+                    old_animes[anime_id]["Episodes"].update(new_episodes)
+
+                    continue
             except KeyError:
                 # Anime does not exist
                 pass
@@ -143,6 +151,7 @@ def scrape_anime(page_range: tuple) -> dict:
 
             anime_dict[anime_id] = {}
             anime_dict[anime_id]["Title"] = cleaned_anime_title
+            anime_dict[anime_id]["Number Of Episodes"] = current_number_of_episodes
             anime_dict[anime_id]["Format"] = get_content_format(soup)
 
             anime_dict[anime_id]["Image Source"] = save_image(
@@ -150,7 +159,7 @@ def scrape_anime(page_range: tuple) -> dict:
             )
 
             anime_dict[anime_id]["Episodes"] = scrape_episodes(
-                number_of_episodes, anime_episodes_list
+                current_number_of_episodes, anime_episodes_list
             )
 
         if DEBUG:
@@ -163,7 +172,6 @@ def scrape_anime(page_range: tuple) -> dict:
 
 def main() -> None:
     """Scrapes all the anime from fasel"""
-    global old_animes
     get_cookies()
     page_ranges_list = split_into_ranges(
         8, get_number_of_pages(BASE_URL + "anime")
