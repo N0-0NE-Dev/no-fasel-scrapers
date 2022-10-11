@@ -11,3 +11,4 @@ Include/*
 pyvenv.cfg
 __pycache__/*
 ScrapeAll.py
+.vscode

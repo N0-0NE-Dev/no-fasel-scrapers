@@ -10,8 +10,8 @@ setrecursionlimit(25000)
 
 PATHS_TO_SCRAPE = [
     "series",
-    "tvshows",
-    "asian-series",
+    # "tvshows",
+    # "asian-series",
 ]
 
 
@@ -39,9 +39,9 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
             pass
         return {}
 
+    current_number_of_episodes = len(all_season_episodes)
     try:
-        old_series_dict[series_id]["Seasons"][season_id]["Episodes"]
-        if len(all_season_episodes) == len(old_series_dict[series_id]["Seasons"][season_id]["Episodes"]):
+        if current_number_of_episodes == len(old_series_dict[series_id]["Seasons"][season_id]["Episodes"]):
             return {}
         else:
             pass
@@ -51,6 +51,7 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
 
     season_dict[season_id] = {}
     season_dict[season_id]["Season Number"] = season_number
+    season_dict[season_id]["Number Of Episodes"] = current_number_of_episodes
     season_dict[season_id]["Episodes"] = {}
 
     for episode_number, episode in enumerate(all_season_episodes, start=1):
@@ -81,10 +82,7 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
             continue
 
         season_dict[season_id]["Episodes"][episode_id] = {}
-        season_dict[season_id]["Episodes"][episode_id][
-            "Episode Number"
-        ] = episode_number
-
+        season_dict[season_id]["Episodes"][episode_id]["Episode Number"] = episode_number
         season_dict[season_id]["Episodes"][episode_id]["Source"] = iframe_source
 
     return season_dict
@@ -117,12 +115,6 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
         series_dict[series_id]["Title"] = series_title
         series_dict[series_id]["Format"] = get_content_format(soup)
 
-        series_dict[series_id]["Image Source"] = save_image(
-            series_image_source, series_id
-        )
-
-        series_dict[series_id]["Seasons"] = {}
-
         season_divs = soup.find_all("div", class_="col-xl-2 col-lg-3 col-md-6")
 
         with ThreadPoolExecutor() as executor:
@@ -133,6 +125,17 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
                 repeat(series_id)
             )
 
+        for season_dict in seasons_dicts:
+            total_number_of_episodes = 0
+            for season_key in season_dict:
+                total_number_of_episodes += season_dict[season_key]["Number Of Episodes"]
+
+        # series_dict[series_id]["Number Of episodes"] = total_number_of_episodes
+
+        series_dict[series_id]["Image Source"] = save_image(
+            series_image_source, series_id)
+
+        series_dict[series_id]["Seasons"] = {}
         for season_dict in seasons_dicts:
             series_dict[series_id]["Seasons"].update(season_dict)
 
@@ -188,7 +191,7 @@ def main() -> None:
         with open(file_path, "r") as fp:
             old_series_dict = json.load(fp)
 
-        page_ranges_list = split_into_ranges(8, get_number_of_pages(url))
+        page_ranges_list = split_into_ranges(8, 8)
 
         if DEBUG:
             print(page_ranges_list)

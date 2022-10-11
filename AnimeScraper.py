@@ -137,11 +137,10 @@ def scrape_anime(page_range: tuple) -> dict:
                     new_episodes = scrape_episodes(
                         current_number_of_episodes, anime_episodes_list, old_number_of_episodes)
 
-                    print(
-                        f"The anime with id {anime_id} needs {len(new_episodes)} new episodes")
+                    old_animes[anime_id]["Number Of Episodes"] = old_number_of_episodes + \
+                        len(new_episodes)
 
                     old_animes[anime_id]["Episodes"].update(new_episodes)
-
                     continue
             except KeyError:
                 # Anime does not exist
