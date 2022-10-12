@@ -15,6 +15,35 @@ PATHS_TO_SCRAPE = [
 ]
 
 
+def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> dict:
+    episodes_dict = {}
+    for index, episode in enumerate(episode_list):
+        episode_page = get_website_safe(episode["href"])
+
+        if episode_page is None:
+            continue
+        else:
+            soup = BeautifulSoup(episode_page.content, "html.parser")
+
+        try:
+            episode_id = soup.find(
+                "span", {"id": "liskSh"}).text.split("=")[-1]
+
+            iframe_source = soup.find("iframe")["src"]
+
+        except AttributeError:
+            continue
+
+        except TypeError:
+            continue
+
+        episodes_dict[episode_id] = {}
+        episodes_dict[episode_id]["Episode Number"] = last_episode_number + index
+        episodes_dict[episode_id]["Source"] = iframe_source
+
+    return episodes_dict
+
+
 def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
     """Gets the sources of all the episodes in the season provided"""
     global old_series_dict
@@ -40,11 +69,26 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
         return {}
 
     current_number_of_episodes = len(all_season_episodes)
+
     try:
-        if current_number_of_episodes == len(old_series_dict[series_id]["Seasons"][season_id]["Episodes"]):
+        old_number_of_episodes = old_series_dict[series_id]["Seasons"][season_id]["Number Of Episodes"]
+        if current_number_of_episodes == old_number_of_episodes:
             return {}
         else:
-            pass
+            raw_new_episodes = all_season_episodes[old_number_of_episodes:]
+
+            old_series_dict[series_id]["Seasons"][season_id]["Number Of Episodes"] += len(
+                raw_new_episodes)
+
+            new_episodes = scrape_episodes(
+                raw_new_episodes, old_number_of_episodes)
+
+            for episode in new_episodes:
+                old_series_dict[series_id]["Seasons"][season_id]["Episodes"].update(
+                    episode)
+
+            return {}
+
     except KeyError:
         # Totally new series or season
         pass
@@ -54,36 +98,10 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
     season_dict[season_id]["Number Of Episodes"] = current_number_of_episodes
     season_dict[season_id]["Episodes"] = {}
 
-    for episode_number, episode in enumerate(all_season_episodes, start=1):
-        episode_source = episode["href"]
-        episode_page = get_website_safe(episode_source)
+    episodes = scrape_episodes(all_season_episodes)
 
-        if episode_page is None:
-            continue
-        else:
-            pass
-
-        soup = BeautifulSoup(episode_page.content, "html.parser")
-        try:
-            episode_id = soup.find(
-                "span", {"id": "liskSh"}).text.split("=")[-1]
-        except AttributeError:
-            if DEBUG:
-                print(
-                    f"Episode {episode_number} in season {season_number} in the series with id {series_id} has no id")
-            else:
-                pass
-            continue
-
-        try:
-            iframe_source = soup.find("iframe")["src"]
-        except TypeError:
-            print("No source found for this one cheif, skipping it...")
-            continue
-
-        season_dict[season_id]["Episodes"][episode_id] = {}
-        season_dict[season_id]["Episodes"][episode_id]["Episode Number"] = episode_number
-        season_dict[season_id]["Episodes"][episode_id]["Source"] = iframe_source
+    for episode in episodes:
+        season_dict[season_id]["Episodes"].update(episode)
 
     return season_dict
 
@@ -114,6 +132,12 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
         series_dict[series_id] = {}
         series_dict[series_id]["Title"] = series_title
         series_dict[series_id]["Format"] = get_content_format(soup)
+        series_dict[series_id]["Number Of Episodes"] = 0
+
+        series_dict[series_id]["Image Source"] = save_image(
+            series_image_source, series_id)
+
+        series_dict[series_id]["Seasons"] = {}
 
         season_divs = soup.find_all("div", class_="col-xl-2 col-lg-3 col-md-6")
 
@@ -125,19 +149,14 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
                 repeat(series_id)
             )
 
+        total_number_of_episodes = 0
         for season_dict in seasons_dicts:
-            total_number_of_episodes = 0
+            series_dict[series_id]["Seasons"].update(season_dict)
+
             for season_key in season_dict:
                 total_number_of_episodes += season_dict[season_key]["Number Of Episodes"]
 
-        # series_dict[series_id]["Number Of episodes"] = total_number_of_episodes
-
-        series_dict[series_id]["Image Source"] = save_image(
-            series_image_source, series_id)
-
-        series_dict[series_id]["Seasons"] = {}
-        for season_dict in seasons_dicts:
-            series_dict[series_id]["Seasons"].update(season_dict)
+        series_dict[series_id]["Number Of Episodes"] = total_number_of_episodes
 
     return series_dict
 
@@ -191,7 +210,7 @@ def main() -> None:
         with open(file_path, "r") as fp:
             old_series_dict = json.load(fp)
 
-        page_ranges_list = split_into_ranges(8, 8)
+        page_ranges_list = split_into_ranges(8, get_number_of_pages(url))
 
         if DEBUG:
             print(page_ranges_list)
