@@ -10,8 +10,8 @@ setrecursionlimit(25000)
 
 PATHS_TO_SCRAPE = [
     "series",
-    # "tvshows",
-    # "asian-series",
+    "tvshows",
+    "asian-series",
 ]
 
 
