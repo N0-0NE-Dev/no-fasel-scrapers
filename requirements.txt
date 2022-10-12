@@ -1,7 +1,6 @@
 anyio==3.6.1
 async-generator==1.10
 attrs==22.1.0
-autopep8==1.7.0
 beautifulsoup4==4.11.1
 bs4==0.0.1
 certifi==2022.6.15

@@ -137,8 +137,8 @@ def scrape_anime(page_range: tuple) -> dict:
                     new_episodes = scrape_episodes(
                         current_number_of_episodes, anime_episodes_list, old_number_of_episodes)
 
-                    old_animes[anime_id]["Number Of Episodes"] = old_number_of_episodes + \
-                        len(new_episodes)
+                    old_animes[anime_id]["Number Of Episodes"] += len(
+                        new_episodes)
 
                     old_animes[anime_id]["Episodes"].update(new_episodes)
                     continue
