@@ -5,7 +5,6 @@ from googletrans import Translator
 from Common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
-from httpcore._exceptions import ConnectTimeout
 from httpx import ReadTimeout
 
 setrecursionlimit(25000)
@@ -21,11 +20,7 @@ def clean_anime_title(anime_title: str) -> str:
         try:
             translation = Translator().translate(
                 anime_title, src="ar", dest="en").text
-        except ConnectTimeout or ReadTimeout:
-            if DEBUG:
-                print("Failed to translate anime title, trying again...")
-            else:
-                pass
+        except ReadTimeout:
             translation = None
 
     cleaned_anime_title = translation.replace(
@@ -49,11 +44,6 @@ def get_iframe_source(episodes: list[str]) -> dict:
         if episode_page is not None:
             soup = BeautifulSoup(episode_page.content, "html.parser")
         else:
-            if DEBUG:
-                print(
-                    f"Could not reach {episode_url}")
-            else:
-                pass
             continue
 
         episode_id = get_content_id(soup)
@@ -61,11 +51,6 @@ def get_iframe_source(episodes: list[str]) -> dict:
         try:
             iframeSource = soup.find("iframe")["src"]
         except TypeError:
-            if DEBUG:
-                print(
-                    f"The episode on page {episode_url} has no source, skipping it...")
-            else:
-                pass
             continue
 
         episodes_dict[episode_id] = {}

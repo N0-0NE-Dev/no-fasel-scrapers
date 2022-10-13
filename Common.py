@@ -84,19 +84,13 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
             else:
                 pass
 
-        except ConnectionError or ReadTimeout:
-            if DEBUG:
-                print("Fetching website failed, trying again...")
-            else:
-                pass
+        except ConnectionError:
             webpage = None
+
+        except ReadTimeout:
+            webpage = None
+
         except TooManyRedirects:
-            if DEBUG:
-                print(
-                    f"Experinced too many redirects when fetching {webpage_url}, skipping it..."
-                )
-            else:
-                pass
             return None
 
     return webpage
@@ -183,8 +177,8 @@ def save_image_locally(content_id: str, image: Response) -> str:
 
 
 def save_image(image_url: str, content_id: str) -> str:
-    """Uploads the image to imgur and returns its url.
-    If the image could not be uploaded it will be saved locally for manual upload.
+    """Uploads the image to imgur and returns its url.\n
+    If the image could not be uploaded it will be saved locally for manual upload.\n
     If the image origin url could not be reached a default url for a balnk image is returned
     """
     try:
@@ -208,7 +202,10 @@ def save_image(image_url: str, content_id: str) -> str:
             else:
                 return save_image_locally(content_id, image)
 
-    except InvalidURL or MissingSchema:
+    except InvalidURL:
+        return "https://imgpile.com/images/TPDrVl.jpg"
+
+    except MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
 
     except ConnectTimeout:
