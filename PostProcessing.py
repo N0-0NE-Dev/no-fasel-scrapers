@@ -2,8 +2,7 @@ import json
 
 
 def main() -> None:
-    file_names: list[str] = [
-        'anime', 'asian-series', 'movies', 'series', 'tvshows']
+    file_names = ['anime', 'asian-series', 'movies', 'series', 'tvshows']
 
     with open('./output/image-indices.json', 'r') as fp:
         image_indices = json.load(fp)
@@ -18,6 +17,13 @@ def main() -> None:
         if file in ['asian-series', 'series', 'tvshows']:
             for key in list(content.keys()):
                 if len(content[key]["Seasons"]) == 0:
+                    del content[key]
+                else:
+                    continue
+
+        elif file == 'movies':
+            for key in list(content.keys()):
+                if content[key]["Source"] == "":
                     del content[key]
                 else:
                     continue
