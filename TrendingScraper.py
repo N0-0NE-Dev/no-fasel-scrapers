@@ -34,11 +34,6 @@ def main() -> None:
         else:
             content_category = 'series'
 
-        if DEBUG:
-            print(f"{content_title} // {link} // {content_category}\n")
-        else:
-            pass
-
         with open(f'./output/{content_category}.json', 'r') as fp:
             content_file = json.load(fp)
 

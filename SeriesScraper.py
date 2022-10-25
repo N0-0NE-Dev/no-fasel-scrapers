@@ -60,12 +60,6 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
     try:
         all_season_episodes = soup.find("div", class_="epAll").find_all("a")
     except AttributeError:
-        if DEBUG:
-            print(
-                f"No episodes found for the series {series_title} season {season_number}, skipping it..."
-            )
-        else:
-            pass
         return {}
 
     current_number_of_episodes = len(all_season_episodes)
@@ -90,20 +84,17 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
             return {}
 
     except KeyError:
-        # Totally new series or season
-        pass
+        season_dict[season_id] = {}
+        season_dict[season_id]["Season Number"] = season_number
+        season_dict[season_id]["Number Of Episodes"] = current_number_of_episodes
+        season_dict[season_id]["Episodes"] = {}
 
-    season_dict[season_id] = {}
-    season_dict[season_id]["Season Number"] = season_number
-    season_dict[season_id]["Number Of Episodes"] = current_number_of_episodes
-    season_dict[season_id]["Episodes"] = {}
+        episodes = scrape_episodes(all_season_episodes)
 
-    episodes = scrape_episodes(all_season_episodes)
+        for episode in episodes:
+            season_dict[season_id]["Episodes"].update(episode)
 
-    for episode in episodes:
-        season_dict[season_id]["Episodes"].update(episode)
-
-    return season_dict
+        return season_dict
 
 
 def scrape_page(series_divs: list[ResultSet]) -> dict:
@@ -121,12 +112,6 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
         try:
             series_id = get_content_id(soup)
         except AttributeError:
-            if DEBUG:
-                print(
-                    f"The series {series_title} either has no ID or is blank, skipping it..."
-                )
-            else:
-                pass
             return {}
 
         series_dict[series_id] = {}

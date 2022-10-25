@@ -104,12 +104,6 @@ def scrape_anime(page_range: tuple) -> dict:
                 anime_episodes_list = soup.find(
                     "div", class_="epAll").find_all("a")
             except AttributeError:
-                if DEBUG:
-                    print(
-                        f"The anime on page {anime_page_source} has no episodes, skipping it..."
-                    )
-                else:
-                    pass
                 continue
 
             current_number_of_episodes = len(anime_episodes_list)
@@ -128,23 +122,20 @@ def scrape_anime(page_range: tuple) -> dict:
                     old_animes[anime_id]["Episodes"].update(new_episodes)
                     continue
             except KeyError:
-                # Anime does not exist
-                pass
+                cleaned_anime_title = clean_anime_title(anime_title)
 
-            cleaned_anime_title = clean_anime_title(anime_title)
+                anime_dict[anime_id] = {}
+                anime_dict[anime_id]["Title"] = cleaned_anime_title
+                anime_dict[anime_id]["Number Of Episodes"] = current_number_of_episodes
+                anime_dict[anime_id]["Format"] = get_content_format(soup)
 
-            anime_dict[anime_id] = {}
-            anime_dict[anime_id]["Title"] = cleaned_anime_title
-            anime_dict[anime_id]["Number Of Episodes"] = current_number_of_episodes
-            anime_dict[anime_id]["Format"] = get_content_format(soup)
+                anime_dict[anime_id]["Image Source"] = save_image(
+                    anime_image_source, anime_id
+                )
 
-            anime_dict[anime_id]["Image Source"] = save_image(
-                anime_image_source, anime_id
-            )
-
-            anime_dict[anime_id]["Episodes"] = scrape_episodes(
-                current_number_of_episodes, anime_episodes_list
-            )
+                anime_dict[anime_id]["Episodes"] = scrape_episodes(
+                    current_number_of_episodes, anime_episodes_list
+                )
 
         if DEBUG:
             print(f'Done scraping page {page}')
