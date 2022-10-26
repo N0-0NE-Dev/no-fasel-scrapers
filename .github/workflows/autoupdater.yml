@@ -21,9 +21,10 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
     - name: Setup Browser
-      uses: browser-actions/setup-chrome@latest
+      uses: abhi1693/setup-browser@v0.3.4
       with:
-        chrome-version: beta
+        browser: chrome
+        version: latest
     - uses: actions/cache@v3
       with:
         path: ~\AppData\Local\pip\Cache
