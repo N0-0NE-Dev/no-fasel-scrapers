@@ -82,7 +82,6 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
                     episode)
 
             return {}
-
     except KeyError:
         season_dict[season_id] = {}
         season_dict[season_id]["Season Number"] = season_number
