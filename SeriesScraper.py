@@ -17,7 +17,7 @@ PATHS_TO_SCRAPE = [
 
 def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> dict:
     episodes_dict = {}
-    for index, episode in enumerate(episode_list):
+    for index, episode in enumerate(episode_list, start=1):
         episode_page = get_website_safe(episode["href"])
 
         if episode_page is None:
@@ -44,7 +44,7 @@ def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> di
     return episodes_dict
 
 
-def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
+def scrape_season(season: Tag, series_id: str) -> dict:
     """Gets the sources of all the episodes in the season provided"""
     global old_series_dict
     season_dict = {}
@@ -78,8 +78,7 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
                 raw_new_episodes, old_number_of_episodes)
 
             for episode in new_episodes:
-                old_series_dict[series_id]["Seasons"][season_id]["Episodes"].update(
-                    episode)
+                old_series_dict[series_id]["Seasons"][season_id]["Episodes"][episode] = new_episodes[episode]
 
             return {}
     except KeyError:
@@ -91,7 +90,7 @@ def scrape_season(season: Tag, series_title: str, series_id: str) -> dict:
         episodes = scrape_episodes(all_season_episodes)
 
         for episode in episodes:
-            season_dict[season_id]["Episodes"].update(episode)
+            season_dict[season_id]["Episodes"][episode] = episodes[episode]
 
         return season_dict
 
@@ -129,7 +128,6 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
             seasons_dicts = executor.map(
                 scrape_season,
                 season_divs,
-                repeat(series_title),
                 repeat(series_id)
             )
 

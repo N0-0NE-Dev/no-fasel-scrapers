@@ -12,9 +12,10 @@ from undetected_chromedriver import Chrome
 from threading import Lock
 from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout, ReadTimeout
 from requests import Response
-from os import environ
+from os import environ, remove
+from PIL import Image
 
-DEBUG = False
+DEBUG = True
 BASE_URL = "https://www.faselhd.club/"
 HEADERS = {
     'authority': 'www.faselhd.club',
@@ -170,13 +171,53 @@ def get_content_id(soup: BeautifulSoup) -> str:
 
 
 def save_image_locally(content_id: str, image: Response) -> str:
-    with open(f"./output/{content_id}.jpg", 'wb') as handler:
+    """Saves the webp image locally, converts it to jpg and returns the base64 encoded jpg image"""
+    image_path = f"./output/{content_id}"
+    webp_image_path = image_path + ".webp"
+    jpg_image_path = image_path + ".jpg"
+
+    with open(webp_image_path, 'wb') as handler:
         handler.write(image.content)
 
-    return "Manual upload required"
+    jpg_image = Image.open(webp_image_path).convert("RGB")
+    jpg_image.save(f"./output/{content_id}.jpg", "jpeg")
+
+    with open(jpg_image_path, "rb") as jpg_image_file:
+        image_bytes = jpg_image_file.read()
+
+    base64_image = b64encode(image_bytes).decode("utf8")
+    remove(webp_image_path)
+
+    return base64_image
 
 
-def save_image(image_url: str, content_id: str) -> str:
+def upload_image(base64_image: str, call_counter: int, content_id: str, raw_image: Response = None) -> str:
+    """Handles the upload to imgur"""
+    headers = {"Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
+    data = {"image": base64_image}
+
+    try:
+        response = requests.post(
+            "https://api.imgur.com/3/image", headers=headers, data=data).json()
+    except ConnectTimeout:
+        return "Manual upload required"
+
+    if response["status"] == 200:
+        if call_counter == 1:
+            remove(f"./output/{content_id}.jpg")
+        else:
+            pass
+
+        return response["data"]["link"]
+    else:
+        if call_counter == 0:
+            base64_image = save_image_locally(content_id, raw_image)
+            upload_image(base64_image, 1, content_id)
+        else:
+            return "Manual upload required"
+
+
+def save_image(image_url: str, content_id: str) -> Optional[str]:
     """Uploads the image to imgur and returns its url.\n
     If the image could not be uploaded it will be saved locally for manual upload.\n
     If the image origin url could not be reached a default url for a balnk image is returned
@@ -187,29 +228,15 @@ def save_image(image_url: str, content_id: str) -> str:
         else:
             image_url = fix_url(image_url)
             image = get_website_safe(image_url)
+            base64_image = b64encode(image.content).decode("utf8")
 
-            data = {
-                "image": b64encode(image.content).decode("utf8")}
-
-            headers = {
-                "Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
-
-            response = requests.post(
-                "https://api.imgur.com/3/image", headers=headers, data=data).json()
-
-            if response["status"] == 200:
-                return response["data"]["link"]
-            else:
-                return save_image_locally(content_id, image)
+            return upload_image(base64_image, 0, content_id, image)
 
     except InvalidURL:
         return "https://imgpile.com/images/TPDrVl.jpg"
 
     except MissingSchema:
         return "https://imgpile.com/images/TPDrVl.jpg"
-
-    except ConnectTimeout:
-        return save_image_locally(content_id, image)
 
 
 def remove_year(title: str) -> str:
@@ -224,6 +251,7 @@ def remove_year(title: str) -> str:
 
 def get_content_title(soup_result: ResultSet) -> str:
     """Gets the title of the content"""
-    return remove_year(remove_arabic_chars(
+    title = remove_year(remove_arabic_chars(
         soup_result.find("div", class_="h1").text
     ))
+    return title
