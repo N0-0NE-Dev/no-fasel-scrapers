@@ -21,10 +21,9 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
     - name: Setup Browser
-      uses: browser-actions/setup-chrome@latest
+      uses: abhi1693/setup-browser@v0.3.4
       with:
-        chrome-version: beta
-    - run: chrome --version
+        browser: chrome
     - name: Set up Python 3.10
       uses: actions/setup-python@v4
       with:
