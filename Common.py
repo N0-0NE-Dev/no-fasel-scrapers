@@ -37,7 +37,7 @@ with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
 
 cookie_lock = Lock()
-driver = Chrome(use_subprocess=True)
+driver = Chrome(use_subprocess=True, version_main=106)
 driver.minimize_window()
 driver.get("https://www.faselhd.club/home3")
 
