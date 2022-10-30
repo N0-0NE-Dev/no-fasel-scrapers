@@ -9,7 +9,7 @@ chardet==5.0.0
 charset-normalizer==3.0.0
 exceptiongroup==1.0.0
 googletrans-py==4.0.0
-h11==0.14.0
+h11==0.12.0
 h2==4.1.0
 hpack==4.0.0
 hstspreload==2022.10.1
