@@ -15,32 +15,28 @@ from requests import Response
 from os import environ, remove
 from PIL import Image
 
-DEBUG = False
+DEBUG = True
 BASE_URL = "https://www.faselhd.club/"
-HEADERS = {
-    'authority': 'www.faselhd.club',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'accept-language': 'en-US,en;q=0.9',
-    'cache-control': 'max-age=0',
-    'sec-ch-ua': '"Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"Windows"',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'same-origin',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
-}
+INJECTION_SCRIPT = 'return window.navigator.userAgent;'
 
 with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
 
 cookie_lock = Lock()
-driver = Chrome(use_subprocess=True, version_main=106)
+driver = Chrome(use_subprocess=True)
 driver.minimize_window()
 driver.get("https://www.faselhd.club/home3")
 
+WebDriverWait(driver, 60).until(
+    EC.presence_of_element_located(
+        (
+            By.CLASS_NAME,
+            "logo.ml-3",
+        )
+    )
+)
+
+HEADERS = {'user-agent': driver.execute_script(INJECTION_SCRIPT)}
 
 def get_cookies() -> None:
     """Gets new cookies to bypass cloudfalre"""
