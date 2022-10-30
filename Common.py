@@ -36,7 +36,7 @@ WebDriverWait(driver, 60).until(
     )
 )
 
-HEADER = {'user-agent': driver.execute_script(INJECTION_SCRIPT)}
+HEADERS = {'user-agent': driver.execute_script(INJECTION_SCRIPT)}
 
 def get_cookies() -> None:
     """Gets new cookies to bypass cloudfalre"""
@@ -68,7 +68,7 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
     while webpage is None:
         try:
             webpage = requests.get(
-                webpage_url, headers=HEADER, cookies=cookies_dict)
+                webpage_url, headers=HEADERS, cookies=cookies_dict)
 
             if "Cloudflare" in str(webpage.text):
                 if not cookie_lock.locked():
