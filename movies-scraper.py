@@ -1,9 +1,9 @@
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet
-from Common import *
+from common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
-import time
+from time import perf_counter
 
 setrecursionlimit(25000)
 
@@ -110,10 +110,11 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    start_time = time.time()
+    start_time = perf_counter()
     main()
+    end_time = perf_counter()
     print(
-        f"Finished scraping all movies from fasel in about {round((time.time() - start_time) / 60)} minute(s)"
+        f"Finished scraping all movies from fasel in about {round((end_time - start_time) / 60)} minute(s)"
     )
 else:
     pass

@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup, ResultSet, Tag
 from concurrent.futures import ThreadPoolExecutor
 from itertools import repeat
 import json
-import time
-from Common import *
+from time import perf_counter
+from common import *
 
 setrecursionlimit(25000)
 
@@ -181,7 +181,7 @@ def main() -> None:
     global old_series_dict, url
 
     for path in PATHS_TO_SCRAPE:
-        start_time = time.time()
+        start_time = perf_counter()
 
         url = BASE_URL + path
         file_path = f"./output/{path}.json"
@@ -213,8 +213,10 @@ def main() -> None:
         with open(file_path, "w") as fp:
             json.dump(combined_series_dict, fp, indent=4)
 
+        end_time = perf_counter()
+
         print(
-            f"Done scraping  all {path} from fasel in about {round((time.time() - start_time) / 60)} minute(s)"
+            f"Finished scraping  all {path} from fasel in about {round((end_time - start_time) / 60)} minute(s)"
         )
 
 

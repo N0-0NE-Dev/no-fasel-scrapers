@@ -1,8 +1,8 @@
 from sys import setrecursionlimit
-import time
+from time import perf_counter
 from bs4 import BeautifulSoup
 from googletrans import Translator
-from Common import *
+from common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
 from httpx import ReadTimeout
@@ -167,10 +167,11 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    start_time = time.time()
+    start_time = perf_counter()
     main()
+    end_time = perf_counter()
     print(
-        f"Done scraping all animes from fasel in about {round((time.time() - start_time) / 60)} minute(s)"
+        f"Done scraping all animes from fasel in about {round((end_time - start_time) / 60)} minute(s)"
     )
 else:
     pass

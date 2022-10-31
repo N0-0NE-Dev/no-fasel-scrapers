@@ -1,6 +1,6 @@
-from Common import *
+from common import *
 from bs4 import BeautifulSoup
-import time
+from time import perf_counter
 
 
 def main() -> None:
@@ -52,10 +52,11 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    start_time = time.time()
+    start_time = perf_counter()
     main()
+    end_time = perf_counter()
     print(
-        f"Finished scraping the homepage of fasel in about {round((time.time() - start_time) / 60)} minute(s)"
+        f"Finished scraping the homepage of fasel in about {round((end_time - start_time) / 60)} minute(s)"
     )
 else:
     pass
