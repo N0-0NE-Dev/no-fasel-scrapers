@@ -32,7 +32,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run scrappers
       run: |
-        python sscrape-all.py
+        python scrape-all.py
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
