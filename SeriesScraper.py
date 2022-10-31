@@ -66,8 +66,10 @@ def scrape_season(season: Tag, series_id: str) -> dict:
 
     try:
         old_number_of_episodes = old_series_dict[series_id]["Seasons"][season_id]["Number Of Episodes"]
+
         if current_number_of_episodes == old_number_of_episodes:
             return {}
+            
         else:
             raw_new_episodes = all_season_episodes[old_number_of_episodes:]
 
@@ -77,20 +79,17 @@ def scrape_season(season: Tag, series_id: str) -> dict:
             new_episodes = scrape_episodes(
                 raw_new_episodes, old_number_of_episodes)
 
-            for episode in new_episodes:
-                old_series_dict[series_id]["Seasons"][season_id]["Episodes"][episode] = new_episodes[episode]
+            old_series_dict[series_id]["Seasons"][season_id]["Episodes"].update(
+                new_episodes)
 
             return {}
+
     except KeyError:
         season_dict[season_id] = {}
         season_dict[season_id]["Season Number"] = season_number
         season_dict[season_id]["Number Of Episodes"] = current_number_of_episodes
-        season_dict[season_id]["Episodes"] = {}
-
-        episodes = scrape_episodes(all_season_episodes)
-
-        for episode in episodes:
-            season_dict[season_id]["Episodes"][episode] = episodes[episode]
+        season_dict[season_id]["Episodes"] = scrape_episodes(
+            all_season_episodes)
 
         return season_dict
 
