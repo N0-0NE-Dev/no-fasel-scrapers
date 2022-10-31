@@ -38,6 +38,7 @@ WebDriverWait(driver, 60).until(
 
 HEADERS = {'user-agent': driver.execute_script(INJECTION_SCRIPT)}
 
+
 def get_cookies() -> None:
     """Gets new cookies to bypass cloudfalre"""
     global cookies_dict

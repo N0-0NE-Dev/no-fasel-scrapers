@@ -69,7 +69,7 @@ def scrape_season(season: Tag, series_id: str) -> dict:
 
         if current_number_of_episodes == old_number_of_episodes:
             return {}
-            
+
         else:
             raw_new_episodes = all_season_episodes[old_number_of_episodes:]
 
