@@ -74,6 +74,80 @@
         }
     },
     "asian-series": {
+        "173363": {
+            "Title": "Mental Coach Jegal",
+            "Format": "1080p WEB-DL",
+            "Number Of Episodes": 14,
+            "Image Source": "https://i.imgur.com/KKK2mIT.jpg",
+            "Seasons": {
+                "173363": {
+                    "Season Number": 1,
+                    "Number Of Episodes": 15,
+                    "Episodes": {
+                        "173367": {
+                            "Episode Number": 1,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=a15cfc6c9daeec563d376d566387a359&img=https://img.scdn.to/thumb/a15cfc6c9daeec563d376d566387a359/large.jpg"
+                        },
+                        "173380": {
+                            "Episode Number": 2,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=53e9eaeb4e316cee13c8e30148e7155d&img=https://img.scdn.to/thumb/53e9eaeb4e316cee13c8e30148e7155d/large.jpg"
+                        },
+                        "186021": {
+                            "Episode Number": 3,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=8705f0c5919b4b9a77411659d0018c8d&img=https://img.scdn.to/thumb/8705f0c5919b4b9a77411659d0018c8d/large.jpg"
+                        },
+                        "186083": {
+                            "Episode Number": 4,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=c7b376fd61e0abdd4321aac420d90636&img=https://img.scdn.to/thumb/c7b376fd61e0abdd4321aac420d90636/large.jpg"
+                        },
+                        "186527": {
+                            "Episode Number": 5,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=494da8599cc42c3cf6c28ffa39d61f28&img=https://img.scdn.to/thumb/494da8599cc42c3cf6c28ffa39d61f28/large.jpg"
+                        },
+                        "186623": {
+                            "Episode Number": 6,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=ce516a67dae54b0cc00c61af71d6a775&img=https://img.scdn.to/thumb/ce516a67dae54b0cc00c61af71d6a775/large.jpg"
+                        },
+                        "187158": {
+                            "Episode Number": 7,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid= 79d8ce033abff238a64b918b1785521c&img=https://img.scdn.to/thumb/ 79d8ce033abff238a64b918b1785521c/large.jpg"
+                        },
+                        "187202": {
+                            "Episode Number": 8,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=801da45d4b1eaa51457e5636c6d1f767&img=https://img.scdn.to/thumb/801da45d4b1eaa51457e5636c6d1f767/large.jpg"
+                        },
+                        "188331": {
+                            "Episode Number": 9,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=7da2bcda462b99e0209a9bfea05e5fe8&img=https://img.scdn.to/thumb/7da2bcda462b99e0209a9bfea05e5fe8/large.jpg"
+                        },
+                        "188398": {
+                            "Episode Number": 10,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=97211c8564955a2b589e272ff57d0d1f&img=https://img.scdn.to/thumb/97211c8564955a2b589e272ff57d0d1f/large.jpg"
+                        },
+                        "189011": {
+                            "Episode Number": 11,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=464e118f87f93b8c7f1f1158d0e03784&img=https://img.scdn.to/thumb/464e118f87f93b8c7f1f1158d0e03784/large.jpg"
+                        },
+                        "189117": {
+                            "Episode Number": 12,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=4a6965dd98918676d7bde1f499314647&img=https://img.scdn.to/thumb/4a6965dd98918676d7bde1f499314647/large.jpg"
+                        },
+                        "189744": {
+                            "Episode Number": 13,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=69ddf7eef820ca0ebd66116c42c027b1&img=https://img.scdn.to/thumb/69ddf7eef820ca0ebd66116c42c027b1/large.jpg"
+                        },
+                        "189803": {
+                            "Episode Number": 14,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=ec25556882da430d670c9467221da8ad&img=https://img.scdn.to/thumb/ec25556882da430d670c9467221da8ad/large.jpg"
+                        },
+                        "190321": {
+                            "Episode Number": 15,
+                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=a01ccd2f52edfe86302e4efc4b482c91&img=https://img.scdn.to/thumb/a01ccd2f52edfe86302e4efc4b482c91/large.jpg"
+                        }
+                    }
+                }
+            }
+        },
         "106890": {
             "Title": "Knowing Bros",
             "Format": "1080p HDTV",
@@ -873,76 +947,6 @@
                         "190230": {
                             "Episode Number": 6,
                             "Source": "https://embed.scdn.to/video_player?uid=0&vid=f098886c56eb9eac7f1cc27121704702&img=https://img.scdn.to/thumb/f098886c56eb9eac7f1cc27121704702/large.jpg"
-                        }
-                    }
-                }
-            }
-        },
-        "180683": {
-            "Title": "Blind",
-            "Format": "1080p WEB-DL",
-            "Number Of Episodes": 12,
-            "Image Source": "https://i.imgur.com/cUzwqjt.jpg",
-            "Seasons": {
-                "180683": {
-                    "Season Number": 1,
-                    "Number Of Episodes": 14,
-                    "Episodes": {
-                        "180693": {
-                            "Episode Number": 1,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=5b3a387db1bf067d7c6a9102edd72460&img=https://img.scdn.to/thumb/5b3a387db1bf067d7c6a9102edd72460/large.jpg"
-                        },
-                        "182402": {
-                            "Episode Number": 2,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=9d04747604fed9bdc66cd1d36b8736c6&img=https://img.scdn.to/thumb/9d04747604fed9bdc66cd1d36b8736c6/large.jpg"
-                        },
-                        "186417": {
-                            "Episode Number": 3,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=d3bd561f6c3b60ec8884e01293674004&img=https://img.scdn.to/thumb/d3bd561f6c3b60ec8884e01293674004/large.jpg"
-                        },
-                        "186461": {
-                            "Episode Number": 4,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=65898d0d1c5a1260587dd2830bc4eca2&img=https://img.scdn.to/thumb/65898d0d1c5a1260587dd2830bc4eca2/large.jpg"
-                        },
-                        "186892": {
-                            "Episode Number": 5,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=7c4b9273d909573c47b70db5962d2101&img=https://img.scdn.to/thumb/7c4b9273d909573c47b70db5962d2101/large.jpg"
-                        },
-                        "187009": {
-                            "Episode Number": 6,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=32e90011b15484d76c4d5686dc4c2db3&img=https://img.scdn.to/thumb/32e90011b15484d76c4d5686dc4c2db3/large.jpg"
-                        },
-                        "188100": {
-                            "Episode Number": 7,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=8ec9b9b59a35a0fb091028ed7ec79260&img=https://img.scdn.to/thumb/8ec9b9b59a35a0fb091028ed7ec79260/large.jpg"
-                        },
-                        "188171": {
-                            "Episode Number": 8,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=ec60d091940d0c4a7d77031f5f025247&img=https://img.scdn.to/thumb/ec60d091940d0c4a7d77031f5f025247/large.jpg"
-                        },
-                        "188741": {
-                            "Episode Number": 9,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=4136440f3c30760195bf897d14158d35&img=https://img.scdn.to/thumb/4136440f3c30760195bf897d14158d35/large.jpg"
-                        },
-                        "188832": {
-                            "Episode Number": 10,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=ad4e375f8252843a3fef4c46068bb9ed&img=https://img.scdn.to/thumb/ad4e375f8252843a3fef4c46068bb9ed/large.jpg"
-                        },
-                        "189429": {
-                            "Episode Number": 11,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=569cba227a956b9cab989e151a4e6141&img=https://img.scdn.to/thumb/569cba227a956b9cab989e151a4e6141/large.jpg"
-                        },
-                        "189581": {
-                            "Episode Number": 12,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=12f288bc99e9eed85febd8b7fc4b1c65&img=https://img.scdn.to/thumb/12f288bc99e9eed85febd8b7fc4b1c65/large.jpg"
-                        },
-                        "190179": {
-                            "Episode Number": 13,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=ac1948a57e5aa7420bc7fd600fd953a8&img=https://img.scdn.to/thumb/ac1948a57e5aa7420bc7fd600fd953a8/large.jpg"
-                        },
-                        "190216": {
-                            "Episode Number": 14,
-                            "Source": "https://embed.scdn.to/video_player?uid=0&vid=8ffe7c07c4bac2033ed7f3e78211e75c&img=https://img.scdn.to/thumb/8ffe7c07c4bac2033ed7f3e78211e75c/large.jpg"
                         }
                     }
                 }
