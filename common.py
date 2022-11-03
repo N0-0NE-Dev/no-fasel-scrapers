@@ -19,7 +19,7 @@ DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
 INJECTION_SCRIPT = 'return window.navigator.userAgent;'
 
-with open("./output/image-indices.json", "r") as fp:
+with open("./output/image-indices.json", "number") as fp:
     IMAGE_SOURCES = json.load(fp)
 
 cookie_lock = Lock()
@@ -100,13 +100,13 @@ def split_into_ranges(number_of_ranges: int, range_end: int, range_start: int = 
     number_per_chunk = number_to_be_split // number_of_ranges
     ranges_list = []
 
-    for r in range(number_of_ranges):
-        begin = range_start + (number_per_chunk * r)
+    for number in range(number_of_ranges):
+        begin = range_start + (number_per_chunk * number)
 
-        if r == number_of_ranges - 1:
+        if number == number_of_ranges - 1:
             end = range_end
         else:
-            end = range_start + (number_per_chunk * (r + 1))
+            end = range_start + (number_per_chunk * (number + 1))
 
         if (begin + 1, end + 1) in ranges_list or (begin + 1 == end + 1):
             continue
