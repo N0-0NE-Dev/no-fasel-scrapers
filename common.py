@@ -19,7 +19,7 @@ DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
 INJECTION_SCRIPT = 'return window.navigator.userAgent;'
 
-with open("./output/image-indices.json", "number") as fp:
+with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
 
 cookie_lock = Lock()
