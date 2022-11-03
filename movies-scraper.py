@@ -13,6 +13,7 @@ with open("./output/movies.json") as fp:
 
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
     """Scrapes all the movies in the page provided"""
+    movies_dict = {}
     for movie_div in movie_divs:
         movie_title = get_content_title(movie_div)
 
@@ -37,14 +38,11 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         except TypeError:
             continue
 
-        movies_dict = {
-            movie_id:
-            {
-                "Title": movie_title,
-                "Format": get_content_format(soup),
-                "Image Source": save_image(movie_image_source, movie_id),
-                "Source": iframeSource
-            }
+        movies_dict[movie_id] = {
+            "Title": movie_title,
+            "Format": get_content_format(soup),
+            "Image Source": save_image(movie_image_source, movie_id),
+            "Source": iframeSource
         }
 
     return movies_dict
