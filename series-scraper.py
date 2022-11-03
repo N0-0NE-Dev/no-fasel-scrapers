@@ -37,9 +37,10 @@ def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> di
         except TypeError:
             continue
 
-        episodes_dict[episode_id] = {}
-        episodes_dict[episode_id]["Episode Number"] = last_episode_number + index
-        episodes_dict[episode_id]["Source"] = iframe_source
+        episodes_dict[episode_id] = {
+            "Episode Number": last_episode_number + index,
+            "Source": iframe_source
+        }
 
     return episodes_dict
 
@@ -47,12 +48,10 @@ def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> di
 def scrape_season(season: Tag, series_id: str) -> dict:
     """Gets the sources of all the episodes in the season provided"""
     global old_series_dict
-    season_dict = {}
     season_id = season.find("div")["data-href"]
 
     season_number = int(remove_arabic_chars(
-        season.find("div", class_="title").text
-    ).lstrip())
+        season.find("div", class_="title").text).lstrip())
 
     season_page = get_website_safe(BASE_URL + f"?p={season_id}")
     soup = BeautifulSoup(season_page.content, "html.parser")
@@ -85,11 +84,14 @@ def scrape_season(season: Tag, series_id: str) -> dict:
             return {}
 
     except KeyError:
-        season_dict[season_id] = {}
-        season_dict[season_id]["Season Number"] = season_number
-        season_dict[season_id]["Number Of Episodes"] = current_number_of_episodes
-        season_dict[season_id]["Episodes"] = scrape_episodes(
-            all_season_episodes)
+        season_dict = {
+            season_id:
+            {
+                "Season Number": season_number,
+                "Number Of Episodes": current_number_of_episodes,
+                "Episodes": scrape_episodes(all_season_episodes)
+            }
+        }
 
         return season_dict
 
@@ -111,15 +113,13 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
         except AttributeError:
             return {}
 
-        series_dict[series_id] = {}
-        series_dict[series_id]["Title"] = series_title
-        series_dict[series_id]["Format"] = get_content_format(soup)
-        series_dict[series_id]["Number Of Episodes"] = 0
-
-        series_dict[series_id]["Image Source"] = save_image(
-            series_image_source, series_id)
-
-        series_dict[series_id]["Seasons"] = {}
+        series_dict[series_id] = {
+            "Title": series_title,
+            "Format": get_content_format(soup),
+            "Number Of Episodes": 0,
+            "Image Source": save_image(series_image_source, series_id),
+            "Seasons": {}
+        }
 
         season_divs = soup.find_all("div", class_="col-xl-2 col-lg-3 col-md-6")
 

@@ -13,8 +13,6 @@ with open("./output/movies.json") as fp:
 
 def scrape_page(movie_divs: list[ResultSet]) -> dict:
     """Scrapes all the movies in the page provided"""
-    movies_dict = {}
-
     for movie_div in movie_divs:
         movie_title = get_content_title(movie_div)
 
@@ -23,8 +21,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         movie_page = get_website_safe(movie_page_url)
 
         if movie_page is not None:
-            soup = BeautifulSoup(
-                movie_page.content, "html.parser")
+            soup = BeautifulSoup(movie_page.content, "html.parser")
         else:
             continue
 
@@ -40,14 +37,15 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         except TypeError:
             continue
 
-        movies_dict[movie_id] = {}
-        movies_dict[movie_id]["Title"] = movie_title
-        movies_dict[movie_id]["Format"] = get_content_format(soup)
-
-        movies_dict[movie_id]["Image Source"] = save_image(
-            movie_image_source, movie_id)
-
-        movies_dict[movie_id]["Source"] = iframeSource
+        movies_dict = {
+            movie_id:
+            {
+                "Title": movie_title,
+                "Format": get_content_format(soup),
+                "Image Source": save_image(movie_image_source, movie_id),
+                "Source": iframeSource
+            }
+        }
 
     return movies_dict
 

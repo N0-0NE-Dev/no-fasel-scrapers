@@ -53,9 +53,10 @@ def get_iframe_source(episodes: list[str]) -> dict:
         except TypeError:
             continue
 
-        episodes_dict[episode_id] = {}
-        episodes_dict[episode_id]["Episode Number"] = episode_number
-        episodes_dict[episode_id]["Episode Source"] = iframeSource
+        episodes_dict[episode_id] = {
+            "Episode Number": episode_number,
+            "Episode Source": iframeSource
+        }
 
     return episodes_dict
 
@@ -70,13 +71,10 @@ def scrape_episodes(current_number_of_episodes: int, episodes_sources: list[str]
         for episode_range in episode_ranges
     ]
 
-    master_dict = {}
     with ThreadPoolExecutor() as executor:
         results = executor.map(get_iframe_source, splitted_episodes_list)
-        for result in results:
-            master_dict.update(result)
 
-    return master_dict
+    return results
 
 
 def scrape_anime(page_range: tuple) -> dict:
@@ -124,18 +122,13 @@ def scrape_anime(page_range: tuple) -> dict:
             except KeyError:
                 cleaned_anime_title = clean_anime_title(anime_title)
 
-                anime_dict[anime_id] = {}
-                anime_dict[anime_id]["Title"] = cleaned_anime_title
-                anime_dict[anime_id]["Number Of Episodes"] = current_number_of_episodes
-                anime_dict[anime_id]["Format"] = get_content_format(soup)
-
-                anime_dict[anime_id]["Image Source"] = save_image(
-                    anime_image_source, anime_id
-                )
-
-                anime_dict[anime_id]["Episodes"] = scrape_episodes(
-                    current_number_of_episodes, anime_episodes_list
-                )
+                anime_dict[anime_id] = {
+                    "Title": cleaned_anime_title,
+                    "Number Of Episodes": current_number_of_episodes,
+                    "Format": get_content_format(soup),
+                    "Image Source": save_image(anime_image_source, anime_id),
+                    "Episodes": scrape_episodes(current_number_of_episodes, anime_episodes_list)
+                }
 
         if DEBUG:
             print(f'Done scraping page {page}')
