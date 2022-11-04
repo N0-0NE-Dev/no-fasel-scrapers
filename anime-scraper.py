@@ -74,7 +74,11 @@ def scrape_episodes(current_number_of_episodes: int, episodes_sources: list[str]
     with ThreadPoolExecutor() as executor:
         results = executor.map(get_iframe_source, splitted_episodes_list)
 
-    return results
+    master_dict = {}
+    for result in results:
+        master_dict.update(result)
+
+    return master_dict
 
 
 def scrape_anime(page_range: tuple) -> dict:
