@@ -17,7 +17,6 @@ from PIL import Image
 
 DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
-INJECTION_SCRIPT = 'return window.navigator.userAgent;'
 
 with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
@@ -36,7 +35,9 @@ WebDriverWait(driver, 60).until(
     )
 )
 
-HEADERS = {'user-agent': driver.execute_script(INJECTION_SCRIPT)}
+HEADERS = {
+    'user-agent': driver.execute_script('return window.navigator.userAgent;')
+}
 
 
 def get_cookies() -> None:
