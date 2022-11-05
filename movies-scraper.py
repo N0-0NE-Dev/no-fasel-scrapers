@@ -15,9 +15,6 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
     """Scrapes all the movies in the page provided"""
     movies_dict = {}
     for movie_div in movie_divs:
-        movie_title = get_content_title(movie_div)
-
-        movie_image_source = movie_div.img.attrs['data-src']
         movie_page_url = movie_div.find("a")["href"]
         movie_page = get_website_safe(movie_page_url)
 
@@ -26,7 +23,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         else:
             continue
 
-        movie_id: str = get_content_id(soup)
+        movie_id = get_content_id(soup)
 
         if movie_id in old_movies_dict:
             continue
@@ -39,9 +36,9 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             continue
 
         movies_dict[movie_id] = {
-            "Title": movie_title,
+            "Title": get_content_title(movie_div),
             "Format": get_content_format(soup),
-            "Image Source": save_image(movie_image_source, movie_id),
+            "Image Source": save_image(movie_div.img.attrs['data-src'], movie_id),
             "Source": iframeSource
         }
 
