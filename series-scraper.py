@@ -101,11 +101,7 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
     series_dict = {}
 
     for series_div in series_divs:
-        series_image_source = series_div.img.attrs['data-src']
-        series_page_source = series_div.find("a")["href"]
-        series_title = get_content_title(series_div)
-
-        series_page = get_website_safe(series_page_source)
+        series_page = get_website_safe(series_div.find("a")["href"])
         soup = BeautifulSoup(series_page.content, "html.parser")
 
         try:
@@ -114,10 +110,10 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
             return {}
 
         series_dict[series_id] = {
-            "Title": series_title,
+            "Title": get_content_title(series_div),
             "Format": get_content_format(soup),
             "Number Of Episodes": 0,
-            "Image Source": save_image(series_image_source, series_id),
+            "Image Source": save_image(series_div.img.attrs['data-src'], series_id),
             "Seasons": {}
         }
 

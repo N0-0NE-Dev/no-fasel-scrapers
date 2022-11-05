@@ -38,7 +38,6 @@ def get_iframe_source(episodes: list[str]) -> dict:
 
     for episode in episodes:
         episode_url = episode["href"]
-        episode_number = int(remove_arabic_chars(episode.text).strip())
         episode_page = get_website_safe(episode_url)
 
         if episode_page is not None:
@@ -54,7 +53,7 @@ def get_iframe_source(episodes: list[str]) -> dict:
             continue
 
         episodes_dict[episode_id] = {
-            "Episode Number": episode_number,
+            "Episode Number":  int(remove_arabic_chars(episode.text).strip()),
             "Episode Source": iframeSource
         }
 
@@ -94,7 +93,6 @@ def scrape_anime(page_range: tuple) -> dict:
 
         for anime_div in anime_divs:
             anime_title = anime_div.find("div", class_="h1").text
-            anime_image_source = anime_div.img.attrs['data-src']
             anime_page_source = anime_div.find("a")["href"]
 
             anime_page = get_website_safe(anime_page_source)
@@ -130,7 +128,7 @@ def scrape_anime(page_range: tuple) -> dict:
                     "Title": cleaned_anime_title,
                     "Number Of Episodes": current_number_of_episodes,
                     "Format": get_content_format(soup),
-                    "Image Source": save_image(anime_image_source, anime_id),
+                    "Image Source": save_image(anime_div.img.attrs['data-src'], anime_id),
                     "Episodes": scrape_episodes(current_number_of_episodes, anime_episodes_list)
                 }
 
