@@ -159,13 +159,16 @@ def get_content_format(soup: BeautifulSoup) -> str:
         return "N/A"
 
 
-def get_content_id(soup: BeautifulSoup) -> str:
+def get_content_id(soup: BeautifulSoup) -> Optional[str]:
     """Gets the ID of the content"""
-    return remove_arabic_chars(
-        soup.find("i", class_="fas fa-dot-circle")
-        .parent.text.replace(":", "")
-        .replace("#", "")
-    )
+    try:
+        return remove_arabic_chars(
+            soup.find("i", class_="fas fa-dot-circle")
+            .parent.text.replace(":", "")
+            .replace("#", "")
+        )
+    except AttributeError:
+        return None
 
 
 def save_image_locally(content_id: str, image: Response) -> str:

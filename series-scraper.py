@@ -104,10 +104,12 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
         series_page = get_website_safe(series_div.find("a")["href"])
         soup = BeautifulSoup(series_page.content, "html.parser")
 
-        try:
-            series_id = get_content_id(soup)
-        except AttributeError:
+        series_id = get_content_id(soup)
+
+        if series_id is None:
             return {}
+        else:
+            pass
 
         series_dict[series_id] = {
             "Title": get_content_title(series_div),

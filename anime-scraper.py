@@ -100,6 +100,11 @@ def scrape_anime(page_range: tuple) -> dict:
 
             anime_id = get_content_id(soup)
 
+            if anime_id is None:
+                continue
+            else:
+                pass
+
             try:
                 anime_episodes_list = soup.find(
                     "div", class_="epAll").find_all("a")
@@ -154,8 +159,9 @@ def main() -> None:
 
     with ThreadPoolExecutor() as executor:
         results = executor.map(scrape_anime, page_ranges_list)
-        for result in results:
-            old_animes.update(result)
+        
+    for result in results:
+        old_animes.update(result)
 
     with open("./output/anime.json", "w") as fp:
         json.dump(old_animes, fp, indent=4)

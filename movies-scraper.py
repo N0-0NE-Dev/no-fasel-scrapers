@@ -25,7 +25,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
 
         movie_id = get_content_id(soup)
 
-        if movie_id in old_movies_dict:
+        if (movie_id in old_movies_dict) or (movie_id is None):
             continue
         else:
             pass
@@ -95,8 +95,8 @@ def main() -> None:
     with ThreadPoolExecutor() as executor:
         results = executor.map(scrape_all_movies, page_ranges_list)
 
-        for result in results:
-            old_movies_dict.update(result)
+    for result in results:
+        old_movies_dict.update(result)
 
     with open("./output/movies.json", "w") as fp:
         json.dump(old_movies_dict, fp, indent=4)
