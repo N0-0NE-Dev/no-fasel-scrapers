@@ -23,11 +23,8 @@ def clean_anime_title(anime_title: str) -> str:
         except ReadTimeout:
             translation = None
 
-    cleaned_anime_title = translation.replace(
-        "Anime", "").replace("?", "").strip()
-
-    cleaned_anime_title = cleaned_anime_title.encode(
-        "ascii", "ignore").decode()
+    cleaned_anime_title = translation.replace("Anime", "").replace(
+        "?", "").strip().encode("ascii", "ignore").decode()
 
     return cleaned_anime_title
 
@@ -92,7 +89,6 @@ def scrape_anime(page_range: tuple) -> dict:
             "div", class_="col-xl-2 col-lg-2 col-md-3 col-sm-3")
 
         for anime_div in anime_divs:
-            anime_title = anime_div.find("div", class_="h1").text
             anime_page_source = anime_div.find("a")["href"]
 
             anime_page = get_website_safe(anime_page_source)
@@ -127,10 +123,8 @@ def scrape_anime(page_range: tuple) -> dict:
                     old_animes[anime_id]["Episodes"].update(new_episodes)
                     continue
             except KeyError:
-                cleaned_anime_title = clean_anime_title(anime_title)
-
                 anime_dict[anime_id] = {
-                    "Title": cleaned_anime_title,
+                    "Title": clean_anime_title(anime_div.find("div", class_="h1").text),
                     "Number Of Episodes": current_number_of_episodes,
                     "Format": get_content_format(soup),
                     "Image Source": save_image(anime_div.img.attrs['data-src'], anime_id),
@@ -159,7 +153,7 @@ def main() -> None:
 
     with ThreadPoolExecutor() as executor:
         results = executor.map(scrape_anime, page_ranges_list)
-        
+
     for result in results:
         old_animes.update(result)
 
