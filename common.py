@@ -26,7 +26,7 @@ driver = Chrome(use_subprocess=True, version_main=106)
 driver.minimize_window()
 driver.get("https://www.faselhd.club/home3")
 
-WebDriverWait(driver, 60).until(
+WebDriverWait(driver, 90).until(
     EC.presence_of_element_located(
         (
             By.CLASS_NAME,
