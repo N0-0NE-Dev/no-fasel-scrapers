@@ -24,7 +24,7 @@ def clean_anime_title(anime_title: str) -> str:
             translation = None
 
     cleaned_anime_title = translation.replace("Anime", "").replace(
-        "?", "").strip().encode("ascii", "ignore").decode()
+        "anime", "").replace("?", "").strip().encode("ascii", "ignore").decode()
 
     return cleaned_anime_title
 
