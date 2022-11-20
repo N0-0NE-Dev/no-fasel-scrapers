@@ -51,7 +51,7 @@ def get_iframe_source(episodes: list[str]) -> dict:
 
         episodes_dict[episode_id] = {
             "Episode Number":  int(remove_arabic_chars(episode.text).strip()),
-            "Episode Source": iframeSource
+            "Source": iframeSource
         }
 
     return episodes_dict
