@@ -12,10 +12,12 @@ series_process.wait()
 anime_process.wait()
 
 trending_process = Popen(["python", "trending-scraper.py"])
-postprocessing_process = Popen(["python", "post-processing.py"])
+post_processing_process = Popen(["python", "post-processing.py"])
+all_conent_indexing_process = Popen(["python", "all-content-indexer.py"])
 
 trending_process.wait()
-postprocessing_process.wait()
+post_processing_process.wait()
+all_conent_indexing_process.wait()
 
 end_time = perf_counter()
 
