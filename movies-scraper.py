@@ -37,7 +37,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
 
         movies_dict[movie_id] = {
             "Title": get_content_title(movie_div),
-            "Category": "movies",
+            "category": "movies",
             "Format": get_content_format(soup),
             "Image Source": save_image(movie_div.img.attrs['data-src'], movie_id),
             "Source": iframeSource
