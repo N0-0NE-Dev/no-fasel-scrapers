@@ -96,7 +96,7 @@ def scrape_season(season: Tag, series_id: str) -> dict:
         return season_dict
 
 
-def scrape_page(series_divs: list[ResultSet]) -> dict:
+def scrape_page(series_divs: list[ResultSet], path: str) -> dict:
     """Scrapes all the series in the page provided"""
     series_dict = {}
 
@@ -113,6 +113,7 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
 
         series_dict[series_id] = {
             "Title": get_content_title(series_div),
+            "Category": path,
             "Format": get_content_format(soup),
             "Number Of Episodes": 0,
             "Image Source": save_image(series_div.img.attrs['data-src'], series_id),
@@ -140,7 +141,7 @@ def scrape_page(series_divs: list[ResultSet]) -> dict:
     return series_dict
 
 
-def scrape_all_series(page_range: tuple) -> dict:
+def scrape_all_series(page_range: tuple, path: str) -> dict:
     """Scrapes all the series in the page range provided"""
     global old_series_dict, url
     all_series_dict = {}
@@ -160,7 +161,8 @@ def scrape_all_series(page_range: tuple) -> dict:
         with ThreadPoolExecutor() as executor:
             results = executor.map(
                 scrape_page,
-                splitted_series_divs_list
+                splitted_series_divs_list,
+                repeat(path)
             )
 
         for result in results:
@@ -200,6 +202,7 @@ def main() -> None:
             results = executor.map(
                 scrape_all_series,
                 page_ranges_list,
+                repeat(path)
             )
 
         new_series_dict = {}
