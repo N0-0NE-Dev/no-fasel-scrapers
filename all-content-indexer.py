@@ -11,11 +11,13 @@ def main() -> None:
         with open(f"./output/{path}.json") as file:
             data = json.load(file)
 
-        all_content += [{"key": key, "Title": data[key]
-                        ["Title"], "category": path} for key in data]
+        all_content += [{"key": key,
+                        "Title": data[key]["Title"],
+                         "Image Source": data[key]["Image Source"],
+                         "category": path} for key in data]
 
-    with open("./output/test.json", "w") as out:
-        json.dump({"content": all_content}, out)
+    with open("./output/all-content.json", "w") as out:
+        json.dump({"content": all_content}, out, indent=4)
 
 
 if __name__ == "__main__":
