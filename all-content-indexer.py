@@ -1,10 +1,8 @@
 import json
 
 
-PATHS = ["anime", "asian-series", "movies", "series", "tvshows"]
-
-
 def main() -> None:
+    PATHS = ["anime", "asian-series", "movies", "series", "tvshows"]
     all_content = []
 
     for path in PATHS:
