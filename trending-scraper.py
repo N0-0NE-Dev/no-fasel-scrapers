@@ -42,7 +42,8 @@ def main() -> None:
             clean_content_title = "".join(content_title.lower().split())
             if (current_title == clean_content_title) and (key not in seen):
                 seen.append(key)
-                content_dict[content_category].update({key: content_file[key]})
+                content_dict[content_category].update(
+                    {key: {"Title": content_file[key]["Title"], "Image Source": content_file[key]["Image Source"]}})
                 break
             else:
                 continue
