@@ -125,7 +125,7 @@ def scrape_anime(page_range: tuple) -> dict:
             except KeyError:
                 anime_dict[anime_id] = {
                     "Title": clean_anime_title(anime_div.find("div", class_="h1").text),
-                    "category": "anime",
+                    "Category": "anime",
                     "Number Of Episodes": current_number_of_episodes,
                     "Format": get_content_format(soup),
                     "Image Source": save_image(anime_div.img.attrs['data-src'], anime_id),

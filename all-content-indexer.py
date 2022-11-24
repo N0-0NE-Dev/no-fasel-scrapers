@@ -12,7 +12,7 @@ def main() -> None:
         all_content += [{"key": key,
                         "Title": data[key]["Title"],
                          "Image Source": data[key]["Image Source"],
-                         "category": data[key]["category"]} for key in data]
+                         "Category": data[key]["category"]} for key in data]
 
     with open("./output/all-content.json", "w") as out:
         json.dump({"content": all_content}, out, indent=4)
