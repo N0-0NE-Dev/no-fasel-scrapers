@@ -1,200 +1,230 @@
 {
     "movies": {
+        "191955": {
+            "Title": "Good Night Oppy",
+            "Image Source": "https://i.imgur.com/Vl7Q1qA.jpg",
+            "Category": "movies"
+        },
+        "191952": {
+            "Title": "Armageddon Time",
+            "Image Source": "https://i.imgur.com/riDAAzd.jpg",
+            "Category": "movies"
+        },
+        "191950": {
+            "Title": "Whos a Good Boy?",
+            "Image Source": "https://i.imgur.com/IVnausd.jpg",
+            "Category": "movies"
+        },
+        "191945": {
+            "Title": "The Swimmers",
+            "Image Source": "https://i.imgur.com/hDQQYNB.jpg",
+            "Category": "movies"
+        },
+        "191942": {
+            "Title": "Lesson Plan",
+            "Image Source": "https://i.imgur.com/TqlmuWR.jpg",
+            "Category": "movies"
+        },
+        "191938": {
+            "Title": "Christmas on Mistletoe Farm",
+            "Image Source": "https://i.imgur.com/O7jbEtq.jpg",
+            "Category": "movies"
+        },
         "191827": {
             "Title": "Lyle, Lyle, Crocodile",
             "Image Source": "https://i.imgur.com/nKgYXIY.jpg",
-            "category": "movies"
+            "Category": "movies"
         },
         "191833": {
             "Title": "Triangle of Sadness",
             "Image Source": "https://i.imgur.com/BPeRoqo.jpg",
-            "category": "movies"
+            "Category": "movies"
         },
         "191292": {
             "Title": "Black Adam",
             "Image Source": "https://i.imgur.com/vWjfkqy.jpg",
-            "category": "movies"
+            "Category": "movies"
         },
         "191812": {
             "Title": "One Piece Film: Red",
             "Image Source": "https://i.imgur.com/gD4mBz5.jpg",
-            "category": "movies"
+            "Category": "movies"
         },
         "191801": {
             "Title": "Godfather",
             "Image Source": "https://i.imgur.com/JXjDDFR.jpg",
-            "category": "movies"
+            "Category": "movies"
         },
         "191775": {
             "Title": "Mahmood ",
             "Image Source": "https://i.imgur.com/L0eYLy6.jpg",
-            "category": "movies"
+            "Category": "movies"
         }
     },
     "asian-series": {
         "191499": {
             "Title": "Phantom School",
             "Image Source": "https://i.imgur.com/LSV62xb.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "187285": {
             "Title": "Love Is for Suckers",
             "Image Source": "https://i.imgur.com/QQz7WxJ.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "186230": {
             "Title": "Women in Taipei",
             "Image Source": "https://i.imgur.com/uLAKYaQ.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "190158": {
             "Title": "Sumo Do, Sumo Dont",
             "Image Source": "https://i.imgur.com/dRgenAl.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "190894": {
             "Title": "Revenge of Others",
             "Image Source": "https://i.imgur.com/6LFb8v3.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "188137": {
             "Title": "Pink Lie",
             "Image Source": "https://i.imgur.com/InmAyoT.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "190294": {
             "Title": "Curtain Call",
             "Image Source": "https://i.imgur.com/9G2W2i4.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "190809": {
             "Title": "Behind Every Star",
             "Image Source": "https://i.imgur.com/7NZkery.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         },
         "108969": {
             "Title": "Master in the House",
             "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
-            "category": "asian-series"
+            "Category": "asian-series"
         }
     },
     "anime": {
         "188489": {
             "Title": "Renai Flops",
             "Image Source": "https://i.imgur.com/Ekyjr1f.jpg",
-            "category": "anime"
+            "Category": "anime"
         },
         "187281": {
             "Title": "MUV-Luv Alternative 2nd Season",
             "Image Source": "https://i.imgur.com/zENNqeP.jpg",
-            "category": "anime"
+            "Category": "anime"
         },
         "187357": {
             "Title": "Do It Yourself !!",
             "Image Source": "https://i.imgur.com/ThqTYWD.jpg",
-            "category": "anime"
+            "Category": "anime"
         },
         "187297": {
             "Title": "Kage No Jitsuryokusha Ni Naritakute!",
             "Image Source": "https://i.imgur.com/LDL5LQL.jpg",
-            "category": "anime"
+            "Category": "anime"
         },
         "187278": {
             "Title": "Mob Psycho 100 III",
             "Image Source": "https://i.imgur.com/ZAomsyn.jpg",
-            "category": "anime"
+            "Category": "anime"
         },
         "187310": {
             "Title": "Vazzrock the Animation",
             "Image Source": "https://i.imgur.com/CNioxzp.jpg",
-            "category": "anime"
+            "Category": "anime"
         }
     },
     "series": {
         "191517": {
             "Title": "Elite",
             "Image Source": "https://i.imgur.com/JdwETqp.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "191426": {
             "Title": "1899",
             "Image Source": "https://i.imgur.com/QpMp9B3.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "191233": {
             "Title": "Yellowstone",
             "Image Source": "https://i.imgur.com/0dleqCg.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "191209": {
             "Title": "Tulsa King",
             "Image Source": "https://i.imgur.com/yCpzUqT.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190924": {
             "Title": "Warrior Nun",
             "Image Source": "https://i.imgur.com/sb5OpmU.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190854": {
             "Title": "The Crown",
             "Image Source": "https://i.imgur.com/CxPHmaP.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190526": {
             "Title": "The Mosquito Coast",
             "Image Source": "https://i.imgur.com/P5JbzeO.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190508": {
             "Title": "Manifest",
             "Image Source": "https://i.imgur.com/durJi5q.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190462": {
             "Title": "Titans",
             "Image Source": "https://i.imgur.com/QDpHqhH.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190268": {
             "Title": "The White Lotus",
             "Image Source": "https://i.imgur.com/t8lmA7z.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190239": {
             "Title": "Pennyworth",
             "Image Source": "https://i.imgur.com/eqINiDN.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190305": {
             "Title": "Urban Legend",
             "Image Source": "https://i.imgur.com/ax7db7i.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "188404": {
             "Title": "The Winchesters",
             "Image Source": "https://i.imgur.com/wnERfZk.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "190841": {
             "Title": "Dangerous Liaisons",
             "Image Source": "https://i.imgur.com/SXQrrtz.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "186095": {
             "Title": "FBI: International",
             "Image Source": "https://i.imgur.com/pKRojqt.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "186091": {
             "Title": "FBI",
             "Image Source": "https://i.imgur.com/ao2rekW.jpg",
-            "category": "series"
+            "Category": "series"
         },
         "189846": {
             "Title": "The Mysterious Benedict Society",
             "Image Source": "https://i.imgur.com/idOT6Tk.jpg",
-            "category": "series"
+            "Category": "series"
         }
     }
 }
