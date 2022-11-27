@@ -62,9 +62,19 @@
         }
     },
     "asian-series": {
+        "186448": {
+            "Title": "Three Bold Siblings",
+            "Image Source": "https://i.imgur.com/A75WeBp.jpg",
+            "Category": "asian-series"
+        },
         "191651": {
             "Title": "Fanletter, Please",
             "Image Source": "https://i.imgur.com/3RZ0Vgk.jpg",
+            "Category": "asian-series"
+        },
+        "191195": {
+            "Title": "The First Responders",
+            "Image Source": "https://i.imgur.com/JkpcjXF.jpg",
             "Category": "asian-series"
         },
         "191619": {
@@ -72,9 +82,9 @@
             "Image Source": "https://i.imgur.com/U6y8y99.jpg",
             "Category": "asian-series"
         },
-        "191195": {
-            "Title": "The First Responders",
-            "Image Source": "https://i.imgur.com/JkpcjXF.jpg",
+        "188802": {
+            "Title": "Under The Queens Umbrella",
+            "Image Source": "https://i.imgur.com/xB6whtv.jpg",
             "Category": "asian-series"
         },
         "192152": {
@@ -96,47 +106,27 @@
             "Title": "Phantom School",
             "Image Source": "https://i.imgur.com/LSV62xb.jpg",
             "Category": "asian-series"
-        },
-        "186230": {
-            "Title": "Women in Taipei",
-            "Image Source": "https://i.imgur.com/uLAKYaQ.jpg",
-            "Category": "asian-series"
-        },
-        "190158": {
-            "Title": "Sumo Do, Sumo Dont",
-            "Image Source": "https://i.imgur.com/dRgenAl.jpg",
-            "Category": "asian-series"
-        },
-        "190894": {
-            "Title": "Revenge of Others",
-            "Image Source": "https://i.imgur.com/6LFb8v3.jpg",
-            "Category": "asian-series"
         }
     },
     "anime": {
-        "190172": {
-            "Title": "Arknights: Reimei Zensou",
-            "Image Source": "https://i.imgur.com/DeNUF2o.jpg",
+        "188507": {
+            "Title": "Yama No Susume: Next Summit",
+            "Image Source": "https://i.imgur.com/1KqYtST.jpg",
             "Category": "anime"
         },
-        "188639": {
-            "Title": "Human Bug Daigaku",
-            "Image Source": "https://i.imgur.com/Rc2BcvD.jpg",
+        "188161": {
+            "Title": "Blue Lock",
+            "Image Source": "https://i.imgur.com/dHfWm4r.jpg",
             "Category": "anime"
         },
-        "187464": {
-            "Title": "Tensei Shitara Ken Deshita",
-            "Image Source": "https://i.imgur.com/lA7XnmM.jpg",
+        "188153": {
+            "Title": "Bocchi the Rock!",
+            "Image Source": "https://i.imgur.com/69a0PqM.jpg",
             "Category": "anime"
         },
-        "187347": {
-            "Title": "Mushikaburi-Hime",
-            "Image Source": "https://i.imgur.com/ug2Xean.jpg",
-            "Category": "anime"
-        },
-        "188350": {
-            "Title": "Peter Grill to Kenja No Jikan: Super Extra",
-            "Image Source": "https://i.imgur.com/HGodUnl.jpg",
+        "186941": {
+            "Title": "Koukyuu no karasu",
+            "Image Source": "https://i.imgur.com/gfVr0x3.jpg",
             "Category": "anime"
         }
     },
