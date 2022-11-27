@@ -1,5 +1,6 @@
 from subprocess import Popen
 from time import perf_counter
+from datetime import date
 
 start_time = perf_counter()
 
@@ -20,6 +21,9 @@ post_processing_process.wait()
 all_conent_indexing_process.wait()
 
 end_time = perf_counter()
+
+with open("./output/last-scraped.txt", "w") as fp:
+    fp.write(date.today().strftime("%Y-%m-%d"))
 
 print(
     f"Finished scraping all of fasel in about {round((end_time - start_time) / 60)} minute(s)"
