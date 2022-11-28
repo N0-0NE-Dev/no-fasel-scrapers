@@ -14,8 +14,8 @@ def main() -> None:
                          "Image Source": data[key]["Image Source"],
                          "Category": data[key]["Category"]} for key in data]
 
-    with open("./output/all-content.json", "w") as out:
-        json.dump({"content": all_content}, out, indent=4)
+    with open("./output/all-content.json", "w") as fp:
+        json.dump({"content": all_content}, fp, indent=4)
 
 
 if __name__ == "__main__":
