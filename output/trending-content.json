@@ -1,5 +1,10 @@
 {
     "movies": {
+        "192555": {
+            "Title": "My Favorite Girlfriend",
+            "Image Source": "https://i.imgur.com/72goHMM.jpg",
+            "Category": "movies"
+        },
         "192405": {
             "Title": "Yvonne Orji: A Whole Me",
             "Image Source": "https://i.imgur.com/AbPcmxQ.jpg",
@@ -54,14 +59,24 @@
             "Title": "Till",
             "Image Source": "https://i.imgur.com/kIl8A5A.jpg",
             "Category": "movies"
-        },
-        "192179": {
-            "Title": "The Hip Hop Nutcracker",
-            "Image Source": "https://i.imgur.com/kwbRCzK.jpg",
-            "Category": "movies"
         }
     },
     "asian-series": {
+        "187152": {
+            "Title": "Cheer Up",
+            "Image Source": "https://i.imgur.com/zI3oJBO.jpg",
+            "Category": "asian-series"
+        },
+        "190294": {
+            "Title": "Curtain Call",
+            "Image Source": "https://i.imgur.com/9G2W2i4.jpg",
+            "Category": "asian-series"
+        },
+        "190809": {
+            "Title": "Behind Every Star",
+            "Image Source": "https://i.imgur.com/7NZkery.jpg",
+            "Category": "asian-series"
+        },
         "191797": {
             "Title": "Summer Strike",
             "Image Source": "https://i.imgur.com/BNyG9dr.jpg",
@@ -96,47 +111,27 @@
             "Title": "Be My Dream Family",
             "Image Source": "https://imgpile.com/images/TK8uXr.jpg",
             "Category": "asian-series"
-        },
-        "191651": {
-            "Title": "Fanletter, Please",
-            "Image Source": "https://i.imgur.com/3RZ0Vgk.jpg",
-            "Category": "asian-series"
-        },
-        "191195": {
-            "Title": "The First Responders",
-            "Image Source": "https://i.imgur.com/JkpcjXF.jpg",
-            "Category": "asian-series"
         }
     },
     "anime": {
-        "188448": {
-            "Title": "Cool Doji Danshi",
-            "Image Source": "https://i.imgur.com/k32VdZN.jpg",
+        "188339": {
+            "Title": "Chainsaw Man",
+            "Image Source": "https://i.imgur.com/hG4ZOUL.jpg",
             "Category": "anime"
         },
-        "186932": {
-            "Title": "Xian Wang de Richang Shenghuo Season 3",
-            "Image Source": "https://i.imgur.com/i6ZGIUv.jpg",
+        "187310": {
+            "Title": "Vazzrock the Animation",
+            "Image Source": "https://i.imgur.com/CNioxzp.jpg",
             "Category": "anime"
         },
-        "188194": {
-            "Title": "Bleach: Thousand Year Blood War",
-            "Image Source": "https://i.imgur.com/8Ihjbqs.jpg",
+        "187186": {
+            "Title": "Shinobi no Ittoki",
+            "Image Source": "https://i.imgur.com/QRU5E4Q.jpg",
             "Category": "anime"
         },
-        "134902": {
-            "Title": "Digimon Ghost Game",
-            "Image Source": "https://imgpile.com/images/TJuojC.jpg",
-            "Category": "anime"
-        },
-        "188750": {
-            "Title": "Urusei yatsura",
-            "Image Source": "https://i.imgur.com/5tizmEJ.jpg",
-            "Category": "anime"
-        },
-        "186993": {
-            "Title": "Uzaki-Chan Wa Asobitai!Double",
-            "Image Source": "https://i.imgur.com/1Xlfbdy.jpg",
+        "187023": {
+            "Title": "Idolish7: Third Beat!Part 2",
+            "Image Source": "https://i.imgur.com/XlLmQLn.jpg",
             "Category": "anime"
         }
     },
@@ -191,39 +186,29 @@
             "Image Source": "https://i.imgur.com/t8lmA7z.jpg",
             "Category": "series"
         },
+        "190709": {
+            "Title": "Marie Antoinette",
+            "Image Source": "https://i.imgur.com/ECwjbEX.jpg",
+            "Category": "series"
+        },
+        "188327": {
+            "Title": "All American: Homecoming",
+            "Image Source": "https://i.imgur.com/eRMX73z.jpg",
+            "Category": "series"
+        },
         "190239": {
             "Title": "Pennyworth",
             "Image Source": "https://i.imgur.com/eqINiDN.jpg",
             "Category": "series"
         },
-        "188230": {
-            "Title": "NCIS: Los Angeles",
-            "Image Source": "https://i.imgur.com/hVpNgtO.jpg",
+        "187093": {
+            "Title": "East New York",
+            "Image Source": "https://i.imgur.com/qfchC34.jpg",
             "Category": "series"
         },
-        "172921": {
-            "Title": "Rick and Morty",
-            "Image Source": "https://imgpile.com/images/Tiw73k.jpg",
-            "Category": "series"
-        },
-        "187074": {
-            "Title": "The Equalizer",
-            "Image Source": "https://i.imgur.com/A9OOt3S.jpg",
-            "Category": "series"
-        },
-        "136931": {
-            "Title": "Yellowstone",
-            "Image Source": "https://imgpile.com/images/TKecfR.jpg",
-            "Category": "series"
-        },
-        "186476": {
-            "Title": "The Simpsons",
-            "Image Source": "https://i.imgur.com/rVgB6pi.jpg",
-            "Category": "series"
-        },
-        "129721": {
-            "Title": "The White Lotus",
-            "Image Source": "https://imgpile.com/images/TKp1n1.jpg",
+        "187159": {
+            "Title": "The Good Doctor",
+            "Image Source": "https://i.imgur.com/AnuHQTE.jpg",
             "Category": "series"
         }
     }
