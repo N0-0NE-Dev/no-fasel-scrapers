@@ -1,5 +1,10 @@
 {
     "movies": {
+        "20467": {
+            "Title": "Joy Ride",
+            "Image Source": "https://imgpile.com/images/TUPEz1.jpg",
+            "Category": "movies"
+        },
         "193083": {
             "Title": "Love Destiny: The Movie",
             "Image Source": "https://i.imgur.com/sm7uUHB.jpg",
@@ -39,37 +44,17 @@
             "Title": "Yvonne Orji: A Whole Me",
             "Image Source": "https://i.imgur.com/AbPcmxQ.jpg",
             "Category": "movies"
-        },
-        "192402": {
-            "Title": "Lil Rel Howery: I said it. Yall thinking it",
-            "Image Source": "https://i.imgur.com/CxdmWsk.jpg",
-            "Category": "movies"
-        },
-        "192391": {
-            "Title": "The Waltons: Homecoming",
-            "Image Source": "https://i.imgur.com/j5jwFy7.jpg",
-            "Category": "movies"
-        },
-        "192388": {
-            "Title": "Sharp Stick",
-            "Image Source": "https://i.imgur.com/ulqB5Uj.jpg",
-            "Category": "movies"
-        },
-        "192385": {
-            "Title": "Padavettu",
-            "Image Source": "https://i.imgur.com/AFs3rb1.jpg",
-            "Category": "movies"
         }
     },
     "asian-series": {
-        "187285": {
-            "Title": "Love Is for Suckers",
-            "Image Source": "https://i.imgur.com/QQz7WxJ.jpg",
-            "Category": "asian-series"
-        },
         "189178": {
             "Title": "May I Help You",
             "Image Source": "https://i.imgur.com/kmCu5vx.jpg",
+            "Category": "asian-series"
+        },
+        "187285": {
+            "Title": "Love Is for Suckers",
+            "Image Source": "https://i.imgur.com/QQz7WxJ.jpg",
             "Category": "asian-series"
         },
         "191499": {
@@ -91,29 +76,14 @@
             "Title": "Pink Lie",
             "Image Source": "https://i.imgur.com/InmAyoT.jpg",
             "Category": "asian-series"
-        },
-        "186942": {
-            "Title": "Follow Me",
-            "Image Source": "https://i.imgur.com/GzFb4OQ.jpg",
-            "Category": "asian-series"
-        },
-        "187152": {
-            "Title": "Cheer Up",
-            "Image Source": "https://i.imgur.com/zI3oJBO.jpg",
-            "Category": "asian-series"
-        },
-        "190294": {
-            "Title": "Curtain Call",
-            "Image Source": "https://i.imgur.com/9G2W2i4.jpg",
-            "Category": "asian-series"
-        },
-        "190809": {
-            "Title": "Behind Every Star",
-            "Image Source": "https://i.imgur.com/7NZkery.jpg",
-            "Category": "asian-series"
         }
     },
     "anime": {
+        "138657": {
+            "Title": "Jojo No Kimyou Na Bouken: Stone Ocean",
+            "Image Source": "https://imgpile.com/images/TJ7iPF.jpg",
+            "Category": "anime"
+        },
         "188489": {
             "Title": "Renai Flops",
             "Image Source": "https://i.imgur.com/Ekyjr1f.jpg",
@@ -137,11 +107,6 @@
         "152854": {
             "Title": "Hoshi no Samidare",
             "Image Source": "https://imgpile.com/images/TJUQJL.jpg",
-            "Category": "anime"
-        },
-        "187278": {
-            "Title": "Mob Psycho 100 III",
-            "Image Source": "https://i.imgur.com/ZAomsyn.jpg",
             "Category": "anime"
         }
     },
@@ -191,29 +156,34 @@
             "Image Source": "https://i.imgur.com/QDpHqhH.jpg",
             "Category": "series"
         },
-        "186084": {
-            "Title": "The Resident",
-            "Image Source": "https://i.imgur.com/SdlbUj6.jpg",
+        "172694": {
+            "Title": "Stargirl",
+            "Image Source": "https://imgpile.com/images/TPatTL.jpg",
             "Category": "series"
         },
-        "192850": {
-            "Title": "Willow",
-            "Image Source": "https://i.imgur.com/En6w65t.jpg",
+        "187265": {
+            "Title": "The Rookie: Feds",
+            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
             "Category": "series"
         },
-        "186821": {
-            "Title": "The Mighty Ducks: Game Changers",
-            "Image Source": "https://i.imgur.com/u6tY32c.jpg",
+        "187319": {
+            "Title": "Kung Fu",
+            "Image Source": "https://i.imgur.com/uPdqoOm.jpg",
             "Category": "series"
         },
-        "189846": {
-            "Title": "The Mysterious Benedict Society",
-            "Image Source": "https://i.imgur.com/idOT6Tk.jpg",
+        "131660": {
+            "Title": "Titans",
+            "Image Source": "https://imgpile.com/images/TKp3Wb.jpg",
             "Category": "series"
         },
-        "191316": {
-            "Title": "The Santa Clauses",
-            "Image Source": "https://i.imgur.com/wETn6ZY.jpg",
+        "192115": {
+            "Title": "Criminal Minds",
+            "Image Source": "https://i.imgur.com/Xyq43FS.jpg",
+            "Category": "series"
+        },
+        "193095": {
+            "Title": "Dead End",
+            "Image Source": "https://i.imgur.com/rCFhfxN.jpg",
             "Category": "series"
         }
     }
