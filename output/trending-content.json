@@ -1,5 +1,50 @@
 {
     "movies": {
+        "193231": {
+            "Title": "Warriors of Future",
+            "Image Source": "https://i.imgur.com/ZXVt7S1.jpg",
+            "Category": "movies"
+        },
+        "193227": {
+            "Title": "Sr.",
+            "Image Source": "https://i.imgur.com/InVbLK3.jpg",
+            "Category": "movies"
+        },
+        "193224": {
+            "Title": "Scrooge: A Christmas Carol",
+            "Image Source": "https://i.imgur.com/t4x8l5k.jpg",
+            "Category": "movies"
+        },
+        "193221": {
+            "Title": "Lady Chatterleys Lover",
+            "Image Source": "https://i.imgur.com/43cErv7.jpg",
+            "Category": "movies"
+        },
+        "193217": {
+            "Title": "Diary of a Wimpy Kid: Rodrick Rules",
+            "Image Source": "https://i.imgur.com/8SFxXj4.jpg",
+            "Category": "movies"
+        },
+        "193214": {
+            "Title": "Barbie: Mermaid Power",
+            "Image Source": "https://i.imgur.com/ag52HR9.jpg",
+            "Category": "movies"
+        },
+        "193116": {
+            "Title": "The Masked Scammer",
+            "Image Source": "https://i.imgur.com/VjfMmmW.jpg",
+            "Category": "movies"
+        },
+        "193113": {
+            "Title": "Troll",
+            "Image Source": "https://i.imgur.com/qnMefxy.jpg",
+            "Category": "movies"
+        },
+        "193110": {
+            "Title": "Qala",
+            "Image Source": "https://i.imgur.com/jE3JuEc.jpg",
+            "Category": "movies"
+        },
         "20467": {
             "Title": "Joy Ride",
             "Image Source": "https://imgpile.com/images/TUPEz1.jpg",
@@ -14,39 +59,14 @@
             "Title": "Noise",
             "Image Source": "https://i.imgur.com/Dov99gC.jpg",
             "Category": "movies"
-        },
-        "192878": {
-            "Title": "Joyland",
-            "Image Source": "https://i.imgur.com/jpsZmG6.jpg",
-            "Category": "movies"
-        },
-        "192840": {
-            "Title": "My Name Is Vendetta",
-            "Image Source": "https://i.imgur.com/5GnhEPF.jpg",
-            "Category": "movies"
-        },
-        "192837": {
-            "Title": "Christmas Full of Grace",
-            "Image Source": "https://i.imgur.com/CtsUwlB.jpg",
-            "Category": "movies"
-        },
-        "192832": {
-            "Title": "A Man of Action",
-            "Image Source": "https://i.imgur.com/0beeIhI.jpg",
-            "Category": "movies"
-        },
-        "192555": {
-            "Title": "My Favorite Girlfriend",
-            "Image Source": "https://i.imgur.com/72goHMM.jpg",
-            "Category": "movies"
-        },
-        "192405": {
-            "Title": "Yvonne Orji: A Whole Me",
-            "Image Source": "https://i.imgur.com/AbPcmxQ.jpg",
-            "Category": "movies"
         }
     },
     "asian-series": {
+        "191195": {
+            "Title": "The First Responders",
+            "Image Source": "https://i.imgur.com/JkpcjXF.jpg",
+            "Category": "asian-series"
+        },
         "189178": {
             "Title": "May I Help You",
             "Image Source": "https://i.imgur.com/kmCu5vx.jpg",
@@ -55,6 +75,11 @@
         "187285": {
             "Title": "Love Is for Suckers",
             "Image Source": "https://i.imgur.com/QQz7WxJ.jpg",
+            "Category": "asian-series"
+        },
+        "193165": {
+            "Title": "Recipe for Farewell",
+            "Image Source": "https://i.imgur.com/ZacBVuz.jpg",
             "Category": "asian-series"
         },
         "191499": {
@@ -71,46 +96,41 @@
             "Title": "Revenge of Others",
             "Image Source": "https://i.imgur.com/6LFb8v3.jpg",
             "Category": "asian-series"
-        },
-        "188137": {
-            "Title": "Pink Lie",
-            "Image Source": "https://i.imgur.com/InmAyoT.jpg",
-            "Category": "asian-series"
         }
     },
     "anime": {
+        "187347": {
+            "Title": "Mushikaburi-Hime",
+            "Image Source": "https://i.imgur.com/ug2Xean.jpg",
+            "Category": "anime"
+        },
+        "190172": {
+            "Title": "Arknights: Reimei Zensou",
+            "Image Source": "https://i.imgur.com/DeNUF2o.jpg",
+            "Category": "anime"
+        },
+        "186986": {
+            "Title": "Noumin Kanren No Skill",
+            "Image Source": "https://i.imgur.com/k3bNb7a.jpg",
+            "Category": "anime"
+        },
+        "187281": {
+            "Title": "MUV-Luv Alternative 2nd Season",
+            "Image Source": "https://i.imgur.com/zENNqeP.jpg",
+            "Category": "anime"
+        },
         "138657": {
             "Title": "Jojo No Kimyou Na Bouken: Stone Ocean",
             "Image Source": "https://imgpile.com/images/TJ7iPF.jpg",
             "Category": "anime"
-        },
-        "188489": {
-            "Title": "Renai Flops",
-            "Image Source": "https://i.imgur.com/Ekyjr1f.jpg",
-            "Category": "anime"
-        },
-        "187297": {
-            "Title": "Kage No Jitsuryokusha Ni Naritakute!",
-            "Image Source": "https://i.imgur.com/LDL5LQL.jpg",
-            "Category": "anime"
-        },
-        "187464": {
-            "Title": "Tensei Shitara Ken Deshita",
-            "Image Source": "https://i.imgur.com/lA7XnmM.jpg",
-            "Category": "anime"
-        },
-        "187357": {
-            "Title": "Do It Yourself !!",
-            "Image Source": "https://i.imgur.com/ThqTYWD.jpg",
-            "Category": "anime"
-        },
-        "152854": {
-            "Title": "Hoshi no Samidare",
-            "Image Source": "https://imgpile.com/images/TJUQJL.jpg",
-            "Category": "anime"
         }
     },
     "series": {
+        "193197": {
+            "Title": "Slow Horses",
+            "Image Source": "https://i.imgur.com/KBT61GI.jpg",
+            "Category": "series"
+        },
         "191517": {
             "Title": "Elite",
             "Image Source": "https://i.imgur.com/JdwETqp.jpg",
@@ -156,34 +176,34 @@
             "Image Source": "https://i.imgur.com/QDpHqhH.jpg",
             "Category": "series"
         },
-        "172694": {
-            "Title": "Stargirl",
-            "Image Source": "https://imgpile.com/images/TPatTL.jpg",
+        "191554": {
+            "Title": "The Sex Lives of College Girls",
+            "Image Source": "https://i.imgur.com/U3TkSMK.jpg",
             "Category": "series"
         },
-        "187265": {
-            "Title": "The Rookie: Feds",
-            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
+        "151949": {
+            "Title": "The Sex Lives of College Girls",
+            "Image Source": "https://imgpile.com/images/TMN8yR.jpg",
             "Category": "series"
         },
-        "187319": {
-            "Title": "Kung Fu",
-            "Image Source": "https://i.imgur.com/uPdqoOm.jpg",
+        "192017": {
+            "Title": "Shaq",
+            "Image Source": "https://i.imgur.com/kfS28b3.jpg",
             "Category": "series"
         },
-        "131660": {
-            "Title": "Titans",
-            "Image Source": "https://imgpile.com/images/TKp3Wb.jpg",
+        "186862": {
+            "Title": "Call Me Kat",
+            "Image Source": "https://i.imgur.com/lTmYMgz.jpg",
             "Category": "series"
         },
-        "192115": {
-            "Title": "Criminal Minds",
-            "Image Source": "https://i.imgur.com/Xyq43FS.jpg",
+        "147149": {
+            "Title": "Slow Horses",
+            "Image Source": "https://imgpile.com/images/TMIhRX.jpg",
             "Category": "series"
         },
-        "193095": {
-            "Title": "Dead End",
-            "Image Source": "https://i.imgur.com/rCFhfxN.jpg",
+        "189257": {
+            "Title": "The Peripheral",
+            "Image Source": "https://i.imgur.com/zyHloNj.jpg",
             "Category": "series"
         }
     }
