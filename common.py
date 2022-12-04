@@ -15,38 +15,24 @@ from requests import Response
 from os import environ, remove
 from PIL import Image
 
-DEBUG = False
+DEBUG = True
 BASE_URL = "https://www.faselhd.club/"
 
 with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
 
 cookie_lock = Lock()
-driver = Chrome(use_subprocess=True, version_main=106)
-driver.minimize_window()
-driver.get("https://www.faselhd.club/home3")
-
-WebDriverWait(driver, 90).until(
-    EC.presence_of_element_located(
-        (
-            By.CLASS_NAME,
-            "logo.ml-3",
-        )
-    )
-)
-
-HEADERS = {
-    'user-agent': driver.execute_script('return window.navigator.userAgent;')
-}
 
 
 def get_cookies() -> None:
     """Gets new cookies to bypass cloudfalre"""
-    global cookies_dict
+    global cookies_dict, headers
 
-    driver.refresh()
+    driver = Chrome(use_subprocess=True, version_main=107)
+    driver.minimize_window()
+    driver.get("https://www.faselhd.club/home3")
 
-    WebDriverWait(driver, 60).until(
+    WebDriverWait(driver, 90).until(
         EC.presence_of_element_located(
             (
                 By.CLASS_NAME,
@@ -58,6 +44,11 @@ def get_cookies() -> None:
     cookies = driver.get_cookies()
 
     cookies_dict = {cookie["name"]: cookie["value"] for cookie in cookies}
+    headers = {
+        'user-agent': driver.execute_script('return window.navigator.userAgent;')
+    }
+
+    driver.quit()
 
     return
 
@@ -70,7 +61,7 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
     while webpage is None:
         try:
             webpage = requests.get(
-                webpage_url, headers=HEADERS, cookies=cookies_dict)
+                webpage_url, headers=headers, cookies=cookies_dict)
 
             if "Cloudflare" in str(webpage.text):
                 if not cookie_lock.locked():
