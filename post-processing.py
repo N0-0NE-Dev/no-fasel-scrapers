@@ -1,14 +1,15 @@
 import json
 
+FILE_NAMES = ['movies', 'anime', 'asian-series',
+              'series', 'tvshows', 'arabic-series']
+
 
 def main() -> None:
-    FILE_NAMES = ['movies', 'anime', 'asian-series', 'series', 'tvshows']
-
     with open('./output/image-indices.json', 'r') as fp:
         image_indices = json.load(fp)
 
     for index, file in enumerate(FILE_NAMES):
-        with open(f'./output/{file}.json', 'r') as fp:
+        with open(f'./output/{file}.json', 'r', encoding='utf-8') as fp:
             content = json.load(fp)
 
         for key in content:
@@ -31,11 +32,11 @@ def main() -> None:
         else:
             pass
 
-        with open(f'./output/{file}.json', 'w') as fp:
-            json.dump(content, fp, indent=4)
+        with open(f'./output/{file}.json', 'w', encoding='utf-8') as fp:
+            json.dump(content, fp, indent=4, ensure_ascii=False)
 
-    with open('./output/image-indices.json', 'w') as fp:
-        json.dump(image_indices, fp, indent=4)
+    with open('./output/image-indices.json', 'w', encoding='utf-8') as fp:
+        json.dump(image_indices, fp, indent=4, ensure_ascii=False)
 
 
 if __name__ == '__main__':

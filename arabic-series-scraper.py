@@ -9,7 +9,7 @@ from time import perf_counter
 
 MAIN_PAGE_URL = "https://akwam.to/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
 
-with open("./output/arabic-series.json", "r") as fp:
+with open("./output/arabic-series.json", "r", encoding="utf-8") as fp:
     old_series_dict = json.load(fp)
 
 
