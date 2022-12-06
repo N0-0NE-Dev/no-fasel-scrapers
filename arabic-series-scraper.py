@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from common import split_into_ranges, remove_arabic_chars, DEBUG
+from common import split_into_ranges, remove_arabic_chars, DEBUG, save_image
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import json
 from requests import Response
@@ -23,15 +23,6 @@ def get_website_safe(url: str) -> Response:
             response = None
 
     return response
-
-
-def save_image(image_url: str, series_id: str) -> str:
-    image = get_website_safe(image_url)
-
-    with open(f"./output/images/arabic-series/{series_id}.jpg", "wb") as fp:
-        fp.write(image.content)
-
-    return "Saved"
 
 
 def scrape_episode(episodes_list: list[str]) -> dict:
@@ -122,7 +113,7 @@ def scrape_series(series_list: list[str]) -> dict:
             "Category": "arabic-series",
             "Number Of Episodes": current_number_of_episodes,
             "Format": "WEB-DL",
-            "Image Source": save_image(image_source, series_id),
+            "Image Source": save_image(image_source, series_id, False, get_website_safe),
             "Episodes": {}
         }
 

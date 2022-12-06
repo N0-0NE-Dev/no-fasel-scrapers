@@ -3,7 +3,7 @@ from time import sleep
 import requests
 from bs4 import BeautifulSoup, ResultSet
 from urllib.parse import quote
-from typing import Optional
+from typing import Optional, Callable
 import json
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -206,7 +206,7 @@ def upload_image(base64_image: str, call_counter: int, content_id: str, raw_imag
             return "Manual upload required"
 
 
-def save_image(image_url: str, content_id: str, safe: bool = True) -> Optional[str]:
+def save_image(image_url: str, content_id: str, safe: bool = True, safe_callback: Callable[[str], Response] = None) -> Optional[str]:
     try:
         if content_id in IMAGE_SOURCES:
             return IMAGE_SOURCES[content_id]
@@ -216,7 +216,7 @@ def save_image(image_url: str, content_id: str, safe: bool = True) -> Optional[s
             if safe:
                 image = get_website_safe(image_url)
             else:
-                image = requests.get(image_url)
+                image = safe_callback(image_url)
 
             base64_image = b64encode(image.content).decode("utf8")
 
