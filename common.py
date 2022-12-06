@@ -15,7 +15,7 @@ from requests import Response
 from os import environ, remove
 from PIL import Image
 
-DEBUG = True
+DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
 
 with open("./output/image-indices.json", "r") as fp:
@@ -55,8 +55,6 @@ def get_cookies() -> None:
 
 def get_website_safe(webpage_url: str) -> Optional[Response]:
     """Get the webpage at the url provided; automatically gets new cookies when needed, returns None if the page where impossible to reach due to too many redirects"""
-    global cookies_dict
-
     webpage = None
     while webpage is None:
         try:
@@ -184,7 +182,6 @@ def save_image_locally(content_id: str, image: Response) -> str:
 
 
 def upload_image(base64_image: str, call_counter: int, content_id: str, raw_image: Response = None) -> str:
-    """Handles the upload to imgur"""
     headers = {"Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
     data = {"image": base64_image}
 
@@ -209,17 +206,18 @@ def upload_image(base64_image: str, call_counter: int, content_id: str, raw_imag
             return "Manual upload required"
 
 
-def save_image(image_url: str, content_id: str) -> Optional[str]:
-    """Uploads the image to imgur and returns its url.\n
-    If the image could not be uploaded it will be saved locally for manual upload.\n
-    If the image origin url could not be reached a default url for a balnk image is returned
-    """
+def save_image(image_url: str, content_id: str, safe: bool = True) -> Optional[str]:
     try:
         if content_id in IMAGE_SOURCES:
             return IMAGE_SOURCES[content_id]
         else:
             image_url = fix_url(image_url)
-            image = get_website_safe(image_url)
+
+            if safe:
+                image = get_website_safe(image_url)
+            else:
+                image = requests.get(image_url)
+
             base64_image = b64encode(image.content).decode("utf8")
 
             return upload_image(base64_image, 0, content_id, image)

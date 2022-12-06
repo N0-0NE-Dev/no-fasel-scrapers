@@ -4,6 +4,7 @@ backup/*
 ImageIndexer.py
 test.py
 DataDecoder.py
+test.json
 
 Lib/*
 Scripts/*
