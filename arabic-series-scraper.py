@@ -29,7 +29,7 @@ def scrape_episode(episodes_list: list[str]) -> dict:
     episodes_dict = {}
 
     for episode_link in episodes_list:
-        sources_dict = {}
+        sources_list = []
 
         episode_id = episode_link.split("/")[4]
         episode_select_page = get_website_safe(episode_link)
@@ -60,11 +60,17 @@ def scrape_episode(episodes_list: list[str]) -> dict:
         episode_sources = soup.find_all("source")
 
         for source in episode_sources:
-            sources_dict[source["size"]] = source["src"]
+            sources_list.append(
+                {
+                    "label": source["size"] + "p",
+                    "key": source["src"]
+                }
+            )
+            # sources_dict[source["size"]] = source["src"]
 
         episodes_dict[episode_id] = {
             "Episode Number": episode_number,
-            "Sources": sources_dict
+            "Sources": sources_list
         }
 
     return episodes_dict
