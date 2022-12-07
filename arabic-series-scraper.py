@@ -52,8 +52,8 @@ def scrape_episode(episodes_list: list[str]) -> dict:
         soup = BeautifulSoup(
             episode_watch_page.content, "html.parser")
 
-        episode_number = remove_arabic_chars(soup.find(
-            "h2", class_="font-size-20 font-weight-bold").find("a").text).split("\n")[0]
+        episode_number = int(remove_arabic_chars(soup.find(
+            "h2", class_="font-size-20 font-weight-bold").find("a").text).split("\n")[0])
 
         episode_source = soup.find("source")["src"]
 
@@ -92,14 +92,12 @@ def scrape_series(series_list: list[str]) -> dict:
         current_number_of_episodes = len(episode_links)
 
         try:
-            old_number_of_episodes = int(
-                old_series_dict[series_id]["Number Of Episodes"])
+            old_number_of_episodes = old_series_dict[series_id]["Number Of Episodes"]
 
             if current_number_of_episodes == old_number_of_episodes:
                 continue
             else:
                 pass
-
         except KeyError:
             pass
 
