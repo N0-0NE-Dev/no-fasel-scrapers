@@ -29,6 +29,8 @@ def scrape_episode(episodes_list: list[str]) -> dict:
     episodes_dict = {}
 
     for episode_link in episodes_list:
+        sources_dict = {}
+
         episode_id = episode_link.split("/")[4]
         episode_select_page = get_website_safe(episode_link)
         soup = BeautifulSoup(episode_select_page.content, "html.parser")
@@ -55,11 +57,14 @@ def scrape_episode(episodes_list: list[str]) -> dict:
         episode_number = int(remove_arabic_chars(soup.find(
             "h2", class_="font-size-20 font-weight-bold").find("a").text).split("\n")[0])
 
-        episode_source = soup.find("source")["src"]
+        episode_sources = soup.find_all("source")
+
+        for source in episode_sources:
+            sources_dict[source["size"]] = source["src"]
 
         episodes_dict[episode_id] = {
             "Episode Number": episode_number,
-            "Source": episode_source
+            "Sources": sources_dict
         }
 
     return episodes_dict
@@ -173,7 +178,7 @@ def main() -> None:
     for result in results:
         old_series_dict.update(result)
 
-    with open("test.json", "w", encoding="utf-8") as fp:
+    with open("./output/arabic-series.json", "w", encoding="utf-8") as fp:
         json.dump(old_series_dict, fp, indent=4, ensure_ascii=False)
 
     return
