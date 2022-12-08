@@ -7,12 +7,10 @@ start_time = perf_counter()
 movies_process = Popen(["python", "movies-scraper.py"])
 series_process = Popen(["python", "series-scraper.py"])
 anime_process = Popen(["python", "anime-scraper.py"])
-arabic_series_process = Popen(["python", "arabic-series-scraper.py"])
 
 movies_process.wait()
 series_process.wait()
 anime_process.wait()
-arabic_series_process.wait()
 
 trending_process = Popen(["python", "trending-scraper.py"])
 post_processing_process = Popen(["python", "post-processing.py"])
