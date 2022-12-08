@@ -57,7 +57,7 @@ def scrape_episode(episodes_list: list[str]) -> dict:
 
         episodes_dict[episode_id] = {
             "Episode Number": episode_number,
-            "Sources": episode_watch_page_link
+            "Source": episode_watch_page_link
         }
 
     return episodes_dict
