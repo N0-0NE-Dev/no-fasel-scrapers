@@ -30,5 +30,5 @@ with open("./output/last-scraped.txt", "w") as fp:
     fp.write(date.today().strftime("%Y-%m-%d"))
 
 print(
-    f"Finished scraping all of fasel in about {round((end_time - start_time) / 60)} minute(s)"
+    f"Finished scraping all the content in about {round((end_time - start_time) / 60)} minute(s)"
 )

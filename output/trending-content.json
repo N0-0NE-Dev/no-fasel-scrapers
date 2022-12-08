@@ -138,11 +138,6 @@
             "Title": "Mob Psycho 100 III",
             "Image Source": "https://i.imgur.com/ZAomsyn.jpg",
             "Category": "anime"
-        },
-        "188639": {
-            "Title": "Human Bug Daigaku",
-            "Image Source": "https://i.imgur.com/Rc2BcvD.jpg",
-            "Category": "anime"
         }
     },
     "series": {
@@ -191,6 +186,21 @@
             "Image Source": "https://i.imgur.com/CxPHmaP.jpg",
             "Category": "series"
         },
+        "192115": {
+            "Title": "Criminal Minds",
+            "Image Source": "https://i.imgur.com/Xyq43FS.jpg",
+            "Category": "series"
+        },
+        "186212": {
+            "Title": "Big Sky",
+            "Image Source": "https://i.imgur.com/qiOB6gB.jpg",
+            "Category": "series"
+        },
+        "192017": {
+            "Title": "Shaq",
+            "Image Source": "https://i.imgur.com/kfS28b3.jpg",
+            "Category": "series"
+        },
         "194054": {
             "Title": "The Most Beautiful Flower",
             "Image Source": "https://i.imgur.com/bYpnVEZ.jpg",
@@ -205,21 +215,33 @@
             "Title": "I Hate Christmas",
             "Image Source": "https://i.imgur.com/vN3VdQ5.jpg",
             "Category": "series"
+        }
+    },
+    "arabic-series": {
+        "3790": {
+            "Title": "ولد أمه",
+            "Image Source": "https://i.imgur.com/5oWMLFj.jpg",
+            "Category": "arabic-series"
         },
-        "192850": {
-            "Title": "Willow",
-            "Image Source": "https://i.imgur.com/En6w65t.jpg",
-            "Category": "series"
+        "3782": {
+            "Title": "خط أحمر",
+            "Image Source": "https://imgpile.com/images/b8EN0i.jpg",
+            "Category": "arabic-series"
         },
-        "191316": {
-            "Title": "The Santa Clauses",
-            "Image Source": "https://i.imgur.com/wETn6ZY.jpg",
-            "Category": "series"
+        "3781": {
+            "Title": "مشوار الونش",
+            "Image Source": "https://imgpile.com/images/b8E7iF.jpg",
+            "Category": "arabic-series"
         },
-        "189846": {
-            "Title": "The Mysterious Benedict Society",
-            "Image Source": "https://i.imgur.com/idOT6Tk.jpg",
-            "Category": "series"
+        "3779": {
+            "Title": "على الهوى",
+            "Image Source": "https://imgpile.com/images/b8E1vl.jpg",
+            "Category": "arabic-series"
+        },
+        "3778": {
+            "Title": "أحلام يرسمها الغبار",
+            "Image Source": "https://imgpile.com/images/b8Enr3.jpg",
+            "Category": "arabic-series"
         }
     }
 }
