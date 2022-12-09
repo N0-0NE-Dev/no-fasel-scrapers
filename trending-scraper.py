@@ -1,16 +1,45 @@
 from common import *
 from bs4 import BeautifulSoup
 from time import perf_counter
+import requests
 import json
 
 content_dict = {'movies': {}, 'asian-series': {},
-                'anime': {}, 'series': {}}
+                'anime': {}, 'series': {}, "arabic-series": {}}
+
+
+def scrape_akwam() -> None:
+    """Scrapes the recent arabic series from akwam"""
+    home_page = requests.get("https://akwam.to/recent")
+    soup = BeautifulSoup(home_page.content, "html.parser")
+    series_anchor_tag = soup.find_all("a", class_="icn play")
+    series_links = [tag["href"] for tag in series_anchor_tag]
+
+    with open("./output/arabic-series.json", "r", encoding="utf-8") as fp:
+        arabic_series_dict = json.load(fp)
+
+    for link in series_links:
+        if "series" in link:
+            series_id = link.split("/")[4]
+
+            try:
+                content_dict['arabic-series'].update(
+                    {series_id: {
+                        "Title": arabic_series_dict[series_id]["Title"],
+                        "Image Source": arabic_series_dict[series_id]["Image Source"],
+                        "Category": "arabic-series"}})
+            except KeyError:
+                continue
+
+        else:
+            continue
 
 
 def scrape_fasel() -> None:
     """Scrapes the content on the home page of fasel"""
     get_cookies()
-    home_page = get_website_safe('https://www.faselhd.club/home3')
+    home_page = get_website_safe(
+        'https://www.faselhd.club/home3')
     soup = BeautifulSoup(home_page.content, 'html.parser')
 
     trending_content_divs = soup.find_all('div', 'blockMovie')
@@ -52,6 +81,7 @@ def scrape_fasel() -> None:
 
 def main() -> None:
     scrape_fasel()
+    scrape_akwam()
 
     with open("./output/trending-content.json", "w", encoding="utf-8") as fp:
         json.dump(content_dict, fp, indent=4, ensure_ascii=False)

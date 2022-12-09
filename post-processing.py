@@ -1,6 +1,7 @@
 import json
 
-FILE_NAMES = ['movies', 'anime', 'asian-series', 'series', 'tvshows']
+FILE_NAMES = ['movies', 'anime', 'asian-series',
+              'series', 'tvshows', 'arabic-series']
 
 
 def main() -> None:
