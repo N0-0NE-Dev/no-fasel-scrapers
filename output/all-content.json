@@ -5551,9 +5551,9 @@
             "Category": "asian-series"
         },
         {
-            "key": "151779",
+            "key": "194265",
             "Title": "Alchemy of Souls",
-            "Image Source": "https://imgpile.com/images/TKVo3C.jpg",
+            "Image Source": "https://i.imgur.com/6YXYSwY.jpg",
             "Category": "asian-series"
         },
         {
@@ -9700,6 +9700,12 @@
             "key": "61872",
             "Title": "Terius Behind Me",
             "Image Source": "https://imgpile.com/images/TKX2VE.jpg",
+            "Category": "asian-series"
+        },
+        {
+            "key": "151779",
+            "Title": "Alchemy of Souls",
+            "Image Source": "https://imgpile.com/images/TKVo3C.jpg",
             "Category": "asian-series"
         },
         {
@@ -86617,6 +86623,30 @@
             "Category": "movies"
         },
         {
+            "key": "194293",
+            "Title": "Kaduva",
+            "Image Source": "https://i.imgur.com/04rLswy.jpg",
+            "Category": "movies"
+        },
+        {
+            "key": "194290",
+            "Title": "Saunkan Saunkne",
+            "Image Source": "https://i.imgur.com/DLS3P1L.jpg",
+            "Category": "movies"
+        },
+        {
+            "key": "194283",
+            "Title": "Kuntilanak 3",
+            "Image Source": "https://i.imgur.com/duZgpik.jpg",
+            "Category": "movies"
+        },
+        {
+            "key": "194277",
+            "Title": "Christmas in Paradise",
+            "Image Source": "https://i.imgur.com/CtCQQjW.jpg",
+            "Category": "movies"
+        },
+        {
             "key": "194227",
             "Title": "Harry & Meghan",
             "Image Source": "https://i.imgur.com/hBpjiGl.jpg",
@@ -108886,6 +108916,12 @@
             "key": "21",
             "Title": "امراة من زمن الحب",
             "Image Source": "https://imgpile.com/images/b8qlUW.jpg",
+            "Category": "arabic-series"
+        },
+        {
+            "key": "3798",
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     ]

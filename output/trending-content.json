@@ -1,5 +1,35 @@
 {
     "movies": {
+        "194293": {
+            "Title": "Kaduva",
+            "Image Source": "https://i.imgur.com/04rLswy.jpg",
+            "Category": "movies"
+        },
+        "194290": {
+            "Title": "Saunkan Saunkne",
+            "Image Source": "https://i.imgur.com/DLS3P1L.jpg",
+            "Category": "movies"
+        },
+        "153710": {
+            "Title": "The Roundup",
+            "Image Source": "https://imgpile.com/images/TUC7rk.jpg",
+            "Category": "movies"
+        },
+        "190371": {
+            "Title": "Smile",
+            "Image Source": "https://i.imgur.com/8QVvpe7.jpg",
+            "Category": "movies"
+        },
+        "194283": {
+            "Title": "Kuntilanak 3",
+            "Image Source": "https://i.imgur.com/duZgpik.jpg",
+            "Category": "movies"
+        },
+        "194277": {
+            "Title": "Christmas in Paradise",
+            "Image Source": "https://i.imgur.com/CtCQQjW.jpg",
+            "Category": "movies"
+        },
         "194213": {
             "Title": "Night at the Museum: Kahmunrah Rises Again",
             "Image Source": "https://i.imgur.com/gcYjQef.jpg",
@@ -29,49 +59,9 @@
             "Title": "Manifest West",
             "Image Source": "https://i.imgur.com/KXBZBQ4.jpg",
             "Category": "movies"
-        },
-        "194158": {
-            "Title": "Lullaby",
-            "Image Source": "https://i.imgur.com/VcH1mdU.jpg",
-            "Category": "movies"
-        },
-        "194155": {
-            "Title": "Hawa",
-            "Image Source": "https://i.imgur.com/NJZhSON.jpg",
-            "Category": "movies"
-        },
-        "194152": {
-            "Title": "Emancipation",
-            "Image Source": "https://i.imgur.com/OKQUBvs.jpg",
-            "Category": "movies"
-        },
-        "152648": {
-            "Title": "Dragon Ball Super: Super Hero",
-            "Image Source": "https://imgpile.com/images/TUhof8.jpg",
-            "Category": "movies"
-        },
-        "194104": {
-            "Title": "The Elephant Whisperers",
-            "Image Source": "https://i.imgur.com/SJSyPFk.jpg",
-            "Category": "movies"
-        },
-        "194098": {
-            "Title": "In Broad Daylight: The Narvarte Case",
-            "Image Source": "https://i.imgur.com/htgqJ9Z.jpg",
-            "Category": "movies"
         }
     },
     "asian-series": {
-        "194253": {
-            "Title": "Work Later, Drink Now",
-            "Image Source": "https://i.imgur.com/HVEMz5A.jpg",
-            "Category": "asian-series"
-        },
-        "194250": {
-            "Title": "The Forbidden Marriage",
-            "Image Source": "https://i.imgur.com/j05cBkS.jpg",
-            "Category": "asian-series"
-        },
         "191195": {
             "Title": "The First Responders",
             "Image Source": "https://i.imgur.com/JkpcjXF.jpg",
@@ -80,6 +70,26 @@
         "191619": {
             "Title": "Reborn Rich",
             "Image Source": "https://i.imgur.com/U6y8y99.jpg",
+            "Category": "asian-series"
+        },
+        "194250": {
+            "Title": "The Forbidden Marriage",
+            "Image Source": "https://i.imgur.com/j05cBkS.jpg",
+            "Category": "asian-series"
+        },
+        "194253": {
+            "Title": "Work Later, Drink Now",
+            "Image Source": "https://i.imgur.com/HVEMz5A.jpg",
+            "Category": "asian-series"
+        },
+        "194265": {
+            "Title": "Alchemy of Souls",
+            "Image Source": "https://i.imgur.com/6YXYSwY.jpg",
+            "Category": "asian-series"
+        },
+        "139125": {
+            "Title": "Work Later, Drink Now",
+            "Image Source": "https://imgpile.com/images/TKrL0a.jpg",
             "Category": "asian-series"
         },
         "189178": {
@@ -96,32 +106,27 @@
             "Title": "Unlock My Boss",
             "Image Source": "https://i.imgur.com/Xz3lIso.jpg",
             "Category": "asian-series"
-        },
-        "193165": {
-            "Title": "Recipe for Farewell",
-            "Image Source": "https://i.imgur.com/ZacBVuz.jpg",
-            "Category": "asian-series"
-        },
-        "191499": {
-            "Title": "Phantom School",
-            "Image Source": "https://i.imgur.com/LSV62xb.jpg",
-            "Category": "asian-series"
         }
     },
     "anime": {
-        "187485": {
-            "Title": "Akiba Maid Sensou",
-            "Image Source": "https://i.imgur.com/Th1R7TO.jpg",
+        "190172": {
+            "Title": "Arknights: Reimei Zensou",
+            "Image Source": "https://i.imgur.com/DeNUF2o.jpg",
             "Category": "anime"
         },
-        "188507": {
-            "Title": "Yama No Susume: Next Summit",
-            "Image Source": "https://i.imgur.com/1KqYtST.jpg",
+        "188153": {
+            "Title": "Bocchi the Rock!",
+            "Image Source": "https://i.imgur.com/69a0PqM.jpg",
             "Category": "anime"
         },
-        "152854": {
-            "Title": "Hoshi no Samidare",
-            "Image Source": "https://imgpile.com/images/TJUQJL.jpg",
+        "186941": {
+            "Title": "Koukyuu no karasu",
+            "Image Source": "https://i.imgur.com/gfVr0x3.jpg",
+            "Category": "anime"
+        },
+        "147679": {
+            "Title": "SPY X Family",
+            "Image Source": "https://imgpile.com/images/TJNpsa.jpg",
             "Category": "anime"
         }
     },
@@ -166,28 +171,28 @@
             "Image Source": "https://i.imgur.com/yCpzUqT.jpg",
             "Category": "series"
         },
-        "190924": {
-            "Title": "Warrior Nun",
-            "Image Source": "https://i.imgur.com/sb5OpmU.jpg",
+        "188107": {
+            "Title": "Fire Country",
+            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
             "Category": "series"
         },
-        "194234": {
-            "Title": "Puppy Place",
-            "Image Source": "https://i.imgur.com/Xpi1ipv.jpg",
+        "186814": {
+            "Title": "Ghosts",
+            "Image Source": "https://i.imgur.com/prjDhMH.jpg",
             "Category": "series"
         },
-        "194201": {
-            "Title": "Cat",
-            "Image Source": "https://i.imgur.com/sIpI9xz.jpg",
-            "Category": "series"
-        },
-        "194172": {
-            "Title": "The Bad Guy",
-            "Image Source": "https://i.imgur.com/MG5rYEB.jpg",
+        "193731": {
+            "Title": "The Walk-In",
+            "Image Source": "https://i.imgur.com/WZH0gly.jpg",
             "Category": "series"
         }
     },
     "arabic-series": {
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+            "Category": "arabic-series"
+        },
         "3790": {
             "Title": "ولد أمه",
             "Image Source": "https://i.imgur.com/5oWMLFj.jpg",
