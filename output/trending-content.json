@@ -62,6 +62,26 @@
         }
     },
     "asian-series": {
+        "187152": {
+            "Title": "Cheer Up",
+            "Image Source": "https://i.imgur.com/zI3oJBO.jpg",
+            "Category": "asian-series"
+        },
+        "190294": {
+            "Title": "Curtain Call",
+            "Image Source": "https://i.imgur.com/9G2W2i4.jpg",
+            "Category": "asian-series"
+        },
+        "191797": {
+            "Title": "Summer Strike",
+            "Image Source": "https://i.imgur.com/BNyG9dr.jpg",
+            "Category": "asian-series"
+        },
+        "190809": {
+            "Title": "Behind Every Star",
+            "Image Source": "https://i.imgur.com/7NZkery.jpg",
+            "Category": "asian-series"
+        },
         "186448": {
             "Title": "Three Bold Siblings",
             "Image Source": "https://i.imgur.com/A75WeBp.jpg",
@@ -81,62 +101,37 @@
             "Title": "Knowing Bros",
             "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
             "Category": "asian-series"
-        },
-        "108969": {
-            "Title": "Master in the House",
-            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
-            "Category": "asian-series"
-        },
-        "154569": {
-            "Title": "Out of Court",
-            "Image Source": "https://imgpile.com/images/TKXtB8.jpg",
-            "Category": "asian-series"
-        },
-        "189607": {
-            "Title": "City of Streamer",
-            "Image Source": "https://i.imgur.com/3y1xFuH.jpg",
-            "Category": "asian-series"
-        },
-        "190394": {
-            "Title": "Being a Hero",
-            "Image Source": "https://i.imgur.com/pdMZNk7.jpg",
-            "Category": "asian-series"
-        },
-        "194265": {
-            "Title": "Alchemy of Souls",
-            "Image Source": "https://i.imgur.com/6YXYSwY.jpg",
-            "Category": "asian-series"
         }
     },
     "anime": {
+        "141834": {
+            "Title": "Link Click (Shiguang Dailiren)",
+            "Image Source": "https://imgpile.com/images/TJN4g3.jpg",
+            "Category": "anime"
+        },
+        "42952": {
+            "Title": "Detective Conan",
+            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
+            "Category": "anime"
+        },
+        "188448": {
+            "Title": "Cool Doji Danshi",
+            "Image Source": "https://i.imgur.com/k32VdZN.jpg",
+            "Category": "anime"
+        },
+        "188194": {
+            "Title": "Bleach: Thousand Year Blood War",
+            "Image Source": "https://i.imgur.com/8Ihjbqs.jpg",
+            "Category": "anime"
+        },
+        "187023": {
+            "Title": "Idolish7: Third Beat!Part 2",
+            "Image Source": "https://i.imgur.com/XlLmQLn.jpg",
+            "Category": "anime"
+        },
         "189589": {
             "Title": "Fumetsu no Anata E 2nd Season",
             "Image Source": "https://i.imgur.com/0GqOWl1.jpg",
-            "Category": "anime"
-        },
-        "187027": {
-            "Title": "Mobile Suit Gundam: The Witch from Mercury",
-            "Image Source": "https://i.imgur.com/0pJPlW0.jpg",
-            "Category": "anime"
-        },
-        "186932": {
-            "Title": "Xian Wang de Richang Shenghuo Season 3",
-            "Image Source": "https://i.imgur.com/i6ZGIUv.jpg",
-            "Category": "anime"
-        },
-        "134902": {
-            "Title": "Digimon Ghost Game",
-            "Image Source": "https://imgpile.com/images/TJuojC.jpg",
-            "Category": "anime"
-        },
-        "43961": {
-            "Title": "Boruto Naruto Next Generations",
-            "Image Source": "https://imgpile.com/images/TJwlGj.jpg",
-            "Category": "anime"
-        },
-        "48074": {
-            "Title": "One Piece",
-            "Image Source": "https://imgpile.com/images/TJ5i34.jpg",
             "Category": "anime"
         }
     },
@@ -181,19 +176,34 @@
             "Image Source": "https://i.imgur.com/yCpzUqT.jpg",
             "Category": "series"
         },
-        "193731": {
-            "Title": "The Walk-In",
-            "Image Source": "https://i.imgur.com/WZH0gly.jpg",
+        "173345": {
+            "Title": "Monarch",
+            "Image Source": "https://i.imgur.com/2lcf7uz.jpg",
             "Category": "series"
         },
-        "190582": {
-            "Title": "Young Rock",
-            "Image Source": "https://i.imgur.com/JnBtkr2.jpg",
+        "136931": {
+            "Title": "Yellowstone",
+            "Image Source": "https://imgpile.com/images/TKecfR.jpg",
             "Category": "series"
         },
-        "188107": {
-            "Title": "Fire Country",
-            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
+        "172921": {
+            "Title": "Rick and Morty",
+            "Image Source": "https://imgpile.com/images/Tiw73k.png",
+            "Category": "series"
+        },
+        "190268": {
+            "Title": "The White Lotus",
+            "Image Source": "https://i.imgur.com/t8lmA7z.jpg",
+            "Category": "series"
+        },
+        "186507": {
+            "Title": "Family Guy",
+            "Image Source": "https://i.imgur.com/PRrUjeG.jpg",
+            "Category": "series"
+        },
+        "186476": {
+            "Title": "The Simpsons",
+            "Image Source": "https://i.imgur.com/rVgB6pi.jpg",
             "Category": "series"
         }
     },
