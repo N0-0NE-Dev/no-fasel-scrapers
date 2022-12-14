@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from undetected_chromedriver import Chrome
 from threading import Lock
-from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout, ReadTimeout
+from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout, ReadTimeout, ChunkedEncodingError
 from requests import Response
 from os import environ, remove
 from PIL import Image
@@ -76,6 +76,9 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
             webpage = None
 
         except ReadTimeout:
+            webpage = None
+
+        except ChunkedEncodingError:
             webpage = None
 
         except TooManyRedirects:
