@@ -15,7 +15,7 @@ from requests import Response
 from os import environ, remove
 from PIL import Image
 
-DEBUG = False
+DEBUG = True
 BASE_URL = "https://www.faselhd.club/"
 
 with open("./output/image-indices.json", "r") as fp:

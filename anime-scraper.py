@@ -49,9 +49,16 @@ def get_iframe_source(episodes: list[str]) -> dict:
         except TypeError:
             continue
 
+        try:
+            download_link = soup.find(
+                "div", class_="downloadLinks").find("a")["href"]
+        except TypeError:
+            download_link = None
+
         episodes_dict[episode_id] = {
             "Episode Number":  int(remove_arabic_chars(episode.text).strip()),
-            "Source": iframeSource
+            "Source": iframeSource,
+            "Download Source": download_link
         }
 
     return episodes_dict

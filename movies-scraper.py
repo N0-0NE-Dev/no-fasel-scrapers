@@ -35,12 +35,19 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
         except TypeError:
             continue
 
+        try:
+            download_link = soup.find(
+                "div", class_="downloadLinks").find("a")["href"]
+        except TypeError:
+            download_link = None
+
         movies_dict[movie_id] = {
             "Title": get_content_title(movie_div),
             "Category": "movies",
             "Format": get_content_format(soup),
             "Image Source": save_image(movie_div.img.attrs['data-src'], movie_id),
-            "Source": iframeSource
+            "Source": iframeSource,
+            "Download Source": download_link
         }
 
     return movies_dict
