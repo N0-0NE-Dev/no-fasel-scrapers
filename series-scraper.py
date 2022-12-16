@@ -37,16 +37,9 @@ def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> di
         except TypeError:
             continue
 
-        try:
-            download_link = soup.find(
-                "div", class_="downloadLinks").find("a")["href"]
-        except TypeError:
-            download_link = None
-
         episodes_dict[episode_id] = {
             "Episode Number": last_episode_number + index,
             "Source": iframe_source,
-            "Download Source": download_link
         }
 
     return episodes_dict
