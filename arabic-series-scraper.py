@@ -1,28 +1,14 @@
-import requests
 from bs4 import BeautifulSoup
 from common import split_into_ranges, remove_arabic_chars, DEBUG, save_image
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import json
-from requests import Response
-from requests.exceptions import ConnectionError
 from time import perf_counter
+from AkwamCommon import *
 
 MAIN_PAGE_URL = "https://akwam.to/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
 
 with open("./output/arabic-series.json", "r", encoding="utf-8") as fp:
     old_series_dict = json.load(fp)
-
-
-def get_website_safe(url: str) -> Response:
-    response = None
-
-    while response is None:
-        try:
-            response = requests.get(url)
-        except ConnectionError:
-            response = None
-
-    return response
 
 
 def scrape_episode(episodes_list: list[str]) -> dict:
@@ -109,7 +95,7 @@ def scrape_series(series_list: list[str]) -> dict:
             "Category": "arabic-series",
             "Number Of Episodes": current_number_of_episodes,
             "Format": "WEB-DL",
-            "Image Source": save_image(image_source, series_id, False, get_website_safe),
+            "Image Source": save_image(image_source, series_id + "-akwam", False, get_website_safe),
             "Episodes": {}
         }
 
@@ -130,16 +116,10 @@ def scrape_page_range(page_range: tuple[int]) -> dict:
 
     for page in range(page_range[0], page_range[1]):
         page_source = get_website_safe(MAIN_PAGE_URL + f"&page={page}")
-        soup = BeautifulSoup(page_source.content, "html.parser")
-        series_anchor_tags = soup.find_all("a", class_="icn play")
-        series_links = [tag["href"] for tag in series_anchor_tags]
-        series_links_ranges = split_into_ranges(6, len(series_links))
-
-        splitted_series_links = [series_links[series_links_range[0] - 1: series_links_range[1] - 1]
-                                 for series_links_range in series_links_ranges]
 
         with ThreadPoolExecutor() as executor:
-            results = executor.map(scrape_series, splitted_series_links)
+            results = executor.map(
+                scrape_series, split_anchor_links(page_source))
 
         for result in results:
             all_series_dict.update(result)
@@ -153,12 +133,7 @@ def scrape_page_range(page_range: tuple[int]) -> dict:
 
 
 def main() -> None:
-    main_page_source = get_website_safe(MAIN_PAGE_URL)
-    soup = BeautifulSoup(main_page_source.content, "html.parser")
-    page_buttons = soup.find_all("a", class_="page-link")
-    last_page_button = page_buttons[-3]
-    last_page_number = int(last_page_button.text)
-    page_ranges = split_into_ranges(10, last_page_number)
+    page_ranges = split_into_ranges(8, get_last_page_number(MAIN_PAGE_URL))
 
     if DEBUG:
         print(page_ranges)

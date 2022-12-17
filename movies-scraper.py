@@ -39,7 +39,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             "Title": get_content_title(movie_div),
             "Category": "movies",
             "Format": get_content_format(soup),
-            "Image Source": save_image(movie_div.img.attrs['data-src'], movie_id),
+            "Image Source": save_image(movie_div.img.attrs['data-src'], movie_id + "-fasel"),
             "Source": iframeSource,
         }
 
@@ -84,7 +84,7 @@ def main() -> None:
     get_cookies()
 
     page_ranges_list = split_into_ranges(
-        16,
+        8,
         get_number_of_pages(BASE_URL + "all-movies"),
     )
 

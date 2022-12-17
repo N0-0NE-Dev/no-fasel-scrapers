@@ -5,29 +5,44 @@ import requests
 import json
 
 content_dict = {'movies': {}, 'asian-series': {},
-                'anime': {}, 'series': {}, "arabic-series": {}}
+                'anime': {}, 'series': {}, "arabic-series": {},
+                "arabic-movies": {}
+                }
 
 
 def scrape_akwam() -> None:
     """Scrapes the recent arabic series from akwam"""
-    home_page = requests.get("https://akwam.to/recent")
+    home_page = requests.get("https://akwam.to/one")
     soup = BeautifulSoup(home_page.content, "html.parser")
-    series_anchor_tag = soup.find_all("a", class_="icn play")
-    series_links = [tag["href"] for tag in series_anchor_tag]
+    anchor_tags = soup.find_all("a", class_="icn play")
+    content_links = [tag["href"] for tag in anchor_tags]
 
     with open("./output/arabic-series.json", "r", encoding="utf-8") as fp:
-        arabic_series_dict = json.load(fp)
+        arabic_series = json.load(fp)
 
-    for link in series_links:
+    with open("./output/arabic-movies.json", "r", encoding="utf-8") as fp:
+        arabic_movies = json.load(fp)
+
+    for link in content_links:
         if "series" in link:
-            series_id = link.split("/")[4]
+            series_id = link.split("/")[-2]
 
             try:
-                content_dict['arabic-series'].update(
-                    {series_id: {
-                        "Title": arabic_series_dict[series_id]["Title"],
-                        "Image Source": arabic_series_dict[series_id]["Image Source"],
-                        "Category": "arabic-series"}})
+                content_dict["arabic-series"][series_id] = {"Title": arabic_series[series_id]["Title"],
+                                                            "Image Source": arabic_series[series_id]["Image Source"],
+                                                            "Category": "arabic-series"
+                                                            }
+            except KeyError:
+                continue
+
+        elif "movie" in link:
+            movie_id = link.split("/")[-2]
+
+            try:
+                content_dict["arabic-movies"][movie_id] = {"Title": arabic_movies[movie_id]["Title"],
+                                                           "Image Source": arabic_movies[movie_id]["Image Source"],
+                                                           "Category": "arabic-movies"
+                                                           }
             except KeyError:
                 continue
 

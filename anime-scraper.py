@@ -128,7 +128,7 @@ def scrape_anime(page_range: tuple) -> dict:
                     "Category": "anime",
                     "Number Of Episodes": current_number_of_episodes,
                     "Format": get_content_format(soup),
-                    "Image Source": save_image(anime_div.img.attrs['data-src'], anime_id),
+                    "Image Source": save_image(anime_div.img.attrs['data-src'], anime_id + "-fasel"),
                     "Episodes": scrape_episodes(current_number_of_episodes, anime_episodes_list)
                 }
 

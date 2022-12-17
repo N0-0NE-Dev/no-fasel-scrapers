@@ -1,7 +1,8 @@
 import json
 
 FILE_NAMES = ['movies', 'anime', 'asian-series',
-              'series', 'tvshows', 'arabic-series']
+              'series', 'tvshows', 'arabic-series',
+              'arabic-movies']
 
 
 def main() -> None:
@@ -13,7 +14,10 @@ def main() -> None:
             content = json.load(fp)
 
         for key in content:
-            image_indices[key] = content[key]["Image Source"]
+            if "arabic" in file:
+                image_indices[key + "-akwam"] = content[key]["Image Source"]
+            else:
+                image_indices[key + "-fasel"] = content[key]["Image Source"]
 
         if index in range(2, 5):
             for key in list(content.keys()):
