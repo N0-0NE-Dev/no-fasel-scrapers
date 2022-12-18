@@ -15,7 +15,8 @@ def main() -> None:
 
         for key in content:
             if "arabic" in file:
-                image_indices[key + "-akwam"] = content[key]["Image Source"]
+                image_indices[key + "-akwam" +
+                              file.split("-")[-1]] = content[key]["Image Source"]
             else:
                 image_indices[key + "-fasel"] = content[key]["Image Source"]
 

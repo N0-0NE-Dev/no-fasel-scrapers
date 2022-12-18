@@ -29,7 +29,7 @@ def get_movie(movies_links: list[str]) -> dict:
         movies_dict[movie_id] = {
             "Title": movie_title,
             "Category": "arabic-movies",
-            "Image Source": save_image(image_url, movie_id + "-akwam", False, get_website_safe),
+            "Image Source": save_image(image_url, movie_id + "-akwam-movies", False, get_website_safe),
             "Source": f"https://akwam.to/watch/{short_link_id}/{movie_id}"
         }
 

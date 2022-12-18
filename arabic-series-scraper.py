@@ -95,7 +95,7 @@ def scrape_series(series_list: list[str]) -> dict:
             "Category": "arabic-series",
             "Number Of Episodes": current_number_of_episodes,
             "Format": "WEB-DL",
-            "Image Source": save_image(image_source, series_id + "-akwam", False, get_website_safe),
+            "Image Source": save_image(image_source, series_id + "-akwam-series", False, get_website_safe),
             "Episodes": {}
         }
 
