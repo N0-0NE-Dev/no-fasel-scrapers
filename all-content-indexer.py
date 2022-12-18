@@ -1,7 +1,8 @@
 import json
 
 PATHS = ["anime", "asian-series", "movies",
-         "series", "tvshows", "arabic-series"]
+         "series", "tvshows", "arabic-series",
+         "arabic-movies"]
 
 
 def main() -> None:
