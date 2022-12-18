@@ -1,8 +1,43 @@
 {
     "movies": {
+        "195925": {
+            "Title": "The Fabelmans",
+            "Image Source": "https://i.imgur.com/lao0tga.jpg",
+            "Category": "movies"
+        },
+        "195918": {
+            "Title": "Mindcage",
+            "Image Source": "https://i.imgur.com/Vkd1HSQ.jpg",
+            "Category": "movies"
+        },
+        "195907": {
+            "Title": "Nazar Andaaz",
+            "Image Source": "https://i.imgur.com/PNf7G5q.jpg",
+            "Category": "movies"
+        },
+        "195858": {
+            "Title": "Love Today",
+            "Image Source": "https://i.imgur.com/JK51zCF.jpg",
+            "Category": "movies"
+        },
+        "195795": {
+            "Title": "The Binge 2: Its A Wonderful Binge",
+            "Image Source": "https://i.imgur.com/p6jaU2z.jpg",
+            "Category": "movies"
+        },
         "3421": {
             "Title": "Remember",
             "Image Source": "https://imgpile.com/images/TUjI3j.jpg",
+            "Category": "movies"
+        },
+        "195700": {
+            "Title": "Le pupille",
+            "Image Source": "https://i.imgur.com/Yz9Awg0.jpg",
+            "Category": "movies"
+        },
+        "195682": {
+            "Title": "Confidential Assignment 2: International",
+            "Image Source": "https://i.imgur.com/7avHlUr.jpg",
             "Category": "movies"
         },
         "186808": {
@@ -14,9 +49,34 @@
             "Title": "Savage Salvation",
             "Image Source": "https://i.imgur.com/4amyapZ.jpg",
             "Category": "movies"
+        },
+        "195579": {
+            "Title": "Gulltransporten",
+            "Image Source": "https://i.imgur.com/gDjgqM0.jpg",
+            "Category": "movies"
+        },
+        "195558": {
+            "Title": "Bardo: False Chronicle of a Handful of Truths",
+            "Image Source": "https://i.imgur.com/rXQRek1.jpg",
+            "Category": "movies"
         }
     },
     "asian-series": {
+        "186448": {
+            "Title": "Three Bold Siblings",
+            "Image Source": "https://i.imgur.com/A75WeBp.jpg",
+            "Category": "asian-series"
+        },
+        "194250": {
+            "Title": "The Forbidden Marriage",
+            "Image Source": "https://i.imgur.com/j05cBkS.jpg",
+            "Category": "asian-series"
+        },
+        "195965": {
+            "Title": "Red Balloon",
+            "Image Source": "https://i.imgur.com/8zflivM.jpg",
+            "Category": "asian-series"
+        },
         "191619": {
             "Title": "Reborn Rich",
             "Image Source": "https://i.imgur.com/U6y8y99.jpg",
@@ -27,24 +87,19 @@
             "Image Source": "https://i.imgur.com/6YXYSwY.jpg",
             "Category": "asian-series"
         },
-        "194250": {
-            "Title": "The Forbidden Marriage",
-            "Image Source": "https://i.imgur.com/j05cBkS.jpg",
-            "Category": "asian-series"
-        },
         "194253": {
             "Title": "Work Later, Drink Now",
             "Image Source": "https://i.imgur.com/HVEMz5A.jpg",
             "Category": "asian-series"
         },
-        "189178": {
-            "Title": "May I Help You",
-            "Image Source": "https://i.imgur.com/kmCu5vx.jpg",
+        "195601": {
+            "Title": "Ashita, Watashi wa Dareka no Kanojo",
+            "Image Source": "https://i.imgur.com/ZG25dJV.jpg",
             "Category": "asian-series"
         },
-        "193165": {
-            "Title": "Recipe for Farewell",
-            "Image Source": "https://i.imgur.com/ZacBVuz.jpg",
+        "195560": {
+            "Title": "Subete Wasurete Shimau Kara",
+            "Image Source": "https://i.imgur.com/rRFwtMu.jpg",
             "Category": "asian-series"
         }
     },
@@ -115,6 +170,16 @@
             "Title": "Young Rock",
             "Image Source": "https://i.imgur.com/JnBtkr2.jpg",
             "Category": "series"
+        },
+        "195592": {
+            "Title": "The Confessions of Frannie Langton",
+            "Image Source": "https://i.imgur.com/cCerogR.jpg",
+            "Category": "series"
+        },
+        "195666": {
+            "Title": "Cook at All Costs",
+            "Image Source": "https://i.imgur.com/EBF4GXB.jpg",
+            "Category": "series"
         }
     },
     "arabic-series": {
@@ -136,6 +201,11 @@
         "3711": {
             "Title": "الغرفة 207",
             "Image Source": "https://imgpile.com/images/b86Lkr.jpg",
+            "Category": "arabic-series"
+        },
+        "3810": {
+            "Title": "عودة خالتي",
+            "Image Source": "https://i.imgur.com/Bh9BiaB.jpg",
             "Category": "arabic-series"
         },
         "3798": {
