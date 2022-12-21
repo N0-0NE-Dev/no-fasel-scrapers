@@ -5005,6 +5005,12 @@
             "Category": "anime"
         },
         {
+            "key": "197886",
+            "Title": "UNA LUPIN Zero",
+            "Image Source": "https://i.imgur.com/uOs61zJ.jpg",
+            "Category": "anime"
+        },
+        {
             "key": "197204",
             "Title": "The King of the Desert",
             "Image Source": "https://i.imgur.com/A9JeASa.jpg",
@@ -85963,6 +85969,24 @@
             "Category": "movies"
         },
         {
+            "key": "197636",
+            "Title": "The Seven Deadly Sins: Grudge of Edinburgh",
+            "Image Source": "https://i.imgur.com/aeruQ3L.jpg",
+            "Category": "movies"
+        },
+        {
+            "key": "197628",
+            "Title": "Violent Night",
+            "Image Source": "https://i.imgur.com/ujlNcLW.jpg",
+            "Category": "movies"
+        },
+        {
+            "key": "197624",
+            "Title": "A Not So Merry Christmas",
+            "Image Source": "https://i.imgur.com/s9TthnL.jpg",
+            "Category": "movies"
+        },
+        {
             "key": "195711",
             "Title": "Modern Love Amsterdam",
             "Image Source": "https://i.imgur.com/2BinKrX.jpg",
@@ -95791,9 +95815,9 @@
             "Category": "series"
         },
         {
-            "key": "90927",
+            "key": "198097",
             "Title": "Jack Ryan",
-            "Image Source": "https://imgpile.com/images/TMsWkF.jpg",
+            "Image Source": "https://i.imgur.com/C3Di3z7.jpg",
             "Category": "series"
         },
         {
@@ -99760,6 +99784,12 @@
             "key": "3223",
             "Title": "Breaking Bad",
             "Image Source": "https://imgpile.com/images/TMTF6g.jpg",
+            "Category": "series"
+        },
+        {
+            "key": "90927",
+            "Title": "Jack Ryan",
+            "Image Source": "https://imgpile.com/images/TMsWkF.jpg",
             "Category": "series"
         },
         {
