@@ -5,7 +5,7 @@ import json
 from time import perf_counter
 from AkwamCommon import *
 
-MAIN_PAGE_URL = "https://akwam.to/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
+MAIN_PAGE_URL = "https://akwam.to/series"
 
 with open("./output/arabic-series.json", "r", encoding="utf-8") as fp:
     old_series_dict = json.load(fp)
@@ -82,10 +82,11 @@ def scrape_series(series_list: list[str]) -> dict:
                 continue
             else:
                 pass
+
         except KeyError:
             pass
 
-        episodes_links_ranges = split_into_ranges(4, len(episode_links))
+        episodes_links_ranges = split_into_ranges(8, len(episode_links))
 
         splitted_episodes_list = [episode_links[episodes_links_range[0] - 1: episodes_links_range[1] - 1]
                                   for episodes_links_range in episodes_links_ranges]
@@ -115,7 +116,7 @@ def scrape_page_range(page_range: tuple[int]) -> dict:
     all_series_dict = {}
 
     for page in range(page_range[0], page_range[1]):
-        page_source = get_website_safe(MAIN_PAGE_URL + f"&page={page}")
+        page_source = get_website_safe(MAIN_PAGE_URL + f"?page={page}")
 
         with ThreadPoolExecutor() as executor:
             results = executor.map(
@@ -133,7 +134,7 @@ def scrape_page_range(page_range: tuple[int]) -> dict:
 
 
 def main() -> None:
-    page_ranges = split_into_ranges(8, get_last_page_number(MAIN_PAGE_URL))
+    page_ranges = split_into_ranges(16, get_last_page_number(MAIN_PAGE_URL))
 
     if DEBUG:
         print(page_ranges)

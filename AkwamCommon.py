@@ -2,7 +2,7 @@ import requests
 from requests import Response
 from requests.exceptions import ConnectionError
 from bs4 import BeautifulSoup
-from common import split_into_ranges
+from Common import split_into_ranges
 
 
 def get_website_safe(url: str) -> Response:

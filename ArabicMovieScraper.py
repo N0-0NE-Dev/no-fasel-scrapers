@@ -5,7 +5,19 @@ from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 import json
 from time import perf_counter
 
-MAIN_PAGE_URL = "https://akwam.to/movies?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
+MAIN_PAGE_URL = "https://akwam.to/movies"
+
+with open("./output/arabic-movies.json", "r", encoding="utf-8") as fp:
+    old_movies = json.load(fp)
+
+
+def save_image(image_url: str, movie_id: str) -> str:
+    image = get_website_safe(image_url)
+
+    with open(f"./output/images/akwam-movies/{movie_id}.jpg", "wb") as fp:
+        fp.write(image.content)
+
+    return "Saved"
 
 
 def get_movie(movies_links: list[str]) -> dict:
@@ -17,19 +29,27 @@ def get_movie(movies_links: list[str]) -> dict:
 
         movie_id = link.split("/")[4]
 
+        if movie_id in old_movies:
+            continue
+        else:
+            pass
+
         movie_title = soup.find(
             "h1", class_="entry-title font-size-28 font-weight-bold text-white mb-0").text
 
         image_url = soup.find(
             "div", "col-lg-3 col-md-4 text-center mb-5 mb-md-0").find("a")["href"]
 
-        short_link_id = soup.find(
-            "a", class_="link-btn link-show d-flex align-items-center px-3")["href"].split("/")[-1]
+        try:
+            short_link_id = soup.find(
+                "a", class_="link-btn link-show d-flex align-items-center px-3")["href"].split("/")[-1]
+        except TypeError:
+            continue
 
         movies_dict[movie_id] = {
             "Title": movie_title,
             "Category": "arabic-movies",
-            "Image Source": save_image(image_url, movie_id + "-akwam-movies", False, get_website_safe),
+            "Image Source": save_image(image_url, movie_id + "-akwam-movies"),
             "Source": f"https://akwam.to/watch/{short_link_id}/{movie_id}"
         }
 
@@ -40,7 +60,7 @@ def scrape_all_movies(page_range: tuple[int]) -> dict:
     movies_dict = {}
 
     for page in range(page_range[0], page_range[1]):
-        main_page = get_website_safe(MAIN_PAGE_URL + f"&page={page}")
+        main_page = get_website_safe(MAIN_PAGE_URL + f"?page={page}")
 
         with ThreadPoolExecutor() as executor:
             results = executor.map(get_movie, split_anchor_links(main_page))
