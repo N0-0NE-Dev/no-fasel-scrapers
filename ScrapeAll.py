@@ -4,11 +4,11 @@ from datetime import date
 
 start_time = perf_counter()
 
-movies_process = Popen(["python", "movies-scraper.py"])
-series_process = Popen(["python", "series-scraper.py"])
-anime_process = Popen(["python", "anime-scraper.py"])
-arabic_series_process = Popen(["python", "arabic-series-scraper.py"])
-arabic_movies_process = Popen(["python", "arabic-movies-scraper.py"])
+movies_process = Popen(["python", "FaselMoviesScraper.py"])
+series_process = Popen(["python", "FaselSeriesScraper.py"])
+anime_process = Popen(["python", "FaselAnimeScraper"])
+arabic_series_process = Popen(["python", "ArabicSeriesScraper.py"])
+arabic_movies_process = Popen(["python", "ArabicMoviesScraper.py"])
 
 
 movies_process.wait()
@@ -17,13 +17,13 @@ anime_process.wait()
 arabic_series_process.wait()
 arabic_movies_process.wait()
 
-trending_process = Popen(["python", "trending-scraper.py"])
-post_processing_process = Popen(["python", "post-processing.py"])
+trending_process = Popen(["python", "TrendingScraper.py"])
+post_processing_process = Popen(["python", "Postprocessing.py"])
 
 trending_process.wait()
 post_processing_process.wait()
 
-all_conent_indexing_process = Popen(["python", "all-content-indexer.py"])
+all_conent_indexing_process = Popen(["python", "AllContentIndexer.py"])
 
 all_conent_indexing_process.wait()
 

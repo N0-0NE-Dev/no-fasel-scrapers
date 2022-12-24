@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor
 from itertools import repeat
 import json
 from time import perf_counter
-from common import *
+from Common import *
 
 setrecursionlimit(25000)
 

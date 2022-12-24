@@ -15,30 +15,30 @@ jobs:
   scrape_fasel:
     runs-on: windows-latest
     steps:
-    - uses: actions/checkout@v3
-      with:
-        repository: N0-0NE-Dev/no-fasel-scrapers
-        persist-credentials: false
-        fetch-depth: 0
-    - name: Setup Browser
-      uses: browser-actions/setup-chrome@latest
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Run scrappers
-      run: python scrape-all.py
-    - name: Commit files
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add .
-        git commit -m "Updated scraped files"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
+        with:
+          repository: N0-0NE-Dev/no-fasel-scrapers
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Setup Browser
+        uses: browser-actions/setup-chrome@latest
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run scrappers
+        run: python ScrapeAll.py
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Updated scraped files"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

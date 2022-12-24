@@ -1,6 +1,6 @@
 from sys import setrecursionlimit
 from bs4 import BeautifulSoup, ResultSet
-from common import *
+from Common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
 from time import perf_counter

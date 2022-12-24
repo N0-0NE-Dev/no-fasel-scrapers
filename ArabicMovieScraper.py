@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from common import split_into_ranges, DEBUG, save_image
+from Common import split_into_ranges, DEBUG, save_image
 from AkwamCommon import *
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 import json
