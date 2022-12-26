@@ -4,6 +4,7 @@ from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import json
 from time import perf_counter
 from AkwamCommon import *
+import re
 
 MAIN_PAGE_URL = "https://akwam.to/series"
 
@@ -14,7 +15,7 @@ with open("./output/arabic-series.json", "r", encoding="utf-8") as fp:
 def scrape_episode(episodes_list: list[str]) -> dict:
     episodes_dict = {}
 
-    for episode_link in episodes_list:
+    for index, episode_link in enumerate(episodes_list):
         episode_id = episode_link.split("/")[4]
         episode_select_page = get_website_safe(episode_link)
         soup = BeautifulSoup(episode_select_page.content, "html.parser")
@@ -40,6 +41,18 @@ def scrape_episode(episodes_list: list[str]) -> dict:
 
         episode_number = int(remove_arabic_chars(soup.find(
             "h2", class_="font-size-20 font-weight-bold").find("a").text).split("\n")[0])
+
+        if index == 0:
+            streaming_link = soup.find("source")["src"]
+            try:
+                season_number = int(re.findall(
+                    ".*S([0-9]+).*", streaming_link)[0])
+
+                episodes_dict["Season Number"] = season_number
+            except IndexError:
+                pass
+        else:
+            pass
 
         episodes_dict[episode_id] = {
             "Episode Number": episode_number,
