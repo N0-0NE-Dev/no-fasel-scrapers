@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from common import split_into_ranges, DEBUG, save_image
+from Common import split_into_ranges, DEBUG, save_image
 from AkwamCommon import *
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 import json
@@ -48,14 +48,21 @@ def scrape_all_movies(page_range: tuple[int]) -> dict:
         for result in results:
             movies_dict.update(result)
 
-        print(f"Done scraping page {page}")
+        if DEBUG:
+            print(f"Done scraping page {page}")
+        else:
+            pass
 
     return movies_dict
 
 
 def main():
     page_ranges = split_into_ranges(8, get_last_page_number(MAIN_PAGE_URL))
-    print(page_ranges)
+
+    if DEBUG:
+        print(page_ranges)
+    else:
+        pass
 
     master_dict = {}
 

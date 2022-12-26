@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from common import split_into_ranges, remove_arabic_chars, DEBUG, save_image
+from Common import split_into_ranges, remove_arabic_chars, DEBUG, save_image
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import json
 from time import perf_counter

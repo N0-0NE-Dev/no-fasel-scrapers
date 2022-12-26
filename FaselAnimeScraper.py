@@ -2,7 +2,7 @@ from sys import setrecursionlimit
 from time import perf_counter
 from bs4 import BeautifulSoup
 from googletrans import Translator
-from common import *
+from Common import *
 from concurrent.futures import ThreadPoolExecutor
 import json
 from httpx import ReadTimeout
