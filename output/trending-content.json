@@ -119,6 +119,11 @@
         }
     },
     "anime": {
+        "199190": {
+            "Title": "Oniichan Wa Oshimai!",
+            "Image Source": "https://i.imgur.com/Myp6IhO.jpg",
+            "Category": "anime"
+        },
         "188448": {
             "Title": "Cool Doji Danshi",
             "Image Source": "https://i.imgur.com/k32VdZN.jpg",
@@ -137,11 +142,6 @@
         "188255": {
             "Title": "Yowamushi Pedal: Limit Break",
             "Image Source": "https://i.imgur.com/9Njh4O1.jpg",
-            "Category": "anime"
-        },
-        "42952": {
-            "Title": "Detective Conan",
-            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
             "Category": "anime"
         }
     },
@@ -223,6 +223,11 @@
             "Image Source": "https://imgpile.com/images/b86Lkr.jpg",
             "Category": "arabic-series"
         },
+        "3810": {
+            "Title": "عودة خالتي",
+            "Image Source": "https://i.imgur.com/Bh9BiaB.jpg",
+            "Category": "arabic-series"
+        },
         "3660": {
             "Title": "بليتش حرب الألف سنة الدموية الموسم الاول",
             "Image Source": "https://imgpile.com/images/b86xH8.jpg",
@@ -247,7 +252,7 @@
     "arabic-movies": {
         "7774": {
             "Title": "أشباح أوروبا",
-            "Image Source": "https://i.imgur.com/ODptEES.jpg",
+            "Image Source": "https://i.imgur.com/qlXvmIw.jpg",
             "Category": "arabic-movies"
         },
         "3210": {
