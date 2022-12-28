@@ -11,7 +11,7 @@ content_dict = {'movies': {}, 'asian-series': {},
 
 
 def scrape_akwam() -> None:
-    """Scrapes the recent arabic series from akwam"""
+    """Scrapes the recent arabic series and movies from akwam"""
     home_page = requests.get("https://akwam.to/one")
     soup = BeautifulSoup(home_page.content, "html.parser")
     anchor_tags = soup.find_all("a", class_="icn play")
@@ -30,8 +30,7 @@ def scrape_akwam() -> None:
             try:
                 content_dict["arabic-series"][series_id] = {"Title": arabic_series[series_id]["Title"],
                                                             "Image Source": arabic_series[series_id]["Image Source"],
-                                                            "Category": "arabic-series"
-                                                            }
+                                                            "Category": "arabic-series"}
             except KeyError:
                 continue
 
@@ -41,8 +40,7 @@ def scrape_akwam() -> None:
             try:
                 content_dict["arabic-movies"][movie_id] = {"Title": arabic_movies[movie_id]["Title"],
                                                            "Image Source": arabic_movies[movie_id]["Image Source"],
-                                                           "Category": "arabic-movies"
-                                                           }
+                                                           "Category": "arabic-movies"}
             except KeyError:
                 continue
 
