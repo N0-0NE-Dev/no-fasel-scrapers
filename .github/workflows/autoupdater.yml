@@ -3,7 +3,7 @@ name: Update Scraped Files
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 0 * * *
+    - cron: 0 */12 * * *
 
 env:
   IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_KEY }}
