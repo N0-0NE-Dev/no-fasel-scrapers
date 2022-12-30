@@ -86197,6 +86197,12 @@
             "Category": "movies"
         },
         {
+            "key": "199948",
+            "Title": "7 Women and a Murder",
+            "Image Source": "https://i.imgur.com/2l8oYNm.jpg",
+            "Category": "movies"
+        },
+        {
             "key": "199113",
             "Title": "Treason",
             "Image Source": "https://i.imgur.com/JxvvvJo.jpg",
@@ -93493,9 +93499,9 @@
             "Category": "series"
         },
         {
-            "key": "95884",
+            "key": "199939",
             "Title": "Rise of Empires: Ottoman",
-            "Image Source": "https://imgpile.com/images/TMlZwb.jpg",
+            "Image Source": "https://i.imgur.com/cpW36Ls.jpg",
             "Category": "series"
         },
         {
@@ -100048,6 +100054,12 @@
             "key": "3223",
             "Title": "Breaking Bad",
             "Image Source": "https://imgpile.com/images/TMTF6g.jpg",
+            "Category": "series"
+        },
+        {
+            "key": "95884",
+            "Title": "Rise of Empires: Ottoman",
+            "Image Source": "https://imgpile.com/images/TMlZwb.jpg",
             "Category": "series"
         },
         {
@@ -108403,15 +108415,21 @@
             "Category": "arabic-series"
         },
         {
+            "key": "3839",
+            "Title": "سر داني الموسم الاول",
+            "Image Source": "https://i.imgur.com/OAkWbzw.jpg",
+            "Category": "arabic-series"
+        },
+        {
             "key": "7795",
             "Title": "As a Prelude to Fear",
-            "Image Source": "https://i.imgur.com/oQiJTNE.jpg",
+            "Image Source": "https://i.imgur.com/JPlbHqD.jpg",
             "Category": "arabic-movies"
         },
         {
             "key": "7774",
             "Title": "أشباح أوروبا",
-            "Image Source": "https://i.imgur.com/WNJCfmp.jpg",
+            "Image Source": "https://i.imgur.com/FR6ve7S.jpg",
             "Category": "arabic-movies"
         },
         {
@@ -114436,12 +114454,6 @@
             "key": "227",
             "Title": "الفيل الأزرق",
             "Image Source": "https://imgpile.com/images/bk3ogu.jpg",
-            "Category": "arabic-movies"
-        },
-        {
-            "key": "7745",
-            "Title": "Avatar: The Way of Water",
-            "Image Source": "https://imgpile.com/images/d1a2jw.jpg",
             "Category": "arabic-movies"
         }
     ]

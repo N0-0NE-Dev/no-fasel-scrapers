@@ -929,7 +929,7 @@
             },
             "188133": {
                 "Season Number": 6,
-                "Number Of Episodes": 25,
+                "Number Of Episodes": 26,
                 "Episodes": {
                     "188135": {
                         "Episode Number": 1,
@@ -1030,6 +1030,10 @@
                     "199368": {
                         "Episode Number": 25,
                         "Source": "https://embed.scdn.to/video_player?uid=0&vid=17f074f424ca57970f748c750510512a&img=https://img.scdn.to/thumb/17f074f424ca57970f748c750510512a/large.jpg"
+                    },
+                    "199947": {
+                        "Episode Number": 26,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=bdb52a18b9a2a5077e1ee7c577a67b8b&img=https://img.scdn.to/thumb/bdb52a18b9a2a5077e1ee7c577a67b8b/large.jpg"
                     }
                 }
             }
