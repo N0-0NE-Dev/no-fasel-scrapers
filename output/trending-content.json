@@ -1,5 +1,25 @@
 {
     "movies": {
+        "201129": {
+            "Title": "Wildcat",
+            "Image Source": "https://i.imgur.com/7UmQ19j.jpg",
+            "Category": "movies"
+        },
+        "201125": {
+            "Title": "Mili",
+            "Image Source": "https://i.imgur.com/R8AHvUk.jpg",
+            "Category": "movies"
+        },
+        "201122": {
+            "Title": "Encanto at the Hollywood Bowl",
+            "Image Source": "https://i.imgur.com/F2dgstG.jpg",
+            "Category": "movies"
+        },
+        "201118": {
+            "Title": "Drishyam 2",
+            "Image Source": "https://i.imgur.com/1ZFJK1H.jpg",
+            "Category": "movies"
+        },
         "51123": {
             "Title": "White Noise",
             "Image Source": "https://imgpile.com/images/Two0ea.jpg",
@@ -39,29 +59,19 @@
             "Title": "As a Prelude to Fear",
             "Image Source": "https://i.imgur.com/j0qLSth.jpg",
             "Category": "movies"
-        },
-        "199182": {
-            "Title": "The Teacher",
-            "Image Source": "https://i.imgur.com/R2BpClA.jpg",
-            "Category": "movies"
-        },
-        "199178": {
-            "Title": "The Yacht",
-            "Image Source": "https://i.imgur.com/8FiU1NL.jpg",
-            "Category": "movies"
-        },
-        "199093": {
-            "Title": "Aisha",
-            "Image Source": "https://i.imgur.com/dpSJUPU.jpg",
-            "Category": "movies"
-        },
-        "199088": {
-            "Title": "The Holiday Sitter",
-            "Image Source": "https://i.imgur.com/tBJo4tl.jpg",
-            "Category": "movies"
         }
     },
     "asian-series": {
+        "195965": {
+            "Title": "Red Balloon",
+            "Image Source": "https://i.imgur.com/8zflivM.jpg",
+            "Category": "asian-series"
+        },
+        "194265": {
+            "Title": "Alchemy of Souls",
+            "Image Source": "https://i.imgur.com/6YXYSwY.jpg",
+            "Category": "asian-series"
+        },
         "194253": {
             "Title": "Work Later, Drink Now",
             "Image Source": "https://i.imgur.com/HVEMz5A.jpg",
@@ -94,6 +104,11 @@
         }
     },
     "anime": {
+        "188350": {
+            "Title": "Peter Grill to Kenja No Jikan: Super Extra",
+            "Image Source": "https://i.imgur.com/HGodUnl.jpg",
+            "Category": "anime"
+        },
         "188255": {
             "Title": "Yowamushi Pedal: Limit Break",
             "Image Source": "https://i.imgur.com/9Njh4O1.jpg",
@@ -103,14 +118,14 @@
             "Title": "Kage No Jitsuryokusha Ni Naritakute!",
             "Image Source": "https://i.imgur.com/LDL5LQL.jpg",
             "Category": "anime"
-        },
-        "152854": {
-            "Title": "Hoshi no Samidare",
-            "Image Source": "https://imgpile.com/images/TJUQJL.jpg",
-            "Category": "anime"
         }
     },
     "series": {
+        "201156": {
+            "Title": "The Head",
+            "Image Source": "https://i.imgur.com/PqJGLY8.jpg",
+            "Category": "series"
+        },
         "196184": {
             "Title": "1923",
             "Image Source": "https://i.imgur.com/bStjexo.jpg",
@@ -141,6 +156,16 @@
             "Image Source": "https://i.imgur.com/KBT61GI.jpg",
             "Category": "series"
         },
+        "104519": {
+            "Title": "The Head",
+            "Image Source": "https://imgpile.com/images/TK0gyg.jpg",
+            "Category": "series"
+        },
+        "201133": {
+            "Title": "Made in Oslo",
+            "Image Source": "https://i.imgur.com/XfAJdPb.jpg",
+            "Category": "series"
+        },
         "193479": {
             "Title": "George & Tammy",
             "Image Source": "https://i.imgur.com/xwYpvj3.jpg",
@@ -155,19 +180,19 @@
             "Title": "Alpha Males",
             "Image Source": "https://i.imgur.com/WOTvGqw.jpg",
             "Category": "series"
-        },
-        "190526": {
-            "Title": "The Mosquito Coast",
-            "Image Source": "https://i.imgur.com/P5JbzeO.jpg",
-            "Category": "series"
-        },
-        "191847": {
-            "Title": "Echo 3",
-            "Image Source": "https://i.imgur.com/vb0VRMa.jpg",
-            "Category": "series"
         }
     },
     "arabic-series": {
+        "3847": {
+            "Title": "في كل أسبوع حكاية",
+            "Image Source": "https://i.imgur.com/PV9nnPd.jpg",
+            "Category": "arabic-series"
+        },
+        "3846": {
+            "Title": "جروب العيلة",
+            "Image Source": "https://i.imgur.com/7AP41Mt.jpg",
+            "Category": "arabic-series"
+        },
         "3753": {
             "Title": "العيلة دي",
             "Image Source": "https://imgpile.com/images/b86Zno.jpg",
@@ -188,9 +213,14 @@
             "Image Source": "https://imgpile.com/images/b86jZ8.jpg",
             "Category": "arabic-series"
         },
-        "3711": {
-            "Title": "الغرفة 207",
-            "Image Source": "https://imgpile.com/images/b86Lkr.jpg",
+        "3810": {
+            "Title": "عودة خالتي",
+            "Image Source": "https://i.imgur.com/Bh9BiaB.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         },
         "3386": {
@@ -200,14 +230,14 @@
         }
     },
     "arabic-movies": {
-        "7774": {
-            "Title": "أشباح أوروبا",
-            "Image Source": "https://i.imgur.com/qfbUgyq.jpg",
+        "7822": {
+            "Title": "تسليم أهالي",
+            "Image Source": "https://i.imgur.com/he1loXm.jpg",
             "Category": "arabic-movies"
         },
-        "7795": {
-            "Title": "As a Prelude to Fear",
-            "Image Source": "https://i.imgur.com/9upPfSd.jpg",
+        "7774": {
+            "Title": "أشباح أوروبا",
+            "Image Source": "https://i.imgur.com/MX2gtpf.jpg",
             "Category": "arabic-movies"
         }
     }
