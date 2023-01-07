@@ -1,15 +1,12 @@
 import json
-
-PATHS = ["anime", "asian-series", "movies",
-         "series", "tvshows", "arabic-series",
-         "arabic-movies"]
+from Common import FILE_NAMES
 
 
 def main() -> None:
     all_content = []
 
-    for path in PATHS:
-        with open(f"./output/{path}.json", "r", encoding="utf-8") as file:
+    for name in FILE_NAMES:
+        with open(f"./output/{name}.json", "r", encoding="utf-8") as file:
             data = json.load(file)
 
         all_content += [{"key": key,

@@ -6,8 +6,7 @@ import json
 
 content_dict = {'movies': {}, 'asian-series': {},
                 'anime': {}, 'series': {}, "arabic-series": {},
-                "arabic-movies": {}
-                }
+                "arabic-movies": {}}
 
 
 def scrape_akwam() -> None:

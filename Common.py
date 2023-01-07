@@ -15,6 +15,10 @@ from requests import Response
 from os import environ, remove
 from PIL import Image
 
+FILE_NAMES = ['movies', 'anime', 'asian-series',
+              'series', 'tvshows', 'arabic-series',
+              'arabic-movies']
+
 DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
 
