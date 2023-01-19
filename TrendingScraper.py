@@ -8,6 +8,8 @@ content_dict = {'movies': {}, 'asian-series': {},
                 'anime': {}, 'series': {}, "arabic-series": {},
                 "arabic-movies": {}}
 
+featured_content_dict = {}
+
 
 def scrape_akwam() -> None:
     """Scrapes the recent arabic series and movies from akwam"""
@@ -57,6 +59,8 @@ def scrape_fasel() -> None:
     trending_content_divs = soup.find_all('div', 'blockMovie')
     trending_content_divs += soup.find_all('div', 'epDivHome')
 
+    featured_content = soup.find_all("div", "h1 mb-1")
+
     seen = []
 
     for div in trending_content_divs:
@@ -89,6 +93,19 @@ def scrape_fasel() -> None:
                 break
             else:
                 continue
+
+    with open("./output/movies.json", "r") as fp:
+        movies = json.load(fp)
+        for div in featured_content:
+            movie_page = get_website_safe(div.find("a")["href"])
+
+            movie_id = get_content_id(BeautifulSoup(
+                movie_page.content, "html.parser"))
+
+            featured_content_dict[movie_id] = movies[movie_id]
+
+    with open("./output/featured-content.json", "w") as fp:
+        json.dump(featured_content_dict, fp, indent=4)
 
 
 def main() -> None:

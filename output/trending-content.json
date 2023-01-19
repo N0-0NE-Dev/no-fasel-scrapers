@@ -49,16 +49,6 @@
             "Title": "The Menu",
             "Image Source": "https://i.imgur.com/ubc5I7p.jpg",
             "Category": "movies"
-        },
-        "203017": {
-            "Title": "The Territory",
-            "Image Source": "https://i.imgur.com/MUPQIHf.jpg",
-            "Category": "movies"
-        },
-        "203013": {
-            "Title": "The Flagmakers",
-            "Image Source": "https://i.imgur.com/RAWnx7t.jpg",
-            "Category": "movies"
         }
     },
     "asian-series": {
@@ -191,29 +181,24 @@
             "Image Source": "https://i.imgur.com/PqJGLY8.jpg",
             "Category": "series"
         },
+        "192115": {
+            "Title": "Criminal Minds",
+            "Image Source": "https://i.imgur.com/Xyq43FS.jpg",
+            "Category": "series"
+        },
+        "186203": {
+            "Title": "Chicago Med",
+            "Image Source": "https://i.imgur.com/WTQOcSs.jpg",
+            "Category": "series"
+        },
+        "186215": {
+            "Title": "Chicago Fire",
+            "Image Source": "https://i.imgur.com/mn9Yzye.jpg",
+            "Category": "series"
+        },
         "124407": {
             "Title": "Star Wars: The Bad Batch",
             "Image Source": "https://imgpile.com/images/TK3e9R.jpg",
-            "Category": "series"
-        },
-        "194587": {
-            "Title": "National Treasure",
-            "Image Source": "https://i.imgur.com/PUsp3CY.jpg",
-            "Category": "series"
-        },
-        "187265": {
-            "Title": "The Rookie: Feds",
-            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
-            "Category": "series"
-        },
-        "186521": {
-            "Title": "The Rookie",
-            "Image Source": "https://i.imgur.com/VujMOU4.jpg",
-            "Category": "series"
-        },
-        "203387": {
-            "Title": "Night Court",
-            "Image Source": "https://i.imgur.com/D8hT6fn.jpg",
             "Category": "series"
         }
     },
@@ -231,56 +216,6 @@
         "3781": {
             "Title": "مشوار الونش",
             "Image Source": "https://imgpile.com/images/b8E7iF.jpg",
-            "Category": "arabic-series"
-        },
-        "3810": {
-            "Title": "عودة خالتي",
-            "Image Source": "https://i.imgur.com/Bh9BiaB.jpg",
-            "Category": "arabic-series"
-        },
-        "3838": {
-            "Title": "إعتراف",
-            "Image Source": "https://i.imgur.com/r45IzUz.jpg",
-            "Category": "arabic-series"
-        },
-        "3916": {
-            "Title": "أقل من عادي",
-            "Image Source": "https://i.imgur.com/r31Xfih.jpg",
-            "Category": "arabic-series"
-        },
-        "3913": {
-            "Title": "عالم تاني",
-            "Image Source": "https://i.imgur.com/HTdxlyA.jpg",
-            "Category": "arabic-series"
-        },
-        "2817": {
-            "Title": "وسط البلد",
-            "Image Source": "https://imgpile.com/images/b80yKW.jpg",
-            "Category": "arabic-series"
-        },
-        "3851": {
-            "Title": "وبينا ميعاد",
-            "Image Source": "https://i.imgur.com/Ae2mzZK.jpg",
-            "Category": "arabic-series"
-        },
-        "3847": {
-            "Title": "في كل أسبوع حكاية",
-            "Image Source": "https://i.imgur.com/bGLfA3J.jpg",
-            "Category": "arabic-series"
-        },
-        "3846": {
-            "Title": "جروب العيلة",
-            "Image Source": "https://i.imgur.com/fWRMp75.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/WtijmS1.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         }
     },
