@@ -167,27 +167,6 @@ def get_content_id(soup: BeautifulSoup) -> Optional[str]:
         return None
 
 
-def save_image_locally(content_id: str, image: Response) -> str:
-    """Saves the webp image locally, converts it to jpg and returns the base64 encoded jpg image"""
-    image_path = f"./output/{content_id}"
-    webp_image_path = image_path + ".webp"
-    jpg_image_path = image_path + ".jpg"
-
-    with open(webp_image_path, 'wb') as handler:
-        handler.write(image.content)
-
-    jpg_image = Image.open(webp_image_path).convert("RGB")
-    jpg_image.save(f"./output/{content_id}.jpg", "jpeg")
-
-    with open(jpg_image_path, "rb") as jpg_image_file:
-        image_bytes = jpg_image_file.read()
-
-    base64_image = b64encode(image_bytes).decode("utf8")
-    remove(webp_image_path)
-
-    return base64_image
-
-
 def upload_image(image_url: str, content_id: str, get_image: Callable[[str], Response]):
     image = get_image(image_url)
     image_path = f"./output/{content_id}"
