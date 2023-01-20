@@ -10,9 +10,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from undetected_chromedriver import Chrome
 from threading import Lock
-from requests.exceptions import ConnectionError, TooManyRedirects, InvalidURL, MissingSchema, ConnectTimeout, ReadTimeout, ChunkedEncodingError
+from requests.exceptions import ConnectionError, TooManyRedirects, ReadTimeout, ChunkedEncodingError
 from requests import Response
-from os import environ, remove
+from os import environ
 from PIL import Image
 
 FILE_NAMES = ['movies', 'anime', 'asian-series',
