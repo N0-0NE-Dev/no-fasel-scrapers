@@ -32,7 +32,7 @@ def get_cookies() -> None:
     """Gets new cookies to bypass cloudfalre"""
     global cookies_dict, headers
 
-    driver = Chrome(use_subprocess=True, version_main=107)
+    driver = Chrome(use_subprocess=True, version_main=109)
     driver.minimize_window()
     driver.get("https://www.faselhd.club/home3")
 
@@ -40,7 +40,7 @@ def get_cookies() -> None:
         EC.presence_of_element_located(
             (
                 By.CLASS_NAME,
-                "logo.ml-3",
+                "logo",
             )
         )
     )
