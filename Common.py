@@ -3,7 +3,7 @@ from time import sleep
 import requests
 from bs4 import BeautifulSoup, ResultSet
 from urllib.parse import quote
-from typing import Optional, Callable
+from typing import Optional, Callable, Union
 import json
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -167,7 +167,17 @@ def get_content_id(soup: BeautifulSoup) -> Optional[str]:
         return None
 
 
-def upload_image(image_url: str, content_id: str, get_image: Callable[[str], Response]):
+def upload_image(image_url: str, content_id: str, get_image: Callable[[str], Response]) -> str:
+    if content_id in IMAGE_SOURCES:
+        return IMAGE_SOURCES[content_id]
+    else:
+        pass
+
+    if image_url == "":
+        return "https://imgpile.com/images/TPDrVl.jpg"
+    else:
+        pass
+
     image = get_image(image_url)
     image_path = f"./output/{content_id}"
 
@@ -208,3 +218,16 @@ def get_content_title(soup_result: ResultSet) -> str:
         soup_result.find("div", class_="h1").text
     ))
     return title
+
+
+def get_genres(soup: BeautifulSoup) -> Union[list[str], str]:
+    try:
+        genre_tags = soup.find(
+            "i", class_="far fa-folders").find_next_siblings("a")
+
+        genres = [tag["href"].split("/")[-1].capitalize()
+                  for tag in genre_tags]
+    except AttributeError:
+        genres = "N/A"
+
+    return genres
