@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from Common import split_into_ranges, DEBUG, save_image
+from Common import split_into_ranges, DEBUG, upload_image
 from AkwamCommon import *
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 import json
@@ -29,7 +29,7 @@ def get_movie(movies_links: list[str]) -> dict:
         movies_dict[movie_id] = {
             "Title": movie_title,
             "Category": "arabic-movies",
-            "Image Source": save_image(image_url, movie_id + "-akwam-movies", False, get_website_safe),
+            "Image Source": upload_image(image_url, movie_id + "-akwam-movies", get_website_safe),
             "Source": f"https://akwam.to/watch/{short_link_id}/{movie_id}"
         }
 

@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from Common import split_into_ranges, remove_arabic_chars, DEBUG, save_image
+from Common import split_into_ranges, remove_arabic_chars, DEBUG, upload_image
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import json
 from time import perf_counter
@@ -95,7 +95,7 @@ def scrape_series(series_list: list[str]) -> dict:
             "Category": "arabic-series",
             "Number Of Episodes": current_number_of_episodes,
             "Format": "WEB-DL",
-            "Image Source": save_image(image_source, series_id + "-akwam-series", False, get_website_safe),
+            "Image Source": upload_image(image_source, series_id + "-akwam-series", get_website_safe),
             "Episodes": {}
         }
 

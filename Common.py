@@ -188,51 +188,28 @@ def save_image_locally(content_id: str, image: Response) -> str:
     return base64_image
 
 
-def upload_image(base64_image: str, call_counter: int, content_id: str, raw_image: Response = None) -> str:
+def upload_image(image_url: str, content_id: str, get_image: Callable[[str], Response]):
+    image = get_image(image_url)
+    image_path = f"./output/{content_id}"
+
+    if ".webp" in image_url:
+        with open(image_path + ".webp", "wb") as handler:
+            handler.write(image.content)
+
+        jpg_image = Image.open(image_path + ".webp").convert("RGB")
+        jpg_image.save(image_path + ".jpg", "jpeg")
+
+        with open(image_path + ".jpg", "rb") as fp:
+            base64_image = fp.read()
+    else:
+        base64_image = b64encode(image.content).decode("utf8")
+
     headers = {"Authorization": f"Client-ID {environ.get('IMGUR_CLIENT_ID')}"}
     data = {"image": base64_image}
 
     try:
-        response = requests.post(
-            "https://api.imgur.com/3/image", headers=headers, data=data).json()
-    except ConnectTimeout:
-        return "Manual upload required"
-
-    if response["status"] == 200:
-        if call_counter == 1:
-            remove(f"./output/{content_id}.jpg")
-        else:
-            pass
-
-        return response["data"]["link"]
-    else:
-        if call_counter == 0:
-            base64_image = save_image_locally(content_id, raw_image)
-            upload_image(base64_image, 1, content_id)
-        else:
-            return "Manual upload required"
-
-
-def save_image(image_url: str, content_id: str, safe: bool = True, safe_callback: Callable[[str], Response] = None) -> Optional[str]:
-    try:
-        if content_id in IMAGE_SOURCES:
-            return IMAGE_SOURCES[content_id]
-        else:
-            image_url = fix_url(image_url)
-
-            if safe:
-                image = get_website_safe(image_url)
-            else:
-                image = safe_callback(image_url)
-
-            base64_image = b64encode(image.content).decode("utf8")
-
-            return upload_image(base64_image, 0, content_id, image)
-
-    except InvalidURL:
-        return "https://imgpile.com/images/TPDrVl.jpg"
-
-    except MissingSchema:
+        return requests.post("https://api.imgur.com/3/image", headers=headers, data=data).json()["data"]["link"]
+    except Exception:
         return "https://imgpile.com/images/TPDrVl.jpg"
 
 

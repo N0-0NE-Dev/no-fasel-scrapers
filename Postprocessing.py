@@ -1,8 +1,15 @@
 import json
 from Common import FILE_NAMES
+from os import remove, listdir
 
 
 def main() -> None:
+    for file in listdir("./output"):
+        if ".jpg" in file or ".webp" in file:
+            remove(f"./output/{file}")
+        else:
+            continue
+
     with open('./output/image-indices.json', 'r') as fp:
         image_indices = json.load(fp)
 
