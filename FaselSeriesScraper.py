@@ -115,6 +115,7 @@ def scrape_page(series_divs: list[ResultSet], path: str) -> dict:
             "Title": get_content_title(series_div),
             "Category": path,
             "Format": get_content_format(soup),
+            "Genres": get_genres(soup),
             "Number Of Episodes": 0,
             "Image Source": upload_image(series_div.img.attrs['data-src'], series_id + "-fasel", get_website_safe),
             "Seasons": {}

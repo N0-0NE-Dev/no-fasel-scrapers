@@ -1039,12 +1039,13 @@
             }
         }
     },
-    "131765": {
+    "203681": {
         "Title": "Bake Squad",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
-        "Number Of Episodes": 8,
-        "Image Source": "https://imgpile.com/images/TKOuHG.jpg",
+        "Genres": "N/A",
+        "Number Of Episodes": 16,
+        "Image Source": "https://i.imgur.com/UPhUX2p.jpg",
         "Seasons": {
             "131765": {
                 "Season Number": 1,
@@ -1081,6 +1082,44 @@
                     "131774": {
                         "Episode Number": 8,
                         "Source": "https://embed.scdn.to/video_player?uid=0&vid=d211ad200b38672801746cbb0abb3594&img=https://img.scdn.to/thumb/d211ad200b38672801746cbb0abb3594/large.jpg"
+                    }
+                }
+            },
+            "203681": {
+                "Season Number": 2,
+                "Number Of Episodes": 8,
+                "Episodes": {
+                    "203684": {
+                        "Episode Number": 1,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=64b1820ac07a325771cb3bc906970e30&img=https://img.scdn.to/thumb/64b1820ac07a325771cb3bc906970e30/large.jpg"
+                    },
+                    "203685": {
+                        "Episode Number": 2,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=ae968cd89db20e80c3410a78db819e7c&img=https://img.scdn.to/thumb/ae968cd89db20e80c3410a78db819e7c/large.jpg"
+                    },
+                    "203686": {
+                        "Episode Number": 3,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=dec228d68e393d4feae425e3a0fbe721&img=https://img.scdn.to/thumb/dec228d68e393d4feae425e3a0fbe721/large.jpg"
+                    },
+                    "203687": {
+                        "Episode Number": 4,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=5c0095d43c8a60e66f724f98af6d8f61&img=https://img.scdn.to/thumb/5c0095d43c8a60e66f724f98af6d8f61/large.jpg"
+                    },
+                    "203688": {
+                        "Episode Number": 5,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=becb2076bb009c62088bb347ccbb8857&img=https://img.scdn.to/thumb/becb2076bb009c62088bb347ccbb8857/large.jpg"
+                    },
+                    "203689": {
+                        "Episode Number": 6,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=6face73cfd9f76fd1fe2aa931dce57cf&img=https://img.scdn.to/thumb/6face73cfd9f76fd1fe2aa931dce57cf/large.jpg"
+                    },
+                    "203690": {
+                        "Episode Number": 7,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=f378be649bec33773205c7e358d720b8&img=https://img.scdn.to/thumb/f378be649bec33773205c7e358d720b8/large.jpg"
+                    },
+                    "203691": {
+                        "Episode Number": 8,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=55b9b88d406b24ec7f058a5725603ab4&img=https://img.scdn.to/thumb/55b9b88d406b24ec7f058a5725603ab4/large.jpg"
                     }
                 }
             }
@@ -6181,6 +6220,53 @@
                     "153417": {
                         "Episode Number": 24,
                         "Source": "https://embed.scdn.to/video_player?uid=0&vid=05fe0ea5caf606d7cbb03fcad0d7c4a3&img=https://img.scdn.to/thumb/05fe0ea5caf606d7cbb03fcad0d7c4a3/large.jpg"
+                    }
+                }
+            }
+        }
+    },
+    "131765": {
+        "Title": "Bake Squad",
+        "Category": "tvshows",
+        "Format": "1080p Web-DL",
+        "Number Of Episodes": 8,
+        "Image Source": "https://imgpile.com/images/TKOuHG.jpg",
+        "Seasons": {
+            "131765": {
+                "Season Number": 1,
+                "Number Of Episodes": 8,
+                "Episodes": {
+                    "131767": {
+                        "Episode Number": 1,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=9c95bdfb910b6f70aea7f766bc57f83f&img=https://img.scdn.to/thumb/9c95bdfb910b6f70aea7f766bc57f83f/large.jpg"
+                    },
+                    "131768": {
+                        "Episode Number": 2,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=9307ea2823d84b8db761f61380d2e768&img=https://img.scdn.to/thumb/9307ea2823d84b8db761f61380d2e768/large.jpg"
+                    },
+                    "131769": {
+                        "Episode Number": 3,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=1e221e33707446be302ea47259dd5c36&img=https://img.scdn.to/thumb/1e221e33707446be302ea47259dd5c36/large.jpg"
+                    },
+                    "131770": {
+                        "Episode Number": 4,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=a85f8059fb29ffb619483bbd13df2154&img=https://img.scdn.to/thumb/a85f8059fb29ffb619483bbd13df2154/large.jpg"
+                    },
+                    "131771": {
+                        "Episode Number": 5,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=ecbbca5f85fd7df6a9aa66edf814d347&img=https://img.scdn.to/thumb/ecbbca5f85fd7df6a9aa66edf814d347/large.jpg"
+                    },
+                    "131772": {
+                        "Episode Number": 6,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=dc35bd4f8a24bdc0c7f470a9aca6e433&img=https://img.scdn.to/thumb/dc35bd4f8a24bdc0c7f470a9aca6e433/large.jpg"
+                    },
+                    "131773": {
+                        "Episode Number": 7,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=2bc3adc58854a371762d14a1908e4a55&img=https://img.scdn.to/thumb/2bc3adc58854a371762d14a1908e4a55/large.jpg"
+                    },
+                    "131774": {
+                        "Episode Number": 8,
+                        "Source": "https://embed.scdn.to/video_player?uid=0&vid=d211ad200b38672801746cbb0abb3594&img=https://img.scdn.to/thumb/d211ad200b38672801746cbb0abb3594/large.jpg"
                     }
                 }
             }
