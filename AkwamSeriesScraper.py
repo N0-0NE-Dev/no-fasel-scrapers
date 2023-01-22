@@ -60,11 +60,6 @@ def scrape_series(series_list: list[str]) -> dict:
         series_title = soup.find(
             "h1", "entry-title font-size-28 font-weight-bold text-white mb-0").text
 
-        if "House of Cards" in series:
-            continue
-        else:
-            pass
-
         image_source = soup.find(
             "div", class_="col-lg-3 col-md-4 text-center mb-5 mb-md-0").find("a")["href"]
 
@@ -95,6 +90,7 @@ def scrape_series(series_list: list[str]) -> dict:
             "Category": "arabic-series",
             "Number Of Episodes": current_number_of_episodes,
             "Format": "WEB-DL",
+            "Genres": get_genres(soup),
             "Image Source": upload_image(image_source, series_id + "-akwam-series", get_website_safe),
             "Episodes": {}
         }

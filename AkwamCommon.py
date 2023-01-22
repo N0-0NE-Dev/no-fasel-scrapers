@@ -3,6 +3,7 @@ from requests import Response
 from requests.exceptions import ConnectionError
 from bs4 import BeautifulSoup
 from Common import split_into_ranges
+from typing import Union
 
 
 def get_website_safe(url: str) -> Response:
@@ -35,3 +36,44 @@ def split_anchor_links(respone: Response) -> list[list[str]]:
                       for links_range in links_ranges]
 
     return splitted_links
+
+
+def get_genres(soup: BeautifulSoup) -> Union[list[str], str]:
+    genres_dict = {
+        "87": "Ramadan",
+        "30": "Animated",
+        "18": "Action",
+        "71": "Dubbed",
+        "72": "Netflix",
+        "20": "Comedy",
+        "35": "Thriller",
+        "34": "Mystery",
+        "33": "Family",
+        "88": "Kids",
+        "32": "Sports",
+        "25": "War",
+        "89": "Short",
+        "43": "Fantasy",
+        "24": "Science Fiction",
+        "31": "Musical",
+        "29": "Biography",
+        "28": "Documentary",
+        "27": "Romance",
+        "26": "History",
+        "23": "Drama",
+        "22": "Horror",
+        "21": "Crime",
+        "19": "Adventure",
+        "91": "Western"
+    }
+
+    genre_tags = soup.find_all("a", class_="badge badge-pill badge-light ml-2")
+
+    try:
+        genre_ids = [tag["href"].split("=")[-1] for tag in genre_tags]
+    except TypeError:
+        return "N/A"
+
+    genres = [genres_dict[key] for key in genre_ids]
+
+    return genres

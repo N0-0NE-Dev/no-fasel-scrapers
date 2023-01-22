@@ -15,11 +15,12 @@ from requests import Response
 from os import environ
 from PIL import Image
 
+DEBUG = True
+
 FILE_NAMES = ['movies', 'anime', 'asian-series',
               'series', 'tvshows', 'arabic-series',
               'arabic-movies']
 
-DEBUG = False
 BASE_URL = "https://www.faselhd.club/"
 
 with open("./output/image-indices.json", "r") as fp:

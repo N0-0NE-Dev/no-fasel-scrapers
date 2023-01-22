@@ -3,6 +3,7 @@
         "Title": "Iron Chef: Mexico",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://i.imgur.com/z0DeRnK.jpg",
         "Seasons": {
@@ -50,6 +51,7 @@
         "Title": "Designing Miami",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://i.imgur.com/8QjPHdN.jpg",
         "Seasons": {
@@ -97,6 +99,7 @@
         "Title": "Iron Chef: Quest for an Iron Legend",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKODHW.jpg",
         "Seasons": {
@@ -144,6 +147,7 @@
         "Title": "Backstage with Katherine Ryan",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKOCtN.jpg",
         "Seasons": {
@@ -183,6 +187,7 @@
         "Title": "Rhythm + Flow France",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKO94c.jpg",
         "Seasons": {
@@ -230,6 +235,7 @@
         "Title": "Bullsh*t the Game Show",
         "Category": "tvshows",
         "Format": "N/A",
+        "Genres": "N/A",
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKObYR.jpg",
         "Seasons": {
@@ -285,6 +291,7 @@
         "Title": "LOL: Last One Laughing Canada",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKOTNr.jpg",
         "Seasons": {
@@ -324,6 +331,7 @@
         "Title": "Love Never Lies",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKO5QE.jpg",
         "Seasons": {
@@ -363,6 +371,7 @@
         "Title": "Insiders",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 7,
         "Image Source": "https://imgpile.com/images/TKOUbX.jpg",
         "Seasons": {
@@ -406,6 +415,9 @@
         "Title": "The Voice",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 169,
         "Image Source": "https://imgpile.com/images/TKO7pa.jpg",
         "Seasons": {
@@ -1129,6 +1141,7 @@
         "Title": "Tattoo Redo",
         "Category": "tvshows",
         "Format": "N/A",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKOIG2.jpg",
         "Seasons": {
@@ -1168,6 +1181,7 @@
         "Title": "The Worlds Most Amazing Vacation Rentals",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKO4OM.jpg",
         "Seasons": {
@@ -1215,6 +1229,7 @@
         "Title": "Pet Stars",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 5,
         "Image Source": "https://imgpile.com/images/TKLyPk.jpg",
         "Seasons": {
@@ -1250,6 +1265,7 @@
         "Title": "The Great Escapists",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKLjNu.jpg",
         "Seasons": {
@@ -1289,6 +1305,9 @@
         "Title": "Busted",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%a7%d9%84%d8%ba%d8%a7%d8%b2"
+        ],
         "Number Of Episodes": 28,
         "Image Source": "https://imgpile.com/images/TKLSbw.jpg",
         "Seasons": {
@@ -1428,6 +1447,7 @@
         "Title": "Fabulous Lives of Bollywood Wives",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKLaQi.jpg",
         "Seasons": {
@@ -1475,6 +1495,7 @@
         "Title": "A Queen Is Born",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKLZlF.jpg",
         "Seasons": {
@@ -1514,6 +1535,9 @@
         "Title": "The Daily Show",
         "Category": "tvshows",
         "Format": "WEB-DL",
+        "Genres": [
+            "%d8%aa%d9%88%d9%83-%d8%b4%d9%88"
+        ],
         "Number Of Episodes": 9,
         "Image Source": "https://imgpile.com/images/TPaKFj.jpg",
         "Seasons": {
@@ -1565,6 +1589,9 @@
         "Title": "Saturday Night Live",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 16,
         "Image Source": "https://imgpile.com/images/TKOPNj.jpg",
         "Seasons": {
@@ -1644,6 +1671,9 @@
         "Title": "The Cabin with Bert Kreischer",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 5,
         "Image Source": "https://imgpile.com/images/TKOMgx.jpg",
         "Seasons": {
@@ -1679,6 +1709,9 @@
         "Title": "LOL: Last One Laughing Australia",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKOxd1.jpg",
         "Seasons": {
@@ -1718,6 +1751,9 @@
         "Title": "Worlds Toughest Race: Eco-Challenge Fiji",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKOKmL.jpg",
         "Seasons": {
@@ -1773,6 +1809,9 @@
         "Title": "Pixar in Real Life",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d9%85%d9%82%d8%a7%d9%84%d8%a8"
+        ],
         "Number Of Episodes": 9,
         "Image Source": "https://imgpile.com/images/TKks5h.jpg",
         "Seasons": {
@@ -1824,6 +1863,9 @@
         "Title": "Say I Do",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKkY3X.jpg",
         "Seasons": {
@@ -1871,6 +1913,7 @@
         "Title": "The Titan Games",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 9,
         "Image Source": "https://imgpile.com/images/TKkKa2.jpg",
         "Seasons": {
@@ -1922,6 +1965,7 @@
         "Title": "Making the Cut",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKkx24.jpg",
         "Seasons": {
@@ -1977,6 +2021,7 @@
         "Title": "Marvels Hero Project",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 19,
         "Image Source": "https://imgpile.com/images/TKktKM.jpg",
         "Seasons": {
@@ -2068,6 +2113,7 @@
         "Title": "Sunderland Til I die",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 14,
         "Image Source": "https://imgpile.com/images/TKkG1k.jpg",
         "Seasons": {
@@ -2145,6 +2191,7 @@
         "Title": "The Circle: Brazil",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 4,
         "Image Source": "https://imgpile.com/images/TKkCWu.jpg",
         "Seasons": {
@@ -2176,6 +2223,9 @@
         "Title": "Next in Fashion",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKk9si.jpg",
         "Seasons": {
@@ -2231,6 +2281,7 @@
         "Title": "Pandemic: How to Prevent an Outbreak",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKkhwF.jpg",
         "Seasons": {
@@ -2270,6 +2321,7 @@
         "Title": "The Goop Lab",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TPaJ7o.jpg",
         "Seasons": {
@@ -2309,6 +2361,7 @@
         "Title": "Until Dawn",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKkb3w.jpg",
         "Seasons": {
@@ -2356,6 +2409,9 @@
         "Title": "The Circle",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/TKkTzl.jpg",
         "Seasons": {
@@ -2419,6 +2475,9 @@
         "Title": "The Degenerates",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/TKkRh3.jpg",
         "Seasons": {
@@ -2488,6 +2547,9 @@
         "Title": "Glow Up",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 16,
         "Image Source": "https://imgpile.com/images/TKOGSP.jpg",
         "Seasons": {
@@ -2573,6 +2635,7 @@
         "Title": "Dating Around",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/TKkPza.jpg",
         "Seasons": {
@@ -2642,6 +2705,7 @@
         "Title": "Oprahs Book Club",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKkUq8.jpg",
         "Seasons": {
@@ -2661,6 +2725,9 @@
         "Title": "The Devil Next Door",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 5,
         "Image Source": "https://imgpile.com/images/TKkNxS.jpg",
         "Seasons": {
@@ -2696,6 +2763,9 @@
         "Title": "Prank Encounters",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d9%85%d9%82%d8%a7%d9%84%d8%a8"
+        ],
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKk71C.jpg",
         "Seasons": {
@@ -2743,6 +2813,9 @@
         "Title": "Unnatural Selection",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 4,
         "Image Source": "https://imgpile.com/images/TKkI0o.jpg",
         "Seasons": {
@@ -2774,6 +2847,9 @@
         "Title": "Rhythm + Flow",
         "Category": "tvshows",
         "Format": "WEB-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKk1ij.jpg",
         "Seasons": {
@@ -2829,6 +2905,7 @@
         "Title": "Abstract: The Art of Design",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 14,
         "Image Source": "https://imgpile.com/images/TKknwx.jpg",
         "Seasons": {
@@ -2906,6 +2983,9 @@
         "Title": "Hyperdrive",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKOyvL.jpg",
         "Seasons": {
@@ -2961,6 +3041,7 @@
         "Title": "Extreme Engagement",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKOjz1.jpg",
         "Seasons": {
@@ -3008,6 +3089,9 @@
         "Title": "Awake: The Million Dollar Game",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKOehP.jpg",
         "Seasons": {
@@ -3055,6 +3139,9 @@
         "Title": "Flinch",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKOZZW.jpg",
         "Seasons": {
@@ -3110,6 +3197,9 @@
         "Title": "Street Food",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 9,
         "Image Source": "https://imgpile.com/images/TKOSqN.jpg",
         "Seasons": {
@@ -3161,6 +3251,11 @@
         "Title": "Death by Magic",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%a7%d9%84%d8%ba%d8%a7%d8%b2",
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa",
+            "%d9%85%d9%82%d8%a7%d9%84%d8%a8"
+        ],
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKOpxc.jpg",
         "Seasons": {
@@ -3208,6 +3303,10 @@
         "Title": "Ask the Doctor",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6",
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/TKOEng.jpg",
         "Seasons": {
@@ -3271,6 +3370,10 @@
         "Title": "The Final Table",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa",
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKO30R.jpg",
         "Seasons": {
@@ -3326,6 +3429,10 @@
         "Title": "The Gymkhana Files",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6",
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 4,
         "Image Source": "https://imgpile.com/images/TKOvir.jpg",
         "Seasons": {
@@ -3357,6 +3464,10 @@
         "Title": "The Curious Creations of Christine McConnell",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6",
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 6,
         "Image Source": "https://imgpile.com/images/TKOgUE.jpg",
         "Seasons": {
@@ -3396,6 +3507,9 @@
         "Title": "Salt, Fat, Acid, Heat",
         "Category": "tvshows",
         "Format": "720p",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 4,
         "Image Source": "https://imgpile.com/images/TKOFvh.jpg",
         "Seasons": {
@@ -3427,6 +3541,9 @@
         "Title": "Norm Macdonald Has a Show",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/TKOBrX.jpg",
         "Seasons": {
@@ -3482,6 +3599,9 @@
         "Title": "Survivor",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 14,
         "Image Source": "https://i.imgur.com/2S34Zsg.jpg",
         "Seasons": {
@@ -3553,6 +3673,9 @@
         "Title": "2018",
         "Category": "tvshows",
         "Format": "HDTV",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 1,
         "Image Source": "https://i.imgur.com/2PmDvMH.jpg",
         "Seasons": {
@@ -3572,6 +3695,9 @@
         "Title": "Kevin Hart Let Me Explain",
         "Category": "tvshows",
         "Format": "Bluray",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKOAnM.jpg",
         "Seasons": {
@@ -3591,6 +3717,9 @@
         "Title": "Kevin Hart Laugh at My Pain",
         "Category": "tvshows",
         "Format": "WEBRip",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKOqkk.jpg",
         "Seasons": {
@@ -3610,6 +3739,7 @@
         "Title": "2 Dope Queens",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": "N/A",
         "Number Of Episodes": 4,
         "Image Source": "https://imgpile.com/images/TKOoiu.jpg",
         "Seasons": {
@@ -3641,6 +3771,10 @@
         "Title": "Boy Band",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa",
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 3,
         "Image Source": "https://imgpile.com/images/TKOHUi.jpg",
         "Seasons": {
@@ -3668,6 +3802,9 @@
         "Title": "The Grand Tour",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 43,
         "Image Source": "https://i.imgur.com/CVF6PzU.jpg",
         "Seasons": {
@@ -3879,6 +4016,9 @@
         "Title": "Judd Apatow The Return",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKOVgF.jpg",
         "Seasons": {
@@ -3898,6 +4038,10 @@
         "Title": "The Ellen DeGeneres Show",
         "Category": "tvshows",
         "Format": "720p",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6",
+            "%d9%85%d9%82%d8%a7%d8%a8%d9%84%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 56,
         "Image Source": "https://imgpile.com/images/TKOWda.jpg",
         "Seasons": {
@@ -4149,6 +4293,7 @@
         "Title": "Mayweather Vs. McGregor",
         "Category": "tvshows",
         "Format": "HDTV",
+        "Genres": "N/A",
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKOlob.jpg",
         "Seasons": {
@@ -4168,6 +4313,7 @@
         "Title": "Marc Maron Too Real",
         "Category": "tvshows",
         "Format": "WEB-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKOmS3.jpg",
         "Seasons": {
@@ -4187,6 +4333,9 @@
         "Title": "Iliza Shlesinger Confirmed Kills",
         "Category": "tvshows",
         "Format": "WEB-DL",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKO8rw.jpg",
         "Seasons": {
@@ -4206,6 +4355,7 @@
         "Title": "Jimmy Carr Funny Business",
         "Category": "tvshows",
         "Format": "WEBRip",
+        "Genres": "N/A",
         "Number Of Episodes": 1,
         "Image Source": "https://imgpile.com/images/TKOzdl.jpg",
         "Seasons": {
@@ -4225,6 +4375,9 @@
         "Title": "The Standups",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%b9%d8%b1%d8%b6"
+        ],
         "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/TKOLx4.jpg",
         "Seasons": {
@@ -4294,6 +4447,9 @@
         "Title": "Americas Got Talent",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 133,
         "Image Source": "https://imgpile.com/images/TKOdOg.jpg",
         "Seasons": {
@@ -4871,6 +5027,7 @@
         "Title": "Last Week Tonight with John Oliver",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 86,
         "Image Source": "https://imgpile.com/images/TKOwmh.jpg",
         "Seasons": {
@@ -5254,6 +5411,9 @@
         "Title": "Impractical Jokers",
         "Category": "tvshows",
         "Format": "720p Web-Dl",
+        "Genres": [
+            "%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa"
+        ],
         "Number Of Episodes": 228,
         "Image Source": "https://imgpile.com/images/TKO144.jpg",
         "Seasons": {
@@ -6229,6 +6389,7 @@
         "Title": "Bake Squad",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
+        "Genres": "N/A",
         "Number Of Episodes": 8,
         "Image Source": "https://imgpile.com/images/TKOuHG.jpg",
         "Seasons": {
