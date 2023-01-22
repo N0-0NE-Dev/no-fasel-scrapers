@@ -62,14 +62,19 @@
         }
     },
     "asian-series": {
-        "194250": {
-            "Title": "The Forbidden Marriage",
-            "Image Source": "https://i.imgur.com/j05cBkS.jpg",
-            "Category": "asian-series"
-        },
         "202229": {
             "Title": "Payback: Money and Power",
             "Image Source": "https://i.imgur.com/oT1wmFe.jpg",
+            "Category": "asian-series"
+        },
+        "203031": {
+            "Title": "Crash course in romance",
+            "Image Source": "https://i.imgur.com/2RwbYgv.jpg",
+            "Category": "asian-series"
+        },
+        "194250": {
+            "Title": "The Forbidden Marriage",
+            "Image Source": "https://i.imgur.com/j05cBkS.jpg",
             "Category": "asian-series"
         },
         "201899": {
@@ -101,27 +106,32 @@
             "Title": "Super Junior: The Last Man Standing",
             "Image Source": "https://i.imgur.com/9QqNe2t.jpg",
             "Category": "asian-series"
-        },
-        "198158": {
-            "Title": "Big Bet",
-            "Image Source": "https://i.imgur.com/juD4Qru.jpg",
-            "Category": "asian-series"
         }
     },
     "anime": {
-        "202251": {
-            "Title": "ISEKAI NONBIRI NOUKA",
-            "Image Source": "https://i.imgur.com/k8LrQh3.jpg",
+        "202994": {
+            "Title": "Shin Shinka No Mi: Shiranai Uchi Ni Kachigumi Jinsei",
+            "Image Source": "https://i.imgur.com/bUD854D.jpg",
             "Category": "anime"
         },
-        "203695": {
-            "Title": "d4dj all mix",
-            "Image Source": "https://i.imgur.com/YTKbcdq.jpg",
+        "202339": {
+            "Title": "Roukin",
+            "Image Source": "https://i.imgur.com/ecTolnb.jpg",
             "Category": "anime"
         },
-        "202808": {
-            "Title": "Kubo-SAN WA MOB Wo Yurusanai",
-            "Image Source": "https://i.imgur.com/uw5Crvm.jpg",
+        "202321": {
+            "Title": "Ijiranaide, Nagatoro-San 2nd Attack",
+            "Image Source": "https://i.imgur.com/d0U6Tfl.jpg",
+            "Category": "anime"
+        },
+        "42952": {
+            "Title": "Detective Conan",
+            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
+            "Category": "anime"
+        },
+        "188161": {
+            "Title": "Blue Lock",
+            "Image Source": "https://i.imgur.com/dHfWm4r.jpg",
             "Category": "anime"
         }
     },
@@ -181,6 +191,16 @@
             "Image Source": "https://i.imgur.com/ZXaqfnG.jpg",
             "Category": "series"
         },
+        "186956": {
+            "Title": "So Help Me Todd",
+            "Image Source": "https://i.imgur.com/arFUucH.jpg",
+            "Category": "series"
+        },
+        "188107": {
+            "Title": "Fire Country",
+            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
+            "Category": "series"
+        },
         "134431": {
             "Title": "BMF",
             "Image Source": "https://imgpile.com/images/TKZFY8.jpg",
@@ -190,22 +210,17 @@
             "Title": "Abbott Elementary",
             "Image Source": "https://i.imgur.com/mZuIM3e.jpg",
             "Category": "series"
-        },
-        "105387": {
-            "Title": "Breathe: Into the Shadows",
-            "Image Source": "https://imgpile.com/images/TKWKma.jpg",
-            "Category": "series"
         }
     },
     "arabic-series": {
+        "3929": {
+            "Title": "حكايات جروب الماميز",
+            "Image Source": "https://i.imgur.com/sIxfIym.jpg",
+            "Category": "arabic-series"
+        },
         "3781": {
             "Title": "مشوار الونش",
             "Image Source": "https://imgpile.com/images/b8E7iF.jpg",
-            "Category": "arabic-series"
-        },
-        "3910": {
-            "Title": "أولاد عابد",
-            "Image Source": "https://i.imgur.com/NDmJyYm.jpg",
             "Category": "arabic-series"
         },
         "3821": {
@@ -213,31 +228,41 @@
             "Image Source": "https://i.imgur.com/zv9Vlqh.jpg",
             "Category": "arabic-series"
         },
-        "3916": {
-            "Title": "أقل من عادي",
-            "Image Source": "https://i.imgur.com/TBc8Z3g.jpg",
+        "3910": {
+            "Title": "أولاد عابد",
+            "Image Source": "https://i.imgur.com/NDmJyYm.jpg",
             "Category": "arabic-series"
         },
-        "3898": {
-            "Title": "دكة العبيد",
-            "Image Source": "https://i.imgur.com/RekpC9M.jpg",
+        "3810": {
+            "Title": "عودة خالتي",
+            "Image Source": "https://i.imgur.com/Bh9BiaB.jpg",
             "Category": "arabic-series"
         },
-        "3927": {
-            "Title": "Fauda الموسم الرابع",
-            "Image Source": "https://i.imgur.com/rFPa5g9.jpg",
+        "3847": {
+            "Title": "في كل أسبوع حكاية",
+            "Image Source": "https://i.imgur.com/QL8zOkd.jpg",
+            "Category": "arabic-series"
+        },
+        "3851": {
+            "Title": "وبينا ميعاد",
+            "Image Source": "https://i.imgur.com/jHdTlCz.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+            "Category": "arabic-series"
+        },
+        "3928": {
+            "Title": "نايرات",
+            "Image Source": "https://i.imgur.com/y4nKqyv.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
-        "2001": {
-            "Title": "الكهف",
-            "Image Source": "https://imgpile.com/images/bkv73j.jpg",
-            "Category": "arabic-movies"
-        },
         "7922": {
             "Title": "فيلم الهيبة",
-            "Image Source": "https://i.imgur.com/ARcjnDc.jpg",
+            "Image Source": "https://i.imgur.com/EBGlWFJ.jpg",
             "Category": "arabic-movies"
         },
         "6735": {
@@ -247,27 +272,22 @@
         },
         "7835": {
             "Title": "الباب الأخضر",
-            "Image Source": "https://i.imgur.com/egG5ksj.jpg",
+            "Image Source": "https://i.imgur.com/sGgHT0p.jpg",
             "Category": "arabic-movies"
         },
         "7822": {
             "Title": "تسليم أهالي",
-            "Image Source": "https://i.imgur.com/6vG69TA.jpg",
+            "Image Source": "https://i.imgur.com/z1K8VR3.jpg",
             "Category": "arabic-movies"
         },
         "7934": {
             "Title": "ضيوف شرف",
-            "Image Source": "https://i.imgur.com/OQhwKqp.jpg",
+            "Image Source": "https://i.imgur.com/fYR6T7k.jpg",
             "Category": "arabic-movies"
         },
         "7925": {
             "Title": "الخلاط",
-            "Image Source": "https://i.imgur.com/INuWxGw.jpg",
-            "Category": "arabic-movies"
-        },
-        "7924": {
-            "Title": "غدوة",
-            "Image Source": "https://i.imgur.com/m8r0fJE.jpg",
+            "Image Source": "https://i.imgur.com/woIdov0.jpg",
             "Category": "arabic-movies"
         }
     }
