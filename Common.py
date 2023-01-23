@@ -169,6 +169,11 @@ def get_content_id(soup: BeautifulSoup) -> Optional[str]:
 
 
 def upload_image(image_url: str, content_id: str, get_image: Callable[[str], Response]) -> str:
+    if DEBUG:
+        print(content_id)
+    else:
+        pass
+
     if content_id in IMAGE_SOURCES:
         return IMAGE_SOURCES[content_id]
     else:
