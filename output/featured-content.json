@@ -2,57 +2,94 @@
     "191292": {
         "Title": "Black Adam",
         "Category": "movies",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/vWjfkqy.jpg",
-        "Source": "https://embed.scdn.to/video_player?uid=0&vid=84123e01323d829ffeb0c4e4128a0648&img=https://img.scdn.to/thumb/84123e01323d829ffeb0c4e4128a0648/large.jpg"
+        "Genres": [
+            "Action",
+            "Sci-fi",
+            "Fantasy"
+        ],
+        "Format": "Bluray",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Source": "https://embed.scdn.to/video_player?uid=0&vid=08fd629c6fc13b7ef55de5c3551c0569&img=https://img.scdn.to/thumb/08fd629c6fc13b7ef55de5c3551c0569/large.jpg"
     },
     "197628": {
         "Title": "Violent Night",
         "Category": "movies",
+        "Genres": [
+            "Action",
+            "Crime",
+            "Comedy"
+        ],
         "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/ujlNcLW.jpg",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "https://embed.scdn.to/video_player?uid=0&vid=c9cef92407f2d12a062e036b317875df&img=https://img.scdn.to/thumb/c9cef92407f2d12a062e036b317875df/large.jpg"
     },
     "190371": {
         "Title": "Smile",
         "Category": "movies",
+        "Genres": [
+            "Horror"
+        ],
         "Format": "Bluray",
-        "Image Source": "https://i.imgur.com/8QVvpe7.jpg",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "https://embed.scdn.to/video_player?uid=0&vid=2071b0ef2219e9cc796fa25754504514&img=https://img.scdn.to/thumb/2071b0ef2219e9cc796fa25754504514/large.jpg"
     },
     "191812": {
         "Title": "One Piece Film: Red",
         "Category": "movies",
+        "Genres": [
+            "Animation",
+            "Action"
+        ],
         "Format": "HDTS",
-        "Image Source": "https://i.imgur.com/gD4mBz5.jpg",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "https://embed.scdn.to/video_player?uid=0&vid=153842094e42910e1b340124187bcf11&img=https://img.scdn.to/thumb/153842094e42910e1b340124187bcf11/large.jpg"
     },
     "190376": {
         "Title": "The Woman King",
         "Category": "movies",
+        "Genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
         "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/b97rF0p.jpg",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "https://embed.scdn.to/video_player?uid=0&vid=0910baf0bd12b3f0799cdac95e773c64&img=https://img.scdn.to/thumb/0910baf0bd12b3f0799cdac95e773c64/large.jpg"
     },
     "140922": {
         "Title": "Spider-Man: No Way Home",
         "Category": "movies",
+        "Genres": [
+            "Action",
+            "Fantasy",
+            "Adventure"
+        ],
         "Format": "EXTENDED BluRay",
-        "Image Source": "https://imgpile.com/images/TNyqWS.jpg",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "https://embed.scdn.to/video_player?uid=0&vid=63d81e0efa8cf9d51d77b33568244f10&img=https://img.scdn.to/thumb/63d81e0efa8cf9d51d77b33568244f10/large.jpg"
     },
     "187181": {
         "Title": "Jeepers Creepers: Reborn",
         "Category": "movies",
+        "Genres": [
+            "Thriller",
+            "Horror",
+            "Mystery"
+        ],
         "Format": "Bluray",
-        "Image Source": "https://i.imgur.com/f5HHEzS.jpg",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "https://embed.scdn.to/video_player?uid=0&vid=f9f4de4a2de3073e6be7cd433ec269d3&img=https://img.scdn.to/thumb/f9f4de4a2de3073e6be7cd433ec269d3/large.jpg"
     },
     "186628": {
         "Title": "Blonde",
         "Category": "movies",
+        "Genres": [
+            "Drama",
+            "Biography",
+            "Mystery"
+        ],
         "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/QTH0FMY.jpg",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "https://embed.scdn.to/video_player?uid=0&vid=0508e3f8972a8552747167218d7c7586&img=https://img.scdn.to/thumb/0508e3f8972a8552747167218d7c7586/large.jpg"
     }
 }
