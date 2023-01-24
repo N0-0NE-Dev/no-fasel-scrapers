@@ -53,7 +53,7 @@ def scrape_all_movies(page_range: tuple) -> dict:
 
     for page in range(page_range[0], page_range[1]):
         main_page = get_website_safe(
-            BASE_URL + f"all-movies/page/{page}")
+            FASEL_BASE_URL + f"all-movies/page/{page}")
 
         soup = BeautifulSoup(main_page.content, "html.parser")
 
@@ -82,11 +82,11 @@ def scrape_all_movies(page_range: tuple) -> dict:
 
 def main() -> None:
     """Scapes all the movies from fasel"""
-    get_cookies()
+    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo"))
 
     page_ranges_list = split_into_ranges(
         8,
-        get_number_of_pages(BASE_URL + "all-movies"),
+        get_number_of_pages(FASEL_BASE_URL + "all-movies"),
     )
 
     if DEBUG:

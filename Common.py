@@ -21,7 +21,7 @@ FILE_NAMES = ['movies', 'anime', 'asian-series',
               'series', 'tvshows', 'arabic-series',
               'arabic-movies']
 
-BASE_URL = "https://www.faselhd.club/"
+FASEL_BASE_URL = "https://www.faselhd.club/"
 
 with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
@@ -29,22 +29,15 @@ with open("./output/image-indices.json", "r") as fp:
 cookie_lock = Lock()
 
 
-def get_cookies() -> None:
+def get_cookies(url: str, selector: tuple[By, str]) -> None:
     """Gets new cookies to bypass cloudfalre"""
     global cookies_dict, headers
 
     driver = Chrome(use_subprocess=True, version_main=109)
     driver.minimize_window()
-    driver.get("https://www.faselhd.club/home3")
+    driver.get(url)
 
-    WebDriverWait(driver, 90).until(
-        EC.presence_of_element_located(
-            (
-                By.CLASS_NAME,
-                "logo",
-            )
-        )
-    )
+    WebDriverWait(driver, 90).until(EC.presence_of_element_located(selector))
 
     cookies = driver.get_cookies()
 

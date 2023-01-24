@@ -53,7 +53,7 @@ def scrape_season(season: Tag, series_id: str) -> dict:
     season_number = int(remove_arabic_chars(
         season.find("div", class_="title").text).lstrip())
 
-    season_page = get_website_safe(BASE_URL + f"?p={season_id}")
+    season_page = get_website_safe(FASEL_BASE_URL + f"?p={season_id}")
     soup = BeautifulSoup(season_page.content, "html.parser")
 
     try:
@@ -184,10 +184,10 @@ def main() -> None:
     for path in PATHS_TO_SCRAPE:
         start_time = perf_counter()
 
-        url = BASE_URL + path
+        url = FASEL_BASE_URL + path
         file_path = f"./output/{path}.json"
 
-        get_cookies()
+        get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo"))
 
         with open(file_path, "r") as fp:
             old_series_dict = json.load(fp)
