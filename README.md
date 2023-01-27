@@ -4,7 +4,7 @@ Library that provides movie sources.
 
 ## Contributing
 
-The following is guide for creating a NoFasel Scrapper. Thanks for taking the time to contribute!
+Thanks for taking the time to contribute!
 
 #### Prerequisites
 
