@@ -72,7 +72,7 @@ def get_genres(soup: BeautifulSoup) -> Union[list[str], str]:
     try:
         genre_ids = [tag["href"].split("=")[-1] for tag in genre_tags]
     except TypeError:
-        return "N/A"
+        return []
 
     genres = [genres_dict[key] for key in genre_ids]
 
