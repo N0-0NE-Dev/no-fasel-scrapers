@@ -51,7 +51,7 @@ def scrape_akwam() -> None:
 
 def scrape_fasel() -> None:
     """Scrapes the content on the home page of fasel"""
-    get_cookies()
+    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo"))
     home_page = get_website_safe(
         'https://www.faselhd.club/home3')
     soup = BeautifulSoup(home_page.content, 'html.parser')
@@ -102,7 +102,7 @@ def scrape_fasel() -> None:
                         "Genres": content_file[key]["Genres"],
                         "Rating": rating
                     }})
-                    
+
                 break
             else:
                 continue
