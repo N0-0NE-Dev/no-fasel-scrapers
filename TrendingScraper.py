@@ -88,8 +88,21 @@ def scrape_fasel() -> None:
             clean_content_title = "".join(content_title.lower().split())
             if (current_title == clean_content_title) and (key not in seen):
                 seen.append(key)
+
+                if "Rating" in content_file[key]:
+                    rating = content_file[key]["Rating"]
+                else:
+                    rating = "N/A"
+
                 content_dict[content_category].update(
-                    {key: {"Title": content_file[key]["Title"], "Image Source": content_file[key]["Image Source"], "Category": content_category}})
+                    {key: {
+                        "Title": content_file[key]["Title"],
+                        "Image Source": content_file[key]["Image Source"],
+                        "Category": content_category,
+                        "Genres": content_file[key]["Genres"],
+                        "Rating": rating
+                    }})
+                    
                 break
             else:
                 continue
