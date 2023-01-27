@@ -26,12 +26,11 @@ def main() -> None:
 
             genres = content[key]["Genres"]
 
-            if type(genres) == list:
-                for genre in list(genres):
-                    if "%" in genre or genre == "/":
-                        genres.remove(genre)
-                    else:
-                        continue
+            for genre in list(genres):
+                if "%" in genre or genre == "/":
+                    genres.remove(genre)
+                else:
+                    continue
 
                 content[key]["Genres"] = genres
             else:

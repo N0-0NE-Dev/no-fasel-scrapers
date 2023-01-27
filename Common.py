@@ -227,6 +227,6 @@ def get_genres(soup: BeautifulSoup) -> Union[list[str], str]:
         genres = [tag["href"].split("/")[-1].capitalize()
                   for tag in genre_tags]
     except AttributeError:
-        genres = "N/A"
+        genres = []
 
     return genres
