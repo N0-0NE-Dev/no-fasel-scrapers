@@ -1,0 +1,38 @@
+name: 🌐 Source request
+description: Suggest a new source for NoFasel
+body:
+
+  - type: input
+    id: name
+    attributes:
+      label: Source name
+      placeholder: |
+        Example: "Example katmovieshd"
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Source link
+      placeholder: |
+        Example: "https://example.org"
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-details
+    attributes:
+      label: Other details
+      placeholder: |
+        Additional details and attachments.
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I have searched the existing issues and this is a new ticket, **NOT** a duplicate or related to another open issue.
+          required: true
+        - label: I have checked that the source does not already exist on the app.
+          required: true
