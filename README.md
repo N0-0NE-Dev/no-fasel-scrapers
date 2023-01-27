@@ -1,6 +1,6 @@
 # NoFasel Scrapper
 
-Library that provides movie sources.
+Library that provides movie and series sources.
 
 ## Contributing
 
