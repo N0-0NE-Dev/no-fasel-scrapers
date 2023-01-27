@@ -1,0 +1,64 @@
+name: 🐞 Issue report
+description: Report a source issue in NoFasel
+body:
+
+  - type: input
+    id: source
+    attributes:
+      label: Source information
+      description: |
+        You can find the source name in navigation drawer.
+      placeholder: |
+        Example: "Akwam"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce-steps
+    attributes:
+      label: Steps to reproduce
+      description: Provide an example of the issue.
+      placeholder: |
+        Example:
+          1. First step
+          2. Second step
+          3. Issue here
+    validations:
+      required: false
+
+  - type: input
+    id: nofasel-version
+    attributes:
+      label: NoFasel Version
+      description: |
+        You can find your NoFasel version in **Settings**.
+      placeholder: |
+        Example: "1.0.9"
+    validations:
+      required: true
+
+  - type: input
+    id: android-version
+    attributes:
+      label: Android version
+      description: |
+        You can find this somewhere in your Android settings.
+      placeholder: |
+        Example: "Android 12"
+    validations:
+      required: false
+
+  - type: textarea
+    id: other-details
+    attributes:
+      label: Other details
+      placeholder: |
+        Additional details and attachments.
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I have searched the existing issues and this is a new ticket, **NOT** a duplicate or related to another open issue.
+          required: true
