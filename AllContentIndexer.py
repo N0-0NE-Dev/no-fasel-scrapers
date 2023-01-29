@@ -15,11 +15,16 @@ def main() -> None:
             else:
                 rating = "N/A"
 
+            if "Genres" in data[key]:
+                genres = data[key]["Genres"]
+            else:
+                genres = []
+
             all_content += [{"key": key,
                             "Title": data[key]["Title"],
                              "Image Source": data[key]["Image Source"],
                              "Category": data[key]["Category"],
-                             "Genres": data[key]["Genres"],
+                             "Genres": genres,
                              "Rating": rating
                              }]
 
