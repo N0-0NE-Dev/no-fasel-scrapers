@@ -24,17 +24,20 @@ def main() -> None:
             else:
                 image_indices[key + "-fasel"] = content[key]["Image Source"]
 
-            genres = content[key]["Genres"]
+            try:
+                genres = content[key]["Genres"]
 
-            for genre in list(genres):
-                if "%" in genre or genre == "/":
-                    genres.remove(genre)
+                for genre in list(genres):
+                    if "%" in genre or genre == "/":
+                        genres.remove(genre)
+                    else:
+                        continue
+
+                    content[key]["Genres"] = genres
                 else:
-                    continue
-
-                content[key]["Genres"] = genres
-            else:
-                pass
+                    pass
+            except KeyError:
+                content[key]["Genres"] = []
 
         if index in range(2, 5):
             for key in list(content.keys()):

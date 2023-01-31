@@ -1,6 +1,6 @@
 import requests
 from requests import Response
-from requests.exceptions import ConnectionError
+from requests.exceptions import ConnectionError, ChunkedEncodingError
 from bs4 import BeautifulSoup
 from Common import split_into_ranges
 from typing import Union
@@ -13,6 +13,8 @@ def get_website_safe(url: str) -> Response:
         try:
             response = requests.get(url)
         except ConnectionError:
+            response = None
+        except ChunkedEncodingError:
             response = None
 
     return response
