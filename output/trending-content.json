@@ -1,13 +1,44 @@
 {
     "movies": {
-        "204573": {
-            "Title": "Shotgun Wedding",
-            "Image Source": "https://i.imgur.com/c5zOQmy.jpg",
+        "204665": {
+            "Title": "Babylon",
+            "Image Source": "https://i.imgur.com/iF66pnS.jpg",
             "Category": "movies",
             "Genres": [
-                "Action",
-                "Romance",
-                "Comedy"
+                "Drama",
+                "Comedy",
+                "History"
+            ],
+            "Rating": "N/A"
+        },
+        "204621": {
+            "Title": "The Ghosts of Monday",
+            "Image Source": "https://i.imgur.com/zyy8LmY.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A"
+        },
+        "204617": {
+            "Title": "The Friendship Game",
+            "Image Source": "https://i.imgur.com/ZZoxKQd.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Sci-fi",
+                "Horror"
+            ],
+            "Rating": "N/A"
+        },
+        "204609": {
+            "Title": "Darby and the Dead",
+            "Image Source": "https://i.imgur.com/Xm4Hlc5.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy",
+                "Fantasy"
             ],
             "Rating": "N/A"
         },
@@ -19,6 +50,17 @@
                 "Action",
                 "Drama",
                 "Adventure"
+            ],
+            "Rating": "N/A"
+        },
+        "204573": {
+            "Title": "Shotgun Wedding",
+            "Image Source": "https://i.imgur.com/c5zOQmy.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Romance",
+                "Comedy"
             ],
             "Rating": "N/A"
         },
@@ -82,44 +124,6 @@
                 "Comedy"
             ],
             "Rating": "5.7"
-        },
-        "204119": {
-            "Title": "Significant Other",
-            "Image Source": "https://i.imgur.com/DWntRvO.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Sci-fi",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "5.7"
-        },
-        "191215": {
-            "Title": "Poker Face",
-            "Image Source": "https://i.imgur.com/yojlZNv.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A"
-        },
-        "204115": {
-            "Title": "Jerry and Marge Go Large",
-            "Image Source": "https://i.imgur.com/CEsZZcQ.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Biography",
-                "Comedy"
-            ],
-            "Rating": "6.9"
-        },
-        "204112": {
-            "Title": "Black Sunshine Baby",
-            "Image Source": "https://i.imgur.com/XtfzMpv.jpg",
-            "Category": "movies",
-            "Genres": [],
-            "Rating": "9.1"
         }
     },
     "asian-series": {
@@ -137,6 +141,38 @@
         "197230": {
             "Title": "Missing: The Other Side",
             "Image Source": "https://i.imgur.com/6hixeur.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Melodrama",
+                "Mystery",
+                "Sci-fi"
+            ],
+            "Rating": "N/A"
+        },
+        "197211": {
+            "Title": "Trolley",
+            "Image Source": "https://i.imgur.com/q0DULCe.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "N/A"
+        },
+        "204171": {
+            "Title": "Physical: 100",
+            "Image Source": "https://i.imgur.com/u9cCog8.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "N/A"
+        },
+        "107092": {
+            "Title": "Missing: The Other Side",
+            "Image Source": "https://imgpile.com/images/TKcT7h.jpg",
             "Category": "asian-series",
             "Genres": [
                 "Drama",
@@ -185,37 +221,53 @@
                 "Drama"
             ],
             "Rating": "N/A"
-        },
-        "203031": {
-            "Title": "Crash course in romance",
-            "Image Source": "https://i.imgur.com/2RwbYgv.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Romance"
-            ],
-            "Rating": "N/A"
-        },
-        "204430": {
-            "Title": "Kokdu: Season of Deity",
-            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "Fantasy"
-            ],
-            "Rating": "N/A"
-        },
-        "202229": {
-            "Title": "Payback: Money and Power",
-            "Image Source": "https://i.imgur.com/oT1wmFe.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A"
         }
     },
     "anime": {
+        "202709": {
+            "Title": "Tondemo Skill de Isekai Hourou Meshi",
+            "Image Source": "https://i.imgur.com/nfH7zMY.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A"
+        },
+        "188255": {
+            "Title": "Yowamushi Pedal: Limit Break",
+            "Image Source": "https://i.imgur.com/9Njh4O1.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "N/A"
+        },
+        "202701": {
+            "Title": "Mononogatari",
+            "Image Source": "https://i.imgur.com/CjBXuem.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "N/A"
+        },
+        "201921": {
+            "Title": "Koori Zokusei Danshi to Cool Na Douryou Joshi",
+            "Image Source": "https://i.imgur.com/h926jff.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A"
+        },
         "134902": {
             "Title": "Digimon Ghost Game",
             "Image Source": "https://imgpile.com/images/TJuojC.jpg",
@@ -224,28 +276,6 @@
                 "Action",
                 "Fantasy",
                 "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A"
-        },
-        "202631": {
-            "Title": "Vinland Saga Season 2",
-            "Image Source": "https://i.imgur.com/8px8auH.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "N/A"
-        },
-        "202599": {
-            "Title": "Danmachi 4th Season Part 2",
-            "Image Source": "https://i.imgur.com/p8H0sgF.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
                 "Adventure"
             ],
             "Rating": "N/A"
@@ -367,60 +397,70 @@
             ],
             "Rating": "6.8"
         },
-        "187455": {
-            "Title": "Walker",
-            "Image Source": "https://i.imgur.com/jBnONnL.jpg",
+        "141710": {
+            "Title": "How I Met Your Father",
+            "Image Source": "https://imgpile.com/images/TM41cr.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
-                "Crime",
+                "Comedy",
                 "Drama"
             ],
-            "Rating": "6.1"
+            "Rating": "5.5"
         },
-        "203784": {
-            "Title": "Irreverent",
-            "Image Source": "https://i.imgur.com/iCHe3qd.jpg",
+        "186061": {
+            "Title": "Quantum Leap",
+            "Image Source": "https://i.imgur.com/gI8XKdG.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy"
+                "Drama",
+                "Sci-fi"
             ],
-            "Rating": "6.9"
+            "Rating": "5.7"
         },
-        "186264": {
-            "Title": "Abbott Elementary",
-            "Image Source": "https://i.imgur.com/mZuIM3e.jpg",
+        "188323": {
+            "Title": "All American",
+            "Image Source": "https://i.imgur.com/3lONz8M.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy"
+                "Drama",
+                "Sport"
             ],
-            "Rating": "8.2"
+            "Rating": "7.6"
         },
-        "203092": {
-            "Title": "Godfather of Harlem",
-            "Image Source": "https://i.imgur.com/xrlSKJh.jpg",
+        "188327": {
+            "Title": "All American: Homecoming",
+            "Image Source": "https://i.imgur.com/eRMX73z.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "6.2"
+        },
+        "204651": {
+            "Title": "Cunk on Earth",
+            "Image Source": "https://i.imgur.com/Fpjc1vZ.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Documentary"
+            ],
+            "Rating": "N/A"
+        },
+        "187159": {
+            "Title": "The Good Doctor",
+            "Image Source": "https://i.imgur.com/AnuHQTE.jpg",
+            "Category": "series",
+            "Genres": [
                 "Drama"
             ],
             "Rating": "8.1"
-        },
-        "203096": {
-            "Title": "Mayor of Kingstown",
-            "Image Source": "https://i.imgur.com/2h2Jt9M.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.2"
         }
     },
     "arabic-series": {
         "3910": {
             "Title": "أولاد عابد",
-            "Image Source": "https://i.imgur.com/wpGJDV3.jpg",
+            "Image Source": "https://i.imgur.com/fmUEJsO.jpg",
             "Category": "arabic-series"
         },
         "3781": {
@@ -438,14 +478,14 @@
             "Image Source": "https://i.imgur.com/ckDcmBn.jpg",
             "Category": "arabic-series"
         },
-        "3855": {
-            "Title": "براندو الشرق",
-            "Image Source": "https://i.imgur.com/1REqbof.jpg",
+        "3934": {
+            "Title": "كازا ستريت",
+            "Image Source": "https://i.imgur.com/bd93jRv.jpg",
             "Category": "arabic-series"
         },
         "3913": {
             "Title": "عالم تاني",
-            "Image Source": "https://i.imgur.com/9B2C1kf.jpg",
+            "Image Source": "https://i.imgur.com/AI1NIoq.jpg",
             "Category": "arabic-series"
         },
         "2817": {
@@ -453,24 +493,29 @@
             "Image Source": "https://imgpile.com/images/b80yKW.jpg",
             "Category": "arabic-series"
         },
-        "3929": {
-            "Title": "حكايات جروب الماميز",
-            "Image Source": "https://i.imgur.com/UTDiOKX.jpg",
-            "Category": "arabic-series"
-        },
         "3851": {
             "Title": "وبينا ميعاد",
-            "Image Source": "https://i.imgur.com/bV1DTf3.jpg",
+            "Image Source": "https://i.imgur.com/03WIqlT.jpg",
             "Category": "arabic-series"
         },
         "3847": {
             "Title": "في كل أسبوع حكاية",
-            "Image Source": "https://i.imgur.com/iAY0HU0.jpg",
+            "Image Source": "https://i.imgur.com/khUBQgq.jpg",
+            "Category": "arabic-series"
+        },
+        "3929": {
+            "Title": "حكايات جروب الماميز",
+            "Image Source": "https://i.imgur.com/ZgTbGL9.jpg",
             "Category": "arabic-series"
         },
         "3877": {
             "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/t6crP2C.jpg",
+            "Image Source": "https://i.imgur.com/Xlg7ku4.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         }
     },
