@@ -115,7 +115,10 @@ def scrape_fasel() -> None:
             movie_id = get_content_id(BeautifulSoup(
                 movie_page.content, "html.parser"))
 
-            featured_content_dict[movie_id] = movies[movie_id]
+            try:
+                featured_content_dict[movie_id] = movies[movie_id]
+            except KeyError:
+                continue
 
     with open("./output/featured-content.json", "w") as fp:
         json.dump(featured_content_dict, fp, indent=4)

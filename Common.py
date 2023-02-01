@@ -37,7 +37,7 @@ def get_cookies(url: str, selector: tuple[By, str]) -> None:
     driver.minimize_window()
     driver.get(url)
 
-    WebDriverWait(driver, 90).until(EC.presence_of_element_located(selector))
+    WebDriverWait(driver, 120).until(EC.presence_of_element_located(selector))
 
     cookies = driver.get_cookies()
 
