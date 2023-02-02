@@ -97,6 +97,16 @@
         }
     },
     "asian-series": {
+        "199398": {
+            "Title": "Gannibal",
+            "Image Source": "https://i.imgur.com/JGt8hwu.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "N/A"
+        },
         "202829": {
             "Title": "Poong, the Joseon Psychiatrist",
             "Image Source": "https://i.imgur.com/KXenrkl.jpg",
@@ -343,6 +353,18 @@
             ],
             "Rating": "6.8"
         },
+        "192115": {
+            "Title": "Criminal Minds",
+            "Image Source": "https://i.imgur.com/Xyq43FS.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "8.1"
+        },
         "194587": {
             "Title": "National Treasure",
             "Image Source": "https://i.imgur.com/PUsp3CY.jpg",
@@ -372,34 +394,6 @@
                 "Drama"
             ],
             "Rating": "7.6"
-        },
-        "187265": {
-            "Title": "The Rookie: Feds",
-            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action"
-            ],
-            "Rating": "4.9"
-        },
-        "186637": {
-            "Title": "La Brea",
-            "Image Source": "https://i.imgur.com/XSpnNWM.jpg",
-            "Category": "series",
-            "Genres": [
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "5.7"
-        },
-        "203387": {
-            "Title": "Night Court",
-            "Image Source": "https://i.imgur.com/D8hT6fn.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.7"
         }
     },
     "arabic-series": {
@@ -431,31 +425,6 @@
         "3913": {
             "Title": "عالم تاني",
             "Image Source": "https://i.imgur.com/AI1NIoq.jpg",
-            "Category": "arabic-series"
-        },
-        "2817": {
-            "Title": "وسط البلد",
-            "Image Source": "https://imgpile.com/images/b80yKW.jpg",
-            "Category": "arabic-series"
-        },
-        "3851": {
-            "Title": "وبينا ميعاد",
-            "Image Source": "https://i.imgur.com/03WIqlT.jpg",
-            "Category": "arabic-series"
-        },
-        "3847": {
-            "Title": "في كل أسبوع حكاية",
-            "Image Source": "https://i.imgur.com/khUBQgq.jpg",
-            "Category": "arabic-series"
-        },
-        "3929": {
-            "Title": "حكايات جروب الماميز",
-            "Image Source": "https://i.imgur.com/ZgTbGL9.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/Xlg7ku4.jpg",
             "Category": "arabic-series"
         }
     },

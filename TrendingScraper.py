@@ -8,7 +8,7 @@ content_dict = {'movies': {}, 'asian-series': {},
                 'anime': {}, 'series': {}, "arabic-series": {},
                 "arabic-movies": {}}
 
-featured_content_dict = {}
+featured_content_dict = {"content": []}
 
 
 def scrape_akwam() -> None:
@@ -109,16 +109,33 @@ def scrape_fasel() -> None:
 
     with open("./output/movies.json", "r") as fp:
         movies = json.load(fp)
-        for div in featured_content:
-            movie_page = get_website_safe(div.find("a")["href"])
 
-            movie_id = get_content_id(BeautifulSoup(
-                movie_page.content, "html.parser"))
+    for div in featured_content:
+        movie_page = get_website_safe(div.find("a")["href"])
 
-            try:
-                featured_content_dict[movie_id] = movies[movie_id]
-            except KeyError:
-                continue
+        movie_id = get_content_id(BeautifulSoup(
+            movie_page.content, "html.parser"))
+
+        if "Genres" in movies[movie_id]:
+            genres = movies[movie_id]["Genres"]
+        else:
+            genres = []
+
+        if "Rating" in movies[movie_id]:
+            rating = movies[movie_id]["Rating"]
+        else:
+            rating = "N/A"
+
+        try:
+            featured_content_dict["content"].append({"key": movie_id,
+                                                     "Title": movies[movie_id]["Title"],
+                                                     "Image Source": movies[movie_id]["Image Source"],
+                                                     "Category": movies[movie_id]["Category"],
+                                                     "Genres": genres,
+                                                     "Rating": rating
+                                                     })
+        except KeyError:
+            continue
 
     with open("./output/featured-content.json", "w") as fp:
         json.dump(featured_content_dict, fp, indent=4)
