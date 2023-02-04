@@ -67,6 +67,8 @@ def main() -> None:
                         tmdb_id = None
 
                     content[key]["TMDb ID"] = tmdb_id
+            else:
+                pass
 
         if index in range(2, 5):
             for key in list(content.keys()):
