@@ -1,5 +1,85 @@
 {
     "movies": {
+        "204955": {
+            "Title": "Kompromat",
+            "Image Source": "https://i.imgur.com/pOSTCPI.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "Rating": "N/A"
+        },
+        "204950": {
+            "Title": "Plane",
+            "Image Source": "https://i.imgur.com/qRtBoxu.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A"
+        },
+        "204944": {
+            "Title": "Devil Beneath",
+            "Image Source": "https://i.imgur.com/vXLwUom.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "N/A"
+        },
+        "204937": {
+            "Title": "Rocketry: The Nambi Effect",
+            "Image Source": "https://i.imgur.com/yY9O3EP.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Biography"
+            ],
+            "Rating": "N/A"
+        },
+        "204934": {
+            "Title": "Infiesto",
+            "Image Source": "https://i.imgur.com/gP3nEBj.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A"
+        },
+        "204930": {
+            "Title": "Stromboli",
+            "Image Source": "https://i.imgur.com/mo5Yf9w.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A"
+        },
+        "204926": {
+            "Title": "True Spirit",
+            "Image Source": "https://i.imgur.com/mZPJSWm.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Biography",
+                "Adventure"
+            ],
+            "Rating": "N/A"
+        },
+        "204922": {
+            "Title": "Vikingulven",
+            "Image Source": "https://i.imgur.com/4M84vwz.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A"
+        },
         "204734": {
             "Title": "R.M.N.",
             "Image Source": "https://i.imgur.com/iRviTNW.jpg",
@@ -38,93 +118,37 @@
                 "History"
             ],
             "Rating": "N/A"
-        },
-        "204621": {
-            "Title": "The Ghosts of Monday",
-            "Image Source": "https://i.imgur.com/zyy8LmY.jpg",
-            "Category": "movies",
+        }
+    },
+    "asian-series": {
+        "204966": {
+            "Title": "Kimi no Hana ni Naru",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "asian-series",
             "Genres": [
-                "Thriller",
-                "Horror"
+                "Drama"
             ],
             "Rating": "N/A"
         },
-        "204617": {
-            "Title": "The Friendship Game",
-            "Image Source": "https://i.imgur.com/ZZoxKQd.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Sci-fi",
-                "Horror"
-            ],
-            "Rating": "N/A"
-        },
-        "204609": {
-            "Title": "Darby and the Dead",
-            "Image Source": "https://i.imgur.com/Xm4Hlc5.jpg",
-            "Category": "movies",
+        "204430": {
+            "Title": "Kokdu: Season of Deity",
+            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
+            "Category": "asian-series",
             "Genres": [
                 "Drama",
-                "Comedy",
                 "Fantasy"
             ],
             "Rating": "N/A"
         },
-        "204571": {
-            "Title": "Black Panther: Wakanda Forever",
-            "Image Source": "https://i.imgur.com/BBPwG9v.jpg",
-            "Category": "movies",
+        "204423": {
+            "Title": "Bait",
+            "Image Source": "https://i.imgur.com/DmsLwYX.jpg",
+            "Category": "asian-series",
             "Genres": [
-                "Action",
-                "Drama",
-                "Adventure"
+                "Thriller"
             ],
             "Rating": "N/A"
         },
-        "204573": {
-            "Title": "Shotgun Wedding",
-            "Image Source": "https://i.imgur.com/c5zOQmy.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "N/A"
-        },
-        "204465": {
-            "Title": "You People",
-            "Image Source": "https://i.imgur.com/Tj2vgye.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "N/A"
-        },
-        "204455": {
-            "Title": "Candy Land",
-            "Image Source": "https://i.imgur.com/eTABL8k.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A"
-        },
-        "204449": {
-            "Title": "An Action Hero",
-            "Image Source": "https://i.imgur.com/bhd92Xn.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Comedy"
-            ],
-            "Rating": "N/A"
-        }
-    },
-    "asian-series": {
         "202829": {
             "Title": "Poong, the Joseon Psychiatrist",
             "Image Source": "https://i.imgur.com/KXenrkl.jpg",
@@ -183,52 +207,26 @@
                 "Drama"
             ],
             "Rating": "N/A"
-        },
-        "106890": {
-            "Title": "Knowing Bros",
-            "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Game-show",
-                "Reality-tv"
-            ],
-            "Rating": "N/A"
-        },
-        "201649": {
-            "Title": "Brain Cooperation",
-            "Image Source": "https://i.imgur.com/IahQJyK.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Mystery"
-            ],
-            "Rating": "N/A"
-        },
-        "197230": {
-            "Title": "Missing: The Other Side",
-            "Image Source": "https://i.imgur.com/6hixeur.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Melodrama",
-                "Mystery",
-                "Sci-fi"
-            ],
-            "Rating": "N/A"
         }
     },
     "anime": {
-        "187297": {
-            "Title": "Kage No Jitsuryokusha Ni Naritakute!",
-            "Image Source": "https://i.imgur.com/LDL5LQL.jpg",
+        "202224": {
+            "Title": "Nijiyon Animation",
+            "Image Source": "https://i.imgur.com/cOP9WUN.png",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Action",
                 "Comedy"
+            ],
+            "Rating": "N/A"
+        },
+        "202482": {
+            "Title": "UNITEUP!",
+            "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Music"
             ],
             "Rating": "N/A"
         }
@@ -349,62 +347,70 @@
             ],
             "Rating": "6.8"
         },
-        "138719": {
-            "Title": "Harlem",
-            "Image Source": "https://imgpile.com/images/TKjGlj.jpg",
+        "105387": {
+            "Title": "Breathe: Into the Shadows",
+            "Image Source": "https://imgpile.com/images/TKWKma.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "7.6"
+        },
+        "134431": {
+            "Title": "BMF",
+            "Image Source": "https://imgpile.com/images/TKZFY8.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.5"
+        },
+        "204907": {
+            "Title": "Class",
+            "Image Source": "https://i.imgur.com/jUHMwb6.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A"
+        },
+        "186817": {
+            "Title": "Young Sheldon",
+            "Image Source": "https://i.imgur.com/vT5gMpx.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy"
             ],
-            "Rating": "8.1"
+            "Rating": "7.6"
         },
-        "204814": {
-            "Title": "Fanny la fan",
-            "Image Source": "https://i.imgur.com/2HxnZ35.jpg",
+        "204895": {
+            "Title": "Dear Edward",
+            "Image Source": "https://i.imgur.com/qaLT8jB.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Romance"
+                "Drama"
             ],
             "Rating": "N/A"
         },
-        "204804": {
-            "Title": "The Ark",
-            "Image Source": "https://i.imgur.com/4JniGrz.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Sci-fi"
-            ],
-            "Rating": "N/A"
-        },
-        "202272": {
-            "Title": "Anne Rices Mayfair Witches",
-            "Image Source": "https://i.imgur.com/OZ6DhnH.jpg",
-            "Category": "series",
-            "Genres": [
-                "Fantasy",
-                "Horror"
-            ],
-            "Rating": "6.6"
-        },
-        "192115": {
-            "Title": "Criminal Minds",
-            "Image Source": "https://i.imgur.com/Xyq43FS.jpg",
+        "132127": {
+            "Title": "Truth Be Told",
+            "Image Source": "https://imgpile.com/images/TKSR9E.jpg",
             "Category": "series",
             "Genres": [
                 "Crime",
                 "Drama",
-                "Mystery",
                 "Thriller"
             ],
-            "Rating": "8.1"
+            "Rating": "7.1"
         }
     },
     "arabic-series": {
         "3939": {
             "Title": "أزمة منتصف العمر",
-            "Image Source": "https://i.imgur.com/KrBtt0k.jpg",
+            "Image Source": "https://i.imgur.com/HQ8BFV9.jpg",
             "Category": "arabic-series"
         },
         "3781": {
@@ -414,39 +420,19 @@
         },
         "3910": {
             "Title": "أولاد عابد",
-            "Image Source": "https://i.imgur.com/fmUEJsO.jpg",
-            "Category": "arabic-series"
-        },
-        "3821": {
-            "Title": "موضوع عائلي الموسم الثاني",
-            "Image Source": "https://i.imgur.com/ckDcmBn.jpg",
-            "Category": "arabic-series"
-        },
-        "3898": {
-            "Title": "دكة العبيد",
-            "Image Source": "https://i.imgur.com/YZ59YMh.jpg",
+            "Image Source": "https://i.imgur.com/AQDrlme.jpg",
             "Category": "arabic-series"
         },
         "3916": {
             "Title": "أقل من عادي",
-            "Image Source": "https://i.imgur.com/JyNsiax.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/Xlg7ku4.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Image Source": "https://i.imgur.com/tV5HCg8.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8021": {
             "Title": "عبود في البيت",
-            "Image Source": "https://i.imgur.com/LN11fIU.jpg",
+            "Image Source": "https://i.imgur.com/1P8sTGb.jpg",
             "Category": "arabic-movies"
         }
     }
