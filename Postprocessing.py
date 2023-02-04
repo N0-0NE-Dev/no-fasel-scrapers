@@ -1,6 +1,8 @@
 import json
 from Common import FILE_NAMES
 from os import remove, listdir
+import requests
+from os import environ
 
 
 def main() -> None:
@@ -38,6 +40,33 @@ def main() -> None:
                     pass
             except KeyError:
                 content[key]["Genres"] = []
+
+            if file in ["movies", "series"]:
+                if "TMDb ID" in content[key]:
+                    continue
+                else:
+                    params = {
+                        "include_adult": "true",
+                        "page": "1",
+                        "query": content[key]["Title"],
+                        "api_key": environ.get("TMDB_API_KEY")
+                    }
+
+                    if file == "movies":
+                        request_url = "https://api.themoviedb.org/3/search/movie"
+                    else:
+                        request_url = "https://api.themoviedb.org/3/search/tv"
+
+                    resp = requests.get(request_url, params=params)
+
+                    try:
+                        tmdb_id = resp.json()["results"][0]["id"]
+                    except IndexError:
+                        tmdb_id = None
+                    except KeyError:
+                        tmdb_id = None
+
+                    content[key]["TMDb ID"] = tmdb_id
 
         if index in range(2, 5):
             for key in list(content.keys()):
