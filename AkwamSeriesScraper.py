@@ -30,8 +30,11 @@ def scrape_episode(episodes_list: list[str]) -> dict:
         soup = BeautifulSoup(
             short_link_page.content, "html.parser")
 
-        episode_watch_page_link = soup.find(
-            "a", class_="download-link")["href"]
+        try:
+            episode_watch_page_link = soup.find(
+                "a", class_="download-link")["href"]
+        except TypeError:
+            continue
 
         episode_watch_page = get_website_safe(episode_watch_page_link)
 
