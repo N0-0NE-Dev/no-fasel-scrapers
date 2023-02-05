@@ -121,11 +121,12 @@
         }
     },
     "asian-series": {
-        "204966": {
-            "Title": "Kimi no Hana ni Naru",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "195965": {
+            "Title": "Red Balloon",
+            "Image Source": "https://i.imgur.com/8zflivM.jpg",
             "Category": "asian-series",
             "Genres": [
+                "Comedy",
                 "Drama"
             ],
             "Rating": "N/A"
@@ -137,6 +138,33 @@
             "Genres": [
                 "Drama",
                 "Fantasy"
+            ],
+            "Rating": "N/A"
+        },
+        "202229": {
+            "Title": "Payback: Money and Power",
+            "Image Source": "https://i.imgur.com/oT1wmFe.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "N/A"
+        },
+        "203031": {
+            "Title": "Crash course in romance",
+            "Image Source": "https://i.imgur.com/2RwbYgv.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Romance"
+            ],
+            "Rating": "N/A"
+        },
+        "204966": {
+            "Title": "Kimi no Hana ni Naru",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
             ],
             "Rating": "N/A"
         },
@@ -178,57 +206,62 @@
                 "Romance"
             ],
             "Rating": "N/A"
-        },
-        "199398": {
-            "Title": "Gannibal",
-            "Image Source": "https://i.imgur.com/JGt8hwu.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Mystery",
-                "Thriller"
-            ],
-            "Rating": "N/A"
-        },
-        "154226": {
-            "Title": "Poong, the Joseon Psychiatrist",
-            "Image Source": "https://imgpile.com/images/TKXdCx.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "N/A"
-        },
-        "202816": {
-            "Title": "Agency",
-            "Image Source": "https://i.imgur.com/CMvtTwd.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A"
         }
     },
     "anime": {
-        "202224": {
-            "Title": "Nijiyon Animation",
-            "Image Source": "https://i.imgur.com/cOP9WUN.png",
+        "199361": {
+            "Title": "ITAI No Wa Iya Nano de Bougyoryoku ni kyokufuri shitai to omoimasu.2",
+            "Image Source": "https://i.imgur.com/doPPWug.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "7.50"
+        },
+        "202327": {
+            "Title": "tokyo Revengers: Seiya Kessen-Hen",
+            "Image Source": "https://i.imgur.com/YjUPFn3.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Crime",
+                "Action"
+            ],
+            "Rating": "7.77"
+        },
+        "202339": {
+            "Title": "Roukin",
+            "Image Source": "https://i.imgur.com/ecTolnb.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Fantasy"
+            ],
+            "Rating": "6.79"
+        },
+        "202321": {
+            "Title": "Ijiranaide, Nagatoro-San 2nd Attack",
+            "Image Source": "https://i.imgur.com/d0U6Tfl.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Romance",
                 "Comedy"
             ],
-            "Rating": "N/A"
+            "Rating": "7.45"
         },
-        "202482": {
-            "Title": "UNITEUP!",
-            "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
+        "188161": {
+            "Title": "Blue Lock",
+            "Image Source": "https://i.imgur.com/dHfWm4r.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Music"
+                "Action",
+                "Mystery"
             ],
-            "Rating": "N/A"
+            "Rating": "8.27"
         }
     },
     "series": {
@@ -327,82 +360,41 @@
             ],
             "Rating": "6.2"
         },
-        "201942": {
-            "Title": "Copenhagen Cowboy",
-            "Image Source": "https://i.imgur.com/q3bCWkg.jpg",
+        "203493": {
+            "Title": "Your Honor",
+            "Image Source": "https://i.imgur.com/4mMQgaY.jpg",
             "Category": "series",
             "Genres": [
                 "Crime",
-                "Drama"
-            ],
-            "Rating": "6.8"
-        },
-        "201930": {
-            "Title": "Woman of the Dead",
-            "Image Source": "https://i.imgur.com/t9MGhje.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.8"
-        },
-        "105387": {
-            "Title": "Breathe: Into the Shadows",
-            "Image Source": "https://imgpile.com/images/TKWKma.jpg",
-            "Category": "series",
-            "Genres": [
                 "Drama",
                 "Thriller"
             ],
             "Rating": "7.6"
         },
-        "134431": {
-            "Title": "BMF",
-            "Image Source": "https://imgpile.com/images/TKZFY8.jpg",
+        "186510": {
+            "Title": "Transplant",
+            "Image Source": "https://i.imgur.com/lqDo7WR.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
                 "Drama"
             ],
-            "Rating": "7.5"
+            "Rating": "7.9"
         },
-        "204907": {
-            "Title": "Class",
-            "Image Source": "https://i.imgur.com/jUHMwb6.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A"
-        },
-        "186817": {
-            "Title": "Young Sheldon",
-            "Image Source": "https://i.imgur.com/vT5gMpx.jpg",
+        "190582": {
+            "Title": "Young Rock",
+            "Image Source": "https://i.imgur.com/JnBtkr2.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy"
             ],
-            "Rating": "7.6"
+            "Rating": "7.9"
         },
-        "204895": {
-            "Title": "Dear Edward",
-            "Image Source": "https://i.imgur.com/qaLT8jB.jpg",
+        "188107": {
+            "Title": "Fire Country",
+            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
             "Category": "series",
             "Genres": [
                 "Drama"
-            ],
-            "Rating": "N/A"
-        },
-        "132127": {
-            "Title": "Truth Be Told",
-            "Image Source": "https://imgpile.com/images/TKSR9E.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
             ],
             "Rating": "7.1"
         }
@@ -423,16 +415,36 @@
             "Image Source": "https://i.imgur.com/AQDrlme.jpg",
             "Category": "arabic-series"
         },
-        "3916": {
-            "Title": "أقل من عادي",
-            "Image Source": "https://i.imgur.com/tV5HCg8.jpg",
+        "3913": {
+            "Title": "عالم تاني",
+            "Image Source": "https://i.imgur.com/TqmDGF8.jpg",
+            "Category": "arabic-series"
+        },
+        "3847": {
+            "Title": "في كل أسبوع حكاية",
+            "Image Source": "https://i.imgur.com/AV1R6NS.jpg",
+            "Category": "arabic-series"
+        },
+        "3929": {
+            "Title": "حكايات جروب الماميز",
+            "Image Source": "https://i.imgur.com/yx5iElv.jpg",
+            "Category": "arabic-series"
+        },
+        "3851": {
+            "Title": "وبينا ميعاد",
+            "Image Source": "https://i.imgur.com/lzVsBaf.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8021": {
             "Title": "عبود في البيت",
-            "Image Source": "https://i.imgur.com/1P8sTGb.jpg",
+            "Image Source": "https://i.imgur.com/gjLqbGL.jpg",
             "Category": "arabic-movies"
         }
     }
