@@ -7,6 +7,7 @@ on:
 
 env:
   IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_KEY }}
+  TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
 
 permissions:
   contents: write

@@ -41,13 +41,11 @@ def main() -> None:
             except KeyError:
                 content[key]["Genres"] = []
 
-            if file in ["movies", "series"]:
-                if "TMDb ID" in content[key]:
+            if file in ["movies", "series", "asian-series"]:
+                if "TMDb ID" in content[key] and content[key]["TMDb ID"] != None:
                     continue
                 else:
                     params = {
-                        "include_adult": "true",
-                        "page": "1",
                         "query": content[key]["Title"],
                         "api_key": environ.get("TMDB_API_KEY")
                     }
