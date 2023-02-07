@@ -1,5 +1,55 @@
 {
     "movies": {
+        "198722": {
+            "Title": "Strange World",
+            "Image Source": "https://i.imgur.com/QFxxi1I.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Animation",
+                "Adventure"
+            ],
+            "Rating": "5.6"
+        },
+        "205070": {
+            "Title": "Vadh",
+            "Image Source": "https://i.imgur.com/oU5I8Fj.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A"
+        },
+        "205065": {
+            "Title": "Gospel",
+            "Image Source": "https://i.imgur.com/tNHhZgq.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A"
+        },
+        "205061": {
+            "Title": "Before Valentines",
+            "Image Source": "https://i.imgur.com/bHb0R6X.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Romance"
+            ],
+            "Rating": "N/A"
+        },
+        "205057": {
+            "Title": "Alice, Darling",
+            "Image Source": "https://i.imgur.com/TKScM5M.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "Rating": "N/A"
+        },
         "204955": {
             "Title": "Kompromat",
             "Image Source": "https://i.imgur.com/pOSTCPI.jpg",
@@ -69,58 +119,30 @@
                 "Adventure"
             ],
             "Rating": "6.9"
-        },
-        "204922": {
-            "Title": "Vikingulven",
-            "Image Source": "https://i.imgur.com/4M84vwz.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "5.4"
-        },
-        "204734": {
-            "Title": "R.M.N.",
-            "Image Source": "https://i.imgur.com/iRviTNW.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.5"
-        },
-        "204730": {
-            "Title": "Pamela, a love story",
-            "Image Source": "https://i.imgur.com/1dpTSvE.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Biography",
-                "Documentary"
-            ],
-            "Rating": "7.4"
-        },
-        "204726": {
-            "Title": "Honk for Jesus. Save Your Soul.",
-            "Image Source": "https://i.imgur.com/yphgWeU.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "5.4"
-        },
-        "204665": {
-            "Title": "Babylon",
-            "Image Source": "https://i.imgur.com/iF66pnS.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy",
-                "History"
-            ],
-            "Rating": "7.5"
         }
     },
     "asian-series": {
+        "201649": {
+            "Title": "Brain Cooperation",
+            "Image Source": "https://i.imgur.com/IahQJyK.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Mystery"
+            ],
+            "Rating": "6.7"
+        },
+        "205080": {
+            "Title": "Our Blooming Youth",
+            "Image Source": "https://i.imgur.com/LfEaswG.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama",
+                "History"
+            ],
+            "Rating": "N/A"
+        },
         "186448": {
             "Title": "Three Bold Siblings",
             "Image Source": "https://i.imgur.com/A75WeBp.jpg",
@@ -168,78 +190,40 @@
                 "Romance"
             ],
             "Rating": "8"
-        },
-        "204430": {
-            "Title": "Kokdu: Season of Deity",
-            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "Fantasy"
-            ],
-            "Rating": "7.3"
-        },
-        "202229": {
-            "Title": "Payback: Money and Power",
-            "Image Source": "https://i.imgur.com/oT1wmFe.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "8.4"
         }
     },
     "anime": {
-        "202599": {
-            "Title": "Danmachi 4th Season Part 2",
-            "Image Source": "https://i.imgur.com/p8H0sgF.jpg",
+        "188448": {
+            "Title": "Cool Doji Danshi",
+            "Image Source": "https://i.imgur.com/k32VdZN.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "Rating": "7.61"
+        },
+        "202701": {
+            "Title": "Mononogatari",
+            "Image Source": "https://i.imgur.com/CjBXuem.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
                 "Action",
                 "Adventure"
             ],
-            "Rating": "7.06"
+            "Rating": "7.93"
         },
-        "205031": {
-            "Title": "Hirogaru Sky !Precure",
-            "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A"
-        },
-        "202550": {
-            "Title": "Benriya Saitou-SAN, ISEKAI NI IKU",
-            "Image Source": "https://i.imgur.com/M4IMS3w.jpg",
+        "202631": {
+            "Title": "Vinland Saga Season 2",
+            "Image Source": "https://i.imgur.com/8px8auH.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Comedy",
+                "Action",
                 "Adventure"
             ],
-            "Rating": "7.21"
-        },
-        "188255": {
-            "Title": "Yowamushi Pedal: Limit Break",
-            "Image Source": "https://i.imgur.com/9Njh4O1.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Drama",
-                "Comedy"
-            ],
-            "Rating": "7.48"
-        },
-        "189589": {
-            "Title": "Fumetsu no Anata E 2nd Season",
-            "Image Source": "https://i.imgur.com/0GqOWl1.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Drama",
-                "Adventure"
-            ],
-            "Rating": "7.98"
+            "Rating": "8.73"
         }
     },
     "series": {
@@ -387,23 +371,12 @@
                 "Drama"
             ],
             "Rating": "8.2"
-        },
-        "203493": {
-            "Title": "Your Honor",
-            "Image Source": "https://i.imgur.com/4mMQgaY.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "7.6"
         }
     },
     "arabic-series": {
         "3910": {
             "Title": "أولاد عابد",
-            "Image Source": "https://i.imgur.com/Lj6GSwx.jpg",
+            "Image Source": "https://i.imgur.com/pFIUXX1.jpg",
             "Category": "arabic-series"
         },
         "3939": {
@@ -416,51 +389,46 @@
             "Image Source": "https://imgpile.com/images/b8E7iF.jpg",
             "Category": "arabic-series"
         },
-        "3913": {
-            "Title": "عالم تاني",
-            "Image Source": "https://i.imgur.com/w1I90P4.jpg",
-            "Category": "arabic-series"
-        },
-        "2817": {
-            "Title": "وسط البلد",
-            "Image Source": "https://imgpile.com/images/b80yKW.jpg",
-            "Category": "arabic-series"
-        },
         "3851": {
             "Title": "وبينا ميعاد",
-            "Image Source": "https://i.imgur.com/yflsHxy.jpg",
+            "Image Source": "https://i.imgur.com/dH1fEvL.jpg",
             "Category": "arabic-series"
         },
         "3847": {
             "Title": "في كل أسبوع حكاية",
-            "Image Source": "https://i.imgur.com/zHZYvI0.jpg",
+            "Image Source": "https://i.imgur.com/GsCfY3u.jpg",
             "Category": "arabic-series"
         },
         "3929": {
             "Title": "حكايات جروب الماميز",
-            "Image Source": "https://i.imgur.com/8Hju9Lm.jpg",
+            "Image Source": "https://i.imgur.com/HetKFjp.jpg",
             "Category": "arabic-series"
         },
         "3877": {
             "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/azyiyg4.jpg",
+            "Image Source": "https://i.imgur.com/aX8ziPd.jpg",
             "Category": "arabic-series"
         },
         "3974": {
             "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/jYLlQeq.jpg",
+            "Image Source": "https://i.imgur.com/p9ZOGxM.jpg",
             "Category": "arabic-series"
         },
         "3516": {
             "Title": "حيرة الموسم الاول",
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
+        },
+        "3913": {
+            "Title": "عالم تاني",
+            "Image Source": "https://i.imgur.com/w1I90P4.jpg",
+            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8021": {
             "Title": "عبود في البيت",
-            "Image Source": "https://i.imgur.com/7a1frJU.jpg",
+            "Image Source": "https://i.imgur.com/6lRzFR5.jpg",
             "Category": "arabic-movies"
         }
     }
