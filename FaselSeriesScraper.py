@@ -187,7 +187,7 @@ def main() -> None:
         url = FASEL_BASE_URL + path
         file_path = f"./output/{path}.json"
 
-        get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo"))
+        get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo.ml-3"))
 
         with open(file_path, "r") as fp:
             old_series_dict = json.load(fp)

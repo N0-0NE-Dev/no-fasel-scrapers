@@ -82,7 +82,7 @@ def scrape_all_movies(page_range: tuple) -> dict:
 
 def main() -> None:
     """Scapes all the movies from fasel"""
-    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo"))
+    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo.ml-3"))
 
     page_ranges_list = split_into_ranges(
         8,

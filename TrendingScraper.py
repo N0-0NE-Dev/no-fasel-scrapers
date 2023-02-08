@@ -51,9 +51,8 @@ def scrape_akwam() -> None:
 
 def scrape_fasel() -> None:
     """Scrapes the content on the home page of fasel"""
-    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo"))
-    home_page = get_website_safe(
-        'https://www.faselhd.club/home3')
+    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo.ml-3"))
+    home_page = get_website_safe(FASEL_BASE_URL)
     soup = BeautifulSoup(home_page.content, 'html.parser')
 
     trending_content_divs = soup.find_all('div', 'blockMovie')
@@ -94,13 +93,19 @@ def scrape_fasel() -> None:
                 else:
                     rating = "N/A"
 
+                if "TMDb ID" in content_file[key]:
+                    tmdb_id = content_file[key]["TMDb ID"]
+                else:
+                    tmdb_id = None
+
                 content_dict[content_category].update(
                     {key: {
                         "Title": content_file[key]["Title"],
                         "Image Source": content_file[key]["Image Source"],
                         "Category": content_category,
                         "Genres": content_file[key]["Genres"],
-                        "Rating": rating
+                        "Rating": rating,
+                        "TMDb ID": tmdb_id
                     }})
 
                 break
@@ -132,7 +137,8 @@ def scrape_fasel() -> None:
                                                      "Image Source": movies[movie_id]["Image Source"],
                                                      "Category": movies[movie_id]["Category"],
                                                      "Genres": genres,
-                                                     "Rating": rating
+                                                     "Rating": rating,
+                                                     "TMDb ID": movies[movie_id]["TMDb ID"]
                                                      })
         except KeyError:
             continue

@@ -142,7 +142,7 @@ def scrape_anime(page_range: tuple) -> dict:
 
 def main() -> None:
     """Scrapes all the anime from fasel"""
-    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo"))
+    get_cookies(FASEL_BASE_URL, (By.CLASS_NAME, "logo.ml-3"))
     page_ranges_list = split_into_ranges(
         8, get_number_of_pages(FASEL_BASE_URL + "anime")
     )
