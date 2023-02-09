@@ -41,7 +41,7 @@ def main() -> None:
             except KeyError:
                 content[key]["Genres"] = []
 
-            if file in ["movies", "series", "asian-series"]:
+            if file in ["movies", "series", "asian-series", "anime"]:
                 if "TMDb ID" in content[key] and content[key]["TMDb ID"] != None:
                     continue
                 else:
