@@ -3,9 +3,14 @@ from Common import FILE_NAMES
 from os import remove, listdir
 import requests
 from os import environ
+from hashlib import md5
 
 
 def main() -> None:
+    file_hashes = {}
+    ALL_FILES = ["all-content", "anime", "arabic-movies", "arabic-series", "asian-series",
+                 "featured-content", "movies", "series", "trending-content", "tvshows"]
+
     for file in listdir("./output"):
         if ".jpg" in file or ".webp" in file:
             remove(f"./output/{file}")
@@ -90,6 +95,16 @@ def main() -> None:
 
     with open('./output/image-indices.json', 'w', encoding='utf-8') as fp:
         json.dump(image_indices, fp, indent=4, ensure_ascii=False)
+
+    for file in ALL_FILES:
+        with open(f"./output/{file}.json", "r", encoding="utf-8") as fp:
+            content = json.load(fp)
+
+        file_hashes[file] = md5(json.dumps(
+            content).encode("utf-8")).hexdigest()
+
+    with open("./output/file-hashes.json", "w") as fp:
+        json.dump(file_hashes, fp, indent=4)
 
 
 if __name__ == '__main__':
