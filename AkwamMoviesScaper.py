@@ -18,7 +18,7 @@ def get_movie(movies_links: list[str]) -> dict:
         movie_id = link.split("/")[4]
 
         movie_title = soup.find(
-            "h1", class_="entry-title font-size-28 font-weight-bold text-white mb-0").text
+            "h1", class_="entry-title font-size-28 font-weight-bold text-white mb-0").text.strip()
 
         image_url = soup.find(
             "div", "col-lg-3 col-md-4 text-center mb-5 mb-md-0").find("a")["href"]

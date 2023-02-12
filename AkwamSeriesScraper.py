@@ -61,7 +61,7 @@ def scrape_series(series_list: list[str]) -> dict:
         soup = BeautifulSoup(series_page_source.content, "html.parser")
 
         series_title = soup.find(
-            "h1", "entry-title font-size-28 font-weight-bold text-white mb-0").text
+            "h1", "entry-title font-size-28 font-weight-bold text-white mb-0").text.strip()
 
         image_source = soup.find(
             "div", class_="col-lg-3 col-md-4 text-center mb-5 mb-md-0").find("a")["href"]
