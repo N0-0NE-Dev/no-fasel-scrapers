@@ -1,5 +1,36 @@
 {
     "movies": {
+        "206204": {
+            "Title": "Venus",
+            "Image Source": "https://i.imgur.com/uGWLjCM.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 931954
+        },
+        "203776": {
+            "Title": "Transfusion",
+            "Image Source": "https://i.imgur.com/n4xzHcX.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Crime"
+            ],
+            "Rating": "5.3",
+            "TMDb ID": 842544
+        },
+        "173338": {
+            "Title": "Les passagers de la nuit",
+            "Image Source": "https://i.imgur.com/MSaDTXM.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 895659
+        },
         "205412": {
             "Title": "Your Place or Mine",
             "Image Source": "https://i.imgur.com/sRjdRgm.jpg",
@@ -87,52 +118,18 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1028851
-        },
-        "205105": {
-            "Title": "Arthur, maldiction",
-            "Image Source": "https://i.imgur.com/IRBlRPR.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 955569
-        },
-        "198722": {
-            "Title": "Strange World",
-            "Image Source": "https://i.imgur.com/QFxxi1I.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Animation",
-                "Adventure"
-            ],
-            "Rating": "5.6",
-            "TMDb ID": 877269
-        },
-        "205070": {
-            "Title": "Vadh",
-            "Image Source": "https://i.imgur.com/oU5I8Fj.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 224260
         }
     },
     "asian-series": {
-        "202229": {
-            "Title": "Payback: Money and Power",
-            "Image Source": "https://i.imgur.com/oT1wmFe.jpg",
+        "186448": {
+            "Title": "Three Bold Siblings",
+            "Image Source": "https://i.imgur.com/A75WeBp.jpg",
             "Category": "asian-series",
             "Genres": [
-                "Thriller"
+                "Comedy"
             ],
-            "Rating": "8.4",
-            "TMDb ID": 209751
+            "Rating": "8.6",
+            "TMDb ID": 204653
         },
         "204430": {
             "Title": "Kokdu: Season of Deity",
@@ -144,6 +141,48 @@
             ],
             "Rating": "7.3",
             "TMDb ID": 210998
+        },
+        "195965": {
+            "Title": "Red Balloon",
+            "Image Source": "https://i.imgur.com/8zflivM.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 208832
+        },
+        "202229": {
+            "Title": "Payback: Money and Power",
+            "Image Source": "https://i.imgur.com/oT1wmFe.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "8.4",
+            "TMDb ID": 209751
+        },
+        "206189": {
+            "Title": "Return Man",
+            "Image Source": "https://i.imgur.com/q6AFuAm.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Comedy",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 220047
+        },
+        "203031": {
+            "Title": "Crash course in romance",
+            "Image Source": "https://i.imgur.com/2RwbYgv.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Romance"
+            ],
+            "Rating": "8",
+            "TMDb ID": 202318
         },
         "204423": {
             "Title": "Bait",
@@ -176,97 +215,55 @@
             ],
             "Rating": "7.1",
             "TMDb ID": 139289
-        },
-        "203419": {
-            "Title": "Strangers Again",
-            "Image Source": "https://i.imgur.com/v0jh5rD.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Romance"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 213655
-        },
-        "198410": {
-            "Title": "The Interest of Love",
-            "Image Source": "https://i.imgur.com/gDTfshp.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 211746
-        },
-        "204171": {
-            "Title": "Physical: 100",
-            "Image Source": "https://i.imgur.com/u9cCog8.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 210905
-        },
-        "202816": {
-            "Title": "Agency",
-            "Image Source": "https://i.imgur.com/CMvtTwd.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 67773
-        },
-        "154226": {
-            "Title": "Poong, the Joseon Psychiatrist",
-            "Image Source": "https://imgpile.com/images/TKXdCx.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 139289
         }
     },
     "anime": {
-        "199361": {
-            "Title": "ITAI No Wa Iya Nano de Bougyoryoku ni kyokufuri shitai to omoimasu.2",
-            "Image Source": "https://i.imgur.com/doPPWug.jpg",
+        "202339": {
+            "Title": "Roukin",
+            "Image Source": "https://i.imgur.com/ecTolnb.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Action",
+                "Fantasy"
+            ],
+            "Rating": "6.79",
+            "TMDb ID": 206748
+        },
+        "202327": {
+            "Title": "tokyo Revengers: Seiya Kessen-Hen",
+            "Image Source": "https://i.imgur.com/YjUPFn3.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Crime",
+                "Action"
+            ],
+            "Rating": "7.77",
+            "TMDb ID": 105009
+        },
+        "42952": {
+            "Title": "Detective Conan",
+            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Mystery",
+                "Comedy",
                 "Adventure"
             ],
-            "Rating": "7.50",
-            "TMDb ID": 96402
+            "Rating": "8.17",
+            "TMDb ID": 195923
         },
-        "202237": {
-            "Title": "Buddy Daddies",
-            "Image Source": "https://i.imgur.com/eqitot7.jpg",
+        "188161": {
+            "Title": "Blue Lock",
+            "Image Source": "https://i.imgur.com/dHfWm4r.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
                 "Action",
-                "Comedy"
+                "Mystery"
             ],
-            "Rating": "7.76",
-            "TMDb ID": 212963
-        },
-        "188255": {
-            "Title": "Yowamushi Pedal: Limit Break",
-            "Image Source": "https://i.imgur.com/9Njh4O1.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Drama",
-                "Comedy"
-            ],
-            "Rating": "7.48",
-            "TMDb ID": 61441
+            "Rating": "8.27",
+            "TMDb ID": 131041
         }
     },
     "series": {
@@ -376,70 +373,46 @@
             "Rating": "6.5",
             "TMDb ID": 117023
         },
-        "202839": {
-            "Title": "Vikings: Valhalla",
-            "Image Source": "https://i.imgur.com/b6az1Xr.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "7.2",
-            "TMDb ID": 116135
-        },
-        "204895": {
-            "Title": "Dear Edward",
-            "Image Source": "https://i.imgur.com/qaLT8jB.jpg",
+        "188107": {
+            "Title": "Fire Country",
+            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
             "Category": "series",
             "Genres": [
                 "Drama"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 156820
+            "Rating": "7.1",
+            "TMDb ID": 202297
         },
-        "198993": {
-            "Title": "The Game",
-            "Image Source": "https://i.imgur.com/a86AuWU.jpg",
+        "186264": {
+            "Title": "Abbott Elementary",
+            "Image Source": "https://i.imgur.com/mZuIM3e.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 125935
+        },
+        "186814": {
+            "Title": "Ghosts",
+            "Image Source": "https://i.imgur.com/prjDhMH.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy",
-                "Drama"
+                "Fantasy"
             ],
-            "Rating": "7.7",
-            "TMDb ID": 211
+            "Rating": "7.8",
+            "TMDb ID": 126027
         },
-        "204442": {
-            "Title": "Shrinking",
-            "Image Source": "https://i.imgur.com/PpN10Ic.jpg",
+        "190582": {
+            "Title": "Young Rock",
+            "Image Source": "https://i.imgur.com/JnBtkr2.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 136311
-        },
-        "202930": {
-            "Title": "Servant",
-            "Image Source": "https://i.imgur.com/s5ghxXI.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 88055
-        },
-        "186817": {
-            "Title": "Young Sheldon",
-            "Image Source": "https://i.imgur.com/vT5gMpx.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 71728
+            "Rating": "7.9",
+            "TMDb ID": 97754
         }
     },
     "arabic-series": {
@@ -453,31 +426,41 @@
             "Image Source": "https://imgpile.com/images/b8E7iF.jpg",
             "Category": "arabic-series"
         },
-        "3989": {
-            "Title": "دهب بنت الأوتيل",
-            "Image Source": "https://i.imgur.com/RoBHTkT.jpg",
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         },
-        "3916": {
-            "Title": "أقل من عادي",
-            "Image Source": "https://i.imgur.com/p6oTPrp.jpg",
+        "3913": {
+            "Title": "عالم تاني",
+            "Image Source": "https://i.imgur.com/CRGRgUZ.jpg",
             "Category": "arabic-series"
         },
-        "3978": {
-            "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/kcEHFpC.jpg",
+        "3990": {
+            "Title": "حكايات جروب الدفعة",
+            "Image Source": "https://i.imgur.com/OXSN5xi.jpg",
+            "Category": "arabic-series"
+        },
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/OYsYbUe.jpg",
             "Category": "arabic-series"
         },
         "3988": {
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/2GurVsH.jpg",
+            "Image Source": "https://i.imgur.com/GP4IJYy.jpg",
+            "Category": "arabic-series"
+        },
+        "3851": {
+            "Title": "وبينا ميعاد",
+            "Image Source": "https://i.imgur.com/ojytjJw.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/KRcWcn6.jpg",
+            "Image Source": "https://i.imgur.com/pIfT9VN.jpg",
             "Category": "arabic-movies"
         }
     }
