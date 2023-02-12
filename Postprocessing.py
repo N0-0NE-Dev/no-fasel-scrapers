@@ -8,8 +8,8 @@ from hashlib import md5
 
 def main() -> None:
     file_hashes = {}
-    ALL_FILES = ["all-content", "anime", "arabic-movies", "arabic-series", "asian-series",
-                 "featured-content", "movies", "series", "trending-content", "tvshows"]
+    ALL_FILES = ["all-content.json", "anime.json", "arabic-movies.json", "arabic-series.json", "asian-series.json",
+                 "featured-content.json", "movies.json", "series.json", "trending-content.json", "tvshows.json", "last-scraped.txt"]
 
     for file in listdir("./output"):
         if ".jpg" in file or ".webp" in file:
@@ -97,11 +97,15 @@ def main() -> None:
         json.dump(image_indices, fp, indent=4, ensure_ascii=False)
 
     for file in ALL_FILES:
-        with open(f"./output/{file}.json", "r", encoding="utf-8") as fp:
-            content = json.load(fp)
-
-        file_hashes[file] = md5(json.dumps(
-            content).encode("utf-8")).hexdigest()
+        with open(f"./output/{file}", "r", encoding="utf-8") as fp:
+            file_name = file.split(".")[0]
+            if ".json" in file:
+                content = json.load(fp)
+                file_hashes[file_name] = md5(json.dumps(
+                    content).encode("utf-8")).hexdigest()
+            else:
+                file_hashes[file_name] = md5(
+                    fp.read().encode("utf-8")).hexdigest()
 
     with open("./output/file-hashes.json", "w") as fp:
         json.dump(file_hashes, fp, indent=4)

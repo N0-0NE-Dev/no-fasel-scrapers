@@ -1,5 +1,5 @@
 {
-    "all-content": "d37a0a1aa236673a0bde75d13ab56607",
+    "all-content": "58e54882a3b08410d8b378074cda418f",
     "anime": "ad61db9dd53ef5ebc2455ad85359be4f",
     "arabic-movies": "e452e55089441598b145a4d33e67f6e7",
     "arabic-series": "fdb7b0c2e9bf8748a6aa26ecdafa7083",
@@ -8,5 +8,6 @@
     "movies": "4ba77e9762d30fa477b06f6deef72496",
     "series": "70fcd22c15ee2ffe966adbabf4fbe680",
     "trending-content": "bf1ee9154af9e88efdcee319e109076d",
-    "tvshows": "5d34233cca677d999da4f1fac4fa6593"
+    "tvshows": "5d34233cca677d999da4f1fac4fa6593",
+    "last-scraped": "60ad1d5afe8903df9e14400221eb490a"
 }
