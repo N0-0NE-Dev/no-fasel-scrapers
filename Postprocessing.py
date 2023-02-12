@@ -46,32 +46,30 @@ def main() -> None:
             except KeyError:
                 content[key]["Genres"] = []
 
-            if file in ["movies", "series", "asian-series", "anime"]:
-                if "TMDb ID" in content[key] and content[key]["TMDb ID"] != None:
-                    continue
-                else:
-                    params = {
-                        "query": content[key]["Title"],
-                        "api_key": environ.get("TMDB_API_KEY")
-                    }
-
-                    if file == "movies":
-                        request_url = "https://api.themoviedb.org/3/search/movie"
-                    else:
-                        request_url = "https://api.themoviedb.org/3/search/tv"
-
-                    resp = requests.get(request_url, params=params)
-
-                    try:
-                        tmdb_id = resp.json()["results"][0]["id"]
-                    except IndexError:
-                        tmdb_id = None
-                    except KeyError:
-                        tmdb_id = None
-
-                    content[key]["TMDb ID"] = tmdb_id
+            if "TMDb ID" in content[key] and content[key]["TMDb ID"] != None:
+                continue
             else:
-                pass
+                params = {
+                    "query": content[key]["Title"],
+                    "api_key": environ.get("TMDB_API_KEY")
+                }
+
+                if file == "movies":
+                    request_url = "https://api.themoviedb.org/3/search/movie"
+                else:
+                    request_url = "https://api.themoviedb.org/3/search/tv"
+
+                resp = requests.get(request_url, params=params)
+
+                try:
+                    tmdb_id = resp.json()["results"][0]["id"]
+                except IndexError:
+                    tmdb_id = None
+                except KeyError:
+                    tmdb_id = None
+
+                content[key]["TMDb ID"] = tmdb_id
+
 
         if index in range(2, 5):
             for key in list(content.keys()):
