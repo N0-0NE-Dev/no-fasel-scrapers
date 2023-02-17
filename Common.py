@@ -21,7 +21,7 @@ FILE_NAMES = ['movies', 'anime', 'asian-series',
               'series', 'tvshows', 'arabic-series',
               'arabic-movies']
 
-FASEL_BASE_URL = "https://www.faselhd.ws/"
+FASEL_BASE_URL = "https://www.faselhd.ac/"
 
 with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
