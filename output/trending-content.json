@@ -99,18 +99,6 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 1074656
-        },
-        "206578": {
-            "Title": "Whitney Houston: I Wanna Dance with Somebody",
-            "Image Source": "https://i.imgur.com/2KvQug2.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Biography",
-                "Music"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 696157
         }
     },
     "asian-series": {
@@ -123,6 +111,16 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 202625
+        },
+        "202816": {
+            "Title": "Agency",
+            "Image Source": "https://i.imgur.com/CMvtTwd.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 67773
         },
         "203419": {
             "Title": "Strangers Again",
@@ -178,42 +176,21 @@
             ],
             "Rating": "7.7",
             "TMDb ID": 196526
-        },
-        "202816": {
-            "Title": "Agency",
-            "Image Source": "https://i.imgur.com/CMvtTwd.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 67773
-        },
-        "205080": {
-            "Title": "Our Blooming Youth",
-            "Image Source": "https://i.imgur.com/LfEaswG.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "History"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 154889
-        },
-        "106890": {
-            "Title": "Knowing Bros",
-            "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Game-show",
-                "Reality-tv"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 70672
         }
     },
     "anime": {
+        "201977": {
+            "Title": "Revenger",
+            "Image Source": "https://i.imgur.com/MrqlN4r.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "6.74",
+            "TMDb ID": 211297
+        },
         "203411": {
             "Title": "Majutsushi Orphen Hagure Tabi: Urbanrama-Hen",
             "Image Source": "https://i.imgur.com/nbv8cSp.jpg",
@@ -225,54 +202,6 @@
             ],
             "Rating": "6.22",
             "TMDb ID": 91764
-        },
-        "201971": {
-            "Title": "Tomo-Chan Wa Onnanoko!",
-            "Image Source": "https://i.imgur.com/8Er2Ywd.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Drama",
-                "Comedy"
-            ],
-            "Rating": "7.56",
-            "TMDb ID": 205308
-        },
-        "202288": {
-            "Title": "Technoroid: Overmind",
-            "Image Source": "https://i.imgur.com/MBbECDC.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Sci-fi",
-                "Music"
-            ],
-            "Rating": "5.65",
-            "TMDb ID": 137811
-        },
-        "187297": {
-            "Title": "Kage No Jitsuryokusha Ni Naritakute!",
-            "Image Source": "https://i.imgur.com/LDL5LQL.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Comedy"
-            ],
-            "Rating": "7.94",
-            "TMDb ID": 119495
-        },
-        "190503": {
-            "Title": "Kancolle: Itsuka Ano UMI DE",
-            "Image Source": "https://i.imgur.com/EsEHAev.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Comedy"
-            ],
-            "Rating": "6.83",
-            "TMDb ID": 203192
         }
     },
     "series": {
@@ -345,66 +274,54 @@
             "Rating": "7.1",
             "TMDb ID": 80054
         },
-        "187265": {
-            "Title": "The Rookie: Feds",
-            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
+        "204885": {
+            "Title": "Harlem",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "series",
             "Genres": [
-                "Action"
+                "Comedy"
             ],
-            "Rating": "4.9",
-            "TMDb ID": 201992
+            "Rating": "N/A",
+            "TMDb ID": 79086
         },
-        "186521": {
-            "Title": "The Rookie",
-            "Image Source": "https://i.imgur.com/VujMOU4.jpg",
+        "86649": {
+            "Title": "Carnival Row",
+            "Image Source": "https://imgpile.com/images/TMY5iF.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
+                "Fantasy",
+                "Mystery",
+                "Thriller"
             ],
-            "Rating": "8",
-            "TMDb ID": 79744
+            "Rating": "7.8",
+            "TMDb ID": 90027
         },
-        "207253": {
-            "Title": "Eva Lasting",
-            "Image Source": "https://i.imgur.com/QC2rcWd.jpg",
+        "124690": {
+            "Title": "The Upshaws",
+            "Image Source": "https://imgpile.com/images/TK6n5N.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "6.9",
+            "TMDb ID": 121509
+        },
+        "204804": {
+            "Title": "The Ark",
+            "Image Source": "https://i.imgur.com/4JniGrz.jpg",
             "Category": "series",
             "Genres": [
                 "Drama",
-                "Romance"
+                "Sci-fi"
             ],
             "Rating": "N/A",
-            "TMDb ID": 219063
-        },
-        "207244": {
-            "Title": "African Queens: Njinga",
-            "Image Source": "https://i.imgur.com/Cz3NTTK.jpg",
-            "Category": "series",
-            "Genres": [
-                "Documentary",
-                "History"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 218804
-        },
-        "207236": {
-            "Title": "Poker Face",
-            "Image Source": "https://i.imgur.com/upt6QLX.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 120998
+            "TMDb ID": 47663
         }
     },
     "arabic-series": {
         "3939": {
             "Title": "أزمة منتصف العمر",
-            "Image Source": "https://i.imgur.com/5hQkUwu.jpg",
+            "Image Source": "https://i.imgur.com/fiFjqHZ.jpg",
             "Category": "arabic-series"
         },
         "3976": {
@@ -417,29 +334,29 @@
             "Image Source": "https://imgpile.com/images/b8E7iF.jpg",
             "Category": "arabic-series"
         },
+        "4003": {
+            "Title": "السجين النصاب",
+            "Image Source": "https://i.imgur.com/hky2jJx.jpg",
+            "Category": "arabic-series"
+        },
+        "3898": {
+            "Title": "دكة العبيد",
+            "Image Source": "https://i.imgur.com/lgzFKQ9.jpg",
+            "Category": "arabic-series"
+        },
         "3978": {
             "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/quZLtfW.jpg",
+            "Image Source": "https://i.imgur.com/tLKwxuG.jpg",
             "Category": "arabic-series"
         },
-        "2817": {
-            "Title": "وسط البلد",
-            "Image Source": "https://imgpile.com/images/b80yKW.jpg",
-            "Category": "arabic-series"
-        },
-        "3990": {
-            "Title": "حكايات جروب الدفعة",
-            "Image Source": "https://i.imgur.com/Dv7MSmM.jpg",
-            "Category": "arabic-series"
-        },
-        "3913": {
-            "Title": "عالم تاني",
-            "Image Source": "https://i.imgur.com/cFnFtzN.jpg",
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/Tkjoril.jpg",
             "Category": "arabic-series"
         },
         "3877": {
             "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/XsdJUtp.jpg",
+            "Image Source": "https://i.imgur.com/iiCTcFh.jpg",
             "Category": "arabic-series"
         },
         "3516": {
@@ -449,19 +366,29 @@
         },
         "3974": {
             "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/NgcE6pp.jpg",
+            "Image Source": "https://i.imgur.com/dxMYWml.jpg",
+            "Category": "arabic-series"
+        },
+        "3910": {
+            "Title": "أولاد عابد",
+            "Image Source": "https://i.imgur.com/1CLxtIS.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/5i2NRv9.jpg",
+            "Image Source": "https://i.imgur.com/aFHBTVr.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/1dkXDfr.jpg",
+            "Image Source": "https://i.imgur.com/lIwWhhM.jpg",
+            "Category": "arabic-movies"
+        },
+        "8089": {
+            "Title": "إتنين للإيجار",
+            "Image Source": "https://i.imgur.com/ek0EjcM.jpg",
             "Category": "arabic-movies"
         }
     }
