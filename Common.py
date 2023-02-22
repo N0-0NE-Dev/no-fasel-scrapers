@@ -21,7 +21,7 @@ FILE_NAMES = ['movies', 'anime', 'asian-series',
               'series', 'tvshows', 'arabic-series',
               'arabic-movies']
 
-FASEL_BASE_URL = "https://www.faselhd.ws/"
+FASEL_BASE_URL = "https://www.faselhd.ac/"
 HDW_BASE_URL = "https://www.hdwatched.xyz"
 
 DEFAULT_HDW_SELECTOR = (By.CLASS_NAME, "top-brand")
