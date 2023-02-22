@@ -67,6 +67,16 @@
             "Rating": "N/A",
             "TMDb ID": 154889
         },
+        "204171": {
+            "Title": "Physical: 100",
+            "Image Source": "https://i.imgur.com/u9cCog8.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "7.8",
+            "TMDb ID": 210905
+        },
         "186448": {
             "Title": "Three Bold Siblings",
             "Image Source": "https://i.imgur.com/A75WeBp.jpg",
@@ -138,79 +148,44 @@
             ],
             "Rating": "8.3",
             "TMDb ID": 134331
-        },
-        "204430": {
-            "Title": "Kokdu: Season of Deity",
-            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "Fantasy"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 210998
-        },
-        "208658": {
-            "Title": "Taxi Driver",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 119769
         }
     },
     "anime": {
-        "188448": {
-            "Title": "Cool Doji Danshi",
-            "Image Source": "https://i.imgur.com/k32VdZN.jpg",
+        "202709": {
+            "Title": "Tondemo Skill de Isekai Hourou Meshi",
+            "Image Source": "https://i.imgur.com/nfH7zMY.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Comedy"
-            ],
-            "Rating": "7.61",
-            "TMDb ID": 198170
-        },
-        "202701": {
-            "Title": "Mononogatari",
-            "Image Source": "https://i.imgur.com/CjBXuem.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "7.93",
-            "TMDb ID": 138948
-        },
-        "134902": {
-            "Title": "Digimon Ghost Game",
-            "Image Source": "https://imgpile.com/images/TJuojC.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Action",
-                "Fantasy",
                 "Comedy",
                 "Adventure"
             ],
-            "Rating": "6.87",
-            "TMDb ID": 134843
+            "Rating": "7.65",
+            "TMDb ID": 213402
         },
-        "188255": {
-            "Title": "Yowamushi Pedal: Limit Break",
-            "Image Source": "https://i.imgur.com/9Njh4O1.jpg",
+        "202627": {
+            "Title": "Maou Gakuin no Futekigousha 2",
+            "Image Source": "https://i.imgur.com/snNcV07.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Drama",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "7.38",
+            "TMDb ID": 97617
+        },
+        "201921": {
+            "Title": "Koori Zokusei Danshi to Cool Na Douryou Joshi",
+            "Image Source": "https://i.imgur.com/h926jff.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Romance",
                 "Comedy"
             ],
-            "Rating": "7.48",
-            "TMDb ID": 61441
+            "Rating": "7.41",
+            "TMDb ID": 204519
         }
     },
     "series": {
@@ -271,6 +246,37 @@
             "Rating": "5.5",
             "TMDb ID": 124010
         },
+        "186811": {
+            "Title": "CSI: Vegas",
+            "Image Source": "https://i.imgur.com/IKajSPZ.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime"
+            ],
+            "Rating": "7.5",
+            "TMDb ID": 122194
+        },
+        "188323": {
+            "Title": "All American",
+            "Image Source": "https://i.imgur.com/3lONz8M.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 82428
+        },
+        "202612": {
+            "Title": "Alert: Missing Persons Unit",
+            "Image Source": "https://i.imgur.com/J4yGZIN.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 202308
+        },
         "208908": {
             "Title": "Magnum P.I.",
             "Image Source": "https://i.imgur.com/rr2xroL.jpg",
@@ -304,39 +310,6 @@
             ],
             "Rating": "6.1",
             "TMDb ID": 79593
-        },
-        "188230": {
-            "Title": "NCIS: Los Angeles",
-            "Image Source": "https://i.imgur.com/hVpNgtO.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 17610
-        },
-        "186476": {
-            "Title": "The Simpsons",
-            "Image Source": "https://i.imgur.com/rVgB6pi.jpg",
-            "Category": "series",
-            "Genres": [
-                "Animation",
-                "Comedy"
-            ],
-            "Rating": "8.7",
-            "TMDb ID": 456
-        },
-        "187093": {
-            "Title": "East New York",
-            "Image Source": "https://i.imgur.com/qfchC34.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 202296
         }
     },
     "arabic-series": {
@@ -355,9 +328,14 @@
             "Image Source": "https://imgpile.com/images/b8E7iF.jpg",
             "Category": "arabic-series"
         },
+        "3913": {
+            "Title": "عالم تاني",
+            "Image Source": "https://i.imgur.com/HLm5FOP.jpg",
+            "Category": "arabic-series"
+        },
         "3978": {
             "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/Eedam6Q.jpg",
+            "Image Source": "https://i.imgur.com/Q6dkbiQ.jpg",
             "Category": "arabic-series"
         },
         "2817": {
@@ -365,24 +343,24 @@
             "Image Source": "https://imgpile.com/images/b80yKW.jpg",
             "Category": "arabic-series"
         },
-        "3991": {
-            "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/oZ88PT7.jpg",
-            "Category": "arabic-series"
-        },
         "3990": {
             "Title": "حكايات جروب الدفعة",
-            "Image Source": "https://i.imgur.com/f6h24Oj.jpg",
+            "Image Source": "https://i.imgur.com/9toiDeY.jpg",
             "Category": "arabic-series"
         },
         "3988": {
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/WMX4WwJ.jpg",
+            "Image Source": "https://i.imgur.com/54NK9F7.jpg",
+            "Category": "arabic-series"
+        },
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/nDRtayl.jpg",
             "Category": "arabic-series"
         },
         "3877": {
             "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/rxMth0f.jpg",
+            "Image Source": "https://i.imgur.com/ZvKJaa6.jpg",
             "Category": "arabic-series"
         },
         "3516": {
@@ -392,29 +370,24 @@
         },
         "3974": {
             "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/2rPVT8j.jpg",
+            "Image Source": "https://i.imgur.com/ADkyy5t.jpg",
             "Category": "arabic-series"
         },
         "3910": {
             "Title": "أولاد عابد",
-            "Image Source": "https://i.imgur.com/M3xOa6q.jpg",
+            "Image Source": "https://i.imgur.com/OLNiGUL.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/sw0Ac2x.jpg",
+            "Image Source": "https://i.imgur.com/ejR75nY.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/1JyfJsJ.jpg",
-            "Category": "arabic-movies"
-        },
-        "8089": {
-            "Title": "إتنين للإيجار",
-            "Image Source": "https://i.imgur.com/nwpTuG6.jpg",
+            "Image Source": "https://i.imgur.com/mAbFemY.jpg",
             "Category": "arabic-movies"
         }
     }
