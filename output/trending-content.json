@@ -246,70 +246,61 @@
             "Rating": "5.5",
             "TMDb ID": 124010
         },
-        "186811": {
-            "Title": "CSI: Vegas",
-            "Image Source": "https://i.imgur.com/IKajSPZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 122194
-        },
-        "188323": {
-            "Title": "All American",
-            "Image Source": "https://i.imgur.com/3lONz8M.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 82428
-        },
-        "202612": {
-            "Title": "Alert: Missing Persons Unit",
-            "Image Source": "https://i.imgur.com/J4yGZIN.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "5.5",
-            "TMDb ID": 202308
-        },
-        "208908": {
-            "Title": "Magnum P.I.",
-            "Image Source": "https://i.imgur.com/rr2xroL.jpg",
+        "188404": {
+            "Title": "The Winchesters",
+            "Image Source": "https://i.imgur.com/wnERfZk.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Adventure",
-                "Crime"
+                "Adventure"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 79593
+            "Rating": "6.4",
+            "TMDb ID": 128113
         },
-        "208912": {
-            "Title": "The Company You Keep",
-            "Image Source": "https://i.imgur.com/c0pcJPH.jpg",
+        "186637": {
+            "Title": "La Brea",
+            "Image Source": "https://i.imgur.com/XSpnNWM.jpg",
             "Category": "series",
             "Genres": [
+                "Adventure",
                 "Drama"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 208713
+            "Rating": "5.7",
+            "TMDb ID": 128839
         },
-        "134754": {
-            "Title": "Magnum P.I.",
-            "Image Source": "https://imgpile.com/images/TKauoX.jpg",
+        "186091": {
+            "Title": "FBI",
+            "Image Source": "https://i.imgur.com/ao2rekW.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Adventure",
-                "Crime"
+                "Crime",
+                "Drama"
             ],
-            "Rating": "6.1",
-            "TMDb ID": 79593
+            "Rating": "7",
+            "TMDb ID": 80748
+        },
+        "203387": {
+            "Title": "Night Court",
+            "Image Source": "https://i.imgur.com/D8hT6fn.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 162
+        },
+        "186098": {
+            "Title": "FBI: Most Wanted",
+            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.9",
+            "TMDb ID": 94372
         }
     },
     "arabic-series": {
@@ -371,11 +362,6 @@
         "3974": {
             "Title": "منطقة آمنة",
             "Image Source": "https://i.imgur.com/ADkyy5t.jpg",
-            "Category": "arabic-series"
-        },
-        "3910": {
-            "Title": "أولاد عابد",
-            "Image Source": "https://i.imgur.com/OLNiGUL.jpg",
             "Category": "arabic-series"
         }
     },
