@@ -1,7 +1,7 @@
 from base64 import b64encode
 from time import sleep
 import requests
-from bs4 import BeautifulSoup, ResultSet
+from bs4 import BeautifulSoup, ResultSet, Tag
 from urllib.parse import quote
 from typing import Optional, Callable, Union
 import json
@@ -22,6 +22,37 @@ FILE_NAMES = ['movies', 'anime', 'asian-series',
               'arabic-movies']
 
 FASEL_BASE_URL = "https://www.faselhd.ws/"
+HDW_BASE_URL = "https://www.hdwatched.xyz"
+
+DEFAULT_HDW_SELECTOR = (By.CLASS_NAME, "top-brand")
+
+AKWAM_GENRES = {
+    "87": "Ramadan",
+    "30": "Animated",
+    "18": "Action",
+    "71": "Dubbed",
+    "72": "Netflix",
+    "20": "Comedy",
+    "35": "Thriller",
+    "34": "Mystery",
+    "33": "Family",
+    "88": "Kids",
+    "32": "Sports",
+    "25": "War",
+    "89": "Short",
+    "43": "Fantasy",
+    "24": "Science Fiction",
+    "31": "Musical",
+    "29": "Biography",
+    "28": "Documentary",
+    "27": "Romance",
+    "26": "History",
+    "23": "Drama",
+    "22": "Horror",
+    "21": "Crime",
+    "19": "Adventure",
+    "91": "Western"
+}
 
 with open("./output/image-indices.json", "r") as fp:
     IMAGE_SOURCES = json.load(fp)
@@ -51,7 +82,7 @@ def get_cookies(url: str, selector: tuple[By, str]) -> None:
     return
 
 
-def get_website_safe(webpage_url: str) -> Optional[Response]:
+def get_website_safe(webpage_url: str, selector: tuple[By, str] = (By.CLASS_NAME, "logo.ml-3")) -> Optional[Response]:
     """Get the webpage at the url provided; automatically gets new cookies when needed, returns None if the page where impossible to reach due to too many redirects"""
     webpage = None
     while webpage is None:
@@ -62,7 +93,7 @@ def get_website_safe(webpage_url: str) -> Optional[Response]:
             if "Cloudflare" in str(webpage.text):
                 if not cookie_lock.locked():
                     with cookie_lock:
-                        get_cookies()
+                        get_cookies(webpage_url, selector)
                 else:
                     while cookie_lock.locked():
                         sleep(1)
@@ -230,3 +261,71 @@ def get_genres(soup: BeautifulSoup) -> Union[list[str], str]:
         genres = []
 
     return genres
+
+
+def akwam_get_website_safe(url: str) -> Response:
+    response = None
+
+    while response is None:
+        try:
+            response = requests.get(url)
+        except ConnectionError:
+            response = None
+        except ChunkedEncodingError:
+            response = None
+
+    return response
+
+
+def akwam_get_last_page_number(url: str) -> int:
+    main_page_source = get_website_safe(url)
+    soup = BeautifulSoup(main_page_source.content, "html.parser")
+    last_page = int(soup.find_all("a", class_="page-link")[-3].text)
+
+    return last_page
+
+
+def split_anchor_links(respone: Response) -> list[list[str]]:
+    soup = BeautifulSoup(respone.content, "html.parser")
+    anchor_tags = soup.find_all("a", class_="icn play")
+    links = [tag["href"] for tag in anchor_tags]
+    links_ranges = split_into_ranges(6, len(links))
+
+    splitted_links = [links[links_range[0] - 1: links_range[1] - 1]
+                      for links_range in links_ranges]
+
+    return splitted_links
+
+
+def akwam_get_genres(soup: BeautifulSoup) -> Union[list[str], str]:
+    genre_tags = soup.find_all("a", class_="badge badge-pill badge-light ml-2")
+
+    try:
+        genre_ids = [tag["href"].split("=")[-1] for tag in genre_tags]
+    except TypeError:
+        return []
+
+    genres = [AKWAM_GENRES[key] for key in genre_ids]
+
+    return genres
+
+
+def hdw_get_last_page_number(url: str, selector: tuple[By, str] = DEFAULT_HDW_SELECTOR) -> int:
+    webpage = get_website_safe(url, selector)
+    soup = BeautifulSoup(webpage.content, "html.parser")
+
+    return int(soup.find_all("a", class_="page-link")[-2].text)
+
+
+def hdw_get_image_source(div: Tag) -> str:
+    return div.find_previous_sibling("a").find("img")["src"]
+
+
+def hdw_get_rating(div: Tag) -> Optional[str]:
+    try:
+        rating = div.find_previous_sibling("a").find(
+            "span", class_="float-left yellow").text.replace(",", ".").strip()
+    except AttributeError:
+        rating = None
+
+    return rating

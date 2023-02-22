@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
-from Common import split_into_ranges, DEBUG, upload_image
-from AkwamCommon import *
+from Common import split_into_ranges, DEBUG, upload_image, akwam_get_website_safe, akwam_get_last_page_number, split_anchor_links, akwam_get_genres
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 import json
 from time import perf_counter
@@ -12,7 +11,7 @@ def get_movie(movies_links: list[str]) -> dict:
     movies_dict = {}
 
     for link in movies_links:
-        movie_page = get_website_safe(link)
+        movie_page = akwam_get_website_safe(link)
         soup = BeautifulSoup(movie_page.content, "html.parser")
 
         movie_id = link.split("/")[4]
@@ -29,8 +28,8 @@ def get_movie(movies_links: list[str]) -> dict:
         movies_dict[movie_id] = {
             "Title": movie_title,
             "Category": "arabic-movies",
-            "Genres": get_genres(soup),
-            "Image Source": upload_image(image_url, movie_id + "-akwam-movies", get_website_safe),
+            "Genres": akwam_get_genres(soup),
+            "Image Source": upload_image(image_url, movie_id + "-akwam-movies", akwam_get_website_safe),
             "Source": f"https://akwam.to/watch/{short_link_id}/{movie_id}"
         }
 
@@ -41,7 +40,7 @@ def scrape_all_movies(page_range: tuple[int]) -> dict:
     movies_dict = {}
 
     for page in range(page_range[0], page_range[1]):
-        main_page = get_website_safe(MAIN_PAGE_URL + f"&page={page}")
+        main_page = akwam_get_website_safe(MAIN_PAGE_URL + f"&page={page}")
 
         with ThreadPoolExecutor() as executor:
             results = executor.map(get_movie, split_anchor_links(main_page))
@@ -58,7 +57,8 @@ def scrape_all_movies(page_range: tuple[int]) -> dict:
 
 
 def main():
-    page_ranges = split_into_ranges(8, get_last_page_number(MAIN_PAGE_URL))
+    page_ranges = split_into_ranges(
+        8, akwam_get_last_page_number(MAIN_PAGE_URL))
 
     if DEBUG:
         print(page_ranges)

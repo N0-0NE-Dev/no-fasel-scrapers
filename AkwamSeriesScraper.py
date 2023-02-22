@@ -1,9 +1,8 @@
 from bs4 import BeautifulSoup
-from Common import split_into_ranges, remove_arabic_chars, DEBUG, upload_image
+from Common import split_into_ranges, remove_arabic_chars, DEBUG, upload_image, akwam_get_website_safe, akwam_get_last_page_number, split_anchor_links, akwam_get_genres
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import json
 from time import perf_counter
-from AkwamCommon import *
 
 MAIN_PAGE_URL = "https://akwam.to/series?section=0&category=0&rating=0&year=0&language=1&formats=0&quality=0"
 
@@ -16,7 +15,7 @@ def scrape_episode(episodes_list: list[str]) -> dict:
 
     for episode_link in episodes_list:
         episode_id = episode_link.split("/")[4]
-        episode_select_page = get_website_safe(episode_link)
+        episode_select_page = akwam_get_website_safe(episode_link)
         soup = BeautifulSoup(episode_select_page.content, "html.parser")
 
         try:
@@ -25,7 +24,7 @@ def scrape_episode(episodes_list: list[str]) -> dict:
         except TypeError:
             continue
 
-        short_link_page = get_website_safe(episode_short_link)
+        short_link_page = akwam_get_website_safe(episode_short_link)
 
         soup = BeautifulSoup(
             short_link_page.content, "html.parser")
@@ -36,7 +35,7 @@ def scrape_episode(episodes_list: list[str]) -> dict:
         except TypeError:
             continue
 
-        episode_watch_page = get_website_safe(episode_watch_page_link)
+        episode_watch_page = akwam_get_website_safe(episode_watch_page_link)
 
         soup = BeautifulSoup(
             episode_watch_page.content, "html.parser")
@@ -57,7 +56,7 @@ def scrape_series(series_list: list[str]) -> dict:
 
     for series in series_list:
         series_id = series.split("/")[-2]
-        series_page_source = get_website_safe(series)
+        series_page_source = akwam_get_website_safe(series)
         soup = BeautifulSoup(series_page_source.content, "html.parser")
 
         series_title = soup.find(
@@ -93,8 +92,8 @@ def scrape_series(series_list: list[str]) -> dict:
             "Category": "arabic-series",
             "Number Of Episodes": current_number_of_episodes,
             "Format": "WEB-DL",
-            "Genres": get_genres(soup),
-            "Image Source": upload_image(image_source, series_id + "-akwam-series", get_website_safe),
+            "Genres": akwam_get_genres(soup),
+            "Image Source": upload_image(image_source, series_id + "-akwam-series", akwam_get_website_safe),
             "Episodes": {}
         }
 
@@ -114,7 +113,7 @@ def scrape_page_range(page_range: tuple[int]) -> dict:
     all_series_dict = {}
 
     for page in range(page_range[0], page_range[1]):
-        page_source = get_website_safe(MAIN_PAGE_URL + f"&page={page}")
+        page_source = akwam_get_website_safe(MAIN_PAGE_URL + f"&page={page}")
 
         with ThreadPoolExecutor() as executor:
             results = executor.map(
@@ -132,7 +131,8 @@ def scrape_page_range(page_range: tuple[int]) -> dict:
 
 
 def main() -> None:
-    page_ranges = split_into_ranges(8, get_last_page_number(MAIN_PAGE_URL))
+    page_ranges = split_into_ranges(
+        8, akwam_get_last_page_number(MAIN_PAGE_URL))
 
     if DEBUG:
         print(page_ranges)
