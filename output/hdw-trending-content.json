@@ -1,5 +1,5 @@
 {
-    "movies": {
+    "hdwmovies": {
         "20098": {
             "key": "20098",
             "Title": "The House of Magic",
@@ -100,7 +100,7 @@
             "TMDb ID": 207258
         }
     },
-    "series": {
+    "hdwseries": {
         "398": {
             "key": "398",
             "Title": "Snowfall",

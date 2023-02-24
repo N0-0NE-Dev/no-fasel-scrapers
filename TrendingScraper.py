@@ -190,7 +190,7 @@ def hdw_featured():
 
 
 def hdw_trending():
-    trending = {"movies": {}, "series": {}}
+    trending = {"hdwmovies": {}, "hdwseries": {}}
 
     with open("./output/trending-content.json", "r", encoding="utf-8") as fp:
         trending_content = json.load(fp)
@@ -221,7 +221,7 @@ def hdw_trending():
         except IndexError:
             continue
 
-        trending["movies"][closest_match] = {
+        trending["hdwmovies"][closest_match] = {
             "key": closest_match,
             "Title": movies[closest_match]["Title"],
             "Image Source": movies[closest_match]["Image Source"],
@@ -238,7 +238,7 @@ def hdw_trending():
         except IndexError:
             continue
 
-        trending["series"][closest_match] = {
+        trending["hdwseries"][closest_match] = {
             "key": closest_match,
             "Title": series[closest_match]["Title"],
             "Image Source": series[closest_match]["Image Source"],
