@@ -278,7 +278,7 @@ def akwam_get_website_safe(url: str) -> Response:
 
 
 def akwam_get_last_page_number(url: str) -> int:
-    main_page_source = get_website_safe(url)
+    main_page_source = akwam_get_website_safe(url)
     soup = BeautifulSoup(main_page_source.content, "html.parser")
     last_page = int(soup.find_all("a", class_="page-link")[-3].text)
 
