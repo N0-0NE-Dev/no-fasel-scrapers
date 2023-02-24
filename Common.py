@@ -17,9 +17,11 @@ from PIL import Image
 
 DEBUG = False
 
-FILE_NAMES = ['movies', 'anime', 'asian-series',
-              'series', 'tvshows', 'arabic-series',
-              'arabic-movies']
+FILE_NAMES = ["movies", "anime", "asian-series",
+              "series", "tvshows", "arabic-series",
+              "arabic-movies", "hdwmovies", "hdwseries"]
+
+HDW_FILE_NAMES = ["hdwmovies", "series", "arabic-movies", "arabic-series"]
 
 FASEL_BASE_URL = "https://www.faselhd.ac/"
 HDW_BASE_URL = "https://www.hdwatched.xyz"
@@ -74,7 +76,7 @@ def get_cookies(url: str, selector: tuple[By, str]) -> None:
 
     cookies_dict = {cookie["name"]: cookie["value"] for cookie in cookies}
     headers = {
-        'user-agent': driver.execute_script('return window.navigator.userAgent;')
+        "user-agent": driver.execute_script("return window.navigator.userAgent;")
     }
 
     driver.quit()
@@ -329,3 +331,7 @@ def hdw_get_rating(div: Tag) -> Optional[str]:
         rating = None
 
     return rating
+
+
+def hdw_get_genres(div: Tag) -> list[str]:
+    return list(map(lambda genre: genre.strip(), div.find("span", class_="content-views").text.split(", ")))

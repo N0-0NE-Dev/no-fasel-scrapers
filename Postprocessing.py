@@ -28,6 +28,8 @@ def main() -> None:
             if "arabic" in file:
                 image_indices[key + "-akwam" +
                               file.split("-")[-1]] = content[key]["Image Source"]
+            elif "hdw" in file:
+                image_indices[key + "-hdw"] = content[key]["Image Source"]
             else:
                 image_indices[key + "-fasel"] = content[key]["Image Source"]
 
@@ -69,7 +71,6 @@ def main() -> None:
                     tmdb_id = None
 
                 content[key]["TMDb ID"] = tmdb_id
-
 
         if index in range(2, 5):
             for key in list(content.keys()):
