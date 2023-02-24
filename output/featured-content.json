@@ -1,6 +1,30 @@
 {
     "content": [
         {
+            "key": "209001",
+            "Title": "Sharper",
+            "Image Source": "https://i.imgur.com/5gesBrM.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 717980
+        },
+        {
+            "key": "208996",
+            "Title": "Knock at the Cabin",
+            "Image Source": "https://i.imgur.com/WudPRPN.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 631842
+        },
+        {
             "key": "206690",
             "Title": "The Son",
             "Image Source": "https://i.imgur.com/fvq7BAe.jpg",
@@ -75,32 +99,6 @@
             ],
             "Rating": "6.4",
             "TMDb ID": 436270
-        },
-        {
-            "key": "140922",
-            "Title": "Spider-Man: No Way Home",
-            "Image Source": "https://imgpile.com/images/TNyqWS.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Fantasy",
-                "Adventure"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 634649
-        },
-        {
-            "key": "187181",
-            "Title": "Jeepers Creepers: Reborn",
-            "Image Source": "https://i.imgur.com/f5HHEzS.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "2.5",
-            "TMDb ID": 717728
         }
     ]
 }
