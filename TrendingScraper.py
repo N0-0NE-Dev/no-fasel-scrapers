@@ -162,8 +162,11 @@ def hdw_featured():
     names = {movies[key]["Title"]: key for key in movies}
 
     for movie in featured_content["content"]:
-        closest_match = names[get_close_matches(
-            movie["Title"], list(names.keys()))[0]]
+        try:
+            closest_match = names[get_close_matches(
+                movie["Title"], list(names.keys()))[0]]
+        except IndexError:
+            continue
 
         if "Genres" in movies[closest_match]:
             genres = movies[closest_match]["Genres"]
