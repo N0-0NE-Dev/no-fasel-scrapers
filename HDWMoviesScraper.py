@@ -56,8 +56,6 @@ def main() -> None:
     last_page_number = hdw_get_last_page_number(
         "https://www.hdwatched.xyz/movies")
 
-    print(last_page_number)
-
     ranges = split_into_ranges(8, last_page_number + 2)
 
     if DEBUG:

@@ -56,7 +56,7 @@ def main() -> None:
                     "api_key": environ.get("TMDB_API_KEY")
                 }
 
-                if file == "movies":
+                if "movies" in file:
                     request_url = "https://api.themoviedb.org/3/search/movie"
                 else:
                     request_url = "https://api.themoviedb.org/3/search/tv"
