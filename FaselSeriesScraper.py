@@ -29,7 +29,7 @@ def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> di
             episode_id = soup.find(
                 "span", {"id": "liskSh"}).text.split("=")[-1]
 
-            iframe_source = soup.find("iframe")["src"]
+            # iframe_source = soup.find("iframe")["src"]
 
         except AttributeError:
             continue
@@ -39,7 +39,7 @@ def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> di
 
         episodes_dict[episode_id] = {
             "Episode Number": last_episode_number + index,
-            "Source": iframe_source,
+            # "Source": iframe_source,
         }
 
     return episodes_dict
