@@ -36,6 +36,7 @@ def scrape_page_range(page_range: tuple[int]) -> dict:
 
             movies_dict[movie_id] = {
                 "Title": title,
+                "Category": "hdwmovies",
                 "Image Source": hdw_get_image_source(div),
                 "Genres": hdw_get_genres(div),
                 "Source": source,
