@@ -132,6 +132,11 @@ def scrape_fasel() -> None:
         else:
             rating = "N/A"
 
+        if "TMDb ID" in movies[movie_id]:
+            tmdb_id = movies[movie_id]["Rating"]
+        else:
+            tmdb_id = "N/A"
+
         try:
             featured_content_dict["content"].append({
                 "key": movie_id,
@@ -140,7 +145,7 @@ def scrape_fasel() -> None:
                 "Category": movies[movie_id]["Category"],
                 "Genres": genres,
                 "Rating": rating,
-                "TMDb ID": movies[movie_id]["TMDb ID"]
+                "TMDb ID": tmdb_id
             })
 
         except KeyError:

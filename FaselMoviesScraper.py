@@ -31,7 +31,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             pass
 
         try:
-            iframeSource = soup.find("iframe")["src"]
+            iframe_source = soup.find("iframe")["src"]
         except TypeError:
             continue
 
@@ -41,7 +41,7 @@ def scrape_page(movie_divs: list[ResultSet]) -> dict:
             "Genres": get_genres(soup),
             "Format": get_content_format(soup),
             "Image Source": upload_image(movie_div.img.attrs['data-src'], movie_id + "-fasel", get_website_safe),
-            "Source": iframeSource,
+            "Source": clean_iframe_source(iframe_source),
         }
 
     return movies_dict

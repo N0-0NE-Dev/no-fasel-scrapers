@@ -335,3 +335,6 @@ def hdw_get_rating(div: Tag) -> Optional[str]:
 
 def hdw_get_genres(div: Tag) -> list[str]:
     return list(map(lambda genre: genre.strip(), div.find("span", class_="content-views").text.split(", ")))
+
+def clean_iframe_source(iframe_source: str) -> str:
+    return iframe_source.split("=")[2].replace("&img", "")
