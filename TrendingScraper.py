@@ -133,7 +133,7 @@ def scrape_fasel() -> None:
             rating = "N/A"
 
         if "TMDb ID" in movies[movie_id]:
-            tmdb_id = movies[movie_id]["Rating"]
+            tmdb_id = movies[movie_id]["TMDb ID"]
         else:
             tmdb_id = "N/A"
 
