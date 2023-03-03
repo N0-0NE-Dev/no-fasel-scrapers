@@ -183,6 +183,11 @@ def hdw_featured():
         else:
             rating = "N/A"
 
+        if "TMDb ID" in movies[closest_match]:
+            tmdb_id = movies[closest_match]["TMDb ID"]
+        else:
+            tmdb_id = "N/A"
+
         featured["content"].append({
             "key": closest_match,
             "Title": movies[closest_match]["Title"],
@@ -190,7 +195,7 @@ def hdw_featured():
             "Category": movies[closest_match]["Category"],
             "Genres": genres,
             "Rating": rating,
-            "TMDb ID": movies[closest_match]["TMDb ID"]
+            "TMDb ID": tmdb_id
         })
 
         with open("./output/hdw-featured-content.json", "w") as fp:
