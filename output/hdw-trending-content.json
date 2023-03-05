@@ -1,5 +1,53 @@
 {
     "hdwmovies": {
+        "18975": {
+            "key": "18975",
+            "Title": "Echelon Conspiracy",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18975/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Mystery"
+            ],
+            "Rating": "5.8",
+            "TMDb ID": 16325
+        },
+        "20992": {
+            "key": "20992",
+            "Title": "Loving",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20992/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "7",
+            "TMDb ID": 339419
+        },
+        "2240": {
+            "key": "2240",
+            "Title": "Amadeus",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/2240/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "History"
+            ],
+            "Rating": "8.3",
+            "TMDb ID": 279
+        },
+        "21782": {
+            "key": "21782",
+            "Title": "The After Party",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21782/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "5.8",
+            "TMDb ID": 538604
+        },
         "19756": {
             "key": "19756",
             "Title": "Safe",
@@ -61,81 +109,6 @@
             ],
             "Rating": "6.7",
             "TMDb ID": 2064
-        },
-        "35763": {
-            "key": "35763",
-            "Title": "M3gan",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35763/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror",
-                "Sci-Fi",
-                "Thriller"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 536554
-        },
-        "18857": {
-            "key": "18857",
-            "Title": "Splinter",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18857/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror",
-                "Sci-Fi",
-                "Thriller"
-            ],
-            "Rating": "6.1",
-            "TMDb ID": 13220
-        },
-        "20649": {
-            "key": "20649",
-            "Title": "Magic Mike XXL",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20649/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "5.6",
-            "TMDb ID": 264999
-        },
-        "20096": {
-            "key": "20096",
-            "Title": "The Heat",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20096/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Crime"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 136795
-        },
-        "19134": {
-            "key": "19134",
-            "Title": "Black Swan",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19134/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "8",
-            "TMDb ID": 44214
-        },
-        "21560": {
-            "key": "21560",
-            "Title": "Battle Drone",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21560/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Sci-Fi"
-            ],
-            "Rating": "5.2",
-            "TMDb ID": 508648
         }
     },
     "hdwseries": {
@@ -225,6 +198,45 @@
             "Rating": "8.3",
             "TMDb ID": 90870
         },
+        "342": {
+            "key": "342",
+            "Title": "Lovecraft Country",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 82816
+        },
+        "330": {
+            "key": "330",
+            "Title": "Your Honor",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/330.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 86430
+        },
+        "108": {
+            "key": "108",
+            "Title": "Ballers",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/108.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 62704
+        },
         "59": {
             "key": "59",
             "Title": "Almost Family",
@@ -235,44 +247,6 @@
             ],
             "Rating": "6.4",
             "TMDb ID": 89624
-        },
-        "57": {
-            "key": "57",
-            "Title": "A Million Little Things",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/57.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "8",
-            "TMDb ID": 81499
-        },
-        "416": {
-            "key": "416",
-            "Title": "Elementary",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 1415
-        },
-        "79": {
-            "key": "79",
-            "Title": "Greys Anatomy",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/79.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
         }
     },
     "arabic-series": {
@@ -281,31 +255,31 @@
             "Image Source": "https://i.imgur.com/FFI13Xm.jpg",
             "Category": "arabic-series"
         },
-        "3989": {
-            "Title": "دهب بنت الأوتيل",
-            "Image Source": "https://i.imgur.com/xJLUmsr.jpg",
-            "Category": "arabic-series"
-        },
-        "3978": {
-            "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/Dtq0MFp.jpg",
+        "4039": {
+            "Title": "أسيل",
+            "Image Source": "https://i.imgur.com/3uMa4hK.jpg",
             "Category": "arabic-series"
         },
         "3988": {
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/BlKC7Pr.jpg",
+            "Image Source": "https://i.imgur.com/sDtcn5L.jpg",
+            "Category": "arabic-series"
+        },
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/fTyo7pR.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/64Ct1Dd.jpg",
+            "Image Source": "https://i.imgur.com/xXEv6ah.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/hLRnodK.jpg",
+            "Image Source": "https://i.imgur.com/kk9nGI8.jpg",
             "Category": "arabic-movies"
         }
     }

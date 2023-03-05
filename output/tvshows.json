@@ -2264,13 +2264,13 @@
         },
         "TMDb ID": 99620
     },
-    "96359": {
+    "209981": {
         "Title": "Next in Fashion",
         "Category": "tvshows",
         "Format": "1080p Web-DL",
         "Genres": [],
-        "Number Of Episodes": 10,
-        "Image Source": "https://imgpile.com/images/TKk9si.jpg",
+        "Number Of Episodes": 20,
+        "Image Source": "https://i.imgur.com/9RXQWDL.jpg",
         "Seasons": {
             "96359": {
                 "Season Number": 1,
@@ -2315,6 +2315,52 @@
                     "96371": {
                         "Episode Number": 10,
                         "Source": "d9c7d824d67ada5346b2ef48f4351e94"
+                    }
+                }
+            },
+            "209981": {
+                "Season Number": 2,
+                "Number Of Episodes": 10,
+                "Episodes": {
+                    "209983": {
+                        "Episode Number": 1,
+                        "Source": "3954dcfb7c50c12b4563ebe5f6c3ff95"
+                    },
+                    "209984": {
+                        "Episode Number": 2,
+                        "Source": "b1eb290404446987104bc007bbe2bbb2"
+                    },
+                    "209985": {
+                        "Episode Number": 3,
+                        "Source": "4a997b2bb9bb77d9f7a3253d1d9478de"
+                    },
+                    "209986": {
+                        "Episode Number": 4,
+                        "Source": "5d8db2b26186cdb9dc2a76e01758ebbf"
+                    },
+                    "209987": {
+                        "Episode Number": 5,
+                        "Source": "2641d1ad4341abefef9c61783c467cff"
+                    },
+                    "209988": {
+                        "Episode Number": 6,
+                        "Source": "a8a496fcfafff288166422d10561bc98"
+                    },
+                    "209989": {
+                        "Episode Number": 7,
+                        "Source": "be89e3d5d47e40a1178e59c0517b2f70"
+                    },
+                    "209990": {
+                        "Episode Number": 8,
+                        "Source": "76fd91f777dba1fcc2e092336ea481a1"
+                    },
+                    "209991": {
+                        "Episode Number": 9,
+                        "Source": "db0f8df3a481973dbf9f1674b438baac"
+                    },
+                    "209992": {
+                        "Episode Number": 10,
+                        "Source": "4cc7b4f0742e27c42c420f2c2141ed80"
                     }
                 }
             }
@@ -6538,6 +6584,63 @@
             }
         },
         "TMDb ID": 59186
+    },
+    "96359": {
+        "Title": "Next in Fashion",
+        "Category": "tvshows",
+        "Format": "1080p Web-DL",
+        "Genres": [],
+        "Number Of Episodes": 10,
+        "Image Source": "https://imgpile.com/images/TKk9si.jpg",
+        "Seasons": {
+            "96359": {
+                "Season Number": 1,
+                "Number Of Episodes": 10,
+                "Episodes": {
+                    "96362": {
+                        "Episode Number": 1,
+                        "Source": "05cd80243d01219dafae1e14e56668d5"
+                    },
+                    "96363": {
+                        "Episode Number": 2,
+                        "Source": "6d24f71836b425fd654df4630f7615c3"
+                    },
+                    "96364": {
+                        "Episode Number": 3,
+                        "Source": "ded5c945164027738be04585d43420bd"
+                    },
+                    "96365": {
+                        "Episode Number": 4,
+                        "Source": "c480647ae473b5dd1ec071099d61b1aa"
+                    },
+                    "96366": {
+                        "Episode Number": 5,
+                        "Source": "d4a58ba4dcd06efbb38d154ef6b84696"
+                    },
+                    "96367": {
+                        "Episode Number": 6,
+                        "Source": "d2d34411b4404301182b2ac53c4674d4"
+                    },
+                    "96368": {
+                        "Episode Number": 7,
+                        "Source": "e4f28dd36885e459dd0eaca100c9f914"
+                    },
+                    "96369": {
+                        "Episode Number": 8,
+                        "Source": "fea78540c4636b6466eef6c6f1b1a2f6"
+                    },
+                    "96370": {
+                        "Episode Number": 9,
+                        "Source": "630534666fcffe9b0803fe43a8c38caa"
+                    },
+                    "96371": {
+                        "Episode Number": 10,
+                        "Source": "d9c7d824d67ada5346b2ef48f4351e94"
+                    }
+                }
+            }
+        },
+        "TMDb ID": 98805
     },
     "50264": {
         "Title": "Survivor",
