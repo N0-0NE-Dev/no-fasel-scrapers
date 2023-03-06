@@ -198,6 +198,19 @@
             "Rating": "8.3",
             "TMDb ID": 90870
         },
+        "579": {
+            "key": "579",
+            "Title": "Mayor of Kingstown",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/579.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 97951
+        },
         "342": {
             "key": "342",
             "Title": "Lovecraft Country",
@@ -210,43 +223,6 @@
             ],
             "Rating": "7.1",
             "TMDb ID": 82816
-        },
-        "330": {
-            "key": "330",
-            "Title": "Your Honor",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/330.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 86430
-        },
-        "108": {
-            "key": "108",
-            "Title": "Ballers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/108.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 62704
-        },
-        "59": {
-            "key": "59",
-            "Title": "Almost Family",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/59.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 89624
         }
     },
     "arabic-series": {
@@ -255,31 +231,56 @@
             "Image Source": "https://i.imgur.com/FFI13Xm.jpg",
             "Category": "arabic-series"
         },
+        "3913": {
+            "Title": "عالم تاني",
+            "Image Source": "https://i.imgur.com/QIx61xn.jpg",
+            "Category": "arabic-series"
+        },
         "4039": {
             "Title": "أسيل",
-            "Image Source": "https://i.imgur.com/3uMa4hK.jpg",
+            "Image Source": "https://i.imgur.com/YggTLb0.jpg",
+            "Category": "arabic-series"
+        },
+        "2817": {
+            "Title": "وسط البلد",
+            "Image Source": "https://imgpile.com/images/b80yKW.jpg",
             "Category": "arabic-series"
         },
         "3988": {
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/sDtcn5L.jpg",
+            "Image Source": "https://i.imgur.com/8ebt5v8.jpg",
             "Category": "arabic-series"
         },
         "3991": {
             "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/fTyo7pR.jpg",
+            "Image Source": "https://i.imgur.com/VCucwCK.jpg",
+            "Category": "arabic-series"
+        },
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://i.imgur.com/evK6OPw.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "3974": {
+            "Title": "منطقة آمنة",
+            "Image Source": "https://i.imgur.com/yFVSgmE.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/xXEv6ah.jpg",
+            "Image Source": "https://i.imgur.com/VkZHkam.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/kk9nGI8.jpg",
+            "Image Source": "https://i.imgur.com/Dy3bAT9.jpg",
             "Category": "arabic-movies"
         }
     }
