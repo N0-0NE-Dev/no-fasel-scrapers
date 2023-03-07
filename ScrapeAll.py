@@ -11,6 +11,7 @@ arabic_series_process = Popen(["python", "AkwamSeriesScraper.py"])
 arabic_movies_process = Popen(["python", "AkwamMoviesScaper.py"])
 hdw_movies_process = Popen(["python", "HDWMoviesScraper.py"])
 hdw_series_process = Popen(["python", "HDWSeriesScraper.py"])
+we_cima_process = Popen(["python", "WeCimaScraper.py"])
 
 
 movies_process.wait()
@@ -20,6 +21,7 @@ arabic_series_process.wait()
 arabic_movies_process.wait()
 hdw_movies_process.wait()
 hdw_series_process.wait()
+we_cima_process.wait()
 
 trending_process = Popen(["python", "TrendingScraper.py"])
 post_processing_process = Popen(["python", "Postprocessing.py"])

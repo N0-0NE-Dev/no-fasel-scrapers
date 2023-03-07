@@ -15,7 +15,7 @@ from requests import Response
 from os import environ
 from PIL import Image
 
-DEBUG = False
+DEBUG = True
 
 FILE_NAMES = ["movies", "anime", "asian-series",
               "series", "tvshows", "arabic-series",
