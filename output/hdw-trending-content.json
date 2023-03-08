@@ -1,5 +1,93 @@
 {
     "hdwmovies": {
+        "20922": {
+            "key": "20922",
+            "Title": "Frank and Lola",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20922/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "5.9",
+            "TMDb ID": null
+        },
+        "35650": {
+            "key": "35650",
+            "Title": "Devotion",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35650/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "War"
+            ],
+            "Rating": "7",
+            "TMDb ID": 653851
+        },
+        "17645": {
+            "key": "17645",
+            "Title": "Dead Man Walking",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17645/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.5",
+            "TMDb ID": 687
+        },
+        "21910": {
+            "key": "21910",
+            "Title": "Close",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21910/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "5.7",
+            "TMDb ID": 901563
+        },
+        "20073": {
+            "key": "20073",
+            "Title": "Summer in February",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20073/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "5.6",
+            "TMDb ID": 180951
+        },
+        "20052": {
+            "key": "20052",
+            "Title": "Prisoners",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20052/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 146233
+        },
+        "19912": {
+            "key": "19912",
+            "Title": "Carrie",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19912/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "Horror"
+            ],
+            "Rating": "5.9",
+            "TMDb ID": 7342
+        },
         "18975": {
             "key": "18975",
             "Title": "Echelon Conspiracy",
@@ -12,106 +100,21 @@
             ],
             "Rating": "5.8",
             "TMDb ID": 16325
-        },
-        "20992": {
-            "key": "20992",
-            "Title": "Loving",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20992/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7",
-            "TMDb ID": 339419
-        },
-        "2240": {
-            "key": "2240",
-            "Title": "Amadeus",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/2240/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "History"
-            ],
-            "Rating": "8.3",
-            "TMDb ID": 279
-        },
-        "21782": {
-            "key": "21782",
-            "Title": "The After Party",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21782/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "5.8",
-            "TMDb ID": 538604
-        },
-        "19756": {
-            "key": "19756",
-            "Title": "Safe",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19756/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Thriller"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 72387
-        },
-        "22352": {
-            "key": "22352",
-            "Title": "Nobody",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22352/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.4",
-            "TMDb ID": 615457
-        },
-        "21877": {
-            "key": "21877",
-            "Title": "After",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21877/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "5.3",
-            "TMDb ID": 537915
-        },
-        "35204": {
-            "key": "35204",
-            "Title": "Smile",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35204/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 882598
-        },
-        "17679": {
-            "key": "17679",
-            "Title": "While You Were Sleeping",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17679/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "6.7",
-            "TMDb ID": 2064
         }
     },
     "hdwseries": {
+        "222": {
+            "key": "222",
+            "Title": "Perry Mason",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/222.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 4177
+        },
         "38": {
             "key": "38",
             "Title": "The Mandalorian",
@@ -187,42 +190,40 @@
             "Rating": "7.6",
             "TMDb ID": 100757
         },
-        "568": {
-            "key": "568",
-            "Title": "Wu Tang An American Saga",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/568.jpg",
+        "714": {
+            "key": "714",
+            "Title": "Quantum Leap",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/714.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Sci-Fi"
+            ],
+            "Rating": "5.7",
+            "TMDb ID": 4018
+        },
+        "42": {
+            "key": "42",
+            "Title": "The Good Doctor",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/42.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Drama"
             ],
-            "Rating": "8.3",
-            "TMDb ID": 90870
+            "Rating": "8.1",
+            "TMDb ID": 71712
         },
-        "579": {
-            "key": "579",
-            "Title": "Mayor of Kingstown",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/579.jpg",
+        "570": {
+            "key": "570",
+            "Title": "Reservation Dogs",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/570.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
+                "Comedy",
+                "Crime"
             ],
-            "Rating": "8.2",
-            "TMDb ID": 97951
-        },
-        "342": {
-            "key": "342",
-            "Title": "Lovecraft Country",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Horror"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 82816
+            "Rating": "8",
+            "TMDb ID": 95215
         }
     },
     "arabic-series": {
@@ -231,14 +232,14 @@
             "Image Source": "https://i.imgur.com/FFI13Xm.jpg",
             "Category": "arabic-series"
         },
-        "3913": {
-            "Title": "عالم تاني",
-            "Image Source": "https://i.imgur.com/QIx61xn.jpg",
+        "3978": {
+            "Title": "ولاد العم الموسم الثاني",
+            "Image Source": "https://i.imgur.com/qX9hQQr.jpg",
             "Category": "arabic-series"
         },
-        "4039": {
-            "Title": "أسيل",
-            "Image Source": "https://i.imgur.com/YggTLb0.jpg",
+        "3913": {
+            "Title": "عالم تاني",
+            "Image Source": "https://i.imgur.com/ilwJ71o.jpg",
             "Category": "arabic-series"
         },
         "2817": {
@@ -246,19 +247,24 @@
             "Image Source": "https://imgpile.com/images/b80yKW.jpg",
             "Category": "arabic-series"
         },
+        "4039": {
+            "Title": "أسيل",
+            "Image Source": "https://i.imgur.com/zYBD2ap.jpg",
+            "Category": "arabic-series"
+        },
         "3988": {
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/8ebt5v8.jpg",
+            "Image Source": "https://i.imgur.com/Ci0qxks.jpg",
             "Category": "arabic-series"
         },
         "3991": {
             "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/VCucwCK.jpg",
+            "Image Source": "https://i.imgur.com/LX3pdDK.jpg",
             "Category": "arabic-series"
         },
         "3877": {
             "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/evK6OPw.jpg",
+            "Image Source": "https://i.imgur.com/TET0ybf.jpg",
             "Category": "arabic-series"
         },
         "3516": {
@@ -268,19 +274,19 @@
         },
         "3974": {
             "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/yFVSgmE.jpg",
+            "Image Source": "https://i.imgur.com/zDmEwb0.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/VkZHkam.jpg",
+            "Image Source": "https://i.imgur.com/K2oFS6z.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/Dy3bAT9.jpg",
+            "Image Source": "https://i.imgur.com/vdTBG2g.jpg",
             "Category": "arabic-movies"
         }
     }
