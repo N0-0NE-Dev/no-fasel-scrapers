@@ -359,6 +359,38 @@
             "Rating": "N/A",
             "TMDb ID": null
         },
+        "188404": {
+            "Title": "The Winchesters",
+            "Image Source": "https://i.imgur.com/wnERfZk.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 128113
+        },
+        "203387": {
+            "Title": "Night Court",
+            "Image Source": "https://i.imgur.com/D8hT6fn.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 162
+        },
+        "203803": {
+            "Title": "Accused",
+            "Image Source": "https://i.imgur.com/6fZS6XS.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.4",
+            "TMDb ID": 202097
+        },
         "186061": {
             "Title": "Quantum Leap",
             "Image Source": "https://i.imgur.com/gI8XKdG.jpg",
@@ -389,33 +421,12 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 216795
-        },
-        "104843": {
-            "Title": "Perry Mason",
-            "Image Source": "https://imgpile.com/images/TKW4Oo.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.3",
-            "TMDb ID": 4177
-        },
-        "208912": {
-            "Title": "The Company You Keep",
-            "Image Source": "https://i.imgur.com/c0pcJPH.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 208713
         }
     },
     "arabic-series": {
         "3976": {
             "Title": "بالطو",
-            "Image Source": "https://i.imgur.com/FFI13Xm.jpg",
+            "Image Source": "https://i.imgur.com/twPD9W9.jpg",
             "Category": "arabic-series"
         },
         "3978": {
@@ -452,27 +463,17 @@
             "Title": "الثمن",
             "Image Source": "https://i.imgur.com/TET0ybf.jpg",
             "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "3974": {
-            "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/zDmEwb0.jpg",
-            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/K2oFS6z.jpg",
+            "Image Source": "https://i.imgur.com/FLAvSnc.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/vdTBG2g.jpg",
+            "Image Source": "https://i.imgur.com/41IPcSd.jpg",
             "Category": "arabic-movies"
         }
     }

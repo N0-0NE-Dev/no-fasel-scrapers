@@ -190,6 +190,45 @@
             "Rating": "7.6",
             "TMDb ID": 100757
         },
+        "308": {
+            "key": "308",
+            "Title": "The Witcher",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/308.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 71912
+        },
+        "685": {
+            "key": "685",
+            "Title": "Night Sky",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/685.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "7.4",
+            "TMDb ID": 111894
+        },
+        "345": {
+            "key": "345",
+            "Title": "Cursed",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/345.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "5.9",
+            "TMDb ID": 83125
+        },
         "714": {
             "key": "714",
             "Title": "Quantum Leap",
@@ -229,7 +268,7 @@
     "arabic-series": {
         "3976": {
             "Title": "بالطو",
-            "Image Source": "https://i.imgur.com/FFI13Xm.jpg",
+            "Image Source": "https://i.imgur.com/twPD9W9.jpg",
             "Category": "arabic-series"
         },
         "3978": {
@@ -266,27 +305,17 @@
             "Title": "الثمن",
             "Image Source": "https://i.imgur.com/TET0ybf.jpg",
             "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "3974": {
-            "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/zDmEwb0.jpg",
-            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/K2oFS6z.jpg",
+            "Image Source": "https://i.imgur.com/FLAvSnc.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/vdTBG2g.jpg",
+            "Image Source": "https://i.imgur.com/41IPcSd.jpg",
             "Category": "arabic-movies"
         }
     }
