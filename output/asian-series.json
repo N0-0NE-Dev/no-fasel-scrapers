@@ -1911,7 +1911,7 @@
         "Seasons": {
             "200508": {
                 "Season Number": 1,
-                "Number Of Episodes": 10,
+                "Number Of Episodes": 12,
                 "Episodes": {
                     "200510": {
                         "Episode Number": 1,
@@ -1952,22 +1952,28 @@
                     "209937": {
                         "Episode Number": 10,
                         "Source": "4dd4021f959d60e58231103504fd85d1"
+                    },
+                    "210446": {
+                        "Episode Number": 11,
+                        "Source": "639ce699fc2fc1ae36c939c457c0c3e5"
+                    },
+                    "210447": {
+                        "Episode Number": 12,
+                        "Source": "3245eb18db9d7f2d1233cf7d280949d4"
                     }
                 }
             }
         }
     },
-    "200342": {
-        "TMDb ID": 10231,
+    "210449": {
         "Title": "The Glory",
         "Category": "asian-series",
+        "Format": "1080p WEB-DL",
         "Genres": [
             "Drama"
         ],
-        "Number Of Episodes": 8,
-        "Rating": "8",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/KTVvTMW.jpg",
+        "Number Of Episodes": 16,
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Seasons": {
             "200342": {
                 "Season Number": 1,
@@ -2006,8 +2012,47 @@
                         "Source": "82b125ee80634db0908d698cc2ab6347"
                     }
                 }
+            },
+            "210449": {
+                "Season Number": 2,
+                "Number Of Episodes": 8,
+                "Episodes": {
+                    "210452": {
+                        "Episode Number": 1,
+                        "Source": "c13ab27fe7d5fffb3b888b3359108a8f"
+                    },
+                    "210453": {
+                        "Episode Number": 2,
+                        "Source": "67d628fc40521b5701dcf6fa4f814f9e"
+                    },
+                    "210454": {
+                        "Episode Number": 3,
+                        "Source": "8434f70e73633b28f287aa366712bb29"
+                    },
+                    "210455": {
+                        "Episode Number": 4,
+                        "Source": "2295a55e8b30cedfccc6881a3c2a26ff"
+                    },
+                    "210456": {
+                        "Episode Number": 5,
+                        "Source": "8bddf9a9f0a65cdda9e75f072934547f"
+                    },
+                    "210457": {
+                        "Episode Number": 6,
+                        "Source": "f8025fcac58d8f18c8a879a441ef639b"
+                    },
+                    "210458": {
+                        "Episode Number": 7,
+                        "Source": "9defec686494ef2fe14ca5f226852cef"
+                    },
+                    "210459": {
+                        "Episode Number": 8,
+                        "Source": "f9ced4381946574e3d652e4018f92e71"
+                    }
+                }
             }
-        }
+        },
+        "TMDb ID": 136283
     },
     "199398": {
         "TMDb ID": 210213,
@@ -80535,6 +80580,58 @@
                     "66854": {
                         "Episode Number": 16,
                         "Source": "1b9090cbc746427b6a1ea75b0d58941f"
+                    }
+                }
+            }
+        }
+    },
+    "200342": {
+        "TMDb ID": 10231,
+        "Title": "The Glory",
+        "Category": "asian-series",
+        "Genres": [
+            "Drama"
+        ],
+        "Number Of Episodes": 8,
+        "Rating": "8",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/KTVvTMW.jpg",
+        "Seasons": {
+            "200342": {
+                "Season Number": 1,
+                "Number Of Episodes": 8,
+                "Episodes": {
+                    "200344": {
+                        "Episode Number": 1,
+                        "Source": "5d29730de9084ed3f4c87683bdcce652"
+                    },
+                    "200345": {
+                        "Episode Number": 2,
+                        "Source": "88597e67e16648059d18e767a9e62554"
+                    },
+                    "200346": {
+                        "Episode Number": 3,
+                        "Source": "7275f39c22285362f688866584e2fc93"
+                    },
+                    "200347": {
+                        "Episode Number": 4,
+                        "Source": "7d273c358b5e65447539673b30bf455b"
+                    },
+                    "200348": {
+                        "Episode Number": 5,
+                        "Source": "2588091d61b681ce796fd21f1037e84d"
+                    },
+                    "200349": {
+                        "Episode Number": 6,
+                        "Source": "4948a3618e998d32164a7b996a544a2c"
+                    },
+                    "200350": {
+                        "Episode Number": 7,
+                        "Source": "093ea1d4ea3c9942df8475fa0793c7cd"
+                    },
+                    "200351": {
+                        "Episode Number": 8,
+                        "Source": "82b125ee80634db0908d698cc2ab6347"
                     }
                 }
             }

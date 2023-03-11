@@ -1,5 +1,44 @@
 {
     "hdwmovies": {
+        "20922": {
+            "key": "20922",
+            "Title": "Frank and Lola",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20922/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "5.9",
+            "TMDb ID": null
+        },
+        "20077": {
+            "key": "20077",
+            "Title": "The Art of the Steal",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20077/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Thriller"
+            ],
+            "Rating": "6.3",
+            "TMDb ID": 209247
+        },
+        "1654": {
+            "key": "1654",
+            "Title": "Missing",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1654/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "History",
+                "Mystery"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 768362
+        },
         "22107": {
             "key": "22107",
             "Title": "The Wave",
@@ -25,19 +64,6 @@
             "Rating": "6.7",
             "TMDb ID": 399366
         },
-        "20922": {
-            "key": "20922",
-            "Title": "Frank and Lola",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20922/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "5.9",
-            "TMDb ID": null
-        },
         "35650": {
             "key": "35650",
             "Title": "Devotion",
@@ -50,68 +76,6 @@
             ],
             "Rating": "7",
             "TMDb ID": 653851
-        },
-        "17645": {
-            "key": "17645",
-            "Title": "Dead Man Walking",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17645/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 687
-        },
-        "21910": {
-            "key": "21910",
-            "Title": "Close",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21910/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "5.7",
-            "TMDb ID": 901563
-        },
-        "20073": {
-            "key": "20073",
-            "Title": "Summer in February",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20073/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "5.6",
-            "TMDb ID": 180951
-        },
-        "20052": {
-            "key": "20052",
-            "Title": "Prisoners",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20052/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "8.1",
-            "TMDb ID": 146233
-        },
-        "19912": {
-            "key": "19912",
-            "Title": "Carrie",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19912/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Horror"
-            ],
-            "Rating": "5.9",
-            "TMDb ID": 7342
         }
     },
     "hdwseries": {
@@ -202,57 +166,30 @@
             "Rating": "7.6",
             "TMDb ID": 100757
         },
-        "318": {
-            "key": "318",
-            "Title": "Carnival Row",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/318.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Fantasy"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 90027
-        },
-        "739": {
-            "key": "739",
-            "Title": "The Ark",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/739.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Sci-Fi"
-            ],
-            "Rating": "",
-            "TMDb ID": 47663
-        },
-        "541": {
-            "key": "541",
-            "Title": "Star Trek Picard",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/541.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama",
-                "Sci-Fi"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 85949
-        },
-        "194": {
-            "key": "194",
-            "Title": "White Lines",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/194.jpg",
+        "416": {
+            "key": "416",
+            "Title": "Elementary",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Crime",
                 "Drama",
                 "Mystery"
             ],
-            "Rating": "6.6",
-            "TMDb ID": 90265
+            "Rating": "7.9",
+            "TMDb ID": 1415
+        },
+        "281": {
+            "key": "281",
+            "Title": "Animal Kingdom",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/281.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 66025
         }
     },
     "arabic-series": {
@@ -261,36 +198,26 @@
             "Image Source": "https://i.imgur.com/twPD9W9.jpg",
             "Category": "arabic-series"
         },
+        "3989": {
+            "Title": "دهب بنت الأوتيل",
+            "Image Source": "https://i.imgur.com/KPaSrUB.jpg",
+            "Category": "arabic-series"
+        },
         "3978": {
             "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/pjgh8Of.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/fDeR53O.jpg",
-            "Category": "arabic-series"
-        },
-        "3974": {
-            "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/5eakHwt.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Image Source": "https://i.imgur.com/Qq9le47.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/cImlWAB.jpg",
+            "Image Source": "https://i.imgur.com/GC0egVk.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/Hm5hJ0Y.jpg",
+            "Image Source": "https://i.imgur.com/9FujDJq.jpg",
             "Category": "arabic-movies"
         }
     }
