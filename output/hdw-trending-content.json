@@ -1,5 +1,43 @@
 {
     "hdwmovies": {
+        "31573": {
+            "key": "31573",
+            "Title": "The Night House",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/31573/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "6.9",
+            "TMDb ID": 547565
+        },
+        "21094": {
+            "key": "21094",
+            "Title": "The 5th Wave",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21094/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Rating": "5.2",
+            "TMDb ID": 299687
+        },
+        "35928": {
+            "key": "35928",
+            "Title": "A Man Called Otto",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35928/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 937278
+        },
         "20922": {
             "key": "20922",
             "Title": "Frank and Lola",
@@ -38,44 +76,6 @@
             ],
             "Rating": "7.7",
             "TMDb ID": 768362
-        },
-        "22107": {
-            "key": "22107",
-            "Title": "The Wave",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22107/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Sci-Fi",
-                "Thriller"
-            ],
-            "Rating": "6.1",
-            "TMDb ID": 619263
-        },
-        "21341": {
-            "key": "21341",
-            "Title": "Marrowbone",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21341/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "6.7",
-            "TMDb ID": 399366
-        },
-        "35650": {
-            "key": "35650",
-            "Title": "Devotion",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35650/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Drama",
-                "War"
-            ],
-            "Rating": "7",
-            "TMDb ID": 653851
         }
     },
     "hdwseries": {
@@ -166,30 +166,31 @@
             "Rating": "7.6",
             "TMDb ID": 100757
         },
-        "416": {
-            "key": "416",
-            "Title": "Elementary",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
+        "330": {
+            "key": "330",
+            "Title": "Your Honor",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/330.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Crime",
                 "Drama",
-                "Mystery"
+                "Thriller"
             ],
-            "Rating": "7.9",
-            "TMDb ID": 1415
+            "Rating": "7.6",
+            "TMDb ID": 86430
         },
-        "281": {
-            "key": "281",
-            "Title": "Animal Kingdom",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/281.jpg",
+        "342": {
+            "key": "342",
+            "Title": "Lovecraft Country",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Crime",
-                "Drama"
+                "Drama",
+                "Fantasy",
+                "Horror"
             ],
-            "Rating": "8.2",
-            "TMDb ID": 66025
+            "Rating": "7.1",
+            "TMDb ID": 82816
         }
     },
     "arabic-series": {
@@ -198,26 +199,36 @@
             "Image Source": "https://i.imgur.com/twPD9W9.jpg",
             "Category": "arabic-series"
         },
-        "3989": {
-            "Title": "دهب بنت الأوتيل",
-            "Image Source": "https://i.imgur.com/KPaSrUB.jpg",
+        "3913": {
+            "Title": "عالم تاني",
+            "Image Source": "https://i.imgur.com/BKhSHV8.jpg",
             "Category": "arabic-series"
         },
-        "3978": {
-            "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/Qq9le47.jpg",
+        "4039": {
+            "Title": "أسيل",
+            "Image Source": "https://i.imgur.com/tlDAEEu.jpg",
+            "Category": "arabic-series"
+        },
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/tqV4dZW.jpg",
+            "Category": "arabic-series"
+        },
+        "3988": {
+            "Title": "تياترو",
+            "Image Source": "https://i.imgur.com/eSNEMk0.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/GC0egVk.jpg",
+            "Image Source": "https://i.imgur.com/G1T9udK.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/9FujDJq.jpg",
+            "Image Source": "https://i.imgur.com/4AOYuXJ.jpg",
             "Category": "arabic-movies"
         }
     }
