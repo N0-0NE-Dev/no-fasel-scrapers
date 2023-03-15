@@ -1,30 +1,15 @@
 {
     "hdwmovies": {
-        "31573": {
-            "key": "31573",
-            "Title": "The Night House",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/31573/1.jpg",
+        "19349": {
+            "key": "19349",
+            "Title": "Yogi Bear",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19349/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
-                "Horror",
-                "Mystery",
-                "Thriller"
+                "Animation"
             ],
-            "Rating": "6.9",
-            "TMDb ID": 547565
-        },
-        "21094": {
-            "key": "21094",
-            "Title": "The 5th Wave",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21094/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Sci-Fi"
-            ],
-            "Rating": "5.2",
-            "TMDb ID": 299687
+            "Rating": "4.6",
+            "TMDb ID": 41515
         },
         "35928": {
             "key": "35928",
@@ -38,44 +23,93 @@
             "Rating": "7.6",
             "TMDb ID": 937278
         },
-        "20922": {
-            "key": "20922",
-            "Title": "Frank and Lola",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20922/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "5.9",
-            "TMDb ID": null
-        },
-        "20077": {
-            "key": "20077",
-            "Title": "The Art of the Steal",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20077/1.jpg",
+        "19219": {
+            "key": "19219",
+            "Title": "Leap Year",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19219/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
                 "Comedy",
-                "Crime",
-                "Thriller"
+                "Romance"
             ],
-            "Rating": "6.3",
-            "TMDb ID": 209247
+            "Rating": "6.5",
+            "TMDb ID": 25195
         },
-        "1654": {
-            "key": "1654",
-            "Title": "Missing",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1654/1.jpg",
+        "18597": {
+            "key": "18597",
+            "Title": "American Gangster",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18597/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.8",
+            "TMDb ID": 4982
+        },
+        "34343": {
+            "key": "34343",
+            "Title": "Everything Everywhere All at Once",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/34343/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "Rating": "8.7",
+            "TMDb ID": 545611
+        },
+        "594": {
+            "key": "594",
+            "Title": "All Quiet on the Western Front",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/594/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "War"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 49046
+        },
+        "17978": {
+            "key": "17978",
+            "Title": "Enemy at the Gates",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17978/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
                 "Drama",
                 "History",
-                "Mystery"
+                "War"
             ],
-            "Rating": "7.7",
-            "TMDb ID": 768362
+            "Rating": "7.6",
+            "TMDb ID": 853
+        },
+        "19825": {
+            "key": "19825",
+            "Title": "The Rise",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19825/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "6.5",
+            "TMDb ID": 1013860
+        },
+        "18293": {
+            "key": "18293",
+            "Title": "The Butterfly Effect",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18293/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 1954
         }
     },
     "hdwseries": {
@@ -166,31 +200,64 @@
             "Rating": "7.6",
             "TMDb ID": 100757
         },
-        "330": {
-            "key": "330",
-            "Title": "Your Honor",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/330.jpg",
+        "628": {
+            "key": "628",
+            "Title": "How i Met Your Father",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/628.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
+                "Comedy",
+                "Drama"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 86430
+            "Rating": "5.5",
+            "TMDb ID": 124010
         },
-        "342": {
-            "key": "342",
-            "Title": "Lovecraft Country",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
+        "103": {
+            "key": "103",
+            "Title": "The Resident",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/103.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 74016
+        },
+        "58": {
+            "key": "58",
+            "Title": "All American",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/58.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Drama",
-                "Fantasy",
-                "Horror"
+                "Sport"
             ],
-            "Rating": "7.1",
-            "TMDb ID": 82816
+            "Rating": "7.7",
+            "TMDb ID": 82428
+        },
+        "714": {
+            "key": "714",
+            "Title": "Quantum Leap",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/714.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Sci-Fi"
+            ],
+            "Rating": "5.7",
+            "TMDb ID": 4018
+        },
+        "570": {
+            "key": "570",
+            "Title": "Reservation Dogs",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/570.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy",
+                "Crime"
+            ],
+            "Rating": "8",
+            "TMDb ID": 95215
         }
     },
     "arabic-series": {
@@ -199,36 +266,56 @@
             "Image Source": "https://i.imgur.com/twPD9W9.jpg",
             "Category": "arabic-series"
         },
+        "3978": {
+            "Title": "ولاد العم الموسم الثاني",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "3913": {
             "Title": "عالم تاني",
-            "Image Source": "https://i.imgur.com/BKhSHV8.jpg",
+            "Image Source": "https://i.imgur.com/V7WbwoN.jpg",
             "Category": "arabic-series"
         },
         "4039": {
             "Title": "أسيل",
-            "Image Source": "https://i.imgur.com/tlDAEEu.jpg",
-            "Category": "arabic-series"
-        },
-        "3991": {
-            "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/tqV4dZW.jpg",
+            "Image Source": "https://i.imgur.com/mFsnF2z.jpg",
             "Category": "arabic-series"
         },
         "3988": {
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/eSNEMk0.jpg",
+            "Image Source": "https://i.imgur.com/C3XggJI.jpg",
+            "Category": "arabic-series"
+        },
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/YterwjL.jpg",
+            "Category": "arabic-series"
+        },
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://i.imgur.com/DD77JtE.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "3974": {
+            "Title": "منطقة آمنة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/G1T9udK.jpg",
+            "Image Source": "https://i.imgur.com/eZgD9BO.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/4AOYuXJ.jpg",
+            "Image Source": "https://i.imgur.com/7l1KsX9.jpg",
             "Category": "arabic-movies"
         }
     }

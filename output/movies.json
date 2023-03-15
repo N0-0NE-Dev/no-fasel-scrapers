@@ -141554,5 +141554,100 @@
         "Image Source": "https://i.imgur.com/jxz6OIi.jpg",
         "Source": "51cb0ecd938ddbf42302c7793b4f54ee",
         "TMDb ID": 872516
+    },
+    "210735": {
+        "Title": "Cocaine Bear",
+        "Category": "movies",
+        "Genres": [
+            "Thriller",
+            "Comedy"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/LZEBHCW.jpg",
+        "Source": "b71c05f9a3319f1a5875d04678c689e5",
+        "TMDb ID": 804150
+    },
+    "210724": {
+        "Title": "The Oscars",
+        "Category": "movies",
+        "Genres": [
+            "N-a"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/cYAZagO.jpg",
+        "Source": "d59974745289a96afbac8e595b9e22ac",
+        "TMDb ID": 630453
+    },
+    "210719": {
+        "Title": "Moonrise",
+        "Category": "movies",
+        "Genres": [
+            "Drama"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/hZ14QUK.jpg",
+        "Source": "2d94be87fd297f7ff1a9322c89a3070e",
+        "TMDb ID": 1075969
+    },
+    "210715": {
+        "Title": "Legacy Peak",
+        "Category": "movies",
+        "Genres": [
+            "Adventure"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/xNQoDdI.jpg",
+        "Source": "b22aff74ad6262d446e050b853eeb2dc",
+        "TMDb ID": 1028493
+    },
+    "210711": {
+        "Title": "Ice Merchants",
+        "Category": "movies",
+        "Genres": [
+            "Animation",
+            "Drama",
+            "Short"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/mTfB59Y.jpg",
+        "Source": "99df0bedbdb5474d50e677bccbff09a1",
+        "TMDb ID": 965171
+    },
+    "210708": {
+        "Title": "How Do You Measure a Year?",
+        "Category": "movies",
+        "Genres": [
+            "Short",
+            "Documentary"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/JYISw4d.jpg",
+        "Source": "3b6fbabd125662061dd57959ea455741",
+        "TMDb ID": 846854
+    },
+    "210704": {
+        "Title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+        "Category": "movies",
+        "Genres": [
+            "Animation",
+            "Short"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/3sRjaLE.jpg",
+        "Source": "18d8f2b0fe9c98743ac60ab2e11f9077",
+        "TMDb ID": 943776
+    },
+    "210699": {
+        "Title": "American Carnage",
+        "Category": "movies",
+        "Genres": [
+            "Horror",
+            "Mystery",
+            "Comedy"
+        ],
+        "Format": "Bluray",
+        "Image Source": "https://i.imgur.com/BLtPyDh.jpg",
+        "Source": "7fecf34e1754e6a97d643d1da29d2db0",
+        "TMDb ID": 982752
     }
 }

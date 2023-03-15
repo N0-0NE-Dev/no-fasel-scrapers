@@ -90163,7 +90163,7 @@
         "Genres": [
             "Animation"
         ],
-        "Number Of Episodes": 9,
+        "Number Of Episodes": 10,
         "Image Source": "https://imgpile.com/images/dhwV6l.jpg",
         "Episodes": {
             "202535": {
@@ -90193,6 +90193,10 @@
             "210167": {
                 "Episode Number": 9,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=485d3770316c6197839d2668081681a2&img=https://img.scdn.to/thumb/485d3770316c6197839d2668081681a2/large.jpg"
+            },
+            "210819": {
+                "Episode Number": 10,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=0eebf2044957dfc6377c2ad68b019b17&img=https://img.scdn.to/thumb/0eebf2044957dfc6377c2ad68b019b17/large.jpg"
             }
         },
         "Rating": "6.81",
@@ -90380,7 +90384,7 @@
             "Comedy",
             "Adventure"
         ],
-        "Number Of Episodes": 9,
+        "Number Of Episodes": 10,
         "Image Source": "https://i.imgur.com/nfH7zMY.jpg",
         "Episodes": {
             "202714": {
@@ -90414,6 +90418,10 @@
             "210256": {
                 "Episode Number": 9,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=690409533af858add7d67ccf61794f10&img=https://img.scdn.to/thumb/690409533af858add7d67ccf61794f10/large.jpg"
+            },
+            "210822": {
+                "Episode Number": 10,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=2215a102f10691df7e8bced2d0840320&img=https://img.scdn.to/thumb/2215a102f10691df7e8bced2d0840320/large.jpg"
             }
         },
         "Rating": "7.65",
@@ -90617,7 +90625,7 @@
             "Fantasy",
             "Comedy"
         ],
-        "Number Of Episodes": 5,
+        "Number Of Episodes": 6,
         "Image Source": "https://i.imgur.com/Wf0xTz2.jpg",
         "Episodes": {
             "203305": {
@@ -90639,6 +90647,10 @@
             "209412": {
                 "Episode Number": 5,
                 "Source": "b09971a940be66546a8eab60e4cf63c7"
+            },
+            "210818": {
+                "Episode Number": 6,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=4d5f229982429c10cf6c7f730b8cf087&img=https://img.scdn.to/thumb/4d5f229982429c10cf6c7f730b8cf087/large.jpg"
             }
         },
         "Rating": "7.30",
