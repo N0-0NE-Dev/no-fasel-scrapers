@@ -92025,9 +92025,22 @@
             "Rating": "8.1"
         },
         {
+            "key": "8231",
+            "Title": "فيلة الساحر",
+            "Image Source": "https://i.imgur.com/iWsKQ2n.jpg",
+            "Category": "arabic-movies",
+            "Genres": [
+                "Animated",
+                "Dubbed",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A"
+        },
+        {
             "key": "8193",
             "Title": "سولا",
-            "Image Source": "https://i.imgur.com/2qgzLsU.jpg",
+            "Image Source": "https://i.imgur.com/5XAmbaJ.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92037,7 +92050,7 @@
         {
             "key": "8183",
             "Title": "في عينيا",
-            "Image Source": "https://i.imgur.com/Y88sTwv.jpg",
+            "Image Source": "https://i.imgur.com/DyXCVZF.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92047,7 +92060,7 @@
         {
             "key": "8087",
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/GpVFe0p.jpg",
+            "Image Source": "https://i.imgur.com/nee6wCH.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy"
@@ -92057,7 +92070,7 @@
         {
             "key": "8089",
             "Title": "إتنين للإيجار",
-            "Image Source": "https://i.imgur.com/J5w5Uck.jpg",
+            "Image Source": "https://i.imgur.com/jWE9Tic.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy"
@@ -92067,7 +92080,7 @@
         {
             "key": "8059",
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/KPd2Ytz.jpg",
+            "Image Source": "https://i.imgur.com/RBraCAk.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92079,7 +92092,7 @@
         {
             "key": "8021",
             "Title": "عبود في البيت",
-            "Image Source": "https://i.imgur.com/eWViDyE.jpg",
+            "Image Source": "https://i.imgur.com/o13yV9k.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92090,7 +92103,7 @@
         {
             "key": "7934",
             "Title": "ضيوف شرف",
-            "Image Source": "https://i.imgur.com/qQQBhwo.jpg",
+            "Image Source": "https://i.imgur.com/B2D23fz.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92101,7 +92114,7 @@
         {
             "key": "7925",
             "Title": "الخلاط",
-            "Image Source": "https://i.imgur.com/QuMgmkQ.jpg",
+            "Image Source": "https://i.imgur.com/7iy1pLq.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy"
@@ -92111,7 +92124,7 @@
         {
             "key": "7924",
             "Title": "غدوة",
-            "Image Source": "https://i.imgur.com/fYNlMwR.jpg",
+            "Image Source": "https://i.imgur.com/sBszVgs.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92121,7 +92134,7 @@
         {
             "key": "7922",
             "Title": "فيلم الهيبة",
-            "Image Source": "https://i.imgur.com/cYv2bEl.jpg",
+            "Image Source": "https://i.imgur.com/SjydueS.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Action",
@@ -92134,7 +92147,7 @@
         {
             "key": "7911",
             "Title": "أمير الظلام",
-            "Image Source": "https://i.imgur.com/MOYqOzo.jpg",
+            "Image Source": "https://i.imgur.com/JNslHWK.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92146,7 +92159,7 @@
         {
             "key": "7894",
             "Title": "كوستا برافا، لبنان",
-            "Image Source": "https://i.imgur.com/WsxYTtg.jpg",
+            "Image Source": "https://i.imgur.com/EoMqK5g.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92156,7 +92169,7 @@
         {
             "key": "7788",
             "Title": "الخلبوص",
-            "Image Source": "https://i.imgur.com/5eoKm4B.jpg",
+            "Image Source": "https://i.imgur.com/NLgYNLh.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92168,7 +92181,7 @@
         {
             "key": "7800",
             "Title": "غاوي مشاكل",
-            "Image Source": "https://i.imgur.com/Ufmz9qw.jpg",
+            "Image Source": "https://i.imgur.com/2NcxHEJ.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92180,7 +92193,7 @@
         {
             "key": "7798",
             "Title": "المشبوه",
-            "Image Source": "https://i.imgur.com/MiN2woO.jpg",
+            "Image Source": "https://i.imgur.com/mWePSa4.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama",
@@ -92191,7 +92204,7 @@
         {
             "key": "7797",
             "Title": "الحريف",
-            "Image Source": "https://i.imgur.com/iGm14tG.jpg",
+            "Image Source": "https://i.imgur.com/cNLyjhe.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92201,7 +92214,7 @@
         {
             "key": "7793",
             "Title": "محترم إلا ربع",
-            "Image Source": "https://i.imgur.com/M0VlYNc.jpg",
+            "Image Source": "https://i.imgur.com/ugLt3oA.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92212,7 +92225,7 @@
         {
             "key": "7791",
             "Title": "سالم أبو أخته",
-            "Image Source": "https://i.imgur.com/Q8Oym5e.jpg",
+            "Image Source": "https://i.imgur.com/zawziT3.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92223,7 +92236,7 @@
         {
             "key": "7790",
             "Title": "مولانا",
-            "Image Source": "https://i.imgur.com/etaQvpi.jpg",
+            "Image Source": "https://i.imgur.com/6HByO85.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92233,7 +92246,7 @@
         {
             "key": "7789",
             "Title": "إزاى البنات تحبك",
-            "Image Source": "https://i.imgur.com/eL7XOiH.jpg",
+            "Image Source": "https://i.imgur.com/LFWUAGN.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92245,7 +92258,7 @@
         {
             "key": "7786",
             "Title": "بيكيا",
-            "Image Source": "https://i.imgur.com/9LjfKiV.jpg",
+            "Image Source": "https://i.imgur.com/TsVTELG.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92256,7 +92269,7 @@
         {
             "key": "7785",
             "Title": "الكبار",
-            "Image Source": "https://i.imgur.com/0bllV6A.jpg",
+            "Image Source": "https://i.imgur.com/RlX3VDT.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92266,7 +92279,7 @@
         {
             "key": "7871",
             "Title": "سونيك القنفذ 2",
-            "Image Source": "https://i.imgur.com/bQfoqnb.jpg",
+            "Image Source": "https://i.imgur.com/6vYHDnl.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Action",
@@ -92290,7 +92303,7 @@
         {
             "key": "7835",
             "Title": "الباب الأخضر",
-            "Image Source": "https://i.imgur.com/i54TYtw.jpg",
+            "Image Source": "https://i.imgur.com/nmNyYCp.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Thriller",
@@ -92301,7 +92314,7 @@
         {
             "key": "7843",
             "Title": "النهر",
-            "Image Source": "https://i.imgur.com/cdwT0Yl.jpg",
+            "Image Source": "https://i.imgur.com/qE56Nuv.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92311,7 +92324,7 @@
         {
             "key": "7841",
             "Title": "بنات عبدالرحمن",
-            "Image Source": "https://i.imgur.com/CKlXyI8.jpg",
+            "Image Source": "https://i.imgur.com/xadByYY.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92322,7 +92335,7 @@
         {
             "key": "7840",
             "Title": "حياة امرأة",
-            "Image Source": "https://i.imgur.com/dUXGnda.jpg",
+            "Image Source": "https://i.imgur.com/OGrB6D8.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92332,7 +92345,7 @@
         {
             "key": "7839",
             "Title": "الحارة",
-            "Image Source": "https://i.imgur.com/eYGOwpl.jpg",
+            "Image Source": "https://i.imgur.com/vMMKwk8.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Thriller",
@@ -92343,7 +92356,7 @@
         {
             "key": "7830",
             "Title": "أما عن حالة الطقس",
-            "Image Source": "https://i.imgur.com/q8U9geq.jpg",
+            "Image Source": "https://i.imgur.com/sz8UJq1.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Drama"
@@ -92353,7 +92366,7 @@
         {
             "key": "7829",
             "Title": "هانوفيل",
-            "Image Source": "https://i.imgur.com/H9N48Sn.jpg",
+            "Image Source": "https://i.imgur.com/MM77ZsR.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Horror",
@@ -92364,7 +92377,7 @@
         {
             "key": "7822",
             "Title": "تسليم أهالي",
-            "Image Source": "https://i.imgur.com/P754xZs.jpg",
+            "Image Source": "https://i.imgur.com/SQoNNyL.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Comedy",
@@ -92375,7 +92388,7 @@
         {
             "key": "7795",
             "Title": "As a Prelude to Fear",
-            "Image Source": "https://i.imgur.com/MfEMr9d.jpg",
+            "Image Source": "https://i.imgur.com/w7Wq21f.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Thriller",
@@ -92386,7 +92399,7 @@
         {
             "key": "7774",
             "Title": "أشباح أوروبا",
-            "Image Source": "https://i.imgur.com/kxD8yuX.jpg",
+            "Image Source": "https://i.imgur.com/U70wbl2.jpg",
             "Category": "arabic-movies",
             "Genres": [
                 "Action",
@@ -118819,7 +118832,7 @@
         {
             "key": "3978",
             "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/GJWd3kk.jpg",
+            "Image Source": "https://i.imgur.com/HnwtUvD.jpg",
             "Category": "arabic-series",
             "Genres": [
                 "Romance",
@@ -118862,7 +118875,7 @@
         {
             "key": "3988",
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/C3XggJI.jpg",
+            "Image Source": "https://i.imgur.com/RHH8o1s.jpg",
             "Category": "arabic-series",
             "Genres": [
                 "Drama"
@@ -119080,6 +119093,17 @@
             "Category": "arabic-series",
             "Genres": [
                 "Action",
+                "Drama"
+            ],
+            "Rating": "N/A"
+        },
+        {
+            "key": "4053",
+            "Title": "إيكو",
+            "Image Source": "https://i.imgur.com/S9IO6o4.jpg",
+            "Category": "arabic-series",
+            "Genres": [
+                "Thriller",
                 "Drama"
             ],
             "Rating": "N/A"
