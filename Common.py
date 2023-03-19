@@ -66,7 +66,7 @@ def get_cookies(url: str, selector: tuple[By, str]) -> None:
     """Gets new cookies to bypass cloudfalre"""
     global cookies_dict, headers
 
-    driver = Chrome(use_subprocess=True, version_main=109)
+    driver = Chrome(use_subprocess=True, version_main=111)
     driver.minimize_window()
     driver.get(url)
 

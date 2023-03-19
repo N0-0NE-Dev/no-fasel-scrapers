@@ -9,8 +9,6 @@ series_process = Popen(["python", "FaselSeriesScraper.py"])
 anime_process = Popen(["python", "FaselAnimeScraper.py"])
 arabic_series_process = Popen(["python", "AkwamSeriesScraper.py"])
 arabic_movies_process = Popen(["python", "AkwamMoviesScaper.py"])
-hdw_movies_process = Popen(["python", "HDWMoviesScraper.py"])
-hdw_series_process = Popen(["python", "HDWSeriesScraper.py"])
 we_cima_process = Popen(["python", "WeCimaScraper.py"])
 
 
@@ -19,8 +17,6 @@ series_process.wait()
 anime_process.wait()
 arabic_series_process.wait()
 arabic_movies_process.wait()
-hdw_movies_process.wait()
-hdw_series_process.wait()
 we_cima_process.wait()
 
 trending_process = Popen(["python", "TrendingScraper.py"])
