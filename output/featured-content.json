@@ -1,6 +1,32 @@
 {
     "content": [
         {
+            "key": "211260",
+            "Title": "Boston Strangler",
+            "Image Source": "https://i.imgur.com/uLLrTmq.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "History"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 881164
+        },
+        {
+            "key": "210649",
+            "Title": "Avatar: The Way of Water",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Fantasy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 76600
+        },
+        {
             "key": "210724",
             "Title": "The Oscars",
             "Image Source": "https://i.imgur.com/cYAZagO.jpg",
@@ -23,19 +49,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 545611
-        },
-        {
-            "key": "210649",
-            "Title": "Avatar: The Way of Water",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Fantasy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 76600
         },
         {
             "key": "210463",
@@ -84,19 +97,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 818648
-        },
-        {
-            "key": "203856",
-            "Title": "M3gan",
-            "Image Source": "https://i.imgur.com/7tlhpoD.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Sci-fi",
-                "Horror"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 536554
         }
     ]
 }
