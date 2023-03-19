@@ -1,257 +1,337 @@
 {
     "movies": {
-        "188379": {
-            "Title": "Medieval",
-            "Image Source": "https://i.imgur.com/GmYMxJX.jpg",
+        "120613": {
+            "Title": "The Siege",
+            "Image Source": "https://imgpile.com/images/TuSReo.jpg",
             "Category": "movies",
             "Genres": [
                 "Action",
-                "Drama",
-                "History"
+                "Thriller"
             ],
-            "Rating": "5.9",
-            "TMDb ID": 551271
+            "Rating": "N/A",
+            "TMDb ID": 378385
         },
-        "210027": {
-            "Title": "The Devil Conspiracy",
-            "Image Source": "https://i.imgur.com/VYdBjPB.jpg",
+        "137828": {
+            "Title": "Motherly",
+            "Image Source": "https://imgpile.com/images/T7cC24.jpg",
             "Category": "movies",
             "Genres": [
                 "Thriller",
                 "Horror"
             ],
             "Rating": "N/A",
-            "TMDb ID": 296271
+            "TMDb ID": 768447
         },
-        "210023": {
-            "Title": "Living",
-            "Image Source": "https://i.imgur.com/M3aSWA3.jpg",
+        "211063": {
+            "Title": "Finding Michael",
+            "Image Source": "https://i.imgur.com/hBxAALa.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1044050
+        },
+        "210900": {
+            "Title": "Beautiful Beings",
+            "Image Source": "https://i.imgur.com/Ouqpqpn.jpg",
             "Category": "movies",
             "Genres": [
                 "Drama"
             ],
             "Rating": "N/A",
-            "TMDb ID": 760099
+            "TMDb ID": 637
         },
-        "210019": {
-            "Title": "Ambush",
-            "Image Source": "https://i.imgur.com/GRRc0WT.jpg",
+        "210735": {
+            "Title": "Cocaine Bear",
+            "Image Source": "https://i.imgur.com/LZEBHCW.jpg",
             "Category": "movies",
             "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1074034
-        },
-        "209969": {
-            "Title": "The Barn Part II",
-            "Image Source": "https://i.imgur.com/noswgr8.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 642781
-        },
-        "209945": {
-            "Title": "Sayen",
-            "Image Source": "https://i.imgur.com/uHGfwKY.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 850871
-        },
-        "209891": {
-            "Title": "Love at First Kiss",
-            "Image Source": "https://i.imgur.com/SflYzWe.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Romance",
+                "Thriller",
                 "Comedy"
             ],
             "Rating": "N/A",
-            "TMDb ID": 818648
+            "TMDb ID": 804150
         },
-        "192014": {
-            "Title": "Nocebo",
-            "Image Source": "https://i.imgur.com/vMwPUU9.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "5.8",
-            "TMDb ID": 782936
-        },
-        "187330": {
-            "Title": "Aftersun",
-            "Image Source": "https://i.imgur.com/oqJtcFE.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 965150
-        },
-        "191323": {
-            "Title": "Emily",
-            "Image Source": "https://i.imgur.com/Qpqpfv7.jpg",
+        "209623": {
+            "Title": "A Man Called Otto",
+            "Image Source": "https://i.imgur.com/kBDUmoj.jpg",
             "Category": "movies",
             "Genres": [
                 "Drama",
-                "Romance",
-                "Biography"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 862965
-        },
-        "209722": {
-            "Title": "Tonight Youre Sleeping with Me",
-            "Image Source": "https://i.imgur.com/pBKoVKb.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
+                "Comedy"
             ],
             "Rating": "N/A",
-            "TMDb ID": 1081313
+            "TMDb ID": 937278
+        },
+        "210715": {
+            "Title": "Legacy Peak",
+            "Image Source": "https://i.imgur.com/xNQoDdI.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1028493
+        },
+        "210708": {
+            "Title": "How Do You Measure a Year?",
+            "Image Source": "https://i.imgur.com/JYISw4d.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Short",
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 846854
+        },
+        "210699": {
+            "Title": "American Carnage",
+            "Image Source": "https://i.imgur.com/BLtPyDh.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Mystery",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 982752
+        },
+        "149898": {
+            "Title": "Everything Everywhere All at Once",
+            "Image Source": "https://imgpile.com/images/TUT9IL.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 545611
+        },
+        "190036": {
+            "Title": "All Quiet on the Western Front",
+            "Image Source": "https://i.imgur.com/B9duUVs.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "War"
+            ],
+            "Rating": "7.8",
+            "TMDb ID": 143
         }
     },
     "asian-series": {
-        "186448": {
-            "Title": "Three Bold Siblings",
-            "Image Source": "https://i.imgur.com/A75WeBp.jpg",
+        "206189": {
+            "Title": "Return Man",
+            "Image Source": "https://i.imgur.com/q6AFuAm.jpg",
             "Category": "asian-series",
             "Genres": [
-                "Comedy"
-            ],
-            "Rating": "8.6",
-            "TMDb ID": 204653
-        },
-        "209970": {
-            "Title": "Divorce Attorney Shin",
-            "Image Source": "https://i.imgur.com/7OWYnMh.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
+                "Comedy",
+                "Mystery"
             ],
             "Rating": "N/A",
-            "TMDb ID": 204241
+            "TMDb ID": 220047
         },
-        "203031": {
-            "Title": "Crash course in romance",
-            "Image Source": "https://i.imgur.com/2RwbYgv.jpg",
+        "106890": {
+            "Title": "Knowing Bros",
+            "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Comedy",
+                "Game-show",
+                "Reality-tv"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 70672
+        },
+        "207773": {
+            "Title": "The Heavenly Idol",
+            "Image Source": "https://i.imgur.com/j59rAoL.jpg",
             "Category": "asian-series",
             "Genres": [
                 "Romance"
             ],
-            "Rating": "8",
-            "TMDb ID": 202318
+            "Rating": "N/A",
+            "TMDb ID": 202625
         },
-        "204430": {
-            "Title": "Kokdu: Season of Deity",
-            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
+        "209743": {
+            "Title": "Delivery Man",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "asian-series",
             "Genres": [
-                "Drama",
                 "Fantasy"
             ],
-            "Rating": "7.3",
-            "TMDb ID": 210998
+            "Rating": "N/A",
+            "TMDb ID": 197081
         },
-        "208658": {
-            "Title": "Taxi Driver",
+        "210203": {
+            "Title": "Oasis",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 70793
+        },
+        "208972": {
+            "Title": "Call It Love",
+            "Image Source": "https://i.imgur.com/eITUR7u.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 215471
+        },
+        "207171": {
+            "Title": "Big Bet",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "asian-series",
             "Genres": [
                 "Action",
-                "Crime",
-                "Drama"
+                "Crime"
             ],
             "Rating": "N/A",
-            "TMDb ID": 119769
+            "TMDb ID": 112486
         },
-        "200508": {
-            "Title": "Island",
-            "Image Source": "https://i.imgur.com/dwc9A1L.jpg",
+        "205080": {
+            "Title": "Our Blooming Youth",
+            "Image Source": "https://i.imgur.com/LfEaswG.jpg",
             "Category": "asian-series",
             "Genres": [
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 66636
-        },
-        "209913": {
-            "Title": "Virgin",
-            "Image Source": "https://i.imgur.com/nhzvrbz.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
+                "Drama",
+                "History"
             ],
             "Rating": "N/A",
-            "TMDb ID": 73800
-        },
-        "209896": {
-            "Title": "In the Name of God: A Holy Betrayal",
-            "Image Source": "https://i.imgur.com/ZjsbGbA.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Crime",
-                "Documentary"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 218476
+            "TMDb ID": 154889
         }
     },
     "anime": {
-        "202321": {
-            "Title": "Ijiranaide, Nagatoro-San 2nd Attack",
-            "Image Source": "https://i.imgur.com/d0U6Tfl.jpg",
+        "201887": {
+            "Title": "Bungou Stray Dogs 4th Season",
+            "Image Source": "https://imgpile.com/images/dhweDN.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Romance",
+                "Action",
                 "Comedy"
             ],
-            "Rating": "7.45",
-            "TMDb ID": 105556
+            "Rating": "8.59",
+            "TMDb ID": 65931
         },
-        "205031": {
-            "Title": "Hirogaru Sky !Precure",
-            "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 213883
-        },
-        "202550": {
-            "Title": "Benriya Saitou-SAN, ISEKAI NI IKU",
-            "Image Source": "https://i.imgur.com/M4IMS3w.jpg",
+        "199190": {
+            "Title": "Oniichan Wa Oshimai!",
+            "Image Source": "https://i.imgur.com/Myp6IhO.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Comedy",
-                "Adventure"
+                "Comedy"
             ],
-            "Rating": "7.21",
-            "TMDb ID": 155942
+            "Rating": "7.31",
+            "TMDb ID": 198152
         },
-        "42952": {
-            "Title": "Detective Conan",
-            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
+        "201971": {
+            "Title": "Tomo-Chan Wa Onnanoko!",
+            "Image Source": "https://i.imgur.com/8Er2Ywd.jpg",
             "Category": "anime",
             "Genres": [
-                "Mystery",
-                "Comedy",
-                "Adventure"
+                "Animation",
+                "Drama",
+                "Comedy"
             ],
-            "Rating": "8.17",
-            "TMDb ID": 195923
+            "Rating": "7.56",
+            "TMDb ID": 205308
+        },
+        "202288": {
+            "Title": "Technoroid: Overmind",
+            "Image Source": "https://i.imgur.com/MBbECDC.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Sci-fi",
+                "Music"
+            ],
+            "Rating": "5.65",
+            "TMDb ID": 137811
+        },
+        "187023": {
+            "Title": "Idolish7: Third Beat! Part 2",
+            "Image Source": "https://i.imgur.com/XlLmQLn.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "8.24",
+            "TMDb ID": 76128
         }
     },
     "series": {
+        "211068": {
+            "Title": "Most Dangerous Game",
+            "Image Source": "https://i.imgur.com/eaTguse.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Short",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 90795
+        },
+        "210929": {
+            "Title": "Superman and Lois",
+            "Image Source": "https://i.imgur.com/qotOzSl.png",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 95057
+        },
+        "210909": {
+            "Title": "Gotham Knights",
+            "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 195868
+        },
+        "210906": {
+            "Title": "Ted Lasso",
+            "Image Source": "https://i.imgur.com/hz2PU3K.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 97546
+        },
+        "210236": {
+            "Title": "Perry Mason",
+            "Image Source": "https://i.imgur.com/yAUbeZx.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "History"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 4177
+        },
         "209726": {
             "Title": "Wrong Side of the Tracks",
             "Image Source": "https://i.imgur.com/mNjlAYa.jpg",
@@ -311,158 +391,79 @@
             "Rating": "N/A",
             "TMDb ID": 128066
         },
-        "209344": {
-            "Title": "Bel-Air",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "211090": {
+            "Title": "The Law of the Jungle",
+            "Image Source": "https://i.imgur.com/XhxOpS0.jpg",
             "Category": "series",
             "Genres": [
-                "Drama"
+                "Action",
+                "Adventure"
             ],
             "Rating": "N/A",
-            "TMDb ID": 107365
+            "TMDb ID": 52910
         },
-        "209295": {
-            "Title": "Snowfall",
-            "Image Source": "https://i.imgur.com/d9Pn9qK.jpg",
+        "104074": {
+            "Title": "Most Dangerous Game",
+            "Image Source": "https://imgpile.com/images/TK0ApG.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
-                "Drama"
+                "Action",
+                "Short",
+                "Thriller"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 71694
+            "Rating": "6.6",
+            "TMDb ID": 90795
         },
-        "209251": {
-            "Title": "Outer Banks",
-            "Image Source": "https://i.imgur.com/YOkYp5G.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 100757
-        },
-        "208908": {
-            "Title": "Magnum P.I.",
-            "Image Source": "https://i.imgur.com/rr2xroL.jpg",
+        "141264": {
+            "Title": "Superman and Lois",
+            "Image Source": "https://imgpile.com/images/TKyg5i.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
                 "Adventure",
-                "Crime"
+                "Drama"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 79593
+            "Rating": "7.8",
+            "TMDb ID": 95057
         },
-        "208685": {
-            "Title": "La Cabeza de Joaqun Murrieta",
-            "Image Source": "https://i.imgur.com/CdjlErB.jpg",
+        "201878": {
+            "Title": "Star Wars: The Bad Batch",
+            "Image Source": "https://i.imgur.com/ZXaqfnG.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Western"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "208679": {
-            "Title": "Wu Tang : An American Saga",
-            "Image Source": "https://i.imgur.com/uBDLChv.jpg",
-            "Category": "series",
-            "Genres": [
-                "Biography",
                 "Drama"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 90870
+            "Rating": "7.8",
+            "TMDb ID": 105971
         },
-        "209866": {
-            "Title": "Daisy Jones & The Six",
-            "Image Source": "https://i.imgur.com/B5eJpNQ.jpg",
+        "109806": {
+            "Title": "The Mandalorian",
+            "Image Source": "https://imgpile.com/images/TKFqGC.jpg",
             "Category": "series",
             "Genres": [
-                "Drama"
+                "Action",
+                "Adventure",
+                "Sci-fi"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 95555
-        },
-        "186811": {
-            "Title": "CSI: Vegas",
-            "Image Source": "https://i.imgur.com/IKajSPZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 122194
-        },
-        "203092": {
-            "Title": "Godfather of Harlem",
-            "Image Source": "https://i.imgur.com/xrlSKJh.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.1",
-            "TMDb ID": 79086
-        },
-        "203096": {
-            "Title": "Mayor of Kingstown",
-            "Image Source": "https://i.imgur.com/2h2Jt9M.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 97951
-        },
-        "188107": {
-            "Title": "Fire Country",
-            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 202297
+            "Rating": "8.7",
+            "TMDb ID": 82856
         }
     },
     "arabic-series": {
         "3976": {
             "Title": "بالطو",
-            "Image Source": "https://i.imgur.com/FFI13Xm.jpg",
+            "Image Source": "https://i.imgur.com/twPD9W9.jpg",
             "Category": "arabic-series"
         },
-        "3913": {
-            "Title": "عالم تاني",
-            "Image Source": "https://i.imgur.com/QIx61xn.jpg",
-            "Category": "arabic-series"
-        },
-        "4039": {
-            "Title": "أسيل",
-            "Image Source": "https://i.imgur.com/YggTLb0.jpg",
-            "Category": "arabic-series"
-        },
-        "2817": {
-            "Title": "وسط البلد",
-            "Image Source": "https://imgpile.com/images/b80yKW.jpg",
-            "Category": "arabic-series"
-        },
-        "3988": {
-            "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/8ebt5v8.jpg",
+        "3978": {
+            "Title": "ولاد العم الموسم الثاني",
+            "Image Source": "https://i.imgur.com/EG2a3ot.jpg",
             "Category": "arabic-series"
         },
         "3991": {
             "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/VCucwCK.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://i.imgur.com/evK6OPw.jpg",
+            "Image Source": "https://i.imgur.com/n5j7yaZ.jpg",
             "Category": "arabic-series"
         },
         "3516": {
@@ -470,21 +471,31 @@
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
-        "3974": {
-            "Title": "منطقة آمنة",
-            "Image Source": "https://i.imgur.com/yFVSgmE.jpg",
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://i.imgur.com/wm4UhBc.jpg",
+            "Category": "arabic-series"
+        },
+        "4039": {
+            "Title": "أسيل",
+            "Image Source": "https://i.imgur.com/e56snMM.jpg",
+            "Category": "arabic-series"
+        },
+        "4047": {
+            "Title": "الأوغوز التسعة الموسم الاول",
+            "Image Source": "https://i.imgur.com/woUtt8l.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/VkZHkam.jpg",
+            "Image Source": "https://i.imgur.com/hSwCWkH.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/Dy3bAT9.jpg",
+            "Image Source": "https://i.imgur.com/leA3EX7.jpg",
             "Category": "arabic-movies"
         }
     }
