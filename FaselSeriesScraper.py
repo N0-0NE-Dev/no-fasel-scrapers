@@ -48,7 +48,11 @@ def scrape_episodes(episode_list: ResultSet, last_episode_number: int = 0) -> di
 def scrape_season(season: Tag, series_id: str) -> dict:
     """Gets the sources of all the episodes in the season provided"""
     global old_series_dict
-    season_id = season.find("div")["data-href"]
+
+    try:
+        season_id = season.find("div")["data-href"]
+    except KeyError:
+        return {}
 
     season_number = int(remove_arabic_chars(
         season.find("div", class_="title").text).lstrip())
