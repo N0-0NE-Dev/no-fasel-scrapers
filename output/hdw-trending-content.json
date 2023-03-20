@@ -1,5 +1,17 @@
 {
     "hdwmovies": {
+        "22256": {
+            "key": "22256",
+            "Title": "Spell",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22256/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 621151
+        },
         "17806": {
             "key": "17806",
             "Title": "Out of Sight",
@@ -85,19 +97,6 @@
             ],
             "Rating": "7.5",
             "TMDb ID": 284052
-        },
-        "21464": {
-            "key": "21464",
-            "Title": "The Ritual",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21464/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror",
-                "Mystery",
-                "Thriller"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 433808
         }
     },
     "hdwseries": {
@@ -188,6 +187,32 @@
             ],
             "Rating": "7.6",
             "TMDb ID": 4177
+        },
+        "579": {
+            "key": "579",
+            "Title": "Mayor of Kingstown",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/579.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 97951
+        },
+        "416": {
+            "key": "416",
+            "Title": "Elementary",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 1415
         }
     },
     "arabic-series": {
@@ -198,44 +223,44 @@
         },
         "4039": {
             "Title": "أسيل",
-            "Image Source": "https://i.imgur.com/K35l5IZ.jpg",
-            "Category": "arabic-series"
-        },
-        "3991": {
-            "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/pUtnWa7.jpg",
+            "Image Source": "https://i.imgur.com/Fh87HL3.jpg",
             "Category": "arabic-series"
         },
         "3988": {
             "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/bLI542N.jpg",
+            "Image Source": "https://i.imgur.com/F2cuSKj.jpg",
             "Category": "arabic-series"
         },
-        "3798": {
-            "Title": "فتاة النافذة الموسم الثالث",
-            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/CzzPXjq.jpg",
             "Category": "arabic-series"
         },
-        "3978": {
-            "Title": "ولاد العم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/HnwtUvD.jpg",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/SBOVp1s.jpg",
+            "Image Source": "https://i.imgur.com/IXjv5n9.jpg",
             "Category": "arabic-movies"
         },
         "8059": {
             "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/bH9ONU0.jpg",
+            "Image Source": "https://i.imgur.com/UnaMUs4.jpg",
             "Category": "arabic-movies"
         },
         "8231": {
             "Title": "فيلة الساحر",
-            "Image Source": "https://i.imgur.com/gFVZwLG.jpg",
+            "Image Source": "https://i.imgur.com/Q24uEPx.jpg",
             "Category": "arabic-movies"
         }
     }
