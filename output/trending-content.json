@@ -102,32 +102,20 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 948050
-        },
-        "211266": {
-            "Title": "Caught Out: Crime. Corruption. Cricket",
-            "Image Source": "https://i.imgur.com/CEo1YpY.jpg",
-            "Category": "movies",
+        }
+    },
+    "asian-series": {
+        "205080": {
+            "Title": "Our Blooming Youth",
+            "Image Source": "https://i.imgur.com/LfEaswG.jpg",
+            "Category": "asian-series",
             "Genres": [
-                "Sport",
-                "Documentary"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1097806
-        },
-        "211260": {
-            "Title": "Boston Strangler",
-            "Image Source": "https://i.imgur.com/uLLrTmq.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Crime",
                 "Drama",
                 "History"
             ],
             "Rating": "N/A",
-            "TMDb ID": 881164
-        }
-    },
-    "asian-series": {
+            "TMDb ID": 154889
+        },
         "186448": {
             "Title": "Three Bold Siblings",
             "Image Source": "https://i.imgur.com/A75WeBp.jpg",
@@ -191,30 +179,45 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 119769
-        },
-        "122431": {
-            "Title": "Taxi Driver",
-            "Image Source": "https://imgpile.com/images/TKfovW.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 119769
-        },
-        "207773": {
-            "Title": "The Heavenly Idol",
-            "Image Source": "https://i.imgur.com/j59rAoL.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Romance"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 202625
         }
     },
     "anime": {
+        "188255": {
+            "Title": "Yowamushi Pedal: Limit Break",
+            "Image Source": "https://i.imgur.com/9Njh4O1.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "7.48",
+            "TMDb ID": 61441
+        },
+        "202701": {
+            "Title": "Mononogatari",
+            "Image Source": "https://i.imgur.com/CjBXuem.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "7.93",
+            "TMDb ID": 138948
+        },
+        "202631": {
+            "Title": "Vinland Saga Season 2",
+            "Image Source": "https://i.imgur.com/8px8auH.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "8.73",
+            "TMDb ID": 88803
+        },
         "202558": {
             "Title": "Kyokou Suiri Season 2",
             "Image Source": "https://i.imgur.com/KWZ6FXX.jpg",
@@ -226,47 +229,6 @@
             ],
             "Rating": "7.06",
             "TMDb ID": 93653
-        },
-        "205031": {
-            "Title": "Hirogaru Sky !Precure",
-            "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 213883
-        },
-        "202529": {
-            "Title": "Nokemono-Tachi no Yoru",
-            "Image Source": "https://imgpile.com/images/dhwV6l.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation"
-            ],
-            "Rating": "6.81",
-            "TMDb ID": 205111
-        },
-        "202550": {
-            "Title": "Benriya Saitou-SAN, ISEKAI NI IKU",
-            "Image Source": "https://i.imgur.com/M4IMS3w.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "7.21",
-            "TMDb ID": 155942
-        },
-        "43961": {
-            "Title": "Boruto Naruto Next Generations",
-            "Image Source": "https://imgpile.com/images/TJwlGj.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "5.72",
-            "TMDb ID": 70881
         }
     },
     "series": {
@@ -363,51 +325,82 @@
             "Rating": "N/A",
             "TMDb ID": 4177
         },
-        "203092": {
-            "Title": "Godfather of Harlem",
-            "Image Source": "https://i.imgur.com/xrlSKJh.jpg",
+        "203493": {
+            "Title": "Your Honor",
+            "Image Source": "https://i.imgur.com/4mMQgaY.jpg",
             "Category": "series",
             "Genres": [
                 "Crime",
-                "Drama"
+                "Drama",
+                "Thriller"
             ],
-            "Rating": "8.1",
-            "TMDb ID": 79086
+            "Rating": "7.6",
+            "TMDb ID": 86430
         },
-        "203096": {
-            "Title": "Mayor of Kingstown",
-            "Image Source": "https://i.imgur.com/2h2Jt9M.jpg",
+        "208912": {
+            "Title": "The Company You Keep",
+            "Image Source": "https://i.imgur.com/c0pcJPH.jpg",
             "Category": "series",
             "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 208713
+        },
+        "208908": {
+            "Title": "Magnum P.I.",
+            "Image Source": "https://i.imgur.com/rr2xroL.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Crime"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 79593
+        },
+        "188230": {
+            "Title": "NCIS: Los Angeles",
+            "Image Source": "https://i.imgur.com/hVpNgtO.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "8.2",
-            "TMDb ID": 97951
+            "Rating": "6.8",
+            "TMDb ID": 17610
         },
-        "186264": {
-            "Title": "Abbott Elementary",
-            "Image Source": "https://i.imgur.com/mZuIM3e.jpg",
+        "187093": {
+            "Title": "East New York",
+            "Image Source": "https://i.imgur.com/qfchC34.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy"
+                "Drama"
             ],
-            "Rating": "8.2",
-            "TMDb ID": 125935
+            "Rating": "7.1",
+            "TMDb ID": 202296
         },
-        "203710": {
-            "Title": "BMF",
-            "Image Source": "https://i.imgur.com/evhRVLa.jpg",
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
             "Category": "series",
             "Genres": [
                 "Crime",
-                "Drama"
+                "Drama",
+                "Mystery",
+                "Thriller"
             ],
-            "Rating": "7.5",
-            "TMDb ID": 101591
+            "Rating": "N/A",
+            "TMDb ID": 46952
         }
     },
     "arabic-series": {
+        "4075": {
+            "Title": "كامل العدد",
+            "Image Source": "https://i.imgur.com/6bhG1YP.jpg",
+            "Category": "arabic-series"
+        },
         "3976": {
             "Title": "بالطو",
             "Image Source": "https://i.imgur.com/twPD9W9.jpg",
@@ -415,17 +408,7 @@
         },
         "4039": {
             "Title": "أسيل",
-            "Image Source": "https://i.imgur.com/Fh87HL3.jpg",
-            "Category": "arabic-series"
-        },
-        "3988": {
-            "Title": "تياترو",
-            "Image Source": "https://i.imgur.com/F2cuSKj.jpg",
-            "Category": "arabic-series"
-        },
-        "3991": {
-            "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/CzzPXjq.jpg",
+            "Image Source": "https://i.imgur.com/cieQG6o.jpg",
             "Category": "arabic-series"
         },
         "3516": {
@@ -433,26 +416,26 @@
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "3991": {
+            "Title": "الأصلي",
+            "Image Source": "https://i.imgur.com/FnYch51.jpg",
+            "Category": "arabic-series"
+        },
+        "3988": {
+            "Title": "تياترو",
+            "Image Source": "https://i.imgur.com/MRiGlry.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
         "8087": {
             "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/IXjv5n9.jpg",
-            "Category": "arabic-movies"
-        },
-        "8059": {
-            "Title": "حظك اليوم",
-            "Image Source": "https://i.imgur.com/UnaMUs4.jpg",
+            "Image Source": "https://i.imgur.com/WjvhCQw.jpg",
             "Category": "arabic-movies"
         },
         "8231": {
             "Title": "فيلة الساحر",
-            "Image Source": "https://i.imgur.com/Q24uEPx.jpg",
+            "Image Source": "https://i.imgur.com/g093pts.jpg",
             "Category": "arabic-movies"
         }
     }
