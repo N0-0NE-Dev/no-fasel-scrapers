@@ -100,31 +100,9 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 776835
-        },
-        "202187": {
-            "Title": "Puss in Boots: The Last Wish",
-            "Image Source": "https://i.imgur.com/kIIQohj.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Animation",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 315162
         }
     },
     "asian-series": {
-        "207773": {
-            "Title": "The Heavenly Idol",
-            "Image Source": "https://i.imgur.com/j59rAoL.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Romance"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 202625
-        },
         "209743": {
             "Title": "Delivery Man",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -134,6 +112,16 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 197081
+        },
+        "207773": {
+            "Title": "The Heavenly Idol",
+            "Image Source": "https://i.imgur.com/j59rAoL.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Romance"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 202625
         },
         "210203": {
             "Title": "Oasis",
@@ -177,19 +165,21 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 154889
-        },
-        "186448": {
-            "Title": "Three Bold Siblings",
-            "Image Source": "https://i.imgur.com/A75WeBp.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "8.6",
-            "TMDb ID": 204653
         }
     },
     "anime": {
+        "201977": {
+            "Title": "Revenger",
+            "Image Source": "https://i.imgur.com/MrqlN4r.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "6.74",
+            "TMDb ID": 211297
+        },
         "208786": {
             "Title": "Mou iPPON!",
             "Image Source": "https://i.imgur.com/maBcCju.jpg",
@@ -221,18 +211,6 @@
             ],
             "Rating": "5.65",
             "TMDb ID": 137811
-        },
-        "203411": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Urbanrama-Hen",
-            "Image Source": "https://i.imgur.com/nbv8cSp.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "6.22",
-            "TMDb ID": 91764
         }
     },
     "series": {
@@ -328,123 +306,153 @@
             "Rating": "N/A",
             "TMDb ID": 97546
         },
-        "201891": {
-            "Title": "Will Trent",
-            "Image Source": "https://i.imgur.com/YY4sZjr.jpg",
+        "208036": {
+            "Title": "Star Trek: Picard",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Sci-fi"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 85949
+        },
+        "209295": {
+            "Title": "Snowfall",
+            "Image Source": "https://i.imgur.com/d9Pn9qK.jpg",
             "Category": "series",
             "Genres": [
                 "Crime",
-                "Drama"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 208569
-        },
-        "187265": {
-            "Title": "The Rookie: Feds",
-            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action"
-            ],
-            "Rating": "4.9",
-            "TMDb ID": 201992
-        },
-        "186521": {
-            "Title": "The Rookie",
-            "Image Source": "https://i.imgur.com/VujMOU4.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8",
-            "TMDb ID": 79744
-        },
-        "118258": {
-            "Title": "Invisible City",
-            "Image Source": "https://imgpile.com/images/TKggVM.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.2",
-            "TMDb ID": 157433
-        },
-        "208679": {
-            "Title": "Wu Tang : An American Saga",
-            "Image Source": "https://i.imgur.com/uBDLChv.jpg",
-            "Category": "series",
-            "Genres": [
-                "Biography",
                 "Drama"
             ],
             "Rating": "N/A",
-            "TMDb ID": 90870
+            "TMDb ID": 71694
+        },
+        "186054": {
+            "Title": "NCIS: Hawaii",
+            "Image Source": "https://i.imgur.com/DmcnT5K.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime"
+            ],
+            "Rating": "6.5",
+            "TMDb ID": 124271
+        },
+        "186215": {
+            "Title": "Chicago Fire",
+            "Image Source": "https://i.imgur.com/mn9Yzye.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Drama"
+            ],
+            "Rating": "8",
+            "TMDb ID": 44006
         }
     },
     "arabic-series": {
+        "4086": {
+            "Title": "رشيد",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4102": {
+            "Title": "علاقة مشروعة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4088": {
+            "Title": "إكس لانس",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4074": {
+            "Title": "سوق الكانتو",
+            "Image Source": "https://i.imgur.com/ZjCi0Yn.jpg",
+            "Category": "arabic-series"
+        },
+        "4071": {
+            "Title": "الكبير أوي الموسم السابع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4073": {
+            "Title": "المداح ج3 : أسطورة العشق",
+            "Image Source": "https://i.imgur.com/bPBUyG8.jpg",
+            "Category": "arabic-series"
+        },
+        "4078": {
+            "Title": "الكتيبة 101",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4103": {
+            "Title": "بابا المجال",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4081": {
+            "Title": "الصفارة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4093": {
+            "Title": "سره الباتع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4070": {
+            "Title": "الأجهر",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4072": {
+            "Title": "جعفر العمدة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4096": {
             "Title": "ضرب نار",
             "Image Source": "https://i.imgur.com/8ACfi2X.jpg",
             "Category": "arabic-series"
         },
-        "4086": {
-            "Title": "رشيد",
-            "Image Source": "https://i.imgur.com/EEKqlSO.jpg",
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/8l1vVtb.jpg",
             "Category": "arabic-series"
         },
-        "4073": {
-            "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/HjyuGup.jpg",
+        "4097": {
+            "Title": "وعود سخية",
+            "Image Source": "https://i.imgur.com/Q9v8Xj8.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
-            "Image Source": "https://i.imgur.com/P24qizL.jpg",
-            "Category": "arabic-series"
-        },
-        "3976": {
-            "Title": "بالطو",
-            "Image Source": "https://i.imgur.com/twPD9W9.jpg",
+        "4095": {
+            "Title": "مذكرات زوج",
+            "Image Source": "https://i.imgur.com/HqDdGKp.jpg",
             "Category": "arabic-series"
         },
         "4075": {
             "Title": "كامل العدد",
-            "Image Source": "https://i.imgur.com/zid6dBg.jpg",
-            "Category": "arabic-series"
-        },
-        "3991": {
-            "Title": "الأصلي",
-            "Image Source": "https://i.imgur.com/aaRG8jo.jpg",
-            "Category": "arabic-series"
-        },
-        "4039": {
-            "Title": "أسيل",
-            "Image Source": "https://i.imgur.com/m5Hp8H7.jpg",
-            "Category": "arabic-series"
-        },
-        "4136": {
-            "Title": "باب الحارة الموسم الثالث عشر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4094": {
-            "Title": "رمضان كريم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/iNpGqkj.jpg",
+        "4082": {
+            "Title": "حضرة العمدة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4098": {
+            "Title": "عملة نادرة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
-        "8087": {
-            "Title": "خطة مازنجر",
-            "Image Source": "https://i.imgur.com/ig2HoQq.jpg",
-            "Category": "arabic-movies"
-        },
         "8231": {
             "Title": "فيلة الساحر",
-            "Image Source": "https://i.imgur.com/5cVFuoZ.jpg",
+            "Image Source": "https://i.imgur.com/Rdoqo0Y.jpg",
             "Category": "arabic-movies"
         }
     }
