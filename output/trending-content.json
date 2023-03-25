@@ -65,44 +65,32 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 972230
-        },
-        "211372": {
-            "Title": "Out of Exile",
-            "Image Source": "https://i.imgur.com/f8rOHvx.jpg",
-            "Category": "movies",
+        }
+    },
+    "asian-series": {
+        "204430": {
+            "Title": "Kokdu: Season of Deity",
+            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
+            "Category": "asian-series",
             "Genres": [
-                "Thriller",
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "7.3",
+            "TMDb ID": 210998
+        },
+        "208658": {
+            "Title": "Taxi Driver",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
                 "Crime",
                 "Drama"
             ],
             "Rating": "N/A",
-            "TMDb ID": 729165
+            "TMDb ID": 119769
         },
-        "211368": {
-            "Title": "Leave",
-            "Image Source": "https://i.imgur.com/YNGlxvP.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 983526
-        },
-        "211290": {
-            "Title": "The Magicians Elephant",
-            "Image Source": "https://i.imgur.com/CVjADs0.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Animation",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 776835
-        }
-    },
-    "asian-series": {
         "209743": {
             "Title": "Delivery Man",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -168,6 +156,40 @@
         }
     },
     "anime": {
+        "202237": {
+            "Title": "Buddy Daddies",
+            "Image Source": "https://i.imgur.com/eqitot7.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Action",
+                "Comedy"
+            ],
+            "Rating": "7.76",
+            "TMDb ID": 212963
+        },
+        "202251": {
+            "Title": "ISEKAI NONBIRI NOUKA",
+            "Image Source": "https://i.imgur.com/k8LrQh3.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Fantasy"
+            ],
+            "Rating": "7.36",
+            "TMDb ID": 196285
+        },
+        "199190": {
+            "Title": "Oniichan Wa Oshimai!",
+            "Image Source": "https://i.imgur.com/Myp6IhO.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "Rating": "7.31",
+            "TMDb ID": 198152
+        },
         "201977": {
             "Title": "Revenger",
             "Image Source": "https://i.imgur.com/MrqlN4r.jpg",
@@ -179,38 +201,6 @@
             ],
             "Rating": "6.74",
             "TMDb ID": 211297
-        },
-        "208786": {
-            "Title": "Mou iPPON!",
-            "Image Source": "https://i.imgur.com/maBcCju.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 128824
-        },
-        "201887": {
-            "Title": "Bungou Stray Dogs 4th Season",
-            "Image Source": "https://imgpile.com/images/dhweDN.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Comedy"
-            ],
-            "Rating": "8.59",
-            "TMDb ID": 65931
-        },
-        "202288": {
-            "Title": "Technoroid: Overmind",
-            "Image Source": "https://i.imgur.com/MBbECDC.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Sci-fi",
-                "Music"
-            ],
-            "Rating": "5.65",
-            "TMDb ID": 137811
         }
     },
     "series": {
@@ -306,91 +296,77 @@
             "Rating": "N/A",
             "TMDb ID": 97546
         },
-        "208036": {
-            "Title": "Star Trek: Picard",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "145828": {
+            "Title": "Good Trouble",
+            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
-                "Adventure",
+                "Comedy",
                 "Drama",
-                "Sci-fi"
+                "Romance"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 85949
+            "Rating": "7.5",
+            "TMDb ID": 80006
         },
-        "209295": {
-            "Title": "Snowfall",
-            "Image Source": "https://i.imgur.com/d9Pn9qK.jpg",
+        "187446": {
+            "Title": "Greys Anatomy",
+            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
-                "Drama"
+                "Drama",
+                "Romance"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 71694
+            "Rating": "7.6",
+            "TMDb ID": 1416
         },
-        "186054": {
-            "Title": "NCIS: Hawaii",
-            "Image Source": "https://i.imgur.com/DmcnT5K.jpg",
+        "208611": {
+            "Title": "Animal Control",
+            "Image Source": "https://i.imgur.com/mUyXIKD.jpg",
             "Category": "series",
             "Genres": [
-                "Crime"
+                "Comedy"
             ],
-            "Rating": "6.5",
-            "TMDb ID": 124271
+            "Rating": "N/A",
+            "TMDb ID": 214162
         },
-        "186215": {
-            "Title": "Chicago Fire",
-            "Image Source": "https://i.imgur.com/mn9Yzye.jpg",
+        "187458": {
+            "Title": "Station 19",
+            "Image Source": "https://i.imgur.com/vDXUpLn.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Drama"
+                "Drama",
+                "Romance",
+                "Thriller"
             ],
-            "Rating": "8",
-            "TMDb ID": 44006
+            "Rating": "6.9",
+            "TMDb ID": 76773
         }
     },
     "arabic-series": {
         "4086": {
             "Title": "رشيد",
+            "Image Source": "https://i.imgur.com/oGkhR6b.jpg",
+            "Category": "arabic-series"
+        },
+        "4073": {
+            "Title": "المداح ج3 : أسطورة العشق",
+            "Image Source": "https://i.imgur.com/oTBBF18.jpg",
+            "Category": "arabic-series"
+        },
+        "4074": {
+            "Title": "سوق الكانتو",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4102": {
             "Title": "علاقة مشروعة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4088": {
-            "Title": "إكس لانس",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4074": {
-            "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/ZjCi0Yn.jpg",
-            "Category": "arabic-series"
-        },
-        "4071": {
-            "Title": "الكبير أوي الموسم السابع",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4073": {
-            "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/bPBUyG8.jpg",
+            "Image Source": "https://i.imgur.com/6qBU5cE.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4103": {
-            "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/IUtVs9o.jpg",
             "Category": "arabic-series"
         },
         "4081": {
@@ -398,8 +374,8 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4088": {
+            "Title": "إكس لانس",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -415,32 +391,47 @@
         },
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/8ACfi2X.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4071": {
+            "Title": "الكبير أوي الموسم السابع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4093": {
+            "Title": "سره الباتع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4103": {
+            "Title": "بابا المجال",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4077": {
+            "Title": "الهرشة السابعة",
+            "Image Source": "https://i.imgur.com/OeqUYtr.jpg",
             "Category": "arabic-series"
         },
         "4150": {
             "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/8l1vVtb.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/Q9v8Xj8.jpg",
+            "Image Source": "https://i.imgur.com/hNS6i6R.jpg",
             "Category": "arabic-series"
         },
         "4095": {
             "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/HqDdGKp.jpg",
-            "Category": "arabic-series"
-        },
-        "4075": {
-            "Title": "كامل العدد",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/qKnQvTE.jpg",
             "Category": "arabic-series"
         },
         "4082": {
             "Title": "حضرة العمدة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/4ocrivN.jpg",
             "Category": "arabic-series"
         },
         "4098": {
@@ -449,11 +440,5 @@
             "Category": "arabic-series"
         }
     },
-    "arabic-movies": {
-        "8231": {
-            "Title": "فيلة الساحر",
-            "Image Source": "https://i.imgur.com/Rdoqo0Y.jpg",
-            "Category": "arabic-movies"
-        }
-    }
+    "arabic-movies": {}
 }
