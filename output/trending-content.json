@@ -1,5 +1,58 @@
 {
     "movies": {
+        "212141": {
+            "Title": "Born Dead",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 876573
+        },
+        "210649": {
+            "Title": "Avatar: The Way of Water",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Fantasy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 76600
+        },
+        "212138": {
+            "Title": "An Unexpected Christmas",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Romance"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 874124
+        },
+        "212085": {
+            "Title": "Kill Her Goats",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1073079
+        },
+        "212080": {
+            "Title": "Johnny",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Biography"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 920220
+        },
         "211596": {
             "Title": "Leilas Brothers",
             "Image Source": "https://i.imgur.com/5ULMyIj.jpg",
@@ -32,52 +85,20 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1028248
-        },
-        "211567": {
-            "Title": "Winnie the Pooh: Blood and Honey",
-            "Image Source": "https://i.imgur.com/Zm5DrAh.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 980078
-        },
-        "211425": {
-            "Title": "Supercell",
-            "Image Source": "https://i.imgur.com/9O0qmqs.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 842945
-        },
-        "211378": {
-            "Title": "Maybe I Do",
-            "Image Source": "https://i.imgur.com/AtDMoIL.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 972230
         }
     },
     "asian-series": {
-        "204430": {
-            "Title": "Kokdu: Season of Deity",
-            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
+        "106890": {
+            "Title": "Knowing Bros",
+            "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
             "Category": "asian-series",
             "Genres": [
-                "Drama",
-                "Fantasy"
+                "Comedy",
+                "Game-show",
+                "Reality-tv"
             ],
-            "Rating": "7.3",
-            "TMDb ID": 210998
+            "Rating": "8.2",
+            "TMDb ID": 70672
         },
         "208658": {
             "Title": "Taxi Driver",
@@ -89,6 +110,49 @@
                 "Drama"
             ],
             "Rating": "N/A",
+            "TMDb ID": 119769
+        },
+        "210577": {
+            "Title": "Pandora: Beneath the Paradise",
+            "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 203344
+        },
+        "209970": {
+            "Title": "Divorce Attorney Shin",
+            "Image Source": "https://i.imgur.com/7OWYnMh.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 204241
+        },
+        "204430": {
+            "Title": "Kokdu: Season of Deity",
+            "Image Source": "https://i.imgur.com/3bxg1It.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "7.3",
+            "TMDb ID": 210998
+        },
+        "122431": {
+            "Title": "Taxi Driver",
+            "Image Source": "https://imgpile.com/images/TKfovW.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "8.2",
             "TMDb ID": 119769
         },
         "209743": {
@@ -120,87 +184,67 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 70793
-        },
-        "208972": {
-            "Title": "Call It Love",
-            "Image Source": "https://i.imgur.com/eITUR7u.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 215471
-        },
-        "207171": {
-            "Title": "Big Bet",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Crime"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 112486
-        },
-        "205080": {
-            "Title": "Our Blooming Youth",
-            "Image Source": "https://i.imgur.com/LfEaswG.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "History"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 154889
         }
     },
     "anime": {
-        "202237": {
-            "Title": "Buddy Daddies",
-            "Image Source": "https://i.imgur.com/eqitot7.jpg",
+        "202994": {
+            "Title": "Shin Shinka No Mi: Shiranai Uchi Ni Kachigumi Jinsei",
+            "Image Source": "https://i.imgur.com/bUD854D.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Action",
-                "Comedy"
+                "Comedy",
+                "Adventure"
             ],
-            "Rating": "7.76",
-            "TMDb ID": 212963
+            "Rating": "6.51",
+            "TMDb ID": 117706
         },
-        "202251": {
-            "Title": "ISEKAI NONBIRI NOUKA",
-            "Image Source": "https://i.imgur.com/k8LrQh3.jpg",
+        "202339": {
+            "Title": "Roukin",
+            "Image Source": "https://i.imgur.com/ecTolnb.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
                 "Fantasy"
             ],
-            "Rating": "7.36",
-            "TMDb ID": 196285
+            "Rating": "6.79",
+            "TMDb ID": 206748
         },
-        "199190": {
-            "Title": "Oniichan Wa Oshimai!",
-            "Image Source": "https://i.imgur.com/Myp6IhO.jpg",
+        "202327": {
+            "Title": "tokyo Revengers: Seiya Kessen-Hen",
+            "Image Source": "https://i.imgur.com/YjUPFn3.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
-                "Comedy"
+                "Crime",
+                "Action"
             ],
-            "Rating": "7.31",
-            "TMDb ID": 198152
+            "Rating": "7.77",
+            "TMDb ID": 105009
         },
-        "201977": {
-            "Title": "Revenger",
-            "Image Source": "https://i.imgur.com/MrqlN4r.jpg",
+        "188161": {
+            "Title": "Blue Lock",
+            "Image Source": "https://i.imgur.com/dHfWm4r.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
                 "Action",
+                "Mystery"
+            ],
+            "Rating": "8.27",
+            "TMDb ID": 131041
+        },
+        "42952": {
+            "Title": "Detective Conan",
+            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Mystery",
+                "Comedy",
                 "Adventure"
             ],
-            "Rating": "6.74",
-            "TMDb ID": 211297
+            "Rating": "8.17",
+            "TMDb ID": 195923
         }
     },
     "series": {
@@ -296,6 +340,18 @@
             "Rating": "N/A",
             "TMDb ID": 97546
         },
+        "187455": {
+            "Title": "Walker",
+            "Image Source": "https://i.imgur.com/jBnONnL.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.1",
+            "TMDb ID": 99121
+        },
         "145828": {
             "Title": "Good Trouble",
             "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
@@ -328,25 +384,17 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 214162
-        },
-        "187458": {
-            "Title": "Station 19",
-            "Image Source": "https://i.imgur.com/vDXUpLn.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Romance",
-                "Thriller"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 76773
         }
     },
     "arabic-series": {
         "4086": {
             "Title": "رشيد",
             "Image Source": "https://i.imgur.com/oGkhR6b.jpg",
+            "Category": "arabic-series"
+        },
+        "4096": {
+            "Title": "ضرب نار",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4073": {
@@ -369,6 +417,11 @@
             "Image Source": "https://i.imgur.com/IUtVs9o.jpg",
             "Category": "arabic-series"
         },
+        "4103": {
+            "Title": "بابا المجال",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4081": {
             "Title": "الصفارة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -389,11 +442,6 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4096": {
-            "Title": "ضرب نار",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4071": {
             "Title": "الكبير أوي الموسم السابع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -401,21 +449,6 @@
         },
         "4093": {
             "Title": "سره الباتع",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4103": {
-            "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4077": {
-            "Title": "الهرشة السابعة",
-            "Image Source": "https://i.imgur.com/OeqUYtr.jpg",
-            "Category": "arabic-series"
-        },
-        "4150": {
-            "Title": "ليلة السقوط",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -432,11 +465,6 @@
         "4082": {
             "Title": "حضرة العمدة",
             "Image Source": "https://i.imgur.com/4ocrivN.jpg",
-            "Category": "arabic-series"
-        },
-        "4098": {
-            "Title": "عملة نادرة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
