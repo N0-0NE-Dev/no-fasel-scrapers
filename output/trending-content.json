@@ -88,6 +88,27 @@
         }
     },
     "asian-series": {
+        "210577": {
+            "Title": "Pandora: Beneath the Paradise",
+            "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 203344
+        },
+        "209970": {
+            "Title": "Divorce Attorney Shin",
+            "Image Source": "https://i.imgur.com/7OWYnMh.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 204241
+        },
         "106890": {
             "Title": "Knowing Bros",
             "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
@@ -111,27 +132,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 119769
-        },
-        "210577": {
-            "Title": "Pandora: Beneath the Paradise",
-            "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 203344
-        },
-        "209970": {
-            "Title": "Divorce Attorney Shin",
-            "Image Source": "https://i.imgur.com/7OWYnMh.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 204241
         },
         "204430": {
             "Title": "Kokdu: Season of Deity",
@@ -174,77 +174,50 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 202625
-        },
-        "210203": {
-            "Title": "Oasis",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 70793
         }
     },
     "anime": {
-        "202994": {
-            "Title": "Shin Shinka No Mi: Shiranai Uchi Ni Kachigumi Jinsei",
-            "Image Source": "https://i.imgur.com/bUD854D.jpg",
+        "203695": {
+            "Title": "d4dj all mix",
+            "Image Source": "https://i.imgur.com/YTKbcdq.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Music"
+            ],
+            "Rating": "7.52",
+            "TMDb ID": 102655
+        },
+        "205031": {
+            "Title": "Hirogaru Sky !Precure",
+            "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 213883
+        },
+        "202224": {
+            "Title": "Nijiyon Animation",
+            "Image Source": "https://i.imgur.com/cOP9WUN.png",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Comedy"
+            ],
+            "Rating": "6.70",
+            "TMDb ID": 210511
+        },
+        "202550": {
+            "Title": "Benriya Saitou-SAN, ISEKAI NI IKU",
+            "Image Source": "https://i.imgur.com/M4IMS3w.jpg",
             "Category": "anime",
             "Genres": [
                 "Animation",
                 "Comedy",
                 "Adventure"
             ],
-            "Rating": "6.51",
-            "TMDb ID": 117706
-        },
-        "202339": {
-            "Title": "Roukin",
-            "Image Source": "https://i.imgur.com/ecTolnb.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Fantasy"
-            ],
-            "Rating": "6.79",
-            "TMDb ID": 206748
-        },
-        "202327": {
-            "Title": "tokyo Revengers: Seiya Kessen-Hen",
-            "Image Source": "https://i.imgur.com/YjUPFn3.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Crime",
-                "Action"
-            ],
-            "Rating": "7.77",
-            "TMDb ID": 105009
-        },
-        "188161": {
-            "Title": "Blue Lock",
-            "Image Source": "https://i.imgur.com/dHfWm4r.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Mystery"
-            ],
-            "Rating": "8.27",
-            "TMDb ID": 131041
-        },
-        "42952": {
-            "Title": "Detective Conan",
-            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Mystery",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "8.17",
-            "TMDb ID": 195923
+            "Rating": "7.21",
+            "TMDb ID": 155942
         }
     },
     "series": {
@@ -340,90 +313,79 @@
             "Rating": "N/A",
             "TMDb ID": 97546
         },
-        "187455": {
-            "Title": "Walker",
-            "Image Source": "https://i.imgur.com/jBnONnL.jpg",
+        "208866": {
+            "Title": "Law & Order: Organized Crime",
+            "Image Source": "https://i.imgur.com/kAzFD8M.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 106158
+        },
+        "203092": {
+            "Title": "Godfather of Harlem",
+            "Image Source": "https://i.imgur.com/xrlSKJh.jpg",
+            "Category": "series",
+            "Genres": [
                 "Crime",
                 "Drama"
             ],
-            "Rating": "6.1",
-            "TMDb ID": 99121
+            "Rating": "8.1",
+            "TMDb ID": 79086
         },
-        "145828": {
-            "Title": "Good Trouble",
-            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 80006
-        },
-        "187446": {
-            "Title": "Greys Anatomy",
-            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
+        "137464": {
+            "Title": "Yellowjackets",
+            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
             "Category": "series",
             "Genres": [
                 "Drama",
-                "Romance"
+                "Horror"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
-        },
-        "208611": {
-            "Title": "Animal Control",
-            "Image Source": "https://i.imgur.com/mUyXIKD.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 214162
+            "Rating": "7.9",
+            "TMDb ID": 117488
         }
     },
     "arabic-series": {
         "4086": {
             "Title": "رشيد",
-            "Image Source": "https://i.imgur.com/oGkhR6b.jpg",
+            "Image Source": "https://i.imgur.com/dVPBKJk.jpg",
             "Category": "arabic-series"
         },
         "4096": {
             "Title": "ضرب نار",
+            "Image Source": "https://i.imgur.com/9n821PG.jpg",
+            "Category": "arabic-series"
+        },
+        "4074": {
+            "Title": "سوق الكانتو",
+            "Image Source": "https://i.imgur.com/WakLdR2.jpg",
+            "Category": "arabic-series"
+        },
+        "4102": {
+            "Title": "علاقة مشروعة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/oTBBF18.jpg",
-            "Category": "arabic-series"
-        },
-        "4074": {
-            "Title": "سوق الكانتو",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4102": {
-            "Title": "علاقة مشروعة",
-            "Image Source": "https://i.imgur.com/6qBU5cE.jpg",
+            "Image Source": "https://i.imgur.com/rG4SdEK.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/IUtVs9o.jpg",
-            "Category": "arabic-series"
-        },
-        "4103": {
-            "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/LZQqr3b.jpg",
             "Category": "arabic-series"
         },
         "4081": {
             "Title": "الصفارة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -447,24 +409,24 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4103": {
+            "Title": "بابا المجال",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/dyxSRiG.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/hNS6i6R.jpg",
+            "Image Source": "https://i.imgur.com/QaJzUya.jpg",
             "Category": "arabic-series"
         },
         "4095": {
             "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/qKnQvTE.jpg",
-            "Category": "arabic-series"
-        },
-        "4082": {
-            "Title": "حضرة العمدة",
-            "Image Source": "https://i.imgur.com/4ocrivN.jpg",
+            "Image Source": "https://i.imgur.com/ruYsjEj.jpg",
             "Category": "arabic-series"
         }
     },

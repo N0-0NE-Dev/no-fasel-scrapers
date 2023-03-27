@@ -191,95 +191,58 @@
             "Rating": "8.7",
             "TMDb ID": 97546
         },
-        "108": {
-            "key": "108",
-            "Title": "Ballers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/108.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 62704
-        },
-        "77": {
-            "key": "77",
-            "Title": "Good Girls",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 71715
-        },
-        "79": {
-            "key": "79",
-            "Title": "Greys Anatomy",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/79.jpg",
+        "604": {
+            "key": "604",
+            "Title": "Yellowjackets",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Drama",
-                "Romance"
+                "Horror",
+                "Mystery"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
-        },
-        "281": {
-            "key": "281",
-            "Title": "Animal Kingdom",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/281.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 66025
+            "Rating": "8",
+            "TMDb ID": 117488
         }
     },
     "arabic-series": {
         "4086": {
             "Title": "رشيد",
-            "Image Source": "https://i.imgur.com/oGkhR6b.jpg",
+            "Image Source": "https://i.imgur.com/dVPBKJk.jpg",
             "Category": "arabic-series"
         },
         "4096": {
             "Title": "ضرب نار",
+            "Image Source": "https://i.imgur.com/9n821PG.jpg",
+            "Category": "arabic-series"
+        },
+        "4074": {
+            "Title": "سوق الكانتو",
+            "Image Source": "https://i.imgur.com/WakLdR2.jpg",
+            "Category": "arabic-series"
+        },
+        "4102": {
+            "Title": "علاقة مشروعة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/oTBBF18.jpg",
-            "Category": "arabic-series"
-        },
-        "4074": {
-            "Title": "سوق الكانتو",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4102": {
-            "Title": "علاقة مشروعة",
-            "Image Source": "https://i.imgur.com/6qBU5cE.jpg",
+            "Image Source": "https://i.imgur.com/rG4SdEK.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/IUtVs9o.jpg",
-            "Category": "arabic-series"
-        },
-        "4103": {
-            "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/LZQqr3b.jpg",
             "Category": "arabic-series"
         },
         "4081": {
             "Title": "الصفارة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -303,24 +266,24 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4103": {
+            "Title": "بابا المجال",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/dyxSRiG.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/hNS6i6R.jpg",
+            "Image Source": "https://i.imgur.com/QaJzUya.jpg",
             "Category": "arabic-series"
         },
         "4095": {
             "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/qKnQvTE.jpg",
-            "Category": "arabic-series"
-        },
-        "4082": {
-            "Title": "حضرة العمدة",
-            "Image Source": "https://i.imgur.com/4ocrivN.jpg",
+            "Image Source": "https://i.imgur.com/ruYsjEj.jpg",
             "Category": "arabic-series"
         }
     },
