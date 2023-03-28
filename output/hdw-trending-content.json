@@ -1,15 +1,68 @@
 {
     "hdwmovies": {
-        "20064": {
-            "key": "20064",
-            "Title": "Scorned",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20064/1.jpg",
+        "34696": {
+            "key": "34696",
+            "Title": "The Black Phone",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/34696/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
+                "Horror",
                 "Thriller"
             ],
-            "Rating": "4.7",
-            "TMDb ID": 64084
+            "Rating": "7.3",
+            "TMDb ID": 756999
+        },
+        "20930": {
+            "key": "20930",
+            "Title": "Ghostbusters",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20930/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Fantasy"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 43074
+        },
+        "34694": {
+            "key": "34694",
+            "Title": "Jurassic World Dominion",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/34694/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Rating": "5.9",
+            "TMDb ID": 507086
+        },
+        "20647": {
+            "key": "20647",
+            "Title": "Maggie",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20647/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "Rating": "5.6",
+            "TMDb ID": 287424
+        },
+        "21842": {
+            "key": "21842",
+            "Title": "Tully",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21842/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "7",
+            "TMDb ID": 400579
         },
         "21467": {
             "key": "21467",
@@ -23,6 +76,17 @@
             ],
             "Rating": "7.3",
             "TMDb ID": 399055
+        },
+        "20064": {
+            "key": "20064",
+            "Title": "Scorned",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20064/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "4.7",
+            "TMDb ID": 64084
         },
         "32528": {
             "key": "32528",
@@ -60,48 +124,20 @@
             ],
             "Rating": "6.6",
             "TMDb ID": 274479
-        },
-        "1624": {
-            "key": "1624",
-            "Title": "The Blues Brothers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1624/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Comedy"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 525
-        },
-        "35743": {
-            "key": "35743",
-            "Title": "Babylon",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35743/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "History"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 615777
-        },
-        "18439": {
-            "key": "18439",
-            "Title": "A Good Year",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18439/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7",
-            "TMDb ID": 9726
         }
     },
     "hdwseries": {
+        "147": {
+            "key": "147",
+            "Title": "Succession",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/147.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.6",
+            "TMDb ID": 76331
+        },
         "423": {
             "key": "423",
             "Title": "The Last Kingdom",
@@ -178,81 +214,82 @@
             "Rating": "7.7",
             "TMDb ID": 92749
         },
-        "337": {
-            "key": "337",
-            "Title": "Ted Lasso",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/337.jpg",
+        "640": {
+            "key": "640",
+            "Title": "Bel Air",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/640.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
+                "Drama"
             ],
-            "Rating": "8.7",
-            "TMDb ID": 97546
+            "Rating": "6.3",
+            "TMDb ID": 107365
         },
-        "604": {
-            "key": "604",
-            "Title": "Yellowjackets",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
+        "28": {
+            "key": "28",
+            "Title": "The Punisher",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/28.jpg",
             "Category": "hdwseries",
             "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "8.5",
+            "TMDb ID": 67178
+        },
+        "391": {
+            "key": "391",
+            "Title": "The Blacklist",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/391.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
                 "Drama",
-                "Horror",
                 "Mystery"
             ],
             "Rating": "8",
-            "TMDb ID": 117488
+            "TMDb ID": 46952
         }
     },
     "arabic-series": {
         "4086": {
             "Title": "رشيد",
-            "Image Source": "https://i.imgur.com/dVPBKJk.jpg",
+            "Image Source": "https://i.imgur.com/7xXmQXq.jpg",
             "Category": "arabic-series"
         },
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/9n821PG.jpg",
+            "Image Source": "https://i.imgur.com/HFHQVZF.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/WakLdR2.jpg",
-            "Category": "arabic-series"
-        },
-        "4102": {
-            "Title": "علاقة مشروعة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/gvvW2GD.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/rG4SdEK.jpg",
+            "Image Source": "https://i.imgur.com/4Ukq8ww.jpg",
+            "Category": "arabic-series"
+        },
+        "4102": {
+            "Title": "علاقة مشروعة",
+            "Image Source": "https://i.imgur.com/TWaE9fJ.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/LZQqr3b.jpg",
+            "Image Source": "https://i.imgur.com/MfkDp9i.jpg",
             "Category": "arabic-series"
         },
         "4081": {
             "Title": "الصفارة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4093": {
-            "Title": "سره الباتع",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/14h1eqT.jpg",
             "Category": "arabic-series"
         },
         "4088": {
             "Title": "إكس لانس",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4070": {
-            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -261,29 +298,39 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4070": {
+            "Title": "الأجهر",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4093": {
+            "Title": "سره الباتع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4071": {
             "Title": "الكبير أوي الموسم السابع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4103": {
-            "Title": "بابا المجال",
+        "4106": {
+            "Title": "كشف مستعجل",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/dyxSRiG.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/QaJzUya.jpg",
+            "Image Source": "https://i.imgur.com/mOv10tt.jpg",
             "Category": "arabic-series"
         },
         "4095": {
             "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/ruYsjEj.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4082": {
+            "Title": "حضرة العمدة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
