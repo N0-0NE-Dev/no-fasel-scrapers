@@ -1,5 +1,16 @@
 {
     "hdwmovies": {
+        "35372": {
+            "key": "35372",
+            "Title": "Tar",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35372/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 817758
+        },
         "18116": {
             "key": "18116",
             "Title": "The Ring",
@@ -100,43 +111,6 @@
             ],
             "Rating": "5.6",
             "TMDb ID": 287424
-        },
-        "21842": {
-            "key": "21842",
-            "Title": "Tully",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21842/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "7",
-            "TMDb ID": 400579
-        },
-        "21467": {
-            "key": "21467",
-            "Title": "The Shape of Water",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21467/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Adventure",
-                "Drama",
-                "Fantasy"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 399055
-        },
-        "20064": {
-            "key": "20064",
-            "Title": "Scorned",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20064/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "4.7",
-            "TMDb ID": 64084
         }
     },
     "hdwseries": {
@@ -227,62 +201,56 @@
             "Rating": "7.7",
             "TMDb ID": 92749
         },
-        "628": {
-            "key": "628",
-            "Title": "How i Met Your Father",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/628.jpg",
+        "568": {
+            "key": "568",
+            "Title": "Wu Tang An American Saga",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/568.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.3",
+            "TMDb ID": 90870
+        },
+        "104": {
+            "key": "104",
+            "Title": "The Rookie",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/104.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Comedy",
+                "Crime",
                 "Drama"
             ],
-            "Rating": "5.5",
-            "TMDb ID": 124010
+            "Rating": "8",
+            "TMDb ID": 79744
         },
-        "58": {
-            "key": "58",
-            "Title": "All American",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/58.jpg",
+        "385": {
+            "key": "385",
+            "Title": "Star Wars The Bad Batch",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/385.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Drama",
-                "Sport"
+                "Animation"
             ],
-            "Rating": "7.7",
-            "TMDb ID": 82428
-        },
-        "714": {
-            "key": "714",
-            "Title": "Quantum Leap",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/714.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Sci-Fi"
-            ],
-            "Rating": "5.7",
-            "TMDb ID": 4018
+            "Rating": "7.8",
+            "TMDb ID": 105971
         }
     },
     "arabic-series": {
-        "4096": {
-            "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/N9kl0Co.jpg",
-            "Category": "arabic-series"
-        },
         "4086": {
             "Title": "رشيد",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4073": {
-            "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/WXm1vT7.jpg",
-            "Category": "arabic-series"
-        },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/shswg9E.jpg",
+            "Image Source": "https://i.imgur.com/tmEe2jA.jpg",
+            "Category": "arabic-series"
+        },
+        "4073": {
+            "Title": "المداح ج3 : أسطورة العشق",
+            "Image Source": "https://i.imgur.com/OmtqAa9.jpg",
             "Category": "arabic-series"
         },
         "4102": {
@@ -292,16 +260,16 @@
         },
         "4078": {
             "Title": "الكتيبة 101",
+            "Image Source": "https://i.imgur.com/fyyuBHU.jpg",
+            "Category": "arabic-series"
+        },
+        "4103": {
+            "Title": "بابا المجال",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4081": {
             "Title": "الصفارة",
-            "Image Source": "https://i.imgur.com/e6tgQwz.jpg",
-            "Category": "arabic-series"
-        },
-        "4072": {
-            "Title": "جعفر العمدة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -320,6 +288,11 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4072": {
+            "Title": "جعفر العمدة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4071": {
             "Title": "الكبير أوي الموسم السابع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -330,19 +303,34 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4103": {
-            "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4096": {
+            "Title": "ضرب نار",
+            "Image Source": "https://i.imgur.com/N9kl0Co.jpg",
+            "Category": "arabic-series"
+        },
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/mvwuoqQ.jpg",
+            "Category": "arabic-series"
+        },
+        "4094": {
+            "Title": "رمضان كريم الموسم الثاني",
+            "Image Source": "https://i.imgur.com/Y0j9Bm2.jpg",
             "Category": "arabic-series"
         },
         "4112": {
             "Title": "المحمية",
-            "Image Source": "https://i.imgur.com/qNACnpD.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/vIdNwmB.jpg",
+            "Image Source": "https://i.imgur.com/aq5VlrM.jpg",
+            "Category": "arabic-series"
+        },
+        "4095": {
+            "Title": "مذكرات زوج",
+            "Image Source": "https://i.imgur.com/cIAjDpa.jpg",
             "Category": "arabic-series"
         }
     },
