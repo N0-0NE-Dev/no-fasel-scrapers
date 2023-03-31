@@ -261,6 +261,18 @@
         }
     },
     "series": {
+        "137449": {
+            "Title": "Riverdale",
+            "Image Source": "https://i.imgur.com/SDU4LC6.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 69050
+        },
         "135669": {
             "Title": "Succession",
             "Image Source": "https://imgpile.com/images/TKag5R.jpg",
@@ -339,65 +351,60 @@
             "Rating": "N/A",
             "TMDb ID": 95057
         },
-        "210909": {
-            "Title": "Gotham Knights",
-            "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
+        "208036": {
+            "Title": "Star Trek: Picard",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Crime",
-                "Drama"
+                "Adventure",
+                "Drama",
+                "Sci-fi"
             ],
             "Rating": "N/A",
-            "TMDb ID": 195868
+            "TMDb ID": 85949
         },
-        "208679": {
-            "Title": "Wu Tang : An American Saga",
-            "Image Source": "https://i.imgur.com/uBDLChv.jpg",
-            "Category": "series",
-            "Genres": [
-                "Biography",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 90870
-        },
-        "187265": {
-            "Title": "The Rookie: Feds",
-            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action"
-            ],
-            "Rating": "4.9",
-            "TMDb ID": 201992
-        },
-        "201878": {
-            "Title": "Star Wars: The Bad Batch",
-            "Image Source": "https://i.imgur.com/ZXaqfnG.jpg",
+        "186215": {
+            "Title": "Chicago Fire",
+            "Image Source": "https://i.imgur.com/mn9Yzye.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
                 "Drama"
             ],
-            "Rating": "7.8",
-            "TMDb ID": 105971
+            "Rating": "8",
+            "TMDb ID": 44006
+        },
+        "186203": {
+            "Title": "Chicago Med",
+            "Image Source": "https://i.imgur.com/WTQOcSs.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 62650
         }
     },
     "arabic-series": {
-        "4086": {
-            "Title": "رشيد",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4096": {
+            "Title": "ضرب نار",
+            "Image Source": "https://i.imgur.com/vHP6ngK.jpg",
             "Category": "arabic-series"
         },
-        "4074": {
-            "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/tmEe2jA.jpg",
+        "4086": {
+            "Title": "رشيد",
+            "Image Source": "https://i.imgur.com/0srxhBI.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/OmtqAa9.jpg",
+            "Image Source": "https://i.imgur.com/FsATr78.jpg",
+            "Category": "arabic-series"
+        },
+        "4074": {
+            "Title": "سوق الكانتو",
+            "Image Source": "https://i.imgur.com/dSqGmI5.jpg",
             "Category": "arabic-series"
         },
         "4102": {
@@ -407,7 +414,7 @@
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/fyyuBHU.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4103": {
@@ -420,18 +427,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4088": {
-            "Title": "إكس لانس",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4070": {
             "Title": "الأجهر",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4093": {
-            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -450,34 +452,24 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4096": {
-            "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/N9kl0Co.jpg",
-            "Category": "arabic-series"
-        },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/mvwuoqQ.jpg",
-            "Category": "arabic-series"
-        },
         "4094": {
             "Title": "رمضان كريم الموسم الثاني",
-            "Image Source": "https://i.imgur.com/Y0j9Bm2.jpg",
+            "Image Source": "https://i.imgur.com/Cy7SpUb.jpg",
             "Category": "arabic-series"
         },
-        "4112": {
-            "Title": "المحمية",
+        "4095": {
+            "Title": "مذكرات زوج",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/aq5VlrM.jpg",
+            "Image Source": "https://i.imgur.com/RQvSR8U.jpg",
             "Category": "arabic-series"
         },
-        "4095": {
-            "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/cIAjDpa.jpg",
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/bykbkqx.jpg",
             "Category": "arabic-series"
         }
     },
