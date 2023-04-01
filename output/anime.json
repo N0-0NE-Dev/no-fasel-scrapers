@@ -178,7 +178,7 @@
             "Action",
             "Comedy"
         ],
-        "Number Of Episodes": 7,
+        "Number Of Episodes": 8,
         "Image Source": "https://i.imgur.com/EsEHAev.jpg",
         "Episodes": {
             "190506": {
@@ -208,6 +208,10 @@
             "207390": {
                 "Episode Number": 7,
                 "Source": "e6a188cc61c2beae48d0dc41d330e0fd"
+            },
+            "212481": {
+                "Episode Number": 8,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=2a8e196f578fd638e1d652b5fc4818b4&img=https://img.scdn.to/thumb/2a8e196f578fd638e1d652b5fc4818b4/large.jpg"
             }
         },
         "Rating": "6.83",
@@ -89519,7 +89523,7 @@
             "Action",
             "Comedy"
         ],
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Image Source": "https://i.imgur.com/eqitot7.jpg",
         "Episodes": {
             "202242": {
@@ -89565,6 +89569,10 @@
             "212076": {
                 "Episode Number": 11,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=cbd88d3231b9b05de496b46d1ff41121&img=https://img.scdn.to/thumb/cbd88d3231b9b05de496b46d1ff41121/large.jpg"
+            },
+            "212540": {
+                "Episode Number": 12,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=87c7fbcace8886d273968f49a0a19e21&img=https://img.scdn.to/thumb/87c7fbcace8886d273968f49a0a19e21/large.jpg"
             }
         },
         "Rating": "7.76",
@@ -90502,7 +90510,7 @@
             "Animation",
             "Music"
         ],
-        "Number Of Episodes": 3,
+        "Number Of Episodes": 8,
         "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
         "Episodes": {
             "202487": {
@@ -90516,6 +90524,26 @@
             "205209": {
                 "Episode Number": 3,
                 "Source": "2b519c2947f56e7f754fd7fe027d17aa"
+            },
+            "212488": {
+                "Episode Number": 4,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=7f97c02d1851dd93fc2c0fd9307cb148&img=https://img.scdn.to/thumb/7f97c02d1851dd93fc2c0fd9307cb148/large.jpg"
+            },
+            "212489": {
+                "Episode Number": 5,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=bea21eed075879c817cdf802f5c9c87c&img=https://img.scdn.to/thumb/bea21eed075879c817cdf802f5c9c87c/large.jpg"
+            },
+            "212490": {
+                "Episode Number": 6,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=e69f15180b1f033b3605d07e2ec45ba8&img=https://img.scdn.to/thumb/e69f15180b1f033b3605d07e2ec45ba8/large.jpg"
+            },
+            "212491": {
+                "Episode Number": 7,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=72e12a427268a4a44d72de332648e343&img=https://img.scdn.to/thumb/72e12a427268a4a44d72de332648e343/large.jpg"
+            },
+            "212492": {
+                "Episode Number": 8,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=80f99e266751bdd01fec6552962d84b5&img=https://img.scdn.to/thumb/80f99e266751bdd01fec6552962d84b5/large.jpg"
             }
         },
         "Rating": "6.94",
@@ -90901,7 +90929,7 @@
             "Comedy",
             "Adventure"
         ],
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Image Source": "https://i.imgur.com/bUD854D.jpg",
         "Episodes": {
             "202999": {
@@ -90943,6 +90971,10 @@
             "212146": {
                 "Episode Number": 11,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=15443a733d55fb7062b84de7cd77f993&img=https://img.scdn.to/thumb/15443a733d55fb7062b84de7cd77f993/large.jpg"
+            },
+            "212552": {
+                "Episode Number": 12,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=6976354bcdc213e20c27e731a9ce445e&img=https://img.scdn.to/thumb/6976354bcdc213e20c27e731a9ce445e/large.jpg"
             }
         },
         "Rating": "6.51",
