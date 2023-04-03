@@ -188,69 +188,27 @@
             ],
             "Rating": "7.9",
             "TMDb ID": 95057
-        },
-        "108": {
-            "key": "108",
-            "Title": "Ballers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/108.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 62704
-        },
-        "604": {
-            "key": "604",
-            "Title": "Yellowjackets",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "8",
-            "TMDb ID": 117488
-        },
-        "342": {
-            "key": "342",
-            "Title": "Lovecraft Country",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Horror"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 82816
-        },
-        "77": {
-            "key": "77",
-            "Title": "Good Girls",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 71715
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/sz4vrU3.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4086": {
             "Title": "رشيد",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/ArnDZDi.jpg",
+            "Category": "arabic-series"
+        },
+        "4074": {
+            "Title": "سوق الكانتو",
+            "Image Source": "https://i.imgur.com/tG8ZVQZ.jpg",
+            "Category": "arabic-series"
+        },
+        "4102": {
+            "Title": "علاقة مشروعة",
+            "Image Source": "https://i.imgur.com/Ix9KFsj.jpg",
             "Category": "arabic-series"
         },
         "4073": {
@@ -258,24 +216,14 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4074": {
-            "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/Dz1pdya.jpg",
-            "Category": "arabic-series"
-        },
-        "4102": {
-            "Title": "علاقة مشروعة",
-            "Image Source": "https://i.imgur.com/tcULHg3.jpg",
-            "Category": "arabic-series"
-        },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/nE1O9Q6.jpg",
             "Category": "arabic-series"
         },
         "4103": {
             "Title": "بابا المجال",
-            "Image Source": "https://i.imgur.com/hKxwheF.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4081": {
@@ -283,8 +231,8 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4072": {
-            "Title": "جعفر العمدة",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -293,8 +241,8 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4072": {
+            "Title": "جعفر العمدة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -308,28 +256,23 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/qG2uyti.jpg",
+            "Category": "arabic-series"
+        },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/JGn74EG.jpg",
+            "Image Source": "https://i.imgur.com/ythW9YQ.jpg",
             "Category": "arabic-series"
         },
         "4095": {
             "Title": "مذكرات زوج",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/L7VzR5Q.jpg",
             "Category": "arabic-series"
         },
         "4082": {
             "Title": "حضرة العمدة",
-            "Image Source": "https://i.imgur.com/LcxCZlo.jpg",
-            "Category": "arabic-series"
-        },
-        "4098": {
-            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }

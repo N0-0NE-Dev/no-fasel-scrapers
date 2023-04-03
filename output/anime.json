@@ -70072,7 +70072,7 @@
             "Comedy",
             "Adventure"
         ],
-        "Number Of Episodes": 1061,
+        "Number Of Episodes": 1062,
         "Image Source": "https://imgpile.com/images/TJ5i34.jpg",
         "Episodes": {
             "58810": {
@@ -74302,6 +74302,10 @@
             "212159": {
                 "Episode Number": 1061,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=aa8ee782405fee5df30fa921e205c944&img=https://img.scdn.to/thumb/aa8ee782405fee5df30fa921e205c944/large.jpg"
+            },
+            "212615": {
+                "Episode Number": 1062,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=271320ac13057307aae09d3ddaa9b8bc&img=https://img.scdn.to/thumb/271320ac13057307aae09d3ddaa9b8bc/large.jpg"
             }
         },
         "Rating": "7.91",
@@ -90463,7 +90467,7 @@
         "Genres": [
             "Animation"
         ],
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/dhwV6l.jpg",
         "Episodes": {
             "202535": {
@@ -90501,6 +90505,10 @@
             "211533": {
                 "Episode Number": 11,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=9eae4e6fd3928ded5afe997eb1a80ab1&img=https://img.scdn.to/thumb/9eae4e6fd3928ded5afe997eb1a80ab1/large.jpg"
+            },
+            "212635": {
+                "Episode Number": 12,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=566686573a510bc01e5709deb32b90cb&img=https://img.scdn.to/thumb/566686573a510bc01e5709deb32b90cb/large.jpg"
             }
         },
         "Rating": "6.81",
@@ -90514,7 +90522,7 @@
             "Animation",
             "Music"
         ],
-        "Number Of Episodes": 8,
+        "Number Of Episodes": 9,
         "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
         "Episodes": {
             "202487": {
@@ -90548,6 +90556,10 @@
             "212492": {
                 "Episode Number": 8,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=80f99e266751bdd01fec6552962d84b5&img=https://img.scdn.to/thumb/80f99e266751bdd01fec6552962d84b5/large.jpg"
+            },
+            "212651": {
+                "Episode Number": 9,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=eb0ad48ef6120bf27c3c84d5a22df0e6&img=https://img.scdn.to/thumb/eb0ad48ef6120bf27c3c84d5a22df0e6/large.jpg"
             }
         },
         "Rating": "6.94",
@@ -91652,7 +91664,7 @@
     "205031": {
         "Title": "Hirogaru Sky !Precure",
         "Category": "anime",
-        "Number Of Episodes": 8,
+        "Number Of Episodes": 9,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
         "Episodes": {
@@ -91683,6 +91695,10 @@
             "212186": {
                 "Episode Number": 8,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=8728495c001db0cfe79b81bee9d6a946&img=https://img.scdn.to/thumb/8728495c001db0cfe79b81bee9d6a946/large.jpg"
+            },
+            "212636": {
+                "Episode Number": 9,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=390b1aa45862ff0e7f7f79e4905d9bd9&img=https://img.scdn.to/thumb/390b1aa45862ff0e7f7f79e4905d9bd9/large.jpg"
             }
         },
         "Genres": [],
@@ -91922,6 +91938,36 @@
             "212580": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=13656fd81e7a762adf9d58713b932ad1&img=https://img.scdn.to/thumb/13656fd81e7a762adf9d58713b932ad1/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212645": {
+        "Title": "My Home Hero",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212644": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=ab6a92a2dac564776aacc49822fb477d&img=https://img.scdn.to/thumb/ab6a92a2dac564776aacc49822fb477d/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212637": {
+        "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212643": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=7a99f71dd30b6dcc7a69d11e87df949a&img=https://img.scdn.to/thumb/7a99f71dd30b6dcc7a69d11e87df949a/large.jpg"
             }
         },
         "Genres": [],
