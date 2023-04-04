@@ -12,3 +12,5 @@ Include/*
 pyvenv.cfg
 __pycache__/*
 .vscode
+ublock.zip
+uBlock0.chromium/*
