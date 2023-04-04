@@ -91347,7 +91347,7 @@
             "Action",
             "Adventure"
         ],
-        "Number Of Episodes": 12,
+        "Number Of Episodes": 13,
         "Image Source": "https://i.imgur.com/8px8auH.jpg",
         "Episodes": {
             "202633": {
@@ -91393,6 +91393,10 @@
             "212226": {
                 "Episode Number": 12,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=1f88c1a840fb69162400d89d12cb8be2&img=https://img.scdn.to/thumb/1f88c1a840fb69162400d89d12cb8be2/large.jpg"
+            },
+            "212676": {
+                "Episode Number": 13,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=341229b6d20ea3288e7550ae7356d30b&img=https://img.scdn.to/thumb/341229b6d20ea3288e7550ae7356d30b/large.jpg"
             }
         },
         "Rating": "8.73",
@@ -91867,7 +91871,7 @@
     "212607": {
         "Title": "Kaguya-Sama Wa Kokurasetai: First Kiss Wa Owaraanai",
         "Category": "anime",
-        "Number Of Episodes": 2,
+        "Number Of Episodes": 3,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/HQ1WcEE.jpg",
         "Episodes": {
@@ -91878,6 +91882,10 @@
             "212610": {
                 "Episode Number": 2,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=bdea49f487189d1ce96ae83b68d03be7&img=https://img.scdn.to/thumb/bdea49f487189d1ce96ae83b68d03be7/large.jpg"
+            },
+            "212679": {
+                "Episode Number": 3,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=2e194da599e4d9380dedeb19e83325dd&img=https://img.scdn.to/thumb/2e194da599e4d9380dedeb19e83325dd/large.jpg"
             }
         },
         "Genres": [],
@@ -91968,6 +91976,36 @@
             "212643": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=7a99f71dd30b6dcc7a69d11e87df949a&img=https://img.scdn.to/thumb/7a99f71dd30b6dcc7a69d11e87df949a/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212674": {
+        "Title": "Kuma Kuma Kuma Bear Punk!",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212673": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=bd057e1f1f7532f3a42ddc5f54b227c6&img=https://img.scdn.to/thumb/bd057e1f1f7532f3a42ddc5f54b227c6/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212670": {
+        "Title": "Edens Zero 2nd Season",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212672": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=5a138a2506fe46572683e89d8ca45f66&img=https://img.scdn.to/thumb/5a138a2506fe46572683e89d8ca45f66/large.jpg"
             }
         },
         "Genres": [],

@@ -1,5 +1,16 @@
 {
     "movies": {
+        "212660": {
+            "Title": "More Than Ever",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
         "212584": {
             "Title": "Assassin",
             "Image Source": "https://i.imgur.com/i08aA26.jpg",
@@ -102,19 +113,19 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 878375
-        },
-        "212327": {
-            "Title": "Big Lies in a Small Town",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1012370
         }
     },
     "asian-series": {
+        "108969": {
+            "Title": "Master in the House",
+            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 76033
+        },
         "210577": {
             "Title": "Pandora: Beneath the Paradise",
             "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
@@ -150,6 +161,26 @@
         }
     },
     "anime": {
+        "202631": {
+            "Title": "Vinland Saga Season 2",
+            "Image Source": "https://i.imgur.com/8px8auH.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "8.73",
+            "TMDb ID": 88803
+        },
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
         "202482": {
             "Title": "UNITEUP!",
             "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
@@ -168,46 +199,6 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
-        },
-        "212637": {
-            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "202529": {
-            "Title": "Nokemono-Tachi no Yoru",
-            "Image Source": "https://imgpile.com/images/dhwV6l.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation"
-            ],
-            "Rating": "6.81",
-            "TMDb ID": 205111
-        },
-        "205031": {
-            "Title": "Hirogaru Sky !Precure",
-            "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 213883
-        },
-        "48074": {
-            "Title": "One Piece",
-            "Image Source": "https://imgpile.com/images/TJ5i34.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Action",
-                "Fantasy",
-                "Drama",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "7.91",
-            "TMDb ID": 111110
         }
     },
     "series": {
@@ -301,38 +292,64 @@
             "Rating": "N/A",
             "TMDb ID": 95057
         },
-        "208866": {
-            "Title": "Law & Order: Organized Crime",
-            "Image Source": "https://i.imgur.com/kAzFD8M.jpg",
+        "186811": {
+            "Title": "CSI: Vegas",
+            "Image Source": "https://i.imgur.com/IKajSPZ.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime"
+            ],
+            "Rating": "7.5",
+            "TMDb ID": 122194
+        },
+        "209344": {
+            "Title": "Bel-Air",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 107365
+        },
+        "208912": {
+            "Title": "The Company You Keep",
+            "Image Source": "https://i.imgur.com/c0pcJPH.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 208713
+        },
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
             "Category": "series",
             "Genres": [
                 "Crime",
                 "Drama",
-                "Mystery"
+                "Mystery",
+                "Thriller"
             ],
             "Rating": "N/A",
-            "TMDb ID": 106158
+            "TMDb ID": 46952
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/XSZs8D4.jpg",
             "Category": "arabic-series"
         },
         "4086": {
             "Title": "رشيد",
-            "Image Source": "https://i.imgur.com/ArnDZDi.jpg",
+            "Image Source": "https://i.imgur.com/DwgOS2j.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/tG8ZVQZ.jpg",
-            "Category": "arabic-series"
-        },
-        "4102": {
-            "Title": "علاقة مشروعة",
-            "Image Source": "https://i.imgur.com/Ix9KFsj.jpg",
+            "Image Source": "https://i.imgur.com/s8tOHAn.jpg",
             "Category": "arabic-series"
         },
         "4073": {
@@ -342,12 +359,12 @@
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/nE1O9Q6.jpg",
+            "Image Source": "https://i.imgur.com/9QYeH6n.jpg",
             "Category": "arabic-series"
         },
-        "4103": {
-            "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4102": {
+            "Title": "علاقة مشروعة",
+            "Image Source": "https://i.imgur.com/FZPsjrO.jpg",
             "Category": "arabic-series"
         },
         "4081": {
@@ -355,8 +372,8 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4103": {
+            "Title": "بابا المجال",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -365,13 +382,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4072": {
-            "Title": "جعفر العمدة",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4071": {
-            "Title": "الكبير أوي الموسم السابع",
+        "4072": {
+            "Title": "جعفر العمدة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -380,19 +397,19 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/qG2uyti.jpg",
+        "4095": {
+            "Title": "مذكرات زوج",
+            "Image Source": "https://i.imgur.com/vydWvie.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/ythW9YQ.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4095": {
-            "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/L7VzR5Q.jpg",
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4082": {
