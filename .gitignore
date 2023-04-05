@@ -14,3 +14,5 @@ __pycache__/*
 .vscode
 ublock.zip
 uBlock0.chromium/*
+chromedriver.zip
+chromedriver/*
