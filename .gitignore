@@ -15,4 +15,5 @@ __pycache__/*
 ublock.zip
 uBlock0.chromium/*
 chromedriver.zip
-chromedriver/*
+chromedriver.exe
+LICENSE.chromedriver
