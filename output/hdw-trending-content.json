@@ -1,5 +1,29 @@
 {
     "hdwmovies": {
+        "20615": {
+            "key": "20615",
+            "Title": "Inside Out",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20615/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Animation"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 150540
+        },
+        "21200": {
+            "key": "21200",
+            "Title": "All the Money in the World",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21200/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 446791
+        },
         "17630": {
             "key": "17630",
             "Title": "Assassins",
@@ -36,72 +60,22 @@
             ],
             "Rating": "6.1",
             "TMDb ID": 468225
-        },
-        "22008": {
-            "key": "22008",
-            "Title": "Murder Mystery",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22008/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Crime"
-            ],
-            "Rating": "6",
-            "TMDb ID": 514999
-        },
-        "19284": {
-            "key": "19284",
-            "Title": "Takers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19284/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Thriller"
-            ],
-            "Rating": "6.2",
-            "TMDb ID": 22907
-        },
-        "19555": {
-            "key": "19555",
-            "Title": "The Guard",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19555/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Thriller"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 67913
-        },
-        "21585": {
-            "key": "21585",
-            "Title": "Campeones",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21585/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Family"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 456929
-        },
-        "35372": {
-            "key": "35372",
-            "Title": "Tar",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35372/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 817758
         }
     },
     "hdwseries": {
+        "165": {
+            "key": "165",
+            "Title": "Kingdom",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/165.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Horror"
+            ],
+            "Rating": "8.4",
+            "TMDb ID": 61427
+        },
         "286": {
             "key": "286",
             "Title": "Riverdale",
@@ -176,58 +150,74 @@
             "Rating": "9",
             "TMDb ID": 85720
         },
-        "382": {
-            "key": "382",
-            "Title": "Superman and Lois",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/382.jpg",
+        "741": {
+            "key": "741",
+            "Title": "Not Dead Yet",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/741.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.4",
+            "TMDb ID": 203178
+        },
+        "55": {
+            "key": "55",
+            "Title": "FBI Most Wanted",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/55.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 95057
-        },
-        "640": {
-            "key": "640",
-            "Title": "Bel Air",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/640.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 107365
-        },
-        "391": {
-            "key": "391",
-            "Title": "The Blacklist",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/391.jpg",
-            "Category": "hdwseries",
-            "Genres": [
                 "Crime",
-                "Drama",
-                "Mystery"
+                "Drama"
             ],
-            "Rating": "8",
-            "TMDb ID": 46952
+            "Rating": "6.7",
+            "TMDb ID": 94372
+        },
+        "337": {
+            "key": "337",
+            "Title": "Ted Lasso",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/337.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "8.7",
+            "TMDb ID": 97546
+        },
+        "568": {
+            "key": "568",
+            "Title": "Wu Tang An American Saga",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/568.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.3",
+            "TMDb ID": 90870
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/XSZs8D4.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4086": {
             "Title": "رشيد",
-            "Image Source": "https://i.imgur.com/DwgOS2j.jpg",
+            "Image Source": "https://i.imgur.com/DHQiz6H.jpg",
+            "Category": "arabic-series"
+        },
+        "4103": {
+            "Title": "بابا المجال",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/s8tOHAn.jpg",
+            "Image Source": "https://i.imgur.com/c7guLS9.jpg",
             "Category": "arabic-series"
         },
         "4073": {
@@ -237,21 +227,16 @@
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/9QYeH6n.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4102": {
             "Title": "علاقة مشروعة",
-            "Image Source": "https://i.imgur.com/FZPsjrO.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4081": {
             "Title": "الصفارة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4103": {
-            "Title": "بابا المجال",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -270,6 +255,11 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4071": {
+            "Title": "الكبير أوي الموسم السابع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4106": {
             "Title": "كشف مستعجل",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -277,17 +267,17 @@
         },
         "4095": {
             "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/vydWvie.jpg",
-            "Category": "arabic-series"
-        },
-        "4097": {
-            "Title": "وعود سخية",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/8USNDwd.jpg",
             "Category": "arabic-series"
         },
         "4150": {
             "Title": "ليلة السقوط",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4097": {
+            "Title": "وعود سخية",
+            "Image Source": "https://i.imgur.com/mbC0VdA.jpg",
             "Category": "arabic-series"
         },
         "4082": {

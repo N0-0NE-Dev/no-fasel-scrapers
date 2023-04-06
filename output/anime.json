@@ -90522,7 +90522,7 @@
             "Animation",
             "Music"
         ],
-        "Number Of Episodes": 9,
+        "Number Of Episodes": 10,
         "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
         "Episodes": {
             "202487": {
@@ -90560,6 +90560,10 @@
             "212651": {
                 "Episode Number": 9,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=eb0ad48ef6120bf27c3c84d5a22df0e6&img=https://img.scdn.to/thumb/eb0ad48ef6120bf27c3c84d5a22df0e6/large.jpg"
+            },
+            "212703": {
+                "Episode Number": 10,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=b34f5cbf11458f5b8f7109cd77bb1caa&img=https://img.scdn.to/thumb/b34f5cbf11458f5b8f7109cd77bb1caa/large.jpg"
             }
         },
         "Rating": "6.94",
@@ -91115,7 +91119,7 @@
             "Action",
             "Adventure"
         ],
-        "Number Of Episodes": 9,
+        "Number Of Episodes": 11,
         "Image Source": "https://i.imgur.com/nbv8cSp.jpg",
         "Episodes": {
             "203414": {
@@ -91153,6 +91157,14 @@
             "212382": {
                 "Episode Number": 9,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=1d47482ae645d4e875b8b5b7bdce84c8&img=https://img.scdn.to/thumb/1d47482ae645d4e875b8b5b7bdce84c8/large.jpg"
+            },
+            "212724": {
+                "Episode Number": 10,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=b5f755313055fa72f3ad23daea75fe62&img=https://img.scdn.to/thumb/b5f755313055fa72f3ad23daea75fe62/large.jpg"
+            },
+            "212762": {
+                "Episode Number": 11,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=a2383281e8d688a4b58c9871917343a9&img=https://img.scdn.to/thumb/a2383281e8d688a4b58c9871917343a9/large.jpg"
             }
         },
         "Rating": "6.22",
@@ -91327,12 +91339,16 @@
             "Fantasy",
             "Comedy"
         ],
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Image Source": "https://i.imgur.com/Wad6brJ.jpg",
         "Episodes": {
             "202652": {
                 "Episode Number": 1,
                 "Source": "f51d03c01f7b0adbabcf8599a917fce6"
+            },
+            "212790": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=ee2d4ebae7bb6c77df7d633c932bf098&img=https://img.scdn.to/thumb/ee2d4ebae7bb6c77df7d633c932bf098/large.jpg"
             }
         },
         "Rating": "7.25",
@@ -91871,7 +91887,7 @@
     "212607": {
         "Title": "Kaguya-Sama Wa Kokurasetai: First Kiss Wa Owaraanai",
         "Category": "anime",
-        "Number Of Episodes": 3,
+        "Number Of Episodes": 4,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/HQ1WcEE.jpg",
         "Episodes": {
@@ -91886,6 +91902,10 @@
             "212679": {
                 "Episode Number": 3,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=2e194da599e4d9380dedeb19e83325dd&img=https://img.scdn.to/thumb/2e194da599e4d9380dedeb19e83325dd/large.jpg"
+            },
+            "212788": {
+                "Episode Number": 4,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=b7c4d30855c1327913a9e0a0bc95d046&img=https://img.scdn.to/thumb/b7c4d30855c1327913a9e0a0bc95d046/large.jpg"
             }
         },
         "Genres": [],
@@ -92006,6 +92026,81 @@
             "212672": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=5a138a2506fe46572683e89d8ca45f66&img=https://img.scdn.to/thumb/5a138a2506fe46572683e89d8ca45f66/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212777": {
+        "Title": "Kaminaki Sekai no Kamisama Katsudou",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
+        "Episodes": {
+            "212782": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=9b54b88b9d8274c0844be9d347612796&img=https://img.scdn.to/thumb/9b54b88b9d8274c0844be9d347612796/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212772": {
+        "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212771": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=7afe181528305c64da3802a7fe06f32f&img=https://img.scdn.to/thumb/7afe181528305c64da3802a7fe06f32f/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212716": {
+        "Title": "Isekai de Cheat Skill Wo Te Ni Shita Ore Wa, Genjitsu Sekai Wo Mou Musou Suru: Level Up Wa Jinsei Wo KAETA",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212718": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=4f2bf327a0b526fa45b5458a0820ad1a&img=https://img.scdn.to/thumb/4f2bf327a0b526fa45b5458a0820ad1a/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212710": {
+        "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212715": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=d156830333e9cb74708555caa4e769d4&img=https://img.scdn.to/thumb/d156830333e9cb74708555caa4e769d4/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212704": {
+        "Title": "Skip to Loafer",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212709": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=40992b0171353f5363a93ae7815a0956&img=https://img.scdn.to/thumb/40992b0171353f5363a93ae7815a0956/large.jpg"
             }
         },
         "Genres": [],
