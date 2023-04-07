@@ -144,33 +144,29 @@
         }
     },
     "anime": {
-        "212777": {
-            "Title": "Kaminaki Sekai no Kamisama Katsudou",
-            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "212772": {
-            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
+        "212864": {
+            "Title": "Yuusha Ga Shinda!",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "203411": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Urbanrama-Hen",
-            "Image Source": "https://i.imgur.com/nbv8cSp.jpg",
+        "212860": {
+            "Title": "mahoutsukai no Yome Season 2",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "6.22",
-            "TMDb ID": 91764
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "212857": {
+            "Title": "Dr.Stone: New World",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
         }
     },
     "series": {
@@ -263,61 +259,27 @@
             "Rating": "N/A",
             "TMDb ID": 90795
         },
-        "209415": {
-            "Title": "Not Dead Yet",
-            "Image Source": "https://i.imgur.com/hW6a65S.jpg",
+        "209295": {
+            "Title": "Snowfall",
+            "Image Source": "https://i.imgur.com/d9Pn9qK.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy"
+                "Crime",
+                "Drama"
             ],
             "Rating": "N/A",
-            "TMDb ID": 203178
+            "TMDb ID": 71694
         },
-        "186098": {
-            "Title": "FBI: Most Wanted",
-            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
+        "186215": {
+            "Title": "Chicago Fire",
+            "Image Source": "https://i.imgur.com/mn9Yzye.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Crime",
                 "Drama"
             ],
-            "Rating": "6.9",
-            "TMDb ID": 94372
-        },
-        "186095": {
-            "Title": "FBI: International",
-            "Image Source": "https://i.imgur.com/pKRojqt.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 121658
-        },
-        "210906": {
-            "Title": "Ted Lasso",
-            "Image Source": "https://i.imgur.com/hz2PU3K.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 97546
-        },
-        "208679": {
-            "Title": "Wu Tang : An American Saga",
-            "Image Source": "https://i.imgur.com/uBDLChv.jpg",
-            "Category": "series",
-            "Genres": [
-                "Biography",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 90870
+            "Rating": "8",
+            "TMDb ID": 44006
         }
     },
     "arabic-series": {
@@ -326,24 +288,19 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4086": {
-            "Title": "رشيد",
-            "Image Source": "https://i.imgur.com/DHQiz6H.jpg",
-            "Category": "arabic-series"
-        },
         "4103": {
             "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4074": {
-            "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/c7guLS9.jpg",
+            "Image Source": "https://i.imgur.com/OaFKuR2.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4074": {
+            "Title": "سوق الكانتو",
+            "Image Source": "https://i.imgur.com/fxYoIE7.jpg",
             "Category": "arabic-series"
         },
         "4078": {
@@ -366,6 +323,11 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4106": {
+            "Title": "كشف مستعجل",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4093": {
             "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -381,29 +343,29 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4106": {
-            "Title": "كشف مستعجل",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4086": {
+            "Title": "رشيد",
+            "Image Source": "https://i.imgur.com/DHQiz6H.jpg",
             "Category": "arabic-series"
         },
-        "4095": {
-            "Title": "مذكرات زوج",
-            "Image Source": "https://i.imgur.com/8USNDwd.jpg",
-            "Category": "arabic-series"
-        },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4085": {
+            "Title": "الصندوق",
+            "Image Source": "https://i.imgur.com/nC87hjv.jpg",
             "Category": "arabic-series"
         },
         "4097": {
             "Title": "وعود سخية",
-            "Image Source": "https://i.imgur.com/mbC0VdA.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4082": {
-            "Title": "حضرة العمدة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4077": {
+            "Title": "الهرشة السابعة",
+            "Image Source": "https://i.imgur.com/5QJkpMz.jpg",
+            "Category": "arabic-series"
+        },
+        "4095": {
+            "Title": "مذكرات زوج",
+            "Image Source": "https://i.imgur.com/D3YkLxz.jpg",
             "Category": "arabic-series"
         }
     },

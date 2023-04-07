@@ -25968,7 +25968,7 @@
             "Action",
             "Adventure"
         ],
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/TJnFur.jpg",
         "Episodes": {
             "119203": {
@@ -26014,6 +26014,10 @@
             "120891": {
                 "Episode Number": 11,
                 "Source": "f360e3b4e0702cab0e71bdeeda71b1f8"
+            },
+            "152860": {
+                "Episode Number": 12,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=67b7056554633d1171f8a1fd03535009&img=https://img.scdn.to/thumb/67b7056554633d1171f8a1fd03535009/large.jpg"
             }
         },
         "Rating": "8.18",
@@ -45359,7 +45363,7 @@
         "Genres": [
             "Fantasy"
         ],
-        "Number Of Episodes": 27,
+        "Number Of Episodes": 30,
         "Image Source": "https://imgpile.com/images/bMldfh.jpg",
         "Episodes": {
             "66862": {
@@ -45469,6 +45473,18 @@
             "66889": {
                 "Episode Number": 27,
                 "Source": "10d55344b41b1d26340b64839d00865f"
+            },
+            "181769": {
+                "Episode Number": 28,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=0ce1e0f9e29bb0b740d784357eb0f3bb&img=https://img.scdn.to/thumb/0ce1e0f9e29bb0b740d784357eb0f3bb/large.jpg"
+            },
+            "181775": {
+                "Episode Number": 29,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=1c681cf53005525acc4891a8b2711cac&img=https://img.scdn.to/thumb/1c681cf53005525acc4891a8b2711cac/large.jpg"
+            },
+            "181776": {
+                "Episode Number": 30,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=c4129b178d9f918cf3417a58d70114ea&img=https://img.scdn.to/thumb/c4129b178d9f918cf3417a58d70114ea/large.jpg"
             }
         },
         "Rating": "8.06",
@@ -89104,7 +89120,7 @@
             "Comedy",
             "Adventure"
         ],
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/dhwyEP.jpg",
         "Episodes": {
             "201815": {
@@ -89146,6 +89162,10 @@
             "211607": {
                 "Episode Number": 11,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=e9708ddec5785b423e5e76d86701a95e&img=https://img.scdn.to/thumb/e9708ddec5785b423e5e76d86701a95e/large.jpg"
+            },
+            "212863": {
+                "Episode Number": 12,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=9b3999d723348aeb4052b510703b2ce4&img=https://img.scdn.to/thumb/9b3999d723348aeb4052b510703b2ce4/large.jpg"
             }
         },
         "Rating": "6.89",
@@ -91339,7 +91359,7 @@
             "Fantasy",
             "Comedy"
         ],
-        "Number Of Episodes": 2,
+        "Number Of Episodes": 3,
         "Image Source": "https://i.imgur.com/Wad6brJ.jpg",
         "Episodes": {
             "202652": {
@@ -91349,6 +91369,10 @@
             "212790": {
                 "Episode Number": 2,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=ee2d4ebae7bb6c77df7d633c932bf098&img=https://img.scdn.to/thumb/ee2d4ebae7bb6c77df7d633c932bf098/large.jpg"
+            },
+            "212870": {
+                "Episode Number": 3,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=a1478e064947105ca24ff9d83cfb9252&img=https://img.scdn.to/thumb/a1478e064947105ca24ff9d83cfb9252/large.jpg"
             }
         },
         "Rating": "7.25",
@@ -92101,6 +92125,51 @@
             "212709": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=40992b0171353f5363a93ae7815a0956&img=https://img.scdn.to/thumb/40992b0171353f5363a93ae7815a0956/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212864": {
+        "Title": "Yuusha Ga Shinda!",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212869": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=173c68f34b3723fed1b00cb36fe2e94b&img=https://img.scdn.to/thumb/173c68f34b3723fed1b00cb36fe2e94b/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212860": {
+        "Title": "mahoutsukai no Yome Season 2",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212862": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=44a0461d9be31ef95d2a7f1c2badb5f2&img=https://img.scdn.to/thumb/44a0461d9be31ef95d2a7f1c2badb5f2/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "212857": {
+        "Title": "Dr.Stone: New World",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "212859": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=0dcb70a76e17815dab3c6c6555505717&img=https://img.scdn.to/thumb/0dcb70a76e17815dab3c6c6555505717/large.jpg"
             }
         },
         "Genres": [],
