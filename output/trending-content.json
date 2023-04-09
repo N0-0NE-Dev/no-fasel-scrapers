@@ -1,5 +1,29 @@
 {
     "movies": {
+        "212998": {
+            "Title": "Rye Lane",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1049638
+        },
+        "212990": {
+            "Title": "Kings of Mulberry Street: Let Love Reign",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1108258
+        },
         "212928": {
             "Title": "Chupa",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -10,7 +34,7 @@
                 "Adventure"
             ],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 736790
         },
         "212917": {
             "Title": "Shazam! Fury of the Gods",
@@ -22,7 +46,7 @@
                 "Adventure"
             ],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 594767
         },
         "212913": {
             "Title": "65",
@@ -34,7 +58,7 @@
                 "Adventure"
             ],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 700391
         },
         "49705": {
             "Title": "Inside",
@@ -55,43 +79,20 @@
                 "Documentary"
             ],
             "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "210509": {
-            "Title": "Operation Fortune: Ruse de guerre",
-            "Image Source": "https://i.imgur.com/raKuNRA.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 739405
-        },
-        "202679": {
-            "Title": "EO",
-            "Image Source": "https://i.imgur.com/vgkMmwm.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7",
-            "TMDb ID": 19492
-        },
-        "212660": {
-            "Title": "More Than Ever",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 1004663
         }
     },
     "asian-series": {
+        "209970": {
+            "Title": "Divorce Attorney Shin",
+            "Image Source": "https://i.imgur.com/7OWYnMh.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 204241
+        },
         "208658": {
             "Title": "Taxi Driver",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -144,43 +145,40 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 215471
-        },
-        "205080": {
-            "Title": "Our Blooming Youth",
-            "Image Source": "https://i.imgur.com/LfEaswG.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama",
-                "History"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 154889
         }
     },
     "anime": {
-        "212960": {
-            "Title": "Megami no Caf Terrace",
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 137391
+        },
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 200732
+        },
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
+        "212588": {
+            "Title": "jigokuraku",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "212945": {
-            "Title": "Tonikaku Kawaii 2nd Season",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 117465
         }
     },
     "series": {
@@ -273,6 +271,16 @@
             "Rating": "N/A",
             "TMDb ID": 90795
         },
+        "188107": {
+            "Title": "Fire Country",
+            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 202297
+        },
         "137464": {
             "Title": "Yellowjackets",
             "Image Source": "https://imgpile.com/images/TKekuS.jpg",
@@ -320,30 +328,6 @@
             ],
             "Rating": "7.5",
             "TMDb ID": 80006
-        },
-        "187446": {
-            "Title": "Greys Anatomy",
-            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
-        },
-        "187458": {
-            "Title": "Station 19",
-            "Image Source": "https://i.imgur.com/vDXUpLn.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Romance",
-                "Thriller"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 76773
         }
     },
     "arabic-series": {
@@ -372,13 +356,13 @@
             "Image Source": "https://i.imgur.com/OaFKuR2.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -402,11 +386,6 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4106": {
-            "Title": "كشف مستعجل",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4085": {
             "Title": "الصندوق",
             "Image Source": "https://i.imgur.com/nC87hjv.jpg",
@@ -424,6 +403,11 @@
         },
         "4098": {
             "Title": "عملة نادرة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4088": {
+            "Title": "إكس لانس",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }

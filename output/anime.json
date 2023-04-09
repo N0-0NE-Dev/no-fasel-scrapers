@@ -82688,7 +82688,7 @@
             "Comedy",
             "Adventure"
         ],
-        "Number Of Episodes": 1075,
+        "Number Of Episodes": 1076,
         "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
         "Episodes": {
             "42955": {
@@ -86978,6 +86978,10 @@
             "212133": {
                 "Episode Number": 1075,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=fdde8ef58eef06b3b91a261d02295b41&img=https://img.scdn.to/thumb/fdde8ef58eef06b3b91a261d02295b41/large.jpg"
+            },
+            "213003": {
+                "Episode Number": 1076,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=07f8f1794749ad4f0b4d1f69a5417af5&img=https://img.scdn.to/thumb/07f8f1794749ad4f0b4d1f69a5417af5/large.jpg"
             }
         },
         "Rating": "8.17",
@@ -91938,13 +91942,17 @@
     "212600": {
         "Title": "Tenguku Daimakyou",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212605": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=40cba637dcf997add9a75654ba35277f&img=https://img.scdn.to/thumb/40cba637dcf997add9a75654ba35277f/large.jpg"
+            },
+            "213002": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=518390fa05ccee7b2a84e3e9dbda986b&img=https://img.scdn.to/thumb/518390fa05ccee7b2a84e3e9dbda986b/large.jpg"
             }
         },
         "Genres": [],
@@ -91953,13 +91961,17 @@
     "212594": {
         "Title": "Yamada-kun to lv999 no koi wo surju",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212599": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=b89dd5c385b44dcbbd83c502990e166f&img=https://img.scdn.to/thumb/b89dd5c385b44dcbbd83c502990e166f/large.jpg"
+            },
+            "213007": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=fd9ef93e8a2735cf188372d772cb3920&img=https://img.scdn.to/thumb/fd9ef93e8a2735cf188372d772cb3920/large.jpg"
             }
         },
         "Genres": [],
@@ -91968,28 +91980,36 @@
     "212588": {
         "Title": "jigokuraku",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212593": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=f9e5b11aba016334633233bf21d72ed4&img=https://img.scdn.to/thumb/f9e5b11aba016334633233bf21d72ed4/large.jpg"
+            },
+            "213005": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=eded4cec9ef0b10dc344ad4422f01749&img=https://img.scdn.to/thumb/eded4cec9ef0b10dc344ad4422f01749/large.jpg"
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 117465
     },
     "212577": {
         "Title": "Mix: Meisei Story - Nidome No Natsu, Sora No Mukou E",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212580": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=13656fd81e7a762adf9d58713b932ad1&img=https://img.scdn.to/thumb/13656fd81e7a762adf9d58713b932ad1/large.jpg"
+            },
+            "213004": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=96ca802eab34695a1ec0e01e4fb4e89c&img=https://img.scdn.to/thumb/96ca802eab34695a1ec0e01e4fb4e89c/large.jpg"
             }
         },
         "Genres": [],
@@ -92008,7 +92028,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 204412
     },
     "212637": {
         "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
@@ -92023,7 +92043,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 207493
     },
     "212674": {
         "Title": "Kuma Kuma Kuma Bear Punk!",
@@ -92043,13 +92063,17 @@
     "212670": {
         "Title": "Edens Zero 2nd Season",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212672": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=5a138a2506fe46572683e89d8ca45f66&img=https://img.scdn.to/thumb/5a138a2506fe46572683e89d8ca45f66/large.jpg"
+            },
+            "213006": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=44303a59708faf1bb8572dac9e89542b&img=https://img.scdn.to/thumb/44303a59708faf1bb8572dac9e89542b/large.jpg"
             }
         },
         "Genres": [],
@@ -92068,7 +92092,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 199920
     },
     "212772": {
         "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
@@ -92083,7 +92107,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 203040
     },
     "212716": {
         "Title": "Isekai de Cheat Skill Wo Te Ni Shita Ore Wa, Genjitsu Sekai Wo Mou Musou Suru: Level Up Wa Jinsei Wo KAETA",
@@ -92113,7 +92137,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 72505
     },
     "212704": {
         "Title": "Skip to Loafer",
@@ -92128,7 +92152,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 139130
     },
     "212864": {
         "Title": "Yuusha Ga Shinda!",
@@ -92143,7 +92167,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 200750
     },
     "212860": {
         "Title": "mahoutsukai no Yome Season 2",
@@ -92173,7 +92197,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 86031
     },
     "212966": {
         "Title": "Mahou Shoujo Magical Destoyers",
@@ -92233,7 +92257,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 218563
     },
     "212945": {
         "Title": "Tonikaku Kawaii 2nd Season",
@@ -92278,6 +92302,55 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 204832
+    },
+    "213021": {
+        "Title": "Boku No Kokoro No Yabai Yatsu",
+        "Category": "anime",
+        "Number Of Episodes": 2,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213027": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=9d8fa8a75db39ef9e928fbdf16e15db3&img=https://img.scdn.to/thumb/9d8fa8a75db39ef9e928fbdf16e15db3/large.jpg"
+            },
+            "213028": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=af90a2ff18ee95df01f326bbdbbe80a3&img=https://img.scdn.to/thumb/af90a2ff18ee95df01f326bbdbbe80a3/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 207250
+    },
+    "213014": {
+        "Title": "ISEKAI Shoukan Wa Nidome Desu",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213019": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=2c6ee44a7d91dc2e18a2d62047b98579&img=https://img.scdn.to/thumb/2c6ee44a7d91dc2e18a2d62047b98579/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 137391
+    },
+    "213008": {
+        "Title": "Otonari ni ginga",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213013": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=88a5ea18e244ed23b93440fdf829f381&img=https://img.scdn.to/thumb/88a5ea18e244ed23b93440fdf829f381/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 200732
     }
 }

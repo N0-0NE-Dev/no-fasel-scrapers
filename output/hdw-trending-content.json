@@ -1,5 +1,18 @@
 {
     "hdwmovies": {
+        "17933": {
+            "key": "17933",
+            "Title": "Red Planet",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17933/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "Rating": "5.7",
+            "TMDb ID": 8870
+        },
         "18337": {
             "key": "18337",
             "Title": "Chaos",
@@ -139,6 +152,19 @@
             "Rating": "9",
             "TMDb ID": 85720
         },
+        "342": {
+            "key": "342",
+            "Title": "Lovecraft Country",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 82816
+        },
         "604": {
             "key": "604",
             "Title": "Yellowjackets",
@@ -178,31 +204,6 @@
             ],
             "Rating": "7.8",
             "TMDb ID": 71715
-        },
-        "79": {
-            "key": "79",
-            "Title": "Greys Anatomy",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/79.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
-        },
-        "98": {
-            "key": "98",
-            "Title": "Station 19",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/98.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 76773
         }
     },
     "arabic-series": {
@@ -231,13 +232,13 @@
             "Image Source": "https://i.imgur.com/OaFKuR2.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -261,11 +262,6 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4106": {
-            "Title": "كشف مستعجل",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4085": {
             "Title": "الصندوق",
             "Image Source": "https://i.imgur.com/nC87hjv.jpg",
@@ -283,6 +279,11 @@
         },
         "4098": {
             "Title": "عملة نادرة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4088": {
+            "Title": "إكس لانس",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
