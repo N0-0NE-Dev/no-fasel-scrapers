@@ -83,6 +83,17 @@
         }
     },
     "asian-series": {
+        "210577": {
+            "Title": "Pandora: Beneath the Paradise",
+            "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 203344
+        },
         "209970": {
             "Title": "Divorce Attorney Shin",
             "Image Source": "https://i.imgur.com/7OWYnMh.jpg",
@@ -105,6 +116,17 @@
             "Rating": "N/A",
             "TMDb ID": 119769
         },
+        "122431": {
+            "Title": "Taxi Driver",
+            "Image Source": "https://imgpile.com/images/TKfovW.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 119769
+        },
         "204423": {
             "Title": "Bait",
             "Image Source": "https://i.imgur.com/DmsLwYX.jpg",
@@ -114,71 +136,48 @@
             ],
             "Rating": "7.1",
             "TMDb ID": 34555
-        },
-        "209743": {
-            "Title": "Delivery Man",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Fantasy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 197081
-        },
-        "210203": {
-            "Title": "Oasis",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 70793
-        },
-        "208972": {
-            "Title": "Call It Love",
-            "Image Source": "https://i.imgur.com/eITUR7u.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 215471
         }
     },
     "anime": {
-        "213014": {
-            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+        "205031": {
+            "Title": "Hirogaru Sky !Precure",
+            "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 213883
+        },
+        "213051": {
+            "Title": "World Dai Star",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 137391
+            "TMDb ID": 215198
         },
-        "213008": {
-            "Title": "Otonari ni ginga",
+        "212637": {
+            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200732
+            "TMDb ID": 207493
         },
-        "212670": {
-            "Title": "Edens Zero 2nd Season",
+        "212645": {
+            "Title": "My Home Hero",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 204412
+        },
+        "213045": {
+            "Title": "Kidou Senshi Gundam: Suisei no majo Season 2",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
-        },
-        "212588": {
-            "Title": "jigokuraku",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 117465
         }
     },
     "series": {
@@ -291,78 +290,41 @@
             ],
             "Rating": "7.9",
             "TMDb ID": 117488
-        },
-        "208036": {
-            "Title": "Star Trek: Picard",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama",
-                "Sci-fi"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 85949
-        },
-        "208908": {
-            "Title": "Magnum P.I.",
-            "Image Source": "https://i.imgur.com/rr2xroL.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Crime"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 79593
-        },
-        "145828": {
-            "Title": "Good Trouble",
-            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 80006
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/ZaKOU2L.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/ZtW5sfd.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/fxYoIE7.jpg",
+            "Image Source": "https://i.imgur.com/7MEicQE.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/Ttb92Sn.jpg",
             "Category": "arabic-series"
         },
         "4103": {
             "Title": "بابا المجال",
-            "Image Source": "https://i.imgur.com/OaFKuR2.jpg",
-            "Category": "arabic-series"
-        },
-        "4070": {
-            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4093": {
             "Title": "سره الباتع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -373,7 +335,7 @@
         },
         "4071": {
             "Title": "الكبير أوي الموسم السابع",
-            "Image Source": "https://i.imgur.com/7iB2xNB.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4102": {
@@ -388,11 +350,16 @@
         },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://i.imgur.com/nC87hjv.jpg",
+            "Image Source": "https://i.imgur.com/ON5xsB6.jpg",
             "Category": "arabic-series"
         },
         "4150": {
             "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/k1WTStd.jpg",
+            "Category": "arabic-series"
+        },
+        "4087": {
+            "Title": "جت سليمة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -401,13 +368,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4098": {
-            "Title": "عملة نادرة",
+        "4104": {
+            "Title": "تلت التلاتة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4088": {
-            "Title": "إكس لانس",
+        "4098": {
+            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }

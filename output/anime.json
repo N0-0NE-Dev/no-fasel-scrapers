@@ -70088,7 +70088,7 @@
             "Comedy",
             "Adventure"
         ],
-        "Number Of Episodes": 1062,
+        "Number Of Episodes": 1063,
         "Image Source": "https://imgpile.com/images/TJ5i34.jpg",
         "Episodes": {
             "58810": {
@@ -74322,6 +74322,10 @@
             "212615": {
                 "Episode Number": 1062,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=271320ac13057307aae09d3ddaa9b8bc&img=https://img.scdn.to/thumb/271320ac13057307aae09d3ddaa9b8bc/large.jpg"
+            },
+            "213040": {
+                "Episode Number": 1063,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=684a90f55cc69acc0df47cd8831c23aa&img=https://img.scdn.to/thumb/684a90f55cc69acc0df47cd8831c23aa/large.jpg"
             }
         },
         "Rating": "7.91",
@@ -91712,7 +91716,7 @@
     "205031": {
         "Title": "Hirogaru Sky !Precure",
         "Category": "anime",
-        "Number Of Episodes": 9,
+        "Number Of Episodes": 10,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/Y2nlXh1.jpg",
         "Episodes": {
@@ -91747,6 +91751,10 @@
             "212636": {
                 "Episode Number": 9,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=390b1aa45862ff0e7f7f79e4905d9bd9&img=https://img.scdn.to/thumb/390b1aa45862ff0e7f7f79e4905d9bd9/large.jpg"
+            },
+            "213067": {
+                "Episode Number": 10,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=4739f11f1433665aff166b020567cefc&img=https://img.scdn.to/thumb/4739f11f1433665aff166b020567cefc/large.jpg"
             }
         },
         "Genres": [],
@@ -92018,13 +92026,17 @@
     "212645": {
         "Title": "My Home Hero",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212644": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=ab6a92a2dac564776aacc49822fb477d&img=https://img.scdn.to/thumb/ab6a92a2dac564776aacc49822fb477d/large.jpg"
+            },
+            "213049": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=5aa229ab681575a5589f409c3bc49e51&img=https://img.scdn.to/thumb/5aa229ab681575a5589f409c3bc49e51/large.jpg"
             }
         },
         "Genres": [],
@@ -92033,13 +92045,17 @@
     "212637": {
         "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212643": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=7a99f71dd30b6dcc7a69d11e87df949a&img=https://img.scdn.to/thumb/7a99f71dd30b6dcc7a69d11e87df949a/large.jpg"
+            },
+            "213050": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=b43cd0215a1e5ada676ff37acabb4390&img=https://img.scdn.to/thumb/b43cd0215a1e5ada676ff37acabb4390/large.jpg"
             }
         },
         "Genres": [],
@@ -92352,5 +92368,65 @@
         },
         "Genres": [],
         "TMDb ID": 200732
+    },
+    "213057": {
+        "Title": "Kimetsu No Yaiba: Katanakaji no sat-hen",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213059": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=33af44c6e4891af08b10b9d877da3db1&img=https://img.scdn.to/thumb/33af44c6e4891af08b10b9d877da3db1/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "213051": {
+        "Title": "World Dai Star",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213056": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=fc06d4ec1ec86b2f99f365ab1b581e0b&img=https://img.scdn.to/thumb/fc06d4ec1ec86b2f99f365ab1b581e0b/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 215198
+    },
+    "213045": {
+        "Title": "Kidou Senshi Gundam: Suisei no majo Season 2",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213048": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=b025d3e6394a0fc5f71c8387ce617d7c&img=https://img.scdn.to/thumb/b025d3e6394a0fc5f71c8387ce617d7c/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "213032": {
+        "Title": "Jijou wo Shiranai Tenkouseii Ga Guigui Kuru.",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213037": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=136e56e6d5051956c210933466cdfa85&img=https://img.scdn.to/thumb/136e56e6d5051956c210933466cdfa85/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
     }
 }

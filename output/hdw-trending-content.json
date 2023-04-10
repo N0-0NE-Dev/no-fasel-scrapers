@@ -177,68 +177,41 @@
             ],
             "Rating": "8",
             "TMDb ID": 117488
-        },
-        "541": {
-            "key": "541",
-            "Title": "Star Trek Picard",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/541.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama",
-                "Sci-Fi"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 85949
-        },
-        "77": {
-            "key": "77",
-            "Title": "Good Girls",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 71715
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/ZaKOU2L.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/ZtW5sfd.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/fxYoIE7.jpg",
+            "Image Source": "https://i.imgur.com/7MEicQE.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/Ttb92Sn.jpg",
             "Category": "arabic-series"
         },
         "4103": {
             "Title": "بابا المجال",
-            "Image Source": "https://i.imgur.com/OaFKuR2.jpg",
-            "Category": "arabic-series"
-        },
-        "4070": {
-            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4093": {
             "Title": "سره الباتع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -249,7 +222,7 @@
         },
         "4071": {
             "Title": "الكبير أوي الموسم السابع",
-            "Image Source": "https://i.imgur.com/7iB2xNB.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4102": {
@@ -264,11 +237,16 @@
         },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://i.imgur.com/nC87hjv.jpg",
+            "Image Source": "https://i.imgur.com/ON5xsB6.jpg",
             "Category": "arabic-series"
         },
         "4150": {
             "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/k1WTStd.jpg",
+            "Category": "arabic-series"
+        },
+        "4087": {
+            "Title": "جت سليمة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -277,13 +255,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4098": {
-            "Title": "عملة نادرة",
+        "4104": {
+            "Title": "تلت التلاتة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4088": {
-            "Title": "إكس لانس",
+        "4098": {
+            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
