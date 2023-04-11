@@ -15,7 +15,7 @@ from requests import Response
 from os import environ
 from PIL import Image
 
-DEBUG = False
+DEBUG = True
 
 FILE_NAMES = ["movies", "anime", "asian-series",
               "series", "tvshows", "arabic-series",
@@ -54,6 +54,22 @@ AKWAM_GENRES = {
     "21": "Crime",
     "19": "Adventure",
     "91": "Western"
+}
+
+CIMA_NOW_GENRES = {
+    "تشويق": "Suspense",
+    "درامي": "Drama",
+    "اكشن": "Action",
+    "رعب": "Horror",
+    "كوميدى": "Comedy",
+    "مغامرة": "Adventure",
+    "ترفيهي": "Entertainment",
+    "غنائي": "Musical",
+    "مسابقات": "Competitions",
+    "اجتماعي": "Social",
+    "جريمة": "Crime",
+    "اثارة": "Thriller",
+    "رومانسى": "Romance"
 }
 
 with open("./output/image-indices.json", "r") as fp:
@@ -342,3 +358,24 @@ def clean_iframe_source(iframe_source: str) -> str:
         return iframe_source.split("=")[2].replace("&img", "")
     except IndexError:
         return ""
+
+
+def get_tmdb_id(title: str, genre: str) -> Optional[str]:
+    params = {
+        "query": title,
+        "api_key": environ.get("TMDB_API_KEY")
+    }
+
+    if genre == "movies":
+        request_url = "https://api.themoviedb.org/3/search/movie"
+    else:
+        request_url = "https://api.themoviedb.org/3/search/tv"
+
+    resp = requests.get(request_url, params=params)
+
+    try:
+        tmdb_id = resp.json().get("results")[0].get("id")
+    except IndexError:
+        tmdb_id = None
+
+    return tmdb_id

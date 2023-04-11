@@ -40,8 +40,11 @@ def scrape_episode(episodes_list: list[str]) -> dict:
         soup = BeautifulSoup(
             episode_watch_page.content, "html.parser")
 
-        episode_number = int(remove_arabic_chars(soup.find(
-            "h2", class_="font-size-20 font-weight-bold").find("a").text).split("\n")[0])
+        try:
+            episode_number = int(remove_arabic_chars(soup.find(
+                "h2", class_="font-size-20 font-weight-bold").find("a").text).split("\n")[0])
+        except ArithmeticError:
+            continue
 
         episodes_dict[episode_id] = {
             "Episode Number": episode_number,
