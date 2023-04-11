@@ -1,5 +1,69 @@
 {
     "hdwmovies": {
+        "18297": {
+            "key": "18297",
+            "Title": "The Girl Next Door",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18297/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "6.7",
+            "TMDb ID": 10591
+        },
+        "22256": {
+            "key": "22256",
+            "Title": "Spell",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22256/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 621151
+        },
+        "21341": {
+            "key": "21341",
+            "Title": "Marrowbone",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21341/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "6.7",
+            "TMDb ID": 399366
+        },
+        "19677": {
+            "key": "19677",
+            "Title": "Gangs of Wasseypur",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19677/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 117691
+        },
+        "22199": {
+            "key": "22199",
+            "Title": "Hogar",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22199/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Adventure",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 674944
+        },
         "17933": {
             "key": "17933",
             "Title": "Red Planet",
@@ -25,43 +89,6 @@
             ],
             "Rating": "6.5",
             "TMDb ID": 5289
-        },
-        "19965": {
-            "key": "19965",
-            "Title": "Hammer of the Gods",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19965/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "History",
-                "Horror"
-            ],
-            "Rating": "4.5",
-            "TMDb ID": 31533
-        },
-        "20615": {
-            "key": "20615",
-            "Title": "Inside Out",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20615/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Animation"
-            ],
-            "Rating": "8.1",
-            "TMDb ID": 150540
-        },
-        "21200": {
-            "key": "21200",
-            "Title": "All the Money in the World",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21200/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 446791
         }
     },
     "hdwseries": {
@@ -152,52 +179,39 @@
             "Rating": "9",
             "TMDb ID": 85720
         },
-        "342": {
-            "key": "342",
-            "Title": "Lovecraft Country",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
+        "416": {
+            "key": "416",
+            "Title": "Elementary",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
             "Category": "hdwseries",
             "Genres": [
+                "Crime",
                 "Drama",
-                "Fantasy",
-                "Horror"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 82816
-        },
-        "604": {
-            "key": "604",
-            "Title": "Yellowjackets",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Horror",
                 "Mystery"
             ],
-            "Rating": "8",
-            "TMDb ID": 117488
+            "Rating": "7.9",
+            "TMDb ID": 1415
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/ZaKOU2L.jpg",
-            "Category": "arabic-series"
-        },
-        "4073": {
-            "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/ZtW5sfd.jpg",
+            "Image Source": "https://i.imgur.com/INeZwH1.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/7MEicQE.jpg",
+            "Image Source": "https://i.imgur.com/eoD8HAM.jpg",
+            "Category": "arabic-series"
+        },
+        "4073": {
+            "Title": "المداح ج3 : أسطورة العشق",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/Ttb92Sn.jpg",
+            "Image Source": "https://i.imgur.com/i13iwZ4.jpg",
             "Category": "arabic-series"
         },
         "4103": {
@@ -205,13 +219,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -225,24 +239,14 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4102": {
-            "Title": "علاقة مشروعة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4081": {
-            "Title": "الصفارة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://i.imgur.com/ON5xsB6.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4150": {
             "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/k1WTStd.jpg",
+            "Image Source": "https://i.imgur.com/H1aBfuq.jpg",
             "Category": "arabic-series"
         },
         "4087": {
@@ -255,13 +259,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4104": {
-            "Title": "تلت التلاتة",
+        "4098": {
+            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4098": {
-            "Title": "عملة نادرة",
+        "4084": {
+            "Title": "تحت الوصاية",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }

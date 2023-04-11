@@ -91395,7 +91395,7 @@
             "Action",
             "Adventure"
         ],
-        "Number Of Episodes": 13,
+        "Number Of Episodes": 14,
         "Image Source": "https://i.imgur.com/8px8auH.jpg",
         "Episodes": {
             "202633": {
@@ -91445,6 +91445,10 @@
             "212676": {
                 "Episode Number": 13,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=341229b6d20ea3288e7550ae7356d30b&img=https://img.scdn.to/thumb/341229b6d20ea3288e7550ae7356d30b/large.jpg"
+            },
+            "213097": {
+                "Episode Number": 14,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=2ab9aaf44541d6153bfb327e32b18981&img=https://img.scdn.to/thumb/2ab9aaf44541d6153bfb327e32b18981/large.jpg"
             }
         },
         "Rating": "8.73",
@@ -92064,13 +92068,17 @@
     "212674": {
         "Title": "Kuma Kuma Kuma Bear Punk!",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212673": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=bd057e1f1f7532f3a42ddc5f54b227c6&img=https://img.scdn.to/thumb/bd057e1f1f7532f3a42ddc5f54b227c6/large.jpg"
+            },
+            "213099": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=440111ce7817cb88e0c4c1cb58c126d7&img=https://img.scdn.to/thumb/440111ce7817cb88e0c4c1cb58c126d7/large.jpg"
             }
         },
         "Genres": [],
@@ -92128,13 +92136,17 @@
     "212716": {
         "Title": "Isekai de Cheat Skill Wo Te Ni Shita Ore Wa, Genjitsu Sekai Wo Mou Musou Suru: Level Up Wa Jinsei Wo KAETA",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212718": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=4f2bf327a0b526fa45b5458a0820ad1a&img=https://img.scdn.to/thumb/4f2bf327a0b526fa45b5458a0820ad1a/large.jpg"
+            },
+            "213125": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=eb2937fec93dd0970249760b3321caf3&img=https://img.scdn.to/thumb/eb2937fec93dd0970249760b3321caf3/large.jpg"
             }
         },
         "Genres": [],
@@ -92143,13 +92155,17 @@
     "212710": {
         "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "212715": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=d156830333e9cb74708555caa4e769d4&img=https://img.scdn.to/thumb/d156830333e9cb74708555caa4e769d4/large.jpg"
+            },
+            "213098": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=9fe0239fb4d4c9e2d3f5da440142ab81&img=https://img.scdn.to/thumb/9fe0239fb4d4c9e2d3f5da440142ab81/large.jpg"
             }
         },
         "Genres": [],
@@ -92417,16 +92433,80 @@
     "213032": {
         "Title": "Jijou wo Shiranai Tenkouseii Ga Guigui Kuru.",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "213037": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=136e56e6d5051956c210933466cdfa85&img=https://img.scdn.to/thumb/136e56e6d5051956c210933466cdfa85/large.jpg"
+            },
+            "213070": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=846d4b6a7a0c735cd0d49e5224cd79df&img=https://img.scdn.to/thumb/846d4b6a7a0c735cd0d49e5224cd79df/large.jpg"
             }
         },
         "Genres": [],
         "TMDb ID": null
+    },
+    "213133": {
+        "Title": "Kimi Wa Houkago Insomnia",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213138": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=43eebd602ee3bcb48b46d24406f67eeb&img=https://img.scdn.to/thumb/43eebd602ee3bcb48b46d24406f67eeb/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 155440
+    },
+    "213127": {
+        "Title": "ao no Orchestra",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213132": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=ed2308c4d2866a8ff00ee13341ed552d&img=https://img.scdn.to/thumb/ed2308c4d2866a8ff00ee13341ed552d/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 197368
+    },
+    "213115": {
+        "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213121": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=9904c5f583bb2fb1c34740d8cedd472e&img=https://img.scdn.to/thumb/9904c5f583bb2fb1c34740d8cedd472e/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 205366
+    },
+    "213100": {
+        "Title": "Dead Mount Death Play",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213114": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=621567b67b0dae734154e74757dfdc7c&img=https://img.scdn.to/thumb/621567b67b0dae734154e74757dfdc7c/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 214540
     }
 }
