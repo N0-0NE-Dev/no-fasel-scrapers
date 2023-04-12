@@ -90097,7 +90097,7 @@
         "Genres": [
             "Animation"
         ],
-        "Number Of Episodes": 10,
+        "Number Of Episodes": 12,
         "Image Source": "https://imgpile.com/images/dh5NJo.jpg",
         "Episodes": {
             "202265": {
@@ -90135,6 +90135,14 @@
             "210478": {
                 "Episode Number": 10,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=54e6520c9fdc85836808fda253b3123f&img=https://img.scdn.to/thumb/54e6520c9fdc85836808fda253b3123f/large.jpg"
+            },
+            "213154": {
+                "Episode Number": 11,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=c7c57303caa681fa63b3988811f5a78a&img=https://img.scdn.to/thumb/c7c57303caa681fa63b3988811f5a78a/large.jpg"
+            },
+            "213155": {
+                "Episode Number": 12,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=a8d957c327e9ea5b93e90afab49e2afd&img=https://img.scdn.to/thumb/a8d957c327e9ea5b93e90afab49e2afd/large.jpg"
             }
         },
         "Rating": "6.78",
@@ -92174,13 +92182,17 @@
     "212704": {
         "Title": "Skip to Loafer",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
         "Episodes": {
             "212709": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=40992b0171353f5363a93ae7815a0956&img=https://img.scdn.to/thumb/40992b0171353f5363a93ae7815a0956/large.jpg"
+            },
+            "213145": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=c08bb0c2e47e02786d2af4462dd257dc&img=https://img.scdn.to/thumb/c08bb0c2e47e02786d2af4462dd257dc/large.jpg"
             }
         },
         "Genres": [],
@@ -92508,5 +92520,20 @@
         },
         "Genres": [],
         "TMDb ID": 214540
+    },
+    "213146": {
+        "Title": "The Marginal Service",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213151": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=796dc5466f1e7a37d46635940db37955&img=https://img.scdn.to/thumb/796dc5466f1e7a37d46635940db37955/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 214211
     }
 }

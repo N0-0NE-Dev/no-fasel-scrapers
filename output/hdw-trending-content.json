@@ -179,44 +179,77 @@
             "Rating": "9",
             "TMDb ID": 85720
         },
-        "416": {
-            "key": "416",
-            "Title": "Elementary",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
+        "42": {
+            "key": "42",
+            "Title": "The Good Doctor",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/42.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 71712
+        },
+        "570": {
+            "key": "570",
+            "Title": "Reservation Dogs",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/570.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy",
+                "Crime"
+            ],
+            "Rating": "8",
+            "TMDb ID": 95215
+        },
+        "448": {
+            "key": "448",
+            "Title": "The Newsroom",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/448.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.6",
+            "TMDb ID": 15621
+        },
+        "222": {
+            "key": "222",
+            "Title": "Perry Mason",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/222.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Crime",
-                "Drama",
-                "Mystery"
+                "Drama"
             ],
-            "Rating": "7.9",
-            "TMDb ID": 1415
+            "Rating": "7.6",
+            "TMDb ID": 4177
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/INeZwH1.jpg",
+            "Image Source": "https://i.imgur.com/AOgPVbW.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/eoD8HAM.jpg",
+            "Image Source": "https://i.imgur.com/MWWWOA1.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/SY5PSiv.jpg",
             "Category": "arabic-series"
         },
         "4078": {
             "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/i13iwZ4.jpg",
+            "Image Source": "https://i.imgur.com/vHBaPjH.jpg",
             "Category": "arabic-series"
         },
         "4103": {
             "Title": "بابا المجال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/8Jhjmbp.jpg",
             "Category": "arabic-series"
         },
         "4070": {
@@ -241,31 +274,36 @@
         },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/3YhSHWX.jpg",
             "Category": "arabic-series"
         },
         "4150": {
             "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/H1aBfuq.jpg",
+            "Image Source": "https://i.imgur.com/RUDBS39.jpg",
             "Category": "arabic-series"
         },
         "4087": {
             "Title": "جت سليمة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/pt3BRXr.jpg",
             "Category": "arabic-series"
         },
         "4082": {
             "Title": "حضرة العمدة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/OHbnXPj.jpg",
             "Category": "arabic-series"
         },
-        "4098": {
-            "Title": "عملة نادرة",
+        "4104": {
+            "Title": "تلت التلاتة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4084": {
             "Title": "تحت الوصاية",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4098": {
+            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
