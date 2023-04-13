@@ -4009,70 +4009,53 @@
             }
         }
     },
-    "190894": {
-        "TMDb ID": 208336,
-        "Title": "Revenge of Others",
+    "191499": {
+        "TMDb ID": 214557,
+        "Title": "Phantom School",
         "Category": "asian-series",
         "Genres": [
-            "Drama",
-            "Mystery"
+            "Action"
         ],
-        "Number Of Episodes": 12,
-        "Rating": "7.7",
+        "Number Of Episodes": 8,
+        "Rating": "6.8",
         "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/6LFb8v3.jpg",
+        "Image Source": "https://i.imgur.com/LSV62xb.jpg",
         "Seasons": {
-            "190894": {
+            "191499": {
                 "Season Number": 1,
-                "Number Of Episodes": 12,
+                "Number Of Episodes": 8,
                 "Episodes": {
-                    "190896": {
+                    "191501": {
                         "Episode Number": 1,
-                        "Source": "27263548da08324287f0a32fe64ce708"
+                        "Source": "541349bde36bd3eb01212e85bdda2f34"
                     },
-                    "190897": {
+                    "191504": {
                         "Episode Number": 2,
-                        "Source": "654af14ecc51dc7abeecc094b7eda5c2"
+                        "Source": "5acd74d5f317f3ea2cfaf650b3f7e099"
                     },
-                    "191449": {
+                    "192006": {
                         "Episode Number": 3,
-                        "Source": "3d2c9dc144f7f49edaac2f620af11900"
+                        "Source": "0a87071d0fc2e3f8a9bce2cabb324843"
                     },
-                    "191450": {
+                    "192007": {
                         "Episode Number": 4,
-                        "Source": "00b525e35d759a32c8665ffb6254e2b1"
+                        "Source": "e36edf6240e7eba527ce85d1f9c673f5"
                     },
-                    "191982": {
+                    "193080": {
                         "Episode Number": 5,
-                        "Source": "b07525f52f7e9572379f3b5278f78d35"
+                        "Source": "501b1ccd5269dca5b56a2dd85ffae283"
                     },
-                    "191983": {
+                    "193081": {
                         "Episode Number": 6,
-                        "Source": "b0889fb123a0550ffb57b616201f37d3"
+                        "Source": "d5358193b7837eb36c076090ebb85037"
                     },
-                    "192843": {
+                    "194079": {
                         "Episode Number": 7,
-                        "Source": "030fad4d7990baacaa36b23053c28527"
+                        "Source": "06ac879ec5509c6160c7c1150452b9cc"
                     },
-                    "192844": {
+                    "194080": {
                         "Episode Number": 8,
-                        "Source": "f592d9a530ebb40605713e82774f3ab8"
-                    },
-                    "194075": {
-                        "Episode Number": 9,
-                        "Source": "974714bab34f7ca8e4937d96792a2233"
-                    },
-                    "194076": {
-                        "Episode Number": 10,
-                        "Source": "743a6764d38fcd2bdf8c666a4d879078"
-                    },
-                    "194623": {
-                        "Episode Number": 11,
-                        "Source": "c167544a6c305a5014d3fe445bb0fe72"
-                    },
-                    "194624": {
-                        "Episode Number": 12,
-                        "Source": "f7a43978d8ae341c6de232cc25639cc6"
+                        "Source": "d7b5b79d26b4a0b1e8b7f2d1b42111d8"
                     }
                 }
             }
@@ -4746,516 +4729,50 @@
             }
         }
     },
-    "187405": {
-        "TMDb ID": 63201,
-        "Title": "Glitch",
+    "189402": {
+        "TMDb ID": 208596,
+        "Title": "Modern Love Tokyo",
         "Category": "asian-series",
         "Genres": [
             "Comedy",
-            "Mystery"
-        ],
-        "Number Of Episodes": 10,
-        "Rating": "7.2",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/NLeZ8TP.jpg",
-        "Seasons": {
-            "187405": {
-                "Season Number": 1,
-                "Number Of Episodes": 10,
-                "Episodes": {
-                    "187408": {
-                        "Episode Number": 1,
-                        "Source": "9f9898ecb29caf74be4d41c3c09f9e84"
-                    },
-                    "187409": {
-                        "Episode Number": 2,
-                        "Source": "c450c2c0de482d8aac43bade6967b263"
-                    },
-                    "187410": {
-                        "Episode Number": 3,
-                        "Source": "96d437abecb849d3b2e15617de29938d"
-                    },
-                    "187411": {
-                        "Episode Number": 4,
-                        "Source": "d86cdaa98ec8956beeb9f0f7c5e674e4"
-                    },
-                    "187412": {
-                        "Episode Number": 5,
-                        "Source": "b2fce79c46b31e277802065ea114e701"
-                    },
-                    "187413": {
-                        "Episode Number": 6,
-                        "Source": "fed101c0ec1a13a82353844117cc7cf8"
-                    },
-                    "187414": {
-                        "Episode Number": 7,
-                        "Source": "fb76ed06dec603179a314fe246898bb4"
-                    },
-                    "187415": {
-                        "Episode Number": 8,
-                        "Source": "cae4596d9391c2f3b4e7aac1eb91d486"
-                    },
-                    "187416": {
-                        "Episode Number": 9,
-                        "Source": "16414738612cf1d098285db12f7eeb90"
-                    },
-                    "187417": {
-                        "Episode Number": 10,
-                        "Source": "d71314409ba5cb67461710fb1a53269b"
-                    }
-                }
-            }
-        }
-    },
-    "187303": {
-        "TMDb ID": 209408,
-        "Title": "Bad Prosecutor",
-        "Category": "asian-series",
-        "Genres": [
-            "Crime",
             "Drama"
         ],
-        "Number Of Episodes": 12,
-        "Rating": "7.4",
-        "Format": "720p HDTV",
-        "Image Source": "https://i.imgur.com/OIbAhR1.jpg",
-        "Seasons": {
-            "187303": {
-                "Season Number": 1,
-                "Number Of Episodes": 12,
-                "Episodes": {
-                    "187307": {
-                        "Episode Number": 1,
-                        "Source": "c6635f96e0b2f064d18937f3795c50e5"
-                    },
-                    "187363": {
-                        "Episode Number": 2,
-                        "Source": "ed253a4bb58673996d8f282deb302ccb"
-                    },
-                    "188494": {
-                        "Episode Number": 3,
-                        "Source": "0cde8a9a07a83b8b9d3dbaea10519f96"
-                    },
-                    "188521": {
-                        "Episode Number": 4,
-                        "Source": "0c6cc48f6d4674db8766261053d27554"
-                    },
-                    "189213": {
-                        "Episode Number": 5,
-                        "Source": "431a026e1255043702ced522b6e49cdc"
-                    },
-                    "189247": {
-                        "Episode Number": 6,
-                        "Source": "94460a5bea0789560be36294ff19efc0"
-                    },
-                    "189876": {
-                        "Episode Number": 7,
-                        "Source": "f0213ce8abf97e9fd83b6f8ef5c69793"
-                    },
-                    "189997": {
-                        "Episode Number": 8,
-                        "Source": "f2cf26e98bf0e2fb342529678c916aa6"
-                    },
-                    "190425": {
-                        "Episode Number": 9,
-                        "Source": "f6f96cda9ebffd7e020b25300b75542c"
-                    },
-                    "190500": {
-                        "Episode Number": 10,
-                        "Source": "6dd1d340c25dd352dd75ec9aa1e0a20f"
-                    },
-                    "190886": {
-                        "Episode Number": 11,
-                        "Source": "ee1f648773019159f0a597520587e5a0"
-                    },
-                    "191005": {
-                        "Episode Number": 12,
-                        "Source": "d77654fd528be10a08d2263b711b289b"
-                    }
-                }
-            }
-        }
-    },
-    "187285": {
-        "TMDb ID": 197073,
-        "Title": "Love Is for Suckers",
-        "Category": "asian-series",
-        "Genres": [
-            "Comedy",
-            "Romance"
-        ],
-        "Number Of Episodes": 16,
-        "Rating": "6.7",
+        "Number Of Episodes": 7,
+        "Rating": "6.4",
         "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/QQz7WxJ.jpg",
+        "Image Source": "https://i.imgur.com/slfK8r4.jpg",
         "Seasons": {
-            "187285": {
+            "189402": {
                 "Season Number": 1,
-                "Number Of Episodes": 16,
+                "Number Of Episodes": 7,
                 "Episodes": {
-                    "187287": {
+                    "189405": {
                         "Episode Number": 1,
-                        "Source": "dbba826a41961834f58944cd31c37f4b"
+                        "Source": "4a6c5ecd1f94d4cdf3e2204b69513980"
                     },
-                    "187346": {
+                    "189406": {
                         "Episode Number": 2,
-                        "Source": "6c3dc5d6d6c2ffa145d5021ec62c0510"
+                        "Source": "3f6ad10af628dab6f1a35c9991946b21"
                     },
-                    "188476": {
+                    "189407": {
                         "Episode Number": 3,
-                        "Source": "70f0869123e31c49479a8757784fb8cf"
+                        "Source": "a2a97d35cd313850f01c27eb365def3f"
                     },
-                    "188502": {
+                    "189408": {
                         "Episode Number": 4,
-                        "Source": "b56fcd4a0e77a5844296127afc6789b8"
+                        "Source": "f1ed55820f1a74f1623ad3448448fea6"
                     },
-                    "189173": {
+                    "189409": {
                         "Episode Number": 5,
-                        "Source": "a7b1627983e27b3269beb6ce9ae0ac0b"
+                        "Source": "4d0571b976564bcbbfcad418c342a906"
                     },
-                    "189243": {
+                    "189410": {
                         "Episode Number": 6,
-                        "Source": "db92e02467cad4574ec31492de4bd931"
+                        "Source": "4e6cdadc821ff69a3542781f39502ecf"
                     },
-                    "189872": {
+                    "189411": {
                         "Episode Number": 7,
-                        "Source": "e8dd9315e210e60c91c48964489f60fd"
-                    },
-                    "189993": {
-                        "Episode Number": 8,
-                        "Source": "fbc2415da28902ce6e43ce911729beac"
-                    },
-                    "190883": {
-                        "Episode Number": 9,
-                        "Source": "5b7cbb8f3b6b92d3f586247764db3d2e"
-                    },
-                    "190994": {
-                        "Episode Number": 10,
-                        "Source": "489692b0308e480c2c847d04d638db56"
-                    },
-                    "191422": {
-                        "Episode Number": 11,
-                        "Source": "db62eced254c62e5eca2cf4a2adcf130"
-                    },
-                    "191507": {
-                        "Episode Number": 12,
-                        "Source": "b3f4ceb9d1d0c46a2eadfec186cff443"
-                    },
-                    "191991": {
-                        "Episode Number": 13,
-                        "Source": "7d8e077a4f5847a64cc89f4c64bc0f91"
-                    },
-                    "192119": {
-                        "Episode Number": 14,
-                        "Source": "8f1c821e09dc6bc409c5a339d7c1595d"
-                    },
-                    "193088": {
-                        "Episode Number": 15,
-                        "Source": "3d8639b81c96e7740af2a1f97af7a1d7"
-                    },
-                    "193172": {
-                        "Episode Number": 16,
-                        "Source": "5a45e1275fb5de8e6b48fa38a4e0c0a4"
-                    }
-                }
-            }
-        }
-    },
-    "187152": {
-        "TMDb ID": 63990,
-        "Title": "Cheer Up",
-        "Category": "asian-series",
-        "Genres": [
-            "Mystery"
-        ],
-        "Number Of Episodes": 16,
-        "Rating": "7",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/zI3oJBO.jpg",
-        "Seasons": {
-            "187152": {
-                "Season Number": 1,
-                "Number Of Episodes": 16,
-                "Episodes": {
-                    "187154": {
-                        "Episode Number": 1,
-                        "Source": "a5a26711d6dbadb2bce40093f2c2c213"
-                    },
-                    "187201": {
-                        "Episode Number": 2,
-                        "Source": "2e73038bc115ce9f504d3f0267f738cd"
-                    },
-                    "188330": {
-                        "Episode Number": 3,
-                        "Source": "abcefefbbfdca4bf32ea893919f3cfdd"
-                    },
-                    "188397": {
-                        "Episode Number": 4,
-                        "Source": "14d72e57347223915c5fca3859785135"
-                    },
-                    "189013": {
-                        "Episode Number": 5,
-                        "Source": "d43df2071efe5743849f3066df4a2bfd"
-                    },
-                    "189036": {
-                        "Episode Number": 6,
-                        "Source": "cb521f4aac1bec9a7880774b6978e978"
-                    },
-                    "189743": {
-                        "Episode Number": 7,
-                        "Source": "a9f89a8fcbdc9e5cc412191817cbbc64"
-                    },
-                    "189801": {
-                        "Episode Number": 8,
-                        "Source": "7ac645b11200474fbef038cadff3975c"
-                    },
-                    "190847": {
-                        "Episode Number": 9,
-                        "Source": "8046bc0dd3ae484eef0435f5bb3b4fde"
-                    },
-                    "191241": {
-                        "Episode Number": 10,
-                        "Source": "5895670124b0ea510e32fa83e138dfea"
-                    },
-                    "191296": {
-                        "Episode Number": 11,
-                        "Source": "0e37e35d4e28cffb0425bf1dcdc4ce00"
-                    },
-                    "192643": {
-                        "Episode Number": 12,
-                        "Source": "562d1031588b0edb1e3cb916e01dbad0"
-                    },
-                    "193501": {
-                        "Episode Number": 13,
-                        "Source": "c780253a95ef99ddb965509f32295353"
-                    },
-                    "194028": {
-                        "Episode Number": 14,
-                        "Source": "1b86bd6696bbab856246043d2d1c8eb7"
-                    },
-                    "194456": {
-                        "Episode Number": 15,
-                        "Source": "f00cd4561f8ed8944ef7f48c13cf4eff"
-                    },
-                    "194568": {
-                        "Episode Number": 16,
-                        "Source": "b5123506fb0d1b096e25fb929db3d597"
-                    }
-                }
-            }
-        }
-    },
-    "186448": {
-        "TMDb ID": 204653,
-        "Title": "Three Bold Siblings",
-        "Category": "asian-series",
-        "Genres": [
-            "Comedy"
-        ],
-        "Number Of Episodes": 24,
-        "Rating": "8.6",
-        "Format": "720p HDTV",
-        "Image Source": "https://i.imgur.com/A75WeBp.jpg",
-        "Seasons": {
-            "186448": {
-                "Season Number": 1,
-                "Number Of Episodes": 49,
-                "Episodes": {
-                    "186451": {
-                        "Episode Number": 1,
-                        "Source": "bdb372c7dece8d9f286cd2f4baa6ca4f"
-                    },
-                    "186472": {
-                        "Episode Number": 2,
-                        "Source": "1e275ffe6865975079628647e7c6e133"
-                    },
-                    "187008": {
-                        "Episode Number": 3,
-                        "Source": "aa4e255bf1f1a82d5051af7e898d5ad4"
-                    },
-                    "187065": {
-                        "Episode Number": 4,
-                        "Source": "d40ac86fd06cf48bcb345cf57cd3e096"
-                    },
-                    "188174": {
-                        "Episode Number": 5,
-                        "Source": "3554be837b85c6e83446b88a0e34bed7"
-                    },
-                    "188201": {
-                        "Episode Number": 6,
-                        "Source": "5e8e091ebc5010d2fd8ea1cac9402bc4"
-                    },
-                    "188202": {
-                        "Episode Number": 7,
-                        "Source": "afa5ef2762450626ac66c872d7705376"
-                    },
-                    "188898": {
-                        "Episode Number": 8,
-                        "Source": "f6aec39481d2a4cc971456afae06f699"
-                    },
-                    "189584": {
-                        "Episode Number": 9,
-                        "Source": "b2bf380b66e08e0280a397d7af9badd2"
-                    },
-                    "189675": {
-                        "Episode Number": 10,
-                        "Source": "6ba678664bba3b07acd06c5c9e3fcf65"
-                    },
-                    "190217": {
-                        "Episode Number": 11,
-                        "Source": "d82c5e966f095d0778757edf9a64cb3e"
-                    },
-                    "190264": {
-                        "Episode Number": 12,
-                        "Source": "a91009d9c576f9fa0ab28efe71247625"
-                    },
-                    "190683": {
-                        "Episode Number": 13,
-                        "Source": "aa2c91c58892e1752f7df5bcafbddd84"
-                    },
-                    "190757": {
-                        "Episode Number": 14,
-                        "Source": "1b2e7101d171e469c49e4581d4487774"
-                    },
-                    "191203": {
-                        "Episode Number": 15,
-                        "Source": "11beda31a820785043620b0848b9e0f8"
-                    },
-                    "191228": {
-                        "Episode Number": 16,
-                        "Source": "f3d0e382193d4c08d1cd5cdf3a1939bb"
-                    },
-                    "191759": {
-                        "Episode Number": 17,
-                        "Source": "dc51b94004d4cbefd24150c95164cd66"
-                    },
-                    "191783": {
-                        "Episode Number": 18,
-                        "Source": "caca50103b22ecbff83543a90555b144"
-                    },
-                    "192229": {
-                        "Episode Number": 19,
-                        "Source": "f08962513969eb3f42b04c7d0f5af4e5"
-                    },
-                    "192312": {
-                        "Episode Number": 20,
-                        "Source": "7e1d6a81e2400aa7f1c36be42214d7f8"
-                    },
-                    "193394": {
-                        "Episode Number": 21,
-                        "Source": "99629ce0e8d1d006ba72b663f3267f64"
-                    },
-                    "193438": {
-                        "Episode Number": 22,
-                        "Source": "ca361a246663cef172b3acf958131a94"
-                    },
-                    "194350": {
-                        "Episode Number": 23,
-                        "Source": "a48fba243b50e9655dbf9f8e15c096e0"
-                    },
-                    "194405": {
-                        "Episode Number": 24,
-                        "Source": "01d68837ddd001f6d5c716047d67909f"
-                    },
-                    "196019": {
-                        "Episode Number": 25,
-                        "Source": "be510b932be5ed368cf1ca5e567210f5"
-                    },
-                    "196806": {
-                        "Episode Number": 26,
-                        "Source": "ff97e28c6442bba1cea33b6c22bc82f2"
-                    },
-                    "199008": {
-                        "Episode Number": 27,
-                        "Source": "d70711f30a8679891cdb7cf178fcecce"
-                    },
-                    "199080": {
-                        "Episode Number": 28,
-                        "Source": "9ef38dcbef8c5e02302d2b16a56b99b2"
-                    },
-                    "201479": {
-                        "Episode Number": 29,
-                        "Source": "396321440d6902af2125cde135851005"
-                    },
-                    "202416": {
-                        "Episode Number": 30,
-                        "Source": "aabd4b9acd91ba960df5054015cc0efa"
-                    },
-                    "202605": {
-                        "Episode Number": 31,
-                        "Source": "a00c1baabf28802823dc5cf2104cdf9c"
-                    },
-                    "203051": {
-                        "Episode Number": 32,
-                        "Source": "043c12970dc5f891a8c48a99de679e9a"
-                    },
-                    "203107": {
-                        "Episode Number": 33,
-                        "Source": "a0c2bad1507cf7048b3bba42136fc6df"
-                    },
-                    "203744": {
-                        "Episode Number": 34,
-                        "Source": "47fcbcc62de3955b1c64fbce7bc68f45"
-                    },
-                    "203800": {
-                        "Episode Number": 35,
-                        "Source": "eb4371c27a25084eee095af68ad33329"
-                    },
-                    "204549": {
-                        "Episode Number": 36,
-                        "Source": "e491c2bbbe77de34305b88ac737b33bb"
-                    },
-                    "204569": {
-                        "Episode Number": 37,
-                        "Source": "9d1fee2f08c2c790c604406e6af3d009"
-                    },
-                    "205019": {
-                        "Episode Number": 38,
-                        "Source": "a08f5c6819e316df49088b064b64ce77"
-                    },
-                    "205053": {
-                        "Episode Number": 39,
-                        "Source": "2fcfb1ad8daf51db229838192b606887"
-                    },
-                    "206357": {
-                        "Episode Number": 40,
-                        "Source": "2fc182ad151f2320893988bc1c98f9ec"
-                    },
-                    "206695": {
-                        "Episode Number": 41,
-                        "Source": "0f536efc9da2700191b57a677d91277e"
-                    },
-                    "208734": {
-                        "Episode Number": 42,
-                        "Source": "c7fa970c17c33065b4f11aa50fc6061d"
-                    },
-                    "208911": {
-                        "Episode Number": 43,
-                        "Source": "d32248772d61a2440f8e4a778d6056d4"
-                    },
-                    "209434": {
-                        "Episode Number": 44,
-                        "Source": "e5c237c3abe32a2f483d04aa7a1ed778"
-                    },
-                    "209483": {
-                        "Episode Number": 45,
-                        "Source": "eb9a43856b75028e7f449ccf85a7d6ac"
-                    },
-                    "210053": {
-                        "Episode Number": 46,
-                        "Source": "45636e30d4d23353217176b41053d788"
-                    },
-                    "210223": {
-                        "Episode Number": 47,
-                        "Source": "a095b0087a0dc5a0d861de631c505258"
-                    },
-                    "210590": {
-                        "Episode Number": 48,
-                        "Source": "d02304e35a5a4c3a8709021aecf95c14"
-                    },
-                    "210617": {
-                        "Episode Number": 49,
-                        "Source": "3d71b5e8980a5ca2540b451d4a0efd19"
+                        "Source": "287128526fa796974c4c53348472f27c"
                     }
                 }
             }
@@ -67450,86 +66967,85 @@
             }
         }
     },
-    "77540": {
-        "TMDb ID": 66271,
-        "Title": "Lucky Romance",
+    "78696": {
+        "TMDb ID": 87302,
+        "Title": "He Is Psychometric",
         "Category": "asian-series",
         "Genres": [
-            "Comedy",
-            "Romance"
+            "Mystery"
         ],
         "Number Of Episodes": 16,
-        "Rating": "7",
+        "Rating": "7.7",
         "Format": "720p HDTV",
-        "Image Source": "https://imgpile.com/images/TKqKuc.jpg",
+        "Image Source": "https://imgpile.com/images/TKqHj3.jpg",
         "Seasons": {
-            "77540": {
+            "78696": {
                 "Season Number": 1,
                 "Number Of Episodes": 16,
                 "Episodes": {
-                    "77542": {
+                    "78896": {
                         "Episode Number": 1,
-                        "Source": "39ad4b1181f0ad9006ac2f97ecd12845"
+                        "Source": "f9e1ea8a67a9bff2800b828a7af01243"
                     },
-                    "77543": {
+                    "78897": {
                         "Episode Number": 2,
-                        "Source": "3043291f21abf9c8cebcf629844da00a"
+                        "Source": "03f8a693d64d11a5997ee3091b19aca0"
                     },
-                    "77544": {
+                    "78900": {
                         "Episode Number": 3,
-                        "Source": "f76c048178b9b16097a2984aa923bc1f"
+                        "Source": "b3940a6c60970e87778cea9b4f75209d"
                     },
-                    "77545": {
+                    "78901": {
                         "Episode Number": 4,
-                        "Source": "e220ac5bfa76b38d2a92280e03e1c34c"
+                        "Source": "46b4f28fc04e76165ed19b38a86fca52"
                     },
-                    "77546": {
+                    "78902": {
                         "Episode Number": 5,
-                        "Source": "b24c61fee6e4e3e9b1c82afb4c4b737c"
+                        "Source": "c46c43ecbbb5fbbb4f2d4d44697a5e95"
                     },
-                    "77547": {
+                    "78903": {
                         "Episode Number": 6,
-                        "Source": "a025c1b4ea5e7b4ea1158e9a38d3e4af"
+                        "Source": "1888b4a91fae69829e6607ff485673d1"
                     },
-                    "77548": {
+                    "79225": {
                         "Episode Number": 7,
-                        "Source": "5cdbb72077269f05d6c67d0490c06303"
+                        "Source": "bb20aefb2407f35c880cdeda61906e56"
                     },
-                    "77549": {
+                    "79226": {
                         "Episode Number": 8,
-                        "Source": "73a3afe3f898ca26edb2cfaeaa1757d4"
+                        "Source": "0bcad3af2fe399da308e5861c6a566c2"
                     },
-                    "77550": {
+                    "79616": {
                         "Episode Number": 9,
-                        "Source": "d73d8370db59286cf9bda8c4043f8305"
+                        "Source": "e45c0e54a6fe622cceeac59c38ddad1a"
                     },
-                    "77551": {
+                    "79669": {
                         "Episode Number": 10,
-                        "Source": "65983e28c8b716e3bad2d5b0d17b5ce3"
+                        "Source": "91bfb71513f6a5dc462a3e561e1703f3"
                     },
-                    "77552": {
+                    "79909": {
                         "Episode Number": 11,
-                        "Source": "3327ba717e5ca0ad7325129188de6600"
+                        "Source": "b9c6a98332f8e06f21d62b7ab00fd3f6"
                     },
-                    "77553": {
+                    "79935": {
                         "Episode Number": 12,
-                        "Source": "197599b0056aa6dd81f09f7f742a3272"
+                        "Source": "395aeec72dbecbc5aa1f5c308cf13b79"
                     },
-                    "77554": {
+                    "80095": {
                         "Episode Number": 13,
-                        "Source": "510d8ff0c4122da74363cf8bab0dbbe2"
+                        "Source": "8a08e5ccd1fb7fe7ea1a50bd87fda740"
                     },
-                    "77555": {
+                    "80128": {
                         "Episode Number": 14,
-                        "Source": "e94b19f527f7dfab6f621f0a231411e1"
+                        "Source": "e56b2e552d46908593450bd694cc5577"
                     },
-                    "77556": {
+                    "80662": {
                         "Episode Number": 15,
-                        "Source": "c855d29ca0f84da791c1946a7fcfb228"
+                        "Source": "2a351acb06ca1f8a4a693519a843f958"
                     },
-                    "77557": {
+                    "80664": {
                         "Episode Number": 16,
-                        "Source": "cdfd2a6f5bd8a0c68e9ecc3f472950e2"
+                        "Source": "75173b24373d1e4003f4764cefa13e56"
                     }
                 }
             }
@@ -73013,107 +72529,182 @@
             }
         }
     },
-    "72726": {
-        "TMDb ID": 61197,
-        "Title": "Emergency Couple",
+    "73131": {
+        "TMDb ID": 72549,
+        "Title": "Reunited Worlds",
         "Category": "asian-series",
         "Genres": [
-            "Comedy",
-            "Drama",
+            "Fantasy",
             "Romance"
         ],
-        "Number Of Episodes": 21,
-        "Rating": "7.4",
+        "Number Of Episodes": 40,
+        "Rating": "7.3",
         "Format": "720p HDTV",
-        "Image Source": "https://imgpile.com/images/TKoPzi.jpg",
+        "Image Source": "https://imgpile.com/images/TKoswk.jpg",
         "Seasons": {
-            "72726": {
+            "73131": {
                 "Season Number": 1,
-                "Number Of Episodes": 21,
+                "Number Of Episodes": 40,
                 "Episodes": {
-                    "72729": {
+                    "73133": {
                         "Episode Number": 1,
-                        "Source": "ee4ddd07b11af9b46447a941ada69a29"
+                        "Source": "4a6bcbc0f285e34b74fbba7036474a64"
                     },
-                    "72730": {
+                    "73134": {
                         "Episode Number": 2,
-                        "Source": "21fcd75b600dbd6db4f00f7787d3b561"
+                        "Source": "468d920a40b09a70b363d85e45098898"
                     },
-                    "72731": {
+                    "73135": {
                         "Episode Number": 3,
-                        "Source": "d26e6c9f87d146576f895f284b3314e8"
+                        "Source": "d30b6829baf5fd86524cea5ea48ade6d"
                     },
-                    "72732": {
+                    "73136": {
                         "Episode Number": 4,
-                        "Source": "3138b6bb8bd822774950477b879e0c4e"
+                        "Source": "5b1def241b300e9337c13486ba457616"
                     },
-                    "72733": {
+                    "73137": {
                         "Episode Number": 5,
-                        "Source": "2556219f2fce4886f44dafdb090b957e"
+                        "Source": "80f06a497e87ab4bc00841810097b14a"
                     },
-                    "72734": {
+                    "73138": {
                         "Episode Number": 6,
-                        "Source": "3fa581e2789fa4d87cb6f85c6781f594"
+                        "Source": "209b3ed9e67cb96d1d1d7cf542481a1d"
                     },
-                    "72736": {
+                    "73139": {
                         "Episode Number": 7,
-                        "Source": "c8b7499b5924f21a5e9670cf4ac2de95"
+                        "Source": "5032a11f6f3f151eac69debab79ee8ee"
                     },
-                    "72735": {
+                    "73140": {
                         "Episode Number": 8,
-                        "Source": "b55456d507f034c54beb9c91b72d1c23"
+                        "Source": "3db191ae584db336d8d15bf2a5b96757"
                     },
-                    "72737": {
+                    "73141": {
                         "Episode Number": 9,
-                        "Source": "c85eab98a838e2e0b81b8547f586cf3f"
+                        "Source": "996c55438c6d9ba5ede4b524524b3f30"
                     },
-                    "72738": {
+                    "73142": {
                         "Episode Number": 10,
-                        "Source": "86d78f17bc698ba91cb6e0134ebf8e80"
+                        "Source": "26005c5a2c8dbf5bf935d752ad05d91f"
                     },
-                    "72739": {
+                    "73143": {
                         "Episode Number": 11,
-                        "Source": "37330006f2d47586c06879f78132bd8a"
+                        "Source": "d100b98bcd352ab53cc23acb0a8185a9"
                     },
-                    "72740": {
+                    "73144": {
                         "Episode Number": 12,
-                        "Source": "5e086f1ea4e2f1c805dbebd600747007"
+                        "Source": "092cea97991bfcd7be9784291c72824a"
                     },
-                    "72741": {
+                    "73145": {
                         "Episode Number": 13,
-                        "Source": "87ef6a04ec6cd81d22eb4f3ff9936f61"
+                        "Source": "2f326f77d8c5e0363eeca1ff06db6366"
                     },
-                    "72742": {
+                    "73146": {
                         "Episode Number": 14,
-                        "Source": "2657bc4c57f9a86b5c521dcf7ae7fc9d"
+                        "Source": "f371bc04cf764c80aa0ff57800ba0fcc"
                     },
-                    "72743": {
+                    "73147": {
                         "Episode Number": 15,
-                        "Source": "2bc1e5397b99be9b8cd917ddd3111617"
+                        "Source": "d164bd596995014d1d97f3deea957df6"
                     },
-                    "72744": {
+                    "73148": {
                         "Episode Number": 16,
-                        "Source": "adaee6e8683362fd28efd777cd95ccd6"
+                        "Source": "a32d0827d7811434dca073fecac9e890"
                     },
-                    "72745": {
+                    "73149": {
                         "Episode Number": 17,
-                        "Source": "48b7b2cef39742ad4c200aad10012865"
+                        "Source": "2d76f7b67161ac8be47d3fc23b06c035"
                     },
-                    "72746": {
+                    "73150": {
                         "Episode Number": 18,
-                        "Source": "70d7cfdb4825e8198f3b6172b784d38e"
+                        "Source": "96ba1be7e49075f4321b34f8a2514a00"
                     },
-                    "72747": {
+                    "73151": {
                         "Episode Number": 19,
-                        "Source": "c4965f8411a9dbe54bd5317a34a8e733"
+                        "Source": "23bd9d1d131f4e045515f992fc4eefd5"
                     },
-                    "72748": {
+                    "73152": {
                         "Episode Number": 20,
-                        "Source": "bb90587381fe6a02d551a47b910df712"
+                        "Source": "abcda59f3ee24973e91b85b97fa55ee8"
                     },
-                    "72749": {
+                    "73153": {
                         "Episode Number": 21,
-                        "Source": "1317b8d840dd34431aff3a88cc570c12"
+                        "Source": "b9c30915f41f7b0f629bf144d8b3bcbf"
+                    },
+                    "73154": {
+                        "Episode Number": 22,
+                        "Source": "82c7c0862d3c949c4b3ad72c478b31cd"
+                    },
+                    "73155": {
+                        "Episode Number": 23,
+                        "Source": "9ab00b25075b83a4232639646219ca68"
+                    },
+                    "73156": {
+                        "Episode Number": 24,
+                        "Source": "05a21cd5ed83bb3a65fc9f138e7673cd"
+                    },
+                    "73157": {
+                        "Episode Number": 25,
+                        "Source": "fa4e618a781acdb256a8d77910d17c07"
+                    },
+                    "73158": {
+                        "Episode Number": 26,
+                        "Source": "f3740634471effb8f9014676cff13e40"
+                    },
+                    "73159": {
+                        "Episode Number": 27,
+                        "Source": "bcc71224fdd932b4790b1bcf5f4a7ce4"
+                    },
+                    "73160": {
+                        "Episode Number": 28,
+                        "Source": "ac676793a6679a81e183dc81a3b25f07"
+                    },
+                    "73161": {
+                        "Episode Number": 29,
+                        "Source": "95480a96730e1a3a9c0a9d4f239c18ec"
+                    },
+                    "73162": {
+                        "Episode Number": 30,
+                        "Source": "aedf0b6d153cf3b322dfbad3a37b192b"
+                    },
+                    "73163": {
+                        "Episode Number": 31,
+                        "Source": "e155c238ff86f9bd4b7b65b031f0a087"
+                    },
+                    "73164": {
+                        "Episode Number": 32,
+                        "Source": "1c009f98a5ff90ff63683150178ae2ae"
+                    },
+                    "73165": {
+                        "Episode Number": 33,
+                        "Source": "170f1915713d26db994d62c549c1fcfe"
+                    },
+                    "73166": {
+                        "Episode Number": 34,
+                        "Source": "9137510b47e0ca9f0c417f3e3adb2ccf"
+                    },
+                    "73167": {
+                        "Episode Number": 35,
+                        "Source": "abb44f6f8073191d7e27e6ae9260e769"
+                    },
+                    "73213": {
+                        "Episode Number": 36,
+                        "Source": "d3b632355cba6567fb79fcdd8d79ee7d"
+                    },
+                    "73214": {
+                        "Episode Number": 37,
+                        "Source": "46606349d8060f7e92eea631490b88fa"
+                    },
+                    "73215": {
+                        "Episode Number": 38,
+                        "Source": "cc392d21b31c0d4789cb60a1b3ac6467"
+                    },
+                    "73216": {
+                        "Episode Number": 39,
+                        "Source": "2f43a74d5d024b7cd860142ed2b45d2e"
+                    },
+                    "73217": {
+                        "Episode Number": 40,
+                        "Source": "e626bb1a4df4a15b985bb4211db397d1"
                     }
                 }
             }
@@ -81217,6 +80808,781 @@
             }
         }
     },
+    "190894": {
+        "TMDb ID": 208336,
+        "Title": "Revenge of Others",
+        "Category": "asian-series",
+        "Genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "Number Of Episodes": 12,
+        "Rating": "7.7",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/6LFb8v3.jpg",
+        "Seasons": {
+            "190894": {
+                "Season Number": 1,
+                "Number Of Episodes": 12,
+                "Episodes": {
+                    "190896": {
+                        "Episode Number": 1,
+                        "Source": "27263548da08324287f0a32fe64ce708"
+                    },
+                    "190897": {
+                        "Episode Number": 2,
+                        "Source": "654af14ecc51dc7abeecc094b7eda5c2"
+                    },
+                    "191449": {
+                        "Episode Number": 3,
+                        "Source": "3d2c9dc144f7f49edaac2f620af11900"
+                    },
+                    "191450": {
+                        "Episode Number": 4,
+                        "Source": "00b525e35d759a32c8665ffb6254e2b1"
+                    },
+                    "191982": {
+                        "Episode Number": 5,
+                        "Source": "b07525f52f7e9572379f3b5278f78d35"
+                    },
+                    "191983": {
+                        "Episode Number": 6,
+                        "Source": "b0889fb123a0550ffb57b616201f37d3"
+                    },
+                    "192843": {
+                        "Episode Number": 7,
+                        "Source": "030fad4d7990baacaa36b23053c28527"
+                    },
+                    "192844": {
+                        "Episode Number": 8,
+                        "Source": "f592d9a530ebb40605713e82774f3ab8"
+                    },
+                    "194075": {
+                        "Episode Number": 9,
+                        "Source": "974714bab34f7ca8e4937d96792a2233"
+                    },
+                    "194076": {
+                        "Episode Number": 10,
+                        "Source": "743a6764d38fcd2bdf8c666a4d879078"
+                    },
+                    "194623": {
+                        "Episode Number": 11,
+                        "Source": "c167544a6c305a5014d3fe445bb0fe72"
+                    },
+                    "194624": {
+                        "Episode Number": 12,
+                        "Source": "f7a43978d8ae341c6de232cc25639cc6"
+                    }
+                }
+            }
+        }
+    },
+    "187405": {
+        "TMDb ID": 63201,
+        "Title": "Glitch",
+        "Category": "asian-series",
+        "Genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "Number Of Episodes": 10,
+        "Rating": "7.2",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/NLeZ8TP.jpg",
+        "Seasons": {
+            "187405": {
+                "Season Number": 1,
+                "Number Of Episodes": 10,
+                "Episodes": {
+                    "187408": {
+                        "Episode Number": 1,
+                        "Source": "9f9898ecb29caf74be4d41c3c09f9e84"
+                    },
+                    "187409": {
+                        "Episode Number": 2,
+                        "Source": "c450c2c0de482d8aac43bade6967b263"
+                    },
+                    "187410": {
+                        "Episode Number": 3,
+                        "Source": "96d437abecb849d3b2e15617de29938d"
+                    },
+                    "187411": {
+                        "Episode Number": 4,
+                        "Source": "d86cdaa98ec8956beeb9f0f7c5e674e4"
+                    },
+                    "187412": {
+                        "Episode Number": 5,
+                        "Source": "b2fce79c46b31e277802065ea114e701"
+                    },
+                    "187413": {
+                        "Episode Number": 6,
+                        "Source": "fed101c0ec1a13a82353844117cc7cf8"
+                    },
+                    "187414": {
+                        "Episode Number": 7,
+                        "Source": "fb76ed06dec603179a314fe246898bb4"
+                    },
+                    "187415": {
+                        "Episode Number": 8,
+                        "Source": "cae4596d9391c2f3b4e7aac1eb91d486"
+                    },
+                    "187416": {
+                        "Episode Number": 9,
+                        "Source": "16414738612cf1d098285db12f7eeb90"
+                    },
+                    "187417": {
+                        "Episode Number": 10,
+                        "Source": "d71314409ba5cb67461710fb1a53269b"
+                    }
+                }
+            }
+        }
+    },
+    "187303": {
+        "TMDb ID": 209408,
+        "Title": "Bad Prosecutor",
+        "Category": "asian-series",
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Number Of Episodes": 12,
+        "Rating": "7.4",
+        "Format": "720p HDTV",
+        "Image Source": "https://i.imgur.com/OIbAhR1.jpg",
+        "Seasons": {
+            "187303": {
+                "Season Number": 1,
+                "Number Of Episodes": 12,
+                "Episodes": {
+                    "187307": {
+                        "Episode Number": 1,
+                        "Source": "c6635f96e0b2f064d18937f3795c50e5"
+                    },
+                    "187363": {
+                        "Episode Number": 2,
+                        "Source": "ed253a4bb58673996d8f282deb302ccb"
+                    },
+                    "188494": {
+                        "Episode Number": 3,
+                        "Source": "0cde8a9a07a83b8b9d3dbaea10519f96"
+                    },
+                    "188521": {
+                        "Episode Number": 4,
+                        "Source": "0c6cc48f6d4674db8766261053d27554"
+                    },
+                    "189213": {
+                        "Episode Number": 5,
+                        "Source": "431a026e1255043702ced522b6e49cdc"
+                    },
+                    "189247": {
+                        "Episode Number": 6,
+                        "Source": "94460a5bea0789560be36294ff19efc0"
+                    },
+                    "189876": {
+                        "Episode Number": 7,
+                        "Source": "f0213ce8abf97e9fd83b6f8ef5c69793"
+                    },
+                    "189997": {
+                        "Episode Number": 8,
+                        "Source": "f2cf26e98bf0e2fb342529678c916aa6"
+                    },
+                    "190425": {
+                        "Episode Number": 9,
+                        "Source": "f6f96cda9ebffd7e020b25300b75542c"
+                    },
+                    "190500": {
+                        "Episode Number": 10,
+                        "Source": "6dd1d340c25dd352dd75ec9aa1e0a20f"
+                    },
+                    "190886": {
+                        "Episode Number": 11,
+                        "Source": "ee1f648773019159f0a597520587e5a0"
+                    },
+                    "191005": {
+                        "Episode Number": 12,
+                        "Source": "d77654fd528be10a08d2263b711b289b"
+                    }
+                }
+            }
+        }
+    },
+    "187285": {
+        "TMDb ID": 197073,
+        "Title": "Love Is for Suckers",
+        "Category": "asian-series",
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Number Of Episodes": 16,
+        "Rating": "6.7",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/QQz7WxJ.jpg",
+        "Seasons": {
+            "187285": {
+                "Season Number": 1,
+                "Number Of Episodes": 16,
+                "Episodes": {
+                    "187287": {
+                        "Episode Number": 1,
+                        "Source": "dbba826a41961834f58944cd31c37f4b"
+                    },
+                    "187346": {
+                        "Episode Number": 2,
+                        "Source": "6c3dc5d6d6c2ffa145d5021ec62c0510"
+                    },
+                    "188476": {
+                        "Episode Number": 3,
+                        "Source": "70f0869123e31c49479a8757784fb8cf"
+                    },
+                    "188502": {
+                        "Episode Number": 4,
+                        "Source": "b56fcd4a0e77a5844296127afc6789b8"
+                    },
+                    "189173": {
+                        "Episode Number": 5,
+                        "Source": "a7b1627983e27b3269beb6ce9ae0ac0b"
+                    },
+                    "189243": {
+                        "Episode Number": 6,
+                        "Source": "db92e02467cad4574ec31492de4bd931"
+                    },
+                    "189872": {
+                        "Episode Number": 7,
+                        "Source": "e8dd9315e210e60c91c48964489f60fd"
+                    },
+                    "189993": {
+                        "Episode Number": 8,
+                        "Source": "fbc2415da28902ce6e43ce911729beac"
+                    },
+                    "190883": {
+                        "Episode Number": 9,
+                        "Source": "5b7cbb8f3b6b92d3f586247764db3d2e"
+                    },
+                    "190994": {
+                        "Episode Number": 10,
+                        "Source": "489692b0308e480c2c847d04d638db56"
+                    },
+                    "191422": {
+                        "Episode Number": 11,
+                        "Source": "db62eced254c62e5eca2cf4a2adcf130"
+                    },
+                    "191507": {
+                        "Episode Number": 12,
+                        "Source": "b3f4ceb9d1d0c46a2eadfec186cff443"
+                    },
+                    "191991": {
+                        "Episode Number": 13,
+                        "Source": "7d8e077a4f5847a64cc89f4c64bc0f91"
+                    },
+                    "192119": {
+                        "Episode Number": 14,
+                        "Source": "8f1c821e09dc6bc409c5a339d7c1595d"
+                    },
+                    "193088": {
+                        "Episode Number": 15,
+                        "Source": "3d8639b81c96e7740af2a1f97af7a1d7"
+                    },
+                    "193172": {
+                        "Episode Number": 16,
+                        "Source": "5a45e1275fb5de8e6b48fa38a4e0c0a4"
+                    }
+                }
+            }
+        }
+    },
+    "187152": {
+        "TMDb ID": 63990,
+        "Title": "Cheer Up",
+        "Category": "asian-series",
+        "Genres": [
+            "Mystery"
+        ],
+        "Number Of Episodes": 16,
+        "Rating": "7",
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/zI3oJBO.jpg",
+        "Seasons": {
+            "187152": {
+                "Season Number": 1,
+                "Number Of Episodes": 16,
+                "Episodes": {
+                    "187154": {
+                        "Episode Number": 1,
+                        "Source": "a5a26711d6dbadb2bce40093f2c2c213"
+                    },
+                    "187201": {
+                        "Episode Number": 2,
+                        "Source": "2e73038bc115ce9f504d3f0267f738cd"
+                    },
+                    "188330": {
+                        "Episode Number": 3,
+                        "Source": "abcefefbbfdca4bf32ea893919f3cfdd"
+                    },
+                    "188397": {
+                        "Episode Number": 4,
+                        "Source": "14d72e57347223915c5fca3859785135"
+                    },
+                    "189013": {
+                        "Episode Number": 5,
+                        "Source": "d43df2071efe5743849f3066df4a2bfd"
+                    },
+                    "189036": {
+                        "Episode Number": 6,
+                        "Source": "cb521f4aac1bec9a7880774b6978e978"
+                    },
+                    "189743": {
+                        "Episode Number": 7,
+                        "Source": "a9f89a8fcbdc9e5cc412191817cbbc64"
+                    },
+                    "189801": {
+                        "Episode Number": 8,
+                        "Source": "7ac645b11200474fbef038cadff3975c"
+                    },
+                    "190847": {
+                        "Episode Number": 9,
+                        "Source": "8046bc0dd3ae484eef0435f5bb3b4fde"
+                    },
+                    "191241": {
+                        "Episode Number": 10,
+                        "Source": "5895670124b0ea510e32fa83e138dfea"
+                    },
+                    "191296": {
+                        "Episode Number": 11,
+                        "Source": "0e37e35d4e28cffb0425bf1dcdc4ce00"
+                    },
+                    "192643": {
+                        "Episode Number": 12,
+                        "Source": "562d1031588b0edb1e3cb916e01dbad0"
+                    },
+                    "193501": {
+                        "Episode Number": 13,
+                        "Source": "c780253a95ef99ddb965509f32295353"
+                    },
+                    "194028": {
+                        "Episode Number": 14,
+                        "Source": "1b86bd6696bbab856246043d2d1c8eb7"
+                    },
+                    "194456": {
+                        "Episode Number": 15,
+                        "Source": "f00cd4561f8ed8944ef7f48c13cf4eff"
+                    },
+                    "194568": {
+                        "Episode Number": 16,
+                        "Source": "b5123506fb0d1b096e25fb929db3d597"
+                    }
+                }
+            }
+        }
+    },
+    "186448": {
+        "TMDb ID": 204653,
+        "Title": "Three Bold Siblings",
+        "Category": "asian-series",
+        "Genres": [
+            "Comedy"
+        ],
+        "Number Of Episodes": 24,
+        "Rating": "8.6",
+        "Format": "720p HDTV",
+        "Image Source": "https://i.imgur.com/A75WeBp.jpg",
+        "Seasons": {
+            "186448": {
+                "Season Number": 1,
+                "Number Of Episodes": 49,
+                "Episodes": {
+                    "186451": {
+                        "Episode Number": 1,
+                        "Source": "bdb372c7dece8d9f286cd2f4baa6ca4f"
+                    },
+                    "186472": {
+                        "Episode Number": 2,
+                        "Source": "1e275ffe6865975079628647e7c6e133"
+                    },
+                    "187008": {
+                        "Episode Number": 3,
+                        "Source": "aa4e255bf1f1a82d5051af7e898d5ad4"
+                    },
+                    "187065": {
+                        "Episode Number": 4,
+                        "Source": "d40ac86fd06cf48bcb345cf57cd3e096"
+                    },
+                    "188174": {
+                        "Episode Number": 5,
+                        "Source": "3554be837b85c6e83446b88a0e34bed7"
+                    },
+                    "188201": {
+                        "Episode Number": 6,
+                        "Source": "5e8e091ebc5010d2fd8ea1cac9402bc4"
+                    },
+                    "188202": {
+                        "Episode Number": 7,
+                        "Source": "afa5ef2762450626ac66c872d7705376"
+                    },
+                    "188898": {
+                        "Episode Number": 8,
+                        "Source": "f6aec39481d2a4cc971456afae06f699"
+                    },
+                    "189584": {
+                        "Episode Number": 9,
+                        "Source": "b2bf380b66e08e0280a397d7af9badd2"
+                    },
+                    "189675": {
+                        "Episode Number": 10,
+                        "Source": "6ba678664bba3b07acd06c5c9e3fcf65"
+                    },
+                    "190217": {
+                        "Episode Number": 11,
+                        "Source": "d82c5e966f095d0778757edf9a64cb3e"
+                    },
+                    "190264": {
+                        "Episode Number": 12,
+                        "Source": "a91009d9c576f9fa0ab28efe71247625"
+                    },
+                    "190683": {
+                        "Episode Number": 13,
+                        "Source": "aa2c91c58892e1752f7df5bcafbddd84"
+                    },
+                    "190757": {
+                        "Episode Number": 14,
+                        "Source": "1b2e7101d171e469c49e4581d4487774"
+                    },
+                    "191203": {
+                        "Episode Number": 15,
+                        "Source": "11beda31a820785043620b0848b9e0f8"
+                    },
+                    "191228": {
+                        "Episode Number": 16,
+                        "Source": "f3d0e382193d4c08d1cd5cdf3a1939bb"
+                    },
+                    "191759": {
+                        "Episode Number": 17,
+                        "Source": "dc51b94004d4cbefd24150c95164cd66"
+                    },
+                    "191783": {
+                        "Episode Number": 18,
+                        "Source": "caca50103b22ecbff83543a90555b144"
+                    },
+                    "192229": {
+                        "Episode Number": 19,
+                        "Source": "f08962513969eb3f42b04c7d0f5af4e5"
+                    },
+                    "192312": {
+                        "Episode Number": 20,
+                        "Source": "7e1d6a81e2400aa7f1c36be42214d7f8"
+                    },
+                    "193394": {
+                        "Episode Number": 21,
+                        "Source": "99629ce0e8d1d006ba72b663f3267f64"
+                    },
+                    "193438": {
+                        "Episode Number": 22,
+                        "Source": "ca361a246663cef172b3acf958131a94"
+                    },
+                    "194350": {
+                        "Episode Number": 23,
+                        "Source": "a48fba243b50e9655dbf9f8e15c096e0"
+                    },
+                    "194405": {
+                        "Episode Number": 24,
+                        "Source": "01d68837ddd001f6d5c716047d67909f"
+                    },
+                    "196019": {
+                        "Episode Number": 25,
+                        "Source": "be510b932be5ed368cf1ca5e567210f5"
+                    },
+                    "196806": {
+                        "Episode Number": 26,
+                        "Source": "ff97e28c6442bba1cea33b6c22bc82f2"
+                    },
+                    "199008": {
+                        "Episode Number": 27,
+                        "Source": "d70711f30a8679891cdb7cf178fcecce"
+                    },
+                    "199080": {
+                        "Episode Number": 28,
+                        "Source": "9ef38dcbef8c5e02302d2b16a56b99b2"
+                    },
+                    "201479": {
+                        "Episode Number": 29,
+                        "Source": "396321440d6902af2125cde135851005"
+                    },
+                    "202416": {
+                        "Episode Number": 30,
+                        "Source": "aabd4b9acd91ba960df5054015cc0efa"
+                    },
+                    "202605": {
+                        "Episode Number": 31,
+                        "Source": "a00c1baabf28802823dc5cf2104cdf9c"
+                    },
+                    "203051": {
+                        "Episode Number": 32,
+                        "Source": "043c12970dc5f891a8c48a99de679e9a"
+                    },
+                    "203107": {
+                        "Episode Number": 33,
+                        "Source": "a0c2bad1507cf7048b3bba42136fc6df"
+                    },
+                    "203744": {
+                        "Episode Number": 34,
+                        "Source": "47fcbcc62de3955b1c64fbce7bc68f45"
+                    },
+                    "203800": {
+                        "Episode Number": 35,
+                        "Source": "eb4371c27a25084eee095af68ad33329"
+                    },
+                    "204549": {
+                        "Episode Number": 36,
+                        "Source": "e491c2bbbe77de34305b88ac737b33bb"
+                    },
+                    "204569": {
+                        "Episode Number": 37,
+                        "Source": "9d1fee2f08c2c790c604406e6af3d009"
+                    },
+                    "205019": {
+                        "Episode Number": 38,
+                        "Source": "a08f5c6819e316df49088b064b64ce77"
+                    },
+                    "205053": {
+                        "Episode Number": 39,
+                        "Source": "2fcfb1ad8daf51db229838192b606887"
+                    },
+                    "206357": {
+                        "Episode Number": 40,
+                        "Source": "2fc182ad151f2320893988bc1c98f9ec"
+                    },
+                    "206695": {
+                        "Episode Number": 41,
+                        "Source": "0f536efc9da2700191b57a677d91277e"
+                    },
+                    "208734": {
+                        "Episode Number": 42,
+                        "Source": "c7fa970c17c33065b4f11aa50fc6061d"
+                    },
+                    "208911": {
+                        "Episode Number": 43,
+                        "Source": "d32248772d61a2440f8e4a778d6056d4"
+                    },
+                    "209434": {
+                        "Episode Number": 44,
+                        "Source": "e5c237c3abe32a2f483d04aa7a1ed778"
+                    },
+                    "209483": {
+                        "Episode Number": 45,
+                        "Source": "eb9a43856b75028e7f449ccf85a7d6ac"
+                    },
+                    "210053": {
+                        "Episode Number": 46,
+                        "Source": "45636e30d4d23353217176b41053d788"
+                    },
+                    "210223": {
+                        "Episode Number": 47,
+                        "Source": "a095b0087a0dc5a0d861de631c505258"
+                    },
+                    "210590": {
+                        "Episode Number": 48,
+                        "Source": "d02304e35a5a4c3a8709021aecf95c14"
+                    },
+                    "210617": {
+                        "Episode Number": 49,
+                        "Source": "3d71b5e8980a5ca2540b451d4a0efd19"
+                    }
+                }
+            }
+        }
+    },
+    "77540": {
+        "TMDb ID": 66271,
+        "Title": "Lucky Romance",
+        "Category": "asian-series",
+        "Genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "Number Of Episodes": 16,
+        "Rating": "7",
+        "Format": "720p HDTV",
+        "Image Source": "https://imgpile.com/images/TKqKuc.jpg",
+        "Seasons": {
+            "77540": {
+                "Season Number": 1,
+                "Number Of Episodes": 16,
+                "Episodes": {
+                    "77542": {
+                        "Episode Number": 1,
+                        "Source": "39ad4b1181f0ad9006ac2f97ecd12845"
+                    },
+                    "77543": {
+                        "Episode Number": 2,
+                        "Source": "3043291f21abf9c8cebcf629844da00a"
+                    },
+                    "77544": {
+                        "Episode Number": 3,
+                        "Source": "f76c048178b9b16097a2984aa923bc1f"
+                    },
+                    "77545": {
+                        "Episode Number": 4,
+                        "Source": "e220ac5bfa76b38d2a92280e03e1c34c"
+                    },
+                    "77546": {
+                        "Episode Number": 5,
+                        "Source": "b24c61fee6e4e3e9b1c82afb4c4b737c"
+                    },
+                    "77547": {
+                        "Episode Number": 6,
+                        "Source": "a025c1b4ea5e7b4ea1158e9a38d3e4af"
+                    },
+                    "77548": {
+                        "Episode Number": 7,
+                        "Source": "5cdbb72077269f05d6c67d0490c06303"
+                    },
+                    "77549": {
+                        "Episode Number": 8,
+                        "Source": "73a3afe3f898ca26edb2cfaeaa1757d4"
+                    },
+                    "77550": {
+                        "Episode Number": 9,
+                        "Source": "d73d8370db59286cf9bda8c4043f8305"
+                    },
+                    "77551": {
+                        "Episode Number": 10,
+                        "Source": "65983e28c8b716e3bad2d5b0d17b5ce3"
+                    },
+                    "77552": {
+                        "Episode Number": 11,
+                        "Source": "3327ba717e5ca0ad7325129188de6600"
+                    },
+                    "77553": {
+                        "Episode Number": 12,
+                        "Source": "197599b0056aa6dd81f09f7f742a3272"
+                    },
+                    "77554": {
+                        "Episode Number": 13,
+                        "Source": "510d8ff0c4122da74363cf8bab0dbbe2"
+                    },
+                    "77555": {
+                        "Episode Number": 14,
+                        "Source": "e94b19f527f7dfab6f621f0a231411e1"
+                    },
+                    "77556": {
+                        "Episode Number": 15,
+                        "Source": "c855d29ca0f84da791c1946a7fcfb228"
+                    },
+                    "77557": {
+                        "Episode Number": 16,
+                        "Source": "cdfd2a6f5bd8a0c68e9ecc3f472950e2"
+                    }
+                }
+            }
+        }
+    },
+    "72726": {
+        "TMDb ID": 61197,
+        "Title": "Emergency Couple",
+        "Category": "asian-series",
+        "Genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Number Of Episodes": 21,
+        "Rating": "7.4",
+        "Format": "720p HDTV",
+        "Image Source": "https://imgpile.com/images/TKoPzi.jpg",
+        "Seasons": {
+            "72726": {
+                "Season Number": 1,
+                "Number Of Episodes": 21,
+                "Episodes": {
+                    "72729": {
+                        "Episode Number": 1,
+                        "Source": "ee4ddd07b11af9b46447a941ada69a29"
+                    },
+                    "72730": {
+                        "Episode Number": 2,
+                        "Source": "21fcd75b600dbd6db4f00f7787d3b561"
+                    },
+                    "72731": {
+                        "Episode Number": 3,
+                        "Source": "d26e6c9f87d146576f895f284b3314e8"
+                    },
+                    "72732": {
+                        "Episode Number": 4,
+                        "Source": "3138b6bb8bd822774950477b879e0c4e"
+                    },
+                    "72733": {
+                        "Episode Number": 5,
+                        "Source": "2556219f2fce4886f44dafdb090b957e"
+                    },
+                    "72734": {
+                        "Episode Number": 6,
+                        "Source": "3fa581e2789fa4d87cb6f85c6781f594"
+                    },
+                    "72736": {
+                        "Episode Number": 7,
+                        "Source": "c8b7499b5924f21a5e9670cf4ac2de95"
+                    },
+                    "72735": {
+                        "Episode Number": 8,
+                        "Source": "b55456d507f034c54beb9c91b72d1c23"
+                    },
+                    "72737": {
+                        "Episode Number": 9,
+                        "Source": "c85eab98a838e2e0b81b8547f586cf3f"
+                    },
+                    "72738": {
+                        "Episode Number": 10,
+                        "Source": "86d78f17bc698ba91cb6e0134ebf8e80"
+                    },
+                    "72739": {
+                        "Episode Number": 11,
+                        "Source": "37330006f2d47586c06879f78132bd8a"
+                    },
+                    "72740": {
+                        "Episode Number": 12,
+                        "Source": "5e086f1ea4e2f1c805dbebd600747007"
+                    },
+                    "72741": {
+                        "Episode Number": 13,
+                        "Source": "87ef6a04ec6cd81d22eb4f3ff9936f61"
+                    },
+                    "72742": {
+                        "Episode Number": 14,
+                        "Source": "2657bc4c57f9a86b5c521dcf7ae7fc9d"
+                    },
+                    "72743": {
+                        "Episode Number": 15,
+                        "Source": "2bc1e5397b99be9b8cd917ddd3111617"
+                    },
+                    "72744": {
+                        "Episode Number": 16,
+                        "Source": "adaee6e8683362fd28efd777cd95ccd6"
+                    },
+                    "72745": {
+                        "Episode Number": 17,
+                        "Source": "48b7b2cef39742ad4c200aad10012865"
+                    },
+                    "72746": {
+                        "Episode Number": 18,
+                        "Source": "70d7cfdb4825e8198f3b6172b784d38e"
+                    },
+                    "72747": {
+                        "Episode Number": 19,
+                        "Source": "c4965f8411a9dbe54bd5317a34a8e733"
+                    },
+                    "72748": {
+                        "Episode Number": 20,
+                        "Source": "bb90587381fe6a02d551a47b910df712"
+                    },
+                    "72749": {
+                        "Episode Number": 21,
+                        "Source": "1317b8d840dd34431aff3a88cc570c12"
+                    }
+                }
+            }
+        }
+    },
     "204423": {
         "TMDb ID": 34555,
         "Title": "Bait",
@@ -81256,372 +81622,6 @@
                     "205860": {
                         "Episode Number": 6,
                         "Source": "de6b1165f88c23bb83473add772f5557"
-                    }
-                }
-            }
-        }
-    },
-    "191499": {
-        "TMDb ID": 214557,
-        "Title": "Phantom School",
-        "Category": "asian-series",
-        "Genres": [
-            "Action"
-        ],
-        "Number Of Episodes": 8,
-        "Rating": "6.8",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/LSV62xb.jpg",
-        "Seasons": {
-            "191499": {
-                "Season Number": 1,
-                "Number Of Episodes": 8,
-                "Episodes": {
-                    "191501": {
-                        "Episode Number": 1,
-                        "Source": "541349bde36bd3eb01212e85bdda2f34"
-                    },
-                    "191504": {
-                        "Episode Number": 2,
-                        "Source": "5acd74d5f317f3ea2cfaf650b3f7e099"
-                    },
-                    "192006": {
-                        "Episode Number": 3,
-                        "Source": "0a87071d0fc2e3f8a9bce2cabb324843"
-                    },
-                    "192007": {
-                        "Episode Number": 4,
-                        "Source": "e36edf6240e7eba527ce85d1f9c673f5"
-                    },
-                    "193080": {
-                        "Episode Number": 5,
-                        "Source": "501b1ccd5269dca5b56a2dd85ffae283"
-                    },
-                    "193081": {
-                        "Episode Number": 6,
-                        "Source": "d5358193b7837eb36c076090ebb85037"
-                    },
-                    "194079": {
-                        "Episode Number": 7,
-                        "Source": "06ac879ec5509c6160c7c1150452b9cc"
-                    },
-                    "194080": {
-                        "Episode Number": 8,
-                        "Source": "d7b5b79d26b4a0b1e8b7f2d1b42111d8"
-                    }
-                }
-            }
-        }
-    },
-    "189402": {
-        "TMDb ID": 208596,
-        "Title": "Modern Love Tokyo",
-        "Category": "asian-series",
-        "Genres": [
-            "Comedy",
-            "Drama"
-        ],
-        "Number Of Episodes": 7,
-        "Rating": "6.4",
-        "Format": "1080p WEB-DL",
-        "Image Source": "https://i.imgur.com/slfK8r4.jpg",
-        "Seasons": {
-            "189402": {
-                "Season Number": 1,
-                "Number Of Episodes": 7,
-                "Episodes": {
-                    "189405": {
-                        "Episode Number": 1,
-                        "Source": "4a6c5ecd1f94d4cdf3e2204b69513980"
-                    },
-                    "189406": {
-                        "Episode Number": 2,
-                        "Source": "3f6ad10af628dab6f1a35c9991946b21"
-                    },
-                    "189407": {
-                        "Episode Number": 3,
-                        "Source": "a2a97d35cd313850f01c27eb365def3f"
-                    },
-                    "189408": {
-                        "Episode Number": 4,
-                        "Source": "f1ed55820f1a74f1623ad3448448fea6"
-                    },
-                    "189409": {
-                        "Episode Number": 5,
-                        "Source": "4d0571b976564bcbbfcad418c342a906"
-                    },
-                    "189410": {
-                        "Episode Number": 6,
-                        "Source": "4e6cdadc821ff69a3542781f39502ecf"
-                    },
-                    "189411": {
-                        "Episode Number": 7,
-                        "Source": "287128526fa796974c4c53348472f27c"
-                    }
-                }
-            }
-        }
-    },
-    "78696": {
-        "TMDb ID": 87302,
-        "Title": "He Is Psychometric",
-        "Category": "asian-series",
-        "Genres": [
-            "Mystery"
-        ],
-        "Number Of Episodes": 16,
-        "Rating": "7.7",
-        "Format": "720p HDTV",
-        "Image Source": "https://imgpile.com/images/TKqHj3.jpg",
-        "Seasons": {
-            "78696": {
-                "Season Number": 1,
-                "Number Of Episodes": 16,
-                "Episodes": {
-                    "78896": {
-                        "Episode Number": 1,
-                        "Source": "f9e1ea8a67a9bff2800b828a7af01243"
-                    },
-                    "78897": {
-                        "Episode Number": 2,
-                        "Source": "03f8a693d64d11a5997ee3091b19aca0"
-                    },
-                    "78900": {
-                        "Episode Number": 3,
-                        "Source": "b3940a6c60970e87778cea9b4f75209d"
-                    },
-                    "78901": {
-                        "Episode Number": 4,
-                        "Source": "46b4f28fc04e76165ed19b38a86fca52"
-                    },
-                    "78902": {
-                        "Episode Number": 5,
-                        "Source": "c46c43ecbbb5fbbb4f2d4d44697a5e95"
-                    },
-                    "78903": {
-                        "Episode Number": 6,
-                        "Source": "1888b4a91fae69829e6607ff485673d1"
-                    },
-                    "79225": {
-                        "Episode Number": 7,
-                        "Source": "bb20aefb2407f35c880cdeda61906e56"
-                    },
-                    "79226": {
-                        "Episode Number": 8,
-                        "Source": "0bcad3af2fe399da308e5861c6a566c2"
-                    },
-                    "79616": {
-                        "Episode Number": 9,
-                        "Source": "e45c0e54a6fe622cceeac59c38ddad1a"
-                    },
-                    "79669": {
-                        "Episode Number": 10,
-                        "Source": "91bfb71513f6a5dc462a3e561e1703f3"
-                    },
-                    "79909": {
-                        "Episode Number": 11,
-                        "Source": "b9c6a98332f8e06f21d62b7ab00fd3f6"
-                    },
-                    "79935": {
-                        "Episode Number": 12,
-                        "Source": "395aeec72dbecbc5aa1f5c308cf13b79"
-                    },
-                    "80095": {
-                        "Episode Number": 13,
-                        "Source": "8a08e5ccd1fb7fe7ea1a50bd87fda740"
-                    },
-                    "80128": {
-                        "Episode Number": 14,
-                        "Source": "e56b2e552d46908593450bd694cc5577"
-                    },
-                    "80662": {
-                        "Episode Number": 15,
-                        "Source": "2a351acb06ca1f8a4a693519a843f958"
-                    },
-                    "80664": {
-                        "Episode Number": 16,
-                        "Source": "75173b24373d1e4003f4764cefa13e56"
-                    }
-                }
-            }
-        }
-    },
-    "73131": {
-        "TMDb ID": 72549,
-        "Title": "Reunited Worlds",
-        "Category": "asian-series",
-        "Genres": [
-            "Fantasy",
-            "Romance"
-        ],
-        "Number Of Episodes": 40,
-        "Rating": "7.3",
-        "Format": "720p HDTV",
-        "Image Source": "https://imgpile.com/images/TKoswk.jpg",
-        "Seasons": {
-            "73131": {
-                "Season Number": 1,
-                "Number Of Episodes": 40,
-                "Episodes": {
-                    "73133": {
-                        "Episode Number": 1,
-                        "Source": "4a6bcbc0f285e34b74fbba7036474a64"
-                    },
-                    "73134": {
-                        "Episode Number": 2,
-                        "Source": "468d920a40b09a70b363d85e45098898"
-                    },
-                    "73135": {
-                        "Episode Number": 3,
-                        "Source": "d30b6829baf5fd86524cea5ea48ade6d"
-                    },
-                    "73136": {
-                        "Episode Number": 4,
-                        "Source": "5b1def241b300e9337c13486ba457616"
-                    },
-                    "73137": {
-                        "Episode Number": 5,
-                        "Source": "80f06a497e87ab4bc00841810097b14a"
-                    },
-                    "73138": {
-                        "Episode Number": 6,
-                        "Source": "209b3ed9e67cb96d1d1d7cf542481a1d"
-                    },
-                    "73139": {
-                        "Episode Number": 7,
-                        "Source": "5032a11f6f3f151eac69debab79ee8ee"
-                    },
-                    "73140": {
-                        "Episode Number": 8,
-                        "Source": "3db191ae584db336d8d15bf2a5b96757"
-                    },
-                    "73141": {
-                        "Episode Number": 9,
-                        "Source": "996c55438c6d9ba5ede4b524524b3f30"
-                    },
-                    "73142": {
-                        "Episode Number": 10,
-                        "Source": "26005c5a2c8dbf5bf935d752ad05d91f"
-                    },
-                    "73143": {
-                        "Episode Number": 11,
-                        "Source": "d100b98bcd352ab53cc23acb0a8185a9"
-                    },
-                    "73144": {
-                        "Episode Number": 12,
-                        "Source": "092cea97991bfcd7be9784291c72824a"
-                    },
-                    "73145": {
-                        "Episode Number": 13,
-                        "Source": "2f326f77d8c5e0363eeca1ff06db6366"
-                    },
-                    "73146": {
-                        "Episode Number": 14,
-                        "Source": "f371bc04cf764c80aa0ff57800ba0fcc"
-                    },
-                    "73147": {
-                        "Episode Number": 15,
-                        "Source": "d164bd596995014d1d97f3deea957df6"
-                    },
-                    "73148": {
-                        "Episode Number": 16,
-                        "Source": "a32d0827d7811434dca073fecac9e890"
-                    },
-                    "73149": {
-                        "Episode Number": 17,
-                        "Source": "2d76f7b67161ac8be47d3fc23b06c035"
-                    },
-                    "73150": {
-                        "Episode Number": 18,
-                        "Source": "96ba1be7e49075f4321b34f8a2514a00"
-                    },
-                    "73151": {
-                        "Episode Number": 19,
-                        "Source": "23bd9d1d131f4e045515f992fc4eefd5"
-                    },
-                    "73152": {
-                        "Episode Number": 20,
-                        "Source": "abcda59f3ee24973e91b85b97fa55ee8"
-                    },
-                    "73153": {
-                        "Episode Number": 21,
-                        "Source": "b9c30915f41f7b0f629bf144d8b3bcbf"
-                    },
-                    "73154": {
-                        "Episode Number": 22,
-                        "Source": "82c7c0862d3c949c4b3ad72c478b31cd"
-                    },
-                    "73155": {
-                        "Episode Number": 23,
-                        "Source": "9ab00b25075b83a4232639646219ca68"
-                    },
-                    "73156": {
-                        "Episode Number": 24,
-                        "Source": "05a21cd5ed83bb3a65fc9f138e7673cd"
-                    },
-                    "73157": {
-                        "Episode Number": 25,
-                        "Source": "fa4e618a781acdb256a8d77910d17c07"
-                    },
-                    "73158": {
-                        "Episode Number": 26,
-                        "Source": "f3740634471effb8f9014676cff13e40"
-                    },
-                    "73159": {
-                        "Episode Number": 27,
-                        "Source": "bcc71224fdd932b4790b1bcf5f4a7ce4"
-                    },
-                    "73160": {
-                        "Episode Number": 28,
-                        "Source": "ac676793a6679a81e183dc81a3b25f07"
-                    },
-                    "73161": {
-                        "Episode Number": 29,
-                        "Source": "95480a96730e1a3a9c0a9d4f239c18ec"
-                    },
-                    "73162": {
-                        "Episode Number": 30,
-                        "Source": "aedf0b6d153cf3b322dfbad3a37b192b"
-                    },
-                    "73163": {
-                        "Episode Number": 31,
-                        "Source": "e155c238ff86f9bd4b7b65b031f0a087"
-                    },
-                    "73164": {
-                        "Episode Number": 32,
-                        "Source": "1c009f98a5ff90ff63683150178ae2ae"
-                    },
-                    "73165": {
-                        "Episode Number": 33,
-                        "Source": "170f1915713d26db994d62c549c1fcfe"
-                    },
-                    "73166": {
-                        "Episode Number": 34,
-                        "Source": "9137510b47e0ca9f0c417f3e3adb2ccf"
-                    },
-                    "73167": {
-                        "Episode Number": 35,
-                        "Source": "abb44f6f8073191d7e27e6ae9260e769"
-                    },
-                    "73213": {
-                        "Episode Number": 36,
-                        "Source": "d3b632355cba6567fb79fcdd8d79ee7d"
-                    },
-                    "73214": {
-                        "Episode Number": 37,
-                        "Source": "46606349d8060f7e92eea631490b88fa"
-                    },
-                    "73215": {
-                        "Episode Number": 38,
-                        "Source": "cc392d21b31c0d4789cb60a1b3ac6467"
-                    },
-                    "73216": {
-                        "Episode Number": 39,
-                        "Source": "2f43a74d5d024b7cd860142ed2b45d2e"
-                    },
-                    "73217": {
-                        "Episode Number": 40,
-                        "Source": "e626bb1a4df4a15b985bb4211db397d1"
                     }
                 }
             }

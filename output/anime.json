@@ -91375,7 +91375,7 @@
             "Fantasy",
             "Comedy"
         ],
-        "Number Of Episodes": 3,
+        "Number Of Episodes": 5,
         "Image Source": "https://i.imgur.com/Wad6brJ.jpg",
         "Episodes": {
             "202652": {
@@ -91389,6 +91389,14 @@
             "212870": {
                 "Episode Number": 3,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=a1478e064947105ca24ff9d83cfb9252&img=https://img.scdn.to/thumb/a1478e064947105ca24ff9d83cfb9252/large.jpg"
+            },
+            "213266": {
+                "Episode Number": 4,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=8685a87f825d571671ddc5c6181bf5e8&img=https://img.scdn.to/thumb/8685a87f825d571671ddc5c6181bf5e8/large.jpg"
+            },
+            "213267": {
+                "Episode Number": 5,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=c8badce3712fe1b9b2f3f7a5fd72b037&img=https://img.scdn.to/thumb/c8badce3712fe1b9b2f3f7a5fd72b037/large.jpg"
             }
         },
         "Rating": "7.25",
@@ -92114,13 +92122,17 @@
     "212777": {
         "Title": "Kaminaki Sekai no Kamisama Katsudou",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
         "Episodes": {
             "212782": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=9b54b88b9d8274c0844be9d347612796&img=https://img.scdn.to/thumb/9b54b88b9d8274c0844be9d347612796/large.jpg"
+            },
+            "213275": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=ba35fc6c24cce95cd17b036f6456a942&img=https://img.scdn.to/thumb/ba35fc6c24cce95cd17b036f6456a942/large.jpg"
             }
         },
         "Genres": [],
@@ -92129,13 +92141,17 @@
     "212772": {
         "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
         "Episodes": {
             "212771": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=7afe181528305c64da3802a7fe06f32f&img=https://img.scdn.to/thumb/7afe181528305c64da3802a7fe06f32f/large.jpg"
+            },
+            "213274": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=72c52045dcf57a8b578bbdefbc9967c9&img=https://img.scdn.to/thumb/72c52045dcf57a8b578bbdefbc9967c9/large.jpg"
             }
         },
         "Genres": [],
@@ -92535,5 +92551,73 @@
         },
         "Genres": [],
         "TMDb ID": 214211
+    },
+    "213287": {
+        "Title": "The [Email Protected] Cindreella Girls: U149",
+        "Category": "anime",
+        "Number Of Episodes": 2,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213292": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=0a668cfc6fed9be26cad3ce602c53c33&img=https://img.scdn.to/thumb/0a668cfc6fed9be26cad3ce602c53c33/large.jpg"
+            },
+            "213293": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=6458ac5d2c9929b4abc70eef3b0d80a2&img=https://img.scdn.to/thumb/6458ac5d2c9929b4abc70eef3b0d80a2/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "213280": {
+        "Title": "Ayou de Mishi",
+        "Category": "anime",
+        "Number Of Episodes": 2,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213285": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=b8d09f8550979a0a2ebf6614feb06003&img=https://img.scdn.to/thumb/b8d09f8550979a0a2ebf6614feb06003/large.jpg"
+            },
+            "213286": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=1632ea84946af24542fa6086eae7ad1d&img=https://img.scdn.to/thumb/1632ea84946af24542fa6086eae7ad1d/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "213276": {
+        "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213279": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=2ca4acbf5facaa8ee128437d476b10cd&img=https://img.scdn.to/thumb/2ca4acbf5facaa8ee128437d476b10cd/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "213268": {
+        "Title": "Oshi no ko",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213273": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=43cc6a6fab38fc7270dd20444302d5b9&img=https://img.scdn.to/thumb/43cc6a6fab38fc7270dd20444302d5b9/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 203737
     }
 }

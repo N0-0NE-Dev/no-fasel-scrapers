@@ -1,5 +1,42 @@
 {
     "hdwmovies": {
+        "21200": {
+            "key": "21200",
+            "Title": "All the Money in the World",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21200/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 446791
+        },
+        "21273": {
+            "key": "21273",
+            "Title": "Foxtrot",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21273/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.3",
+            "TMDb ID": 116439
+        },
+        "20541": {
+            "key": "20541",
+            "Title": "Blackhat",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20541/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "Rating": "5.4",
+            "TMDb ID": 201088
+        },
         "18297": {
             "key": "18297",
             "Title": "The Girl Next Door",
@@ -50,45 +87,6 @@
             ],
             "Rating": "8.2",
             "TMDb ID": 117691
-        },
-        "22199": {
-            "key": "22199",
-            "Title": "Hogar",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22199/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Adventure",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 674944
-        },
-        "17933": {
-            "key": "17933",
-            "Title": "Red Planet",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17933/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Sci-Fi",
-                "Thriller"
-            ],
-            "Rating": "5.7",
-            "TMDb ID": 8870
-        },
-        "18337": {
-            "key": "18337",
-            "Title": "Chaos",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18337/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 5289
         }
     },
     "hdwseries": {
@@ -179,77 +177,96 @@
             "Rating": "9",
             "TMDb ID": 85720
         },
-        "42": {
-            "key": "42",
-            "Title": "The Good Doctor",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/42.jpg",
+        "38": {
+            "key": "38",
+            "Title": "The Mandalorian",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/38.jpg",
             "Category": "hdwseries",
             "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Rating": "8.7",
+            "TMDb ID": 82856
+        },
+        "658": {
+            "key": "658",
+            "Title": "Moon Knight",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/658.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Adventure",
                 "Drama"
             ],
-            "Rating": "8.1",
-            "TMDb ID": 71712
+            "Rating": "7.7",
+            "TMDb ID": 92749
         },
-        "570": {
-            "key": "570",
-            "Title": "Reservation Dogs",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/570.jpg",
+        "685": {
+            "key": "685",
+            "Title": "Night Sky",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/685.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Comedy",
-                "Crime"
+                "Adventure",
+                "Drama",
+                "Fantasy"
             ],
-            "Rating": "8",
-            "TMDb ID": 95215
+            "Rating": "7.4",
+            "TMDb ID": 111894
         },
-        "448": {
-            "key": "448",
-            "Title": "The Newsroom",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/448.jpg",
+        "382": {
+            "key": "382",
+            "Title": "Superman and Lois",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/382.jpg",
             "Category": "hdwseries",
             "Genres": [
+                "Action",
+                "Adventure",
                 "Drama"
             ],
-            "Rating": "8.6",
-            "TMDb ID": 15621
+            "Rating": "7.9",
+            "TMDb ID": 95057
         },
-        "222": {
-            "key": "222",
-            "Title": "Perry Mason",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/222.jpg",
+        "345": {
+            "key": "345",
+            "Title": "Cursed",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/345.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Crime",
-                "Drama"
+                "Adventure",
+                "Drama",
+                "Fantasy"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 4177
+            "Rating": "5.9",
+            "TMDb ID": 83125
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/AOgPVbW.jpg",
+            "Image Source": "https://i.imgur.com/ATTJAUE.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://i.imgur.com/MWWWOA1.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/SY5PSiv.jpg",
+            "Image Source": "https://i.imgur.com/4zj9f9T.jpg",
             "Category": "arabic-series"
         },
-        "4078": {
-            "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/vHBaPjH.jpg",
+        "4089": {
+            "Title": "حرب",
+            "Image Source": "https://i.imgur.com/HGpsL4P.jpg",
             "Category": "arabic-series"
         },
         "4103": {
             "Title": "بابا المجال",
-            "Image Source": "https://i.imgur.com/8Jhjmbp.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4070": {
@@ -272,24 +289,29 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4085": {
-            "Title": "الصندوق",
-            "Image Source": "https://i.imgur.com/3YhSHWX.jpg",
+        "4078": {
+            "Title": "الكتيبة 101",
+            "Image Source": "https://i.imgur.com/vHBaPjH.jpg",
             "Category": "arabic-series"
         },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/RUDBS39.jpg",
+        "4085": {
+            "Title": "الصندوق",
+            "Image Source": "https://i.imgur.com/yakY15K.jpg",
             "Category": "arabic-series"
         },
         "4087": {
             "Title": "جت سليمة",
-            "Image Source": "https://i.imgur.com/pt3BRXr.jpg",
+            "Image Source": "https://i.imgur.com/RPrR8BJ.jpg",
+            "Category": "arabic-series"
+        },
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/F8Ysc8O.jpg",
             "Category": "arabic-series"
         },
         "4082": {
             "Title": "حضرة العمدة",
-            "Image Source": "https://i.imgur.com/OHbnXPj.jpg",
+            "Image Source": "https://i.imgur.com/dskWAls.jpg",
             "Category": "arabic-series"
         },
         "4104": {
@@ -299,11 +321,6 @@
         },
         "4084": {
             "Title": "تحت الوصاية",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4098": {
-            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
