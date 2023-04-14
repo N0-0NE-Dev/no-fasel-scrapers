@@ -164,104 +164,77 @@
             "Rating": "7",
             "TMDb ID": 97890
         },
-        "373": {
-            "key": "373",
-            "Title": "Shadow and Bone",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/373.jpg",
+        "541": {
+            "key": "541",
+            "Title": "Star Trek Picard",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/541.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Action",
                 "Adventure",
-                "Drama"
-            ],
-            "Rating": "9",
-            "TMDb ID": 85720
-        },
-        "38": {
-            "key": "38",
-            "Title": "The Mandalorian",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/38.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Adventure",
+                "Drama",
                 "Sci-Fi"
             ],
-            "Rating": "8.7",
-            "TMDb ID": 82856
+            "Rating": "7.3",
+            "TMDb ID": 85949
         },
-        "658": {
-            "key": "658",
-            "Title": "Moon Knight",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/658.jpg",
+        "398": {
+            "key": "398",
+            "Title": "Snowfall",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/398.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Action",
-                "Adventure",
+                "Crime",
                 "Drama"
             ],
-            "Rating": "7.7",
-            "TMDb ID": 92749
+            "Rating": "8.2",
+            "TMDb ID": 71694
         },
-        "685": {
-            "key": "685",
-            "Title": "Night Sky",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/685.jpg",
+        "57": {
+            "key": "57",
+            "Title": "A Million Little Things",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/57.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Adventure",
+                "Comedy",
                 "Drama",
-                "Fantasy"
+                "Romance"
             ],
-            "Rating": "7.4",
-            "TMDb ID": 111894
+            "Rating": "8",
+            "TMDb ID": 81499
         },
-        "382": {
-            "key": "382",
-            "Title": "Superman and Lois",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/382.jpg",
+        "739": {
+            "key": "739",
+            "Title": "The Ark",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/739.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 95057
-        },
-        "345": {
-            "key": "345",
-            "Title": "Cursed",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/345.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Adventure",
                 "Drama",
-                "Fantasy"
+                "Sci-Fi"
             ],
-            "Rating": "5.9",
-            "TMDb ID": 83125
+            "Rating": "",
+            "TMDb ID": 47663
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/ATTJAUE.jpg",
+            "Image Source": "https://i.imgur.com/rbFqXMa.jpg",
             "Category": "arabic-series"
         },
         "4074": {
             "Title": "سوق الكانتو",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/AI3aOia.jpg",
             "Category": "arabic-series"
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/4zj9f9T.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4089": {
             "Title": "حرب",
-            "Image Source": "https://i.imgur.com/HGpsL4P.jpg",
+            "Image Source": "https://i.imgur.com/g0t4o68.jpg",
             "Category": "arabic-series"
         },
         "4103": {
@@ -269,13 +242,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -296,31 +269,21 @@
         },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://i.imgur.com/yakY15K.jpg",
-            "Category": "arabic-series"
-        },
-        "4087": {
-            "Title": "جت سليمة",
-            "Image Source": "https://i.imgur.com/RPrR8BJ.jpg",
+            "Image Source": "https://i.imgur.com/LDo85z1.jpg",
             "Category": "arabic-series"
         },
         "4150": {
             "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/F8Ysc8O.jpg",
+            "Image Source": "https://i.imgur.com/RfaQZjB.jpg",
+            "Category": "arabic-series"
+        },
+        "4087": {
+            "Title": "جت سليمة",
+            "Image Source": "https://i.imgur.com/08peQYT.jpg",
             "Category": "arabic-series"
         },
         "4082": {
             "Title": "حضرة العمدة",
-            "Image Source": "https://i.imgur.com/dskWAls.jpg",
-            "Category": "arabic-series"
-        },
-        "4104": {
-            "Title": "تلت التلاتة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4084": {
-            "Title": "تحت الوصاية",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }

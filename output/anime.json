@@ -90558,7 +90558,7 @@
             "Animation",
             "Music"
         ],
-        "Number Of Episodes": 10,
+        "Number Of Episodes": 11,
         "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
         "Episodes": {
             "202487": {
@@ -90600,6 +90600,10 @@
             "212703": {
                 "Episode Number": 10,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=b34f5cbf11458f5b8f7109cd77bb1caa&img=https://img.scdn.to/thumb/b34f5cbf11458f5b8f7109cd77bb1caa/large.jpg"
+            },
+            "213388": {
+                "Episode Number": 11,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=3c136aeb8d730e54db3da1e5fddb04fd&img=https://img.scdn.to/thumb/3c136aeb8d730e54db3da1e5fddb04fd/large.jpg"
             }
         },
         "Rating": "6.94",
@@ -92217,13 +92221,17 @@
     "212864": {
         "Title": "Yuusha Ga Shinda!",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
         "Episodes": {
             "212869": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=173c68f34b3723fed1b00cb36fe2e94b&img=https://img.scdn.to/thumb/173c68f34b3723fed1b00cb36fe2e94b/large.jpg"
+            },
+            "213378": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=126d029ea05636c568dad9d56015f0b8&img=https://img.scdn.to/thumb/126d029ea05636c568dad9d56015f0b8/large.jpg"
             }
         },
         "Genres": [],
@@ -92232,13 +92240,17 @@
     "212860": {
         "Title": "mahoutsukai no Yome Season 2",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
         "Episodes": {
             "212862": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=44a0461d9be31ef95d2a7f1c2badb5f2&img=https://img.scdn.to/thumb/44a0461d9be31ef95d2a7f1c2badb5f2/large.jpg"
+            },
+            "213379": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=36a97d8cdabb00507d15e2f31fb19c0a&img=https://img.scdn.to/thumb/36a97d8cdabb00507d15e2f31fb19c0a/large.jpg"
             }
         },
         "Genres": [],
@@ -92247,13 +92259,17 @@
     "212857": {
         "Title": "Dr.Stone: New World",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlfad1.jpg",
         "Episodes": {
             "212859": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=0dcb70a76e17815dab3c6c6555505717&img=https://img.scdn.to/thumb/0dcb70a76e17815dab3c6c6555505717/large.jpg"
+            },
+            "213359": {
+                "Episode Number": 2,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=7df143036c0795c67e7b9e8ee9f9a15f&img=https://img.scdn.to/thumb/7df143036c0795c67e7b9e8ee9f9a15f/large.jpg"
             }
         },
         "Genres": [],
@@ -92619,5 +92635,20 @@
         },
         "Genres": [],
         "TMDb ID": 203737
+    },
+    "213380": {
+        "Title": "Osama Ranking: Yuki no Takarabako",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Episodes": {
+            "213383": {
+                "Episode Number": 1,
+                "Source": "https://embed.scdn.to/video_player?uid=0&vid=a3c69e7e91ec82a4c5734bca09614f49&img=https://img.scdn.to/thumb/a3c69e7e91ec82a4c5734bca09614f49/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 207743
     }
 }
