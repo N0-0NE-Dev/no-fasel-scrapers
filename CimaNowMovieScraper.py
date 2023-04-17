@@ -1,15 +1,9 @@
 from selenium.webdriver.common.by import By
-import undetected_chromedriver as uc
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from concurrent.futures import ProcessPoolExecutor
-from Common import DEBUG, CIMA_NOW_GENRES, get_tmdb_id
+from concurrent.futures import ThreadPoolExecutor
+from Common import DEBUG, CIMA_NOW_GENRES, get_tmdb_id, get_website_safe, get_cookies, CIMA_NOW_SELECTOR, cima_now_get_sources, cima_now_get_last_page
 from bs4 import BeautifulSoup
 from time import perf_counter
 import json
-import requests
-import zipfile
-import pathlib
 
 MOVIE_ROUTES = [
     "%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
@@ -26,21 +20,18 @@ with open("./output/CimaNowMovies.json", "r", encoding="utf-8") as fp:
 def scrape_route(route: str) -> dict:
     route_dict = {}
 
-    driver = uc.Chrome(headless=True, use_subprocess=True,
-                       driver_executable_path=f"{pathlib.Path().resolve()}/chromedriver", version_main=112)
+    resp = get_website_safe(
+        "https://cimanow.cc/category/" + route, CIMA_NOW_SELECTOR)
 
-    driver.get("https://cimanow.cc/category/" + route)
+    soup = BeautifulSoup(resp.content, "html.parser")
 
-    WebDriverWait(driver, 60).until(EC.presence_of_element_located(
-        (By.CLASS_NAME, "owl-head.owl-loaded.owl-drag")))
-
-    last_page = int(driver.find_elements(By.TAG_NAME, "ul")
-                    [-1].find_elements(By.TAG_NAME, "li")[-1].get_attribute("innerText"))
+    last_page = cima_now_get_last_page(soup)
 
     for page in range(1, last_page + 1):
-        driver.get(f"https://cimanow.cc/category/{route}/page/{page}")
+        resp = get_website_safe(
+            f"https://cimanow.cc/category/{route}/page/{page}", CIMA_NOW_SELECTOR)
 
-        soup = BeautifulSoup(driver.page_source, "html.parser")
+        soup = BeautifulSoup(resp.content, "html.parser")
 
         content_cards = soup.find("section").find_all("article")
 
@@ -65,19 +56,16 @@ def scrape_route(route: str) -> dict:
             if movie_id in old_movies:
                 continue
             else:
-                driver.get("https://cimanow.cc/" + href + "/watching")
+                resp = get_website_safe(
+                    "https://cimanow.cc/" + href + "/watching", CIMA_NOW_SELECTOR)
 
-                WebDriverWait(driver, 30).until(
-                    EC.presence_of_element_located((By.CLASS_NAME, "tab")))
-
-                anchors = driver.execute_script(
-                    "return [...document.getElementById('download').querySelector('li').querySelectorAll('a')]")
+                soup = BeautifulSoup(resp.content, "html.parser")
 
                 route_dict[movie_id] = {
                     "Title": title,
                     "Image Source": image_source,
                     "Genres": genres,
-                    "Sources": [{anchor.get_attribute("innerText").split()[0]: anchor.get_attribute("href")} for anchor in anchors],
+                    "Sources": cima_now_get_sources(soup),
                     "Category": "cimanow-movie",
                     "TMDb ID": get_tmdb_id(title, "movies")
                 }
@@ -87,27 +75,13 @@ def scrape_route(route: str) -> dict:
         else:
             pass
 
-    driver.quit()
     return route_dict
 
 
-def setup() -> None:
-    file_name = "chromedriver.zip"
-
-    resp = requests.get(
-        "https://chromedriver.storage.googleapis.com/112.0.5615.28/chromedriver_win32.zip")
-
-    with open(file_name, "wb") as handler:
-        handler.write(resp._content)
-
-    with zipfile.ZipFile(f"./{file_name}", "r") as ref:
-        ref.extractall("./")
-
-
 def main() -> None:
-    setup()
+    get_cookies("https://cimanow.cc/", (By.CLASS_NAME, "logo"))
 
-    with ProcessPoolExecutor() as executor:
+    with ThreadPoolExecutor() as executor:
         results = executor.map(scrape_route, MOVIE_ROUTES)
 
     for result in results:

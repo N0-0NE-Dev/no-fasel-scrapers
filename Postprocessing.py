@@ -26,7 +26,7 @@ def main() -> None:
 
         for key in content:
             if "arabic" in file:
-                image_indices[key + "-akwam" +
+                image_indices[key + "-akwam-" +
                               file.split("-")[-1]] = content[key]["Image Source"]
             elif "hdw" in file:
                 image_indices[key + "-hdw"] = content[key]["Image Source"]

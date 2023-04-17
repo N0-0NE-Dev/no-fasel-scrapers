@@ -17,6 +17,8 @@ from PIL import Image
 
 DEBUG = True
 
+CIMA_NOW_SELECTOR = (By.CLASS_NAME, "owl-head.owl-loaded.owl-drag")
+
 FILE_NAMES = ["movies", "anime", "asian-series",
               "series", "tvshows", "arabic-series",
               "arabic-movies", "hdwmovies", "hdwseries"]
@@ -69,7 +71,10 @@ CIMA_NOW_GENRES = {
     "اجتماعي": "Social",
     "جريمة": "Crime",
     "اثارة": "Thriller",
-    "رومانسى": "Romance"
+    "رومانسى": "Romance",
+    "عائلي": "Family",
+    "كوميدي": "Comedy",
+    "درامى": "Drama"
 }
 
 with open("./output/image-indices.json", "r") as fp:
@@ -379,3 +384,12 @@ def get_tmdb_id(title: str, genre: str) -> Optional[str]:
         tmdb_id = None
 
     return tmdb_id
+
+
+def cima_now_get_last_page(soup: BeautifulSoup):
+    return int(soup.find_all("ul")[-1].find_all("li")[-1].text)
+
+
+def cima_now_get_sources(soup: BeautifulSoup):
+    anchors = soup.find("ul", {"id": "download"}).find("li").find_all("a")
+    return [{anchor.text.split()[0]: anchor["href"]} for anchor in anchors]
