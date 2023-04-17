@@ -1,5 +1,26 @@
 {
     "movies": {
+        "213559": {
+            "Title": "Qorin",
+            "Image Source": "https://i.imgur.com/dPBiXkv.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1045343
+        },
+        "213558": {
+            "Title": "One Day as a Lion",
+            "Image Source": "https://i.imgur.com/jLH7DMq.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1070777
+        },
         "41125": {
             "Title": "Phenomena",
             "Image Source": "https://imgpile.com/images/TwTOxx.jpg",
@@ -99,28 +120,6 @@
             ],
             "Rating": "5.3",
             "TMDb ID": 992277
-        },
-        "213164": {
-            "Title": "Please Baby Please",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Musical",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 703285
-        },
-        "213160": {
-            "Title": "Frost",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 982312
         }
     },
     "asian-series": {
@@ -167,57 +166,56 @@
             ],
             "Rating": "7.1",
             "TMDb ID": 34555
-        },
-        "210203": {
-            "Title": "Oasis",
-            "Image Source": "https://imgpile.com/images/hllVhP.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 70793
-        },
-        "208972": {
-            "Title": "Call It Love",
-            "Image Source": "https://i.imgur.com/eITUR7u.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 215471
         }
     },
     "anime": {
-        "42952": {
-            "Title": "Detective Conan",
-            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Mystery",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "8.17",
-            "TMDb ID": 195923
-        },
-        "213527": {
-            "Title": "Kawaisugi Crisis",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "213577": {
+            "Title": "Edomae Elf",
+            "Image Source": "https://i.imgur.com/RUfhDRv.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 211034
+            "TMDb ID": 204112
         },
-        "213008": {
-            "Title": "Otonari ni ginga",
-            "Image Source": "https://imgpile.com/images/hllto2.jpg",
+        "213021": {
+            "Title": "Boku No Kokoro No Yabai Yatsu",
+            "Image Source": "https://imgpile.com/images/hlldUi.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200732
+            "TMDb ID": 207250
+        },
+        "213051": {
+            "Title": "World Dai Star",
+            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 215198
+        },
+        "212637": {
+            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
+            "Image Source": "https://imgpile.com/images/hlfLHG.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 207493
+        },
+        "212645": {
+            "Title": "My Home Hero",
+            "Image Source": "https://imgpile.com/images/hlf244.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 204412
+        },
+        "213045": {
+            "Title": "Kidou Senshi Gundam: Suisei no majo Season 2",
+            "Image Source": "https://imgpile.com/images/hllPvh.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
         }
     },
     "series": {
@@ -300,16 +298,16 @@
             "Rating": "8.5",
             "TMDb ID": 63333
         },
-        "126415": {
-            "Title": "Dom",
-            "Image Source": "https://imgpile.com/images/TK6kuP.jpg",
+        "137464": {
+            "Title": "Yellowjackets",
+            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
-                "Drama"
+                "Drama",
+                "Horror"
             ],
-            "Rating": "7.2",
-            "TMDb ID": 123377
+            "Rating": "7.9",
+            "TMDb ID": 117488
         },
         "137834": {
             "Title": "Power Book II: Ghost",
@@ -322,42 +320,22 @@
             "Rating": "7.3",
             "TMDb ID": 97890
         },
-        "186054": {
-            "Title": "NCIS: Hawaii",
-            "Image Source": "https://i.imgur.com/DmcnT5K.jpg",
+        "186814": {
+            "Title": "Ghosts",
+            "Image Source": "https://i.imgur.com/prjDhMH.jpg",
             "Category": "series",
             "Genres": [
-                "Crime"
+                "Comedy",
+                "Fantasy"
             ],
-            "Rating": "6.5",
-            "TMDb ID": 124271
-        },
-        "209415": {
-            "Title": "Not Dead Yet",
-            "Image Source": "https://i.imgur.com/hW6a65S.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 203178
-        },
-        "187446": {
-            "Title": "Greys Anatomy",
-            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
+            "Rating": "7.8",
+            "TMDb ID": 126027
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4074": {
@@ -367,7 +345,7 @@
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4089": {
@@ -375,23 +353,18 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4078": {
-            "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/vHBaPjH.jpg",
-            "Category": "arabic-series"
-        },
         "4103": {
             "Title": "بابا المجال",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -405,9 +378,14 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4078": {
+            "Title": "الكتيبة 101",
+            "Image Source": "https://i.imgur.com/vHBaPjH.jpg",
+            "Category": "arabic-series"
+        },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://i.imgur.com/TuxWOWu.jpg",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4087": {
@@ -417,7 +395,12 @@
         },
         "4150": {
             "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
+            "Image Source": "https://i.imgur.com/yDk6Wdj.jpg",
+            "Category": "arabic-series"
+        },
+        "4104": {
+            "Title": "تلت التلاتة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4082": {
@@ -427,11 +410,6 @@
         },
         "4098": {
             "Title": "عملة نادرة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4104": {
-            "Title": "تلت التلاتة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },

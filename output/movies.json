@@ -142413,5 +142413,28 @@
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Source": "02b22946cf1fb771345ef7fb622afe93",
         "TMDb ID": 948713
+    },
+    "213559": {
+        "Title": "Qorin",
+        "Category": "movies",
+        "Genres": [
+            "Horror"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/dPBiXkv.jpg",
+        "Source": "8045e550ae759375154df46942645c63",
+        "TMDb ID": 1045343
+    },
+    "213558": {
+        "Title": "One Day as a Lion",
+        "Category": "movies",
+        "Genres": [
+            "Action",
+            "Thriller"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/jLH7DMq.jpg",
+        "Source": "41e577e92bd913a05f80b3b2ed223a76",
+        "TMDb ID": 1070777
     }
 }
