@@ -92254,7 +92254,7 @@
     "212704": {
         "Title": "Skip to Loafer",
         "Category": "anime",
-        "Number Of Episodes": 2,
+        "Number Of Episodes": 3,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
         "Episodes": {
@@ -92265,6 +92265,10 @@
             "213145": {
                 "Episode Number": 2,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=c08bb0c2e47e02786d2af4462dd257dc&img=https://img.scdn.to/thumb/c08bb0c2e47e02786d2af4462dd257dc/large.jpg"
+            },
+            "213647": {
+                "Episode Number": 3,
+                "Source": "https://www.faselhd.ac/video_player?uid=0&vid=eba48cb998014f3da15e5ea64035d6b4&img=https://img.scdn.to/thumb/eba48cb998014f3da15e5ea64035d6b4/large.jpg"
             }
         },
         "Genres": [],
@@ -92680,13 +92684,17 @@
     "213146": {
         "Title": "The Marginal Service",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
             "213151": {
                 "Episode Number": 1,
                 "Source": "https://embed.scdn.to/video_player?uid=0&vid=796dc5466f1e7a37d46635940db37955&img=https://img.scdn.to/thumb/796dc5466f1e7a37d46635940db37955/large.jpg"
+            },
+            "213648": {
+                "Episode Number": 2,
+                "Source": "https://www.faselhd.ac/video_player?uid=0&vid=603fd8921b1d2c43d9ddb5eacd062528&img=https://img.scdn.to/thumb/603fd8921b1d2c43d9ddb5eacd062528/large.jpg"
             }
         },
         "Genres": [],

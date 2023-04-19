@@ -1,5 +1,17 @@
 {
     "movies": {
+        "213624": {
+            "Title": "Ant-Man and the Wasp: Quantumania",
+            "Image Source": "https://i.imgur.com/FnQ0lKw.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 640146
+        },
         "213559": {
             "Title": "Qorin",
             "Image Source": "https://i.imgur.com/dPBiXkv.jpg",
@@ -109,20 +121,29 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 747779
-        },
-        "190381": {
-            "Title": "The Loneliest Boy in the World",
-            "Image Source": "https://i.imgur.com/hEtuQ7F.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror",
-                "Comedy"
-            ],
-            "Rating": "5.3",
-            "TMDb ID": 992277
         }
     },
     "asian-series": {
+        "210203": {
+            "Title": "Oasis",
+            "Image Source": "https://imgpile.com/images/hllVhP.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 70793
+        },
+        "108969": {
+            "Title": "Master in the House",
+            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 76033
+        },
         "210577": {
             "Title": "Pandora: Beneath the Paradise",
             "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
@@ -133,92 +154,47 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 203344
-        },
-        "208658": {
-            "Title": "Taxi Driver",
-            "Image Source": "https://imgpile.com/images/hll6si.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 119769
-        },
-        "122431": {
-            "Title": "Taxi Driver",
-            "Image Source": "https://imgpile.com/images/TKfovW.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 119769
-        },
-        "204423": {
-            "Title": "Bait",
-            "Image Source": "https://i.imgur.com/DmsLwYX.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 34555
         }
     },
     "anime": {
-        "213577": {
-            "Title": "Edomae Elf",
-            "Image Source": "https://i.imgur.com/RUfhDRv.jpg",
+        "213146": {
+            "Title": "The Marginal Service",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 204112
+            "TMDb ID": 214211
         },
-        "213021": {
-            "Title": "Boku No Kokoro No Yabai Yatsu",
-            "Image Source": "https://imgpile.com/images/hlldUi.jpg",
+        "212704": {
+            "Title": "Skip to Loafer",
+            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 207250
+            "TMDb ID": 139130
         },
-        "213051": {
-            "Title": "World Dai Star",
-            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
+        "213133": {
+            "Title": "Kimi Wa Houkago Insomnia",
+            "Image Source": "https://imgpile.com/images/hllsir.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 215198
-        },
-        "212637": {
-            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
-            "Image Source": "https://imgpile.com/images/hlfLHG.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 207493
-        },
-        "212645": {
-            "Title": "My Home Hero",
-            "Image Source": "https://imgpile.com/images/hlf244.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 204412
-        },
-        "213045": {
-            "Title": "Kidou Senshi Gundam: Suisei no majo Season 2",
-            "Image Source": "https://imgpile.com/images/hllPvh.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 155440
         }
     },
     "series": {
+        "148556": {
+            "Title": "Barry",
+            "Image Source": "https://imgpile.com/images/TMu7m1.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "8.4",
+            "TMDb ID": 73107
+        },
         "144023": {
             "Title": "The Marvelous Mrs. Maisel",
             "Image Source": "https://imgpile.com/images/TMnY4c.jpg",
@@ -298,44 +274,66 @@
             "Rating": "8.5",
             "TMDb ID": 63333
         },
-        "137464": {
-            "Title": "Yellowjackets",
-            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
+        "186098": {
+            "Title": "FBI: Most Wanted",
+            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Horror"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 117488
-        },
-        "137834": {
-            "Title": "Power Book II: Ghost",
-            "Image Source": "https://imgpile.com/images/TKeaP4.jpg",
-            "Category": "series",
-            "Genres": [
+                "Action",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "7.3",
-            "TMDb ID": 97890
+            "Rating": "6.9",
+            "TMDb ID": 94372
         },
-        "186814": {
-            "Title": "Ghosts",
-            "Image Source": "https://i.imgur.com/prjDhMH.jpg",
+        "190462": {
+            "Title": "Titans",
+            "Image Source": "https://i.imgur.com/QDpHqhH.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Fantasy"
+                "Action",
+                "Adventure",
+                "Crime"
             ],
-            "Rating": "7.8",
-            "TMDb ID": 126027
+            "Rating": "7.6",
+            "TMDb ID": 75450
+        },
+        "186264": {
+            "Title": "Abbott Elementary",
+            "Image Source": "https://i.imgur.com/mZuIM3e.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 125935
+        },
+        "188323": {
+            "Title": "All American",
+            "Image Source": "https://i.imgur.com/3lONz8M.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 82428
+        },
+        "187159": {
+            "Title": "The Good Doctor",
+            "Image Source": "https://i.imgur.com/AnuHQTE.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 71712
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
             "Category": "arabic-series"
         },
         "4074": {
@@ -345,7 +343,7 @@
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
             "Category": "arabic-series"
         },
         "4089": {
@@ -385,7 +383,7 @@
         },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/TuxWOWu.jpg",
             "Category": "arabic-series"
         },
         "4087": {
@@ -395,12 +393,7 @@
         },
         "4150": {
             "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/yDk6Wdj.jpg",
-            "Category": "arabic-series"
-        },
-        "4104": {
-            "Title": "تلت التلاتة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
             "Category": "arabic-series"
         },
         "4082": {
@@ -408,13 +401,18 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4098": {
-            "Title": "عملة نادرة",
+        "4104": {
+            "Title": "تلت التلاتة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4084": {
             "Title": "تحت الوصاية",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4098": {
+            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }

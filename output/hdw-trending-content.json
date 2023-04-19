@@ -1,5 +1,18 @@
 {
     "hdwmovies": {
+        "21540": {
+            "key": "21540",
+            "Title": "Ant Man and the Wasp",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21540/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "Rating": "7",
+            "TMDb ID": 640146
+        },
         "20210": {
             "key": "20210",
             "Title": "Borning",
@@ -58,22 +71,22 @@
             ],
             "Rating": "6.5",
             "TMDb ID": 375183
-        },
-        "21200": {
-            "key": "21200",
-            "Title": "All the Money in the World",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21200/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 446791
         }
     },
     "hdwseries": {
+        "141": {
+            "key": "141",
+            "Title": "Barry",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/141.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "Rating": "8.3",
+            "TMDb ID": 73107
+        },
         "35": {
             "key": "35",
             "Title": "The Marvelous Mrs Maisel",
@@ -136,49 +149,73 @@
             "Rating": "8.5",
             "TMDb ID": 63333
         },
-        "604": {
-            "key": "604",
-            "Title": "Yellowjackets",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
+        "55": {
+            "key": "55",
+            "Title": "FBI Most Wanted",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/55.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "8",
-            "TMDb ID": 117488
-        },
-        "617": {
-            "key": "617",
-            "Title": "Power Book II Ghost",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/617.jpg",
-            "Category": "hdwseries",
-            "Genres": [
+                "Action",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "7",
-            "TMDb ID": 97890
+            "Rating": "6.7",
+            "TMDb ID": 94372
         },
-        "69": {
-            "key": "69",
-            "Title": "Lost",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/69.jpg",
+        "450": {
+            "key": "450",
+            "Title": "Titans",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/450.jpg",
             "Category": "hdwseries",
             "Genres": [
+                "Action",
                 "Adventure",
-                "Drama",
-                "Fantasy"
+                "Crime"
             ],
-            "Rating": "8.3",
-            "TMDb ID": 4607
+            "Rating": "7.7",
+            "TMDb ID": 75450
+        },
+        "416": {
+            "key": "416",
+            "Title": "Elementary",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 1415
+        },
+        "58": {
+            "key": "58",
+            "Title": "All American",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/58.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 82428
+        },
+        "42": {
+            "key": "42",
+            "Title": "The Good Doctor",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/42.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 71712
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
             "Category": "arabic-series"
         },
         "4074": {
@@ -188,7 +225,7 @@
         },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
             "Category": "arabic-series"
         },
         "4089": {
@@ -228,7 +265,7 @@
         },
         "4085": {
             "Title": "الصندوق",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/TuxWOWu.jpg",
             "Category": "arabic-series"
         },
         "4087": {
@@ -238,12 +275,7 @@
         },
         "4150": {
             "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/yDk6Wdj.jpg",
-            "Category": "arabic-series"
-        },
-        "4104": {
-            "Title": "تلت التلاتة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
             "Category": "arabic-series"
         },
         "4082": {
@@ -251,13 +283,18 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4098": {
-            "Title": "عملة نادرة",
+        "4104": {
+            "Title": "تلت التلاتة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4084": {
             "Title": "تحت الوصاية",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4098": {
+            "Title": "عملة نادرة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
