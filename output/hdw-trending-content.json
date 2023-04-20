@@ -74,6 +74,19 @@
         }
     },
     "hdwseries": {
+        "496": {
+            "key": "496",
+            "Title": "The Order",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/496.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 82104
+        },
         "141": {
             "key": "141",
             "Title": "Barry",
@@ -149,67 +162,43 @@
             "Rating": "8.5",
             "TMDb ID": 63333
         },
-        "55": {
-            "key": "55",
-            "Title": "FBI Most Wanted",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/55.jpg",
+        "732": {
+            "key": "732",
+            "Title": "Will Trent",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/732.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Action",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "6.7",
-            "TMDb ID": 94372
+            "Rating": "7.7",
+            "TMDb ID": 208569
         },
-        "450": {
-            "key": "450",
-            "Title": "Titans",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/450.jpg",
+        "104": {
+            "key": "104",
+            "Title": "The Rookie",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/104.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "8",
+            "TMDb ID": 79744
+        },
+        "38": {
+            "key": "38",
+            "Title": "The Mandalorian",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/38.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Action",
                 "Adventure",
-                "Crime"
+                "Sci-Fi"
             ],
-            "Rating": "7.7",
-            "TMDb ID": 75450
-        },
-        "416": {
-            "key": "416",
-            "Title": "Elementary",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 1415
-        },
-        "58": {
-            "key": "58",
-            "Title": "All American",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/58.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 82428
-        },
-        "42": {
-            "key": "42",
-            "Title": "The Good Doctor",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/42.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "8.1",
-            "TMDb ID": 71712
+            "Rating": "8.7",
+            "TMDb ID": 82856
         }
     },
     "arabic-series": {
@@ -223,9 +212,19 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4072": {
+            "Title": "جعفر العمدة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
             "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
+            "Category": "arabic-series"
+        },
+        "4071": {
+            "Title": "الكبير أوي الموسم السابع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4089": {
@@ -248,16 +247,6 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4072": {
-            "Title": "جعفر العمدة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4071": {
-            "Title": "الكبير أوي الموسم السابع",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4078": {
             "Title": "الكتيبة 101",
             "Image Source": "https://i.imgur.com/vHBaPjH.jpg",
@@ -273,11 +262,6 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
-            "Category": "arabic-series"
-        },
         "4082": {
             "Title": "حضرة العمدة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -288,13 +272,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4084": {
-            "Title": "تحت الوصاية",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
             "Category": "arabic-series"
         },
-        "4098": {
-            "Title": "عملة نادرة",
+        "4084": {
+            "Title": "تحت الوصاية",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
