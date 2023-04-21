@@ -142449,5 +142449,41 @@
         "Image Source": "https://i.imgur.com/FnQ0lKw.jpg",
         "Source": "7ff5253f7b6d126c20b84f2f7e3cf6fe",
         "TMDb ID": 640146
+    },
+    "213719": {
+        "Title": "Mighty Morphin Power Rangers: Once & Always",
+        "Category": "movies",
+        "Genres": [
+            "Action",
+            "Family",
+            "Adventure"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/wAmEOWb.jpg",
+        "Source": "3b3779c69e78b8a36120c33f1c788216",
+        "TMDb ID": 1068141
+    },
+    "213715": {
+        "Title": "In the Heart of the Machine",
+        "Category": "movies",
+        "Genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/BPtyFYP.jpg",
+        "Source": "22add0b3795c5a332fee6d687d0b594c",
+        "TMDb ID": 938436
+    },
+    "213711": {
+        "Title": "Enys Men",
+        "Category": "movies",
+        "Genres": [
+            "Horror"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/RkGugM2.jpg",
+        "Source": "73528ffbe6f5ea5963a097e7d418a438",
+        "TMDb ID": 740049
     }
 }

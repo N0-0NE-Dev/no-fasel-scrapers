@@ -1,5 +1,31 @@
 {
     "hdwmovies": {
+        "20614": {
+            "key": "20614",
+            "Title": "In the Heart of the Sea",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20614/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Rating": "6.9",
+            "TMDb ID": 205775
+        },
+        "17870": {
+            "key": "17870",
+            "Title": "Mystery Men",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17870/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Fantasy"
+            ],
+            "Rating": "6.1",
+            "TMDb ID": 9824
+        },
         "21540": {
             "key": "21540",
             "Title": "Ant Man and the Wasp",
@@ -162,43 +188,70 @@
             "Rating": "8.5",
             "TMDb ID": 63333
         },
-        "732": {
-            "key": "732",
-            "Title": "Will Trent",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/732.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 208569
-        },
-        "104": {
-            "key": "104",
-            "Title": "The Rookie",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/104.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8",
-            "TMDb ID": 79744
-        },
-        "38": {
-            "key": "38",
-            "Title": "The Mandalorian",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/38.jpg",
+        "450": {
+            "key": "450",
+            "Title": "Titans",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/450.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Action",
                 "Adventure",
+                "Crime"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 75450
+        },
+        "541": {
+            "key": "541",
+            "Title": "Star Trek Picard",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/541.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
                 "Sci-Fi"
             ],
-            "Rating": "8.7",
-            "TMDb ID": 82856
+            "Rating": "7.3",
+            "TMDb ID": 85949
+        },
+        "398": {
+            "key": "398",
+            "Title": "Snowfall",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/398.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "8.2",
+            "TMDb ID": 71694
+        },
+        "57": {
+            "key": "57",
+            "Title": "A Million Little Things",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/57.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "8",
+            "TMDb ID": 81499
+        },
+        "194": {
+            "key": "194",
+            "Title": "White Lines",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/194.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 90265
         }
     },
     "arabic-series": {
@@ -207,23 +260,13 @@
             "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
             "Category": "arabic-series"
         },
-        "4074": {
-            "Title": "سوق الكانتو",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4072": {
-            "Title": "جعفر العمدة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4073": {
             "Title": "المداح ج3 : أسطورة العشق",
             "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
             "Category": "arabic-series"
         },
-        "4071": {
-            "Title": "الكبير أوي الموسم السابع",
+        "4074": {
+            "Title": "سوق الكانتو",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -247,9 +290,19 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4078": {
-            "Title": "الكتيبة 101",
-            "Image Source": "https://i.imgur.com/vHBaPjH.jpg",
+        "4072": {
+            "Title": "جعفر العمدة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4071": {
+            "Title": "الكبير أوي الموسم السابع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4105": {
+            "Title": "الزند: ذئب العاصي",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4085": {
@@ -267,21 +320,22 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4104": {
-            "Title": "تلت التلاتة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4150": {
             "Title": "ليلة السقوط",
             "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
             "Category": "arabic-series"
-        },
-        "4084": {
-            "Title": "تحت الوصاية",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
         }
     },
-    "arabic-movies": {}
+    "arabic-movies": {
+        "8329": {
+            "Title": "ولا غلطة",
+            "Image Source": "https://i.imgur.com/v65BNeJ.jpg",
+            "Category": "arabic-movies"
+        },
+        "8332": {
+            "Title": "الشاهد الوحيد",
+            "Image Source": "https://i.imgur.com/HSK4CRT.jpg",
+            "Category": "arabic-movies"
+        }
+    }
 }
