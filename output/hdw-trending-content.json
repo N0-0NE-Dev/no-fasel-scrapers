@@ -1,5 +1,118 @@
 {
     "hdwmovies": {
+        "19543": {
+            "key": "19543",
+            "Title": "The Day",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19543/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Horror"
+            ],
+            "Rating": "5.2",
+            "TMDb ID": 84226
+        },
+        "21704": {
+            "key": "21704",
+            "Title": "Lukas",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21704/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "5.9",
+            "TMDb ID": 525554
+        },
+        "20038": {
+            "key": "20038",
+            "Title": "Pacific Rim",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20038/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Rating": "6.9",
+            "TMDb ID": 68726
+        },
+        "34903": {
+            "key": "34903",
+            "Title": "Me Time",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/34903/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "5",
+            "TMDb ID": 862551
+        },
+        "17801": {
+            "key": "17801",
+            "Title": "Lola rennt",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17801/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 104
+        },
+        "17633": {
+            "key": "17633",
+            "Title": "Batman Forever",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17633/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "5.4",
+            "TMDb ID": 414
+        },
+        "17464": {
+            "key": "17464",
+            "Title": "Ghost",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17464/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 251
+        },
+        "18326": {
+            "key": "18326",
+            "Title": "A Lot Like Love",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18326/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 8976
+        },
+        "19608": {
+            "key": "19608",
+            "Title": "A Thousand Words",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19608/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "5.9",
+            "TMDb ID": 72358
+        },
         "20614": {
             "key": "20614",
             "Title": "In the Heart of the Sea",
@@ -25,81 +138,34 @@
             ],
             "Rating": "6.1",
             "TMDb ID": 9824
-        },
-        "21540": {
-            "key": "21540",
-            "Title": "Ant Man and the Wasp",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21540/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Comedy"
-            ],
-            "Rating": "7",
-            "TMDb ID": 640146
-        },
-        "20210": {
-            "key": "20210",
-            "Title": "Borning",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20210/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Comedy"
-            ],
-            "Rating": "6.2",
-            "TMDb ID": 284279
-        },
-        "20047": {
-            "key": "20047",
-            "Title": "Philomena",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20047/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 205220
-        },
-        "21498": {
-            "key": "21498",
-            "Title": "Western",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21498/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7",
-            "TMDb ID": 452000
-        },
-        "19737": {
-            "key": "19737",
-            "Title": "On the Road",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19737/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Adventure",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "6.1",
-            "TMDb ID": 83770
-        },
-        "20829": {
-            "key": "20829",
-            "Title": "A Family Man",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20829/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 375183
         }
     },
     "hdwseries": {
+        "619": {
+            "key": "619",
+            "Title": "Welcome to Earth",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/619.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Documentary",
+                "Adventure"
+            ],
+            "Rating": "8",
+            "TMDb ID": 220343
+        },
+        "268": {
+            "key": "268",
+            "Title": "Blindspot",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/268.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.4",
+            "TMDb ID": 62710
+        },
         "496": {
             "key": "496",
             "Title": "The Order",
@@ -175,94 +241,37 @@
             "Rating": "8.6",
             "TMDb ID": 76331
         },
-        "423": {
-            "key": "423",
-            "Title": "The Last Kingdom",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/423.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Drama",
-                "History"
-            ],
-            "Rating": "8.5",
-            "TMDb ID": 63333
-        },
-        "450": {
-            "key": "450",
-            "Title": "Titans",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/450.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Crime"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 75450
-        },
-        "541": {
-            "key": "541",
-            "Title": "Star Trek Picard",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/541.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama",
-                "Sci-Fi"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 85949
-        },
-        "398": {
-            "key": "398",
-            "Title": "Snowfall",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/398.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 71694
-        },
-        "57": {
-            "key": "57",
-            "Title": "A Million Little Things",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/57.jpg",
+        "77": {
+            "key": "77",
+            "Title": "Good Girls",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Comedy",
-                "Drama",
-                "Romance"
+                "Crime",
+                "Drama"
             ],
-            "Rating": "8",
-            "TMDb ID": 81499
+            "Rating": "7.8",
+            "TMDb ID": 71715
         },
-        "194": {
-            "key": "194",
-            "Title": "White Lines",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/194.jpg",
+        "416": {
+            "key": "416",
+            "Title": "Elementary",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Crime",
                 "Drama",
                 "Mystery"
             ],
-            "Rating": "6.6",
-            "TMDb ID": 90265
+            "Rating": "7.9",
+            "TMDb ID": 1415
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
             "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
-            "Category": "arabic-series"
-        },
-        "4073": {
-            "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
             "Category": "arabic-series"
         },
         "4074": {
@@ -280,16 +289,6 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4093": {
-            "Title": "سره الباتع",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4072": {
             "Title": "جعفر العمدة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -300,14 +299,34 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4105": {
-            "Title": "الزند: ذئب العاصي",
+        "4093": {
+            "Title": "سره الباتع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4070": {
+            "Title": "الأجهر",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4073": {
+            "Title": "المداح ج3 : أسطورة العشق",
+            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
+            "Category": "arabic-series"
+        },
+        "4126": {
+            "Title": "حارة القبة الموسم الثالث",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4085": {
             "Title": "الصندوق",
             "Image Source": "https://i.imgur.com/TuxWOWu.jpg",
+            "Category": "arabic-series"
+        },
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
             "Category": "arabic-series"
         },
         "4087": {
@@ -320,13 +339,28 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
+        "4098": {
+            "Title": "عملة نادرة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4104": {
+            "Title": "تلت التلاتة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
+        "8339": {
+            "Title": "تحت تهديد السلاح",
+            "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+            "Category": "arabic-movies"
+        },
+        "8340": {
+            "Title": "ضاق الخناق",
+            "Image Source": "https://i.imgur.com/MMaI8MX.jpg",
+            "Category": "arabic-movies"
+        },
         "8329": {
             "Title": "ولا غلطة",
             "Image Source": "https://i.imgur.com/v65BNeJ.jpg",

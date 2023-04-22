@@ -1,5 +1,107 @@
 {
     "movies": {
+        "213895": {
+            "Title": "The Pay Day",
+            "Image Source": "https://i.imgur.com/LDkQlMu.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Crime",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1033758
+        },
+        "213893": {
+            "Title": "Quasi",
+            "Image Source": "https://i.imgur.com/fagvUD1.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 893752
+        },
+        "213889": {
+            "Title": "Pacifiction",
+            "Image Source": "https://i.imgur.com/WrlfEtx.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 691214
+        },
+        "43315": {
+            "Title": "One More Time",
+            "Image Source": "https://imgpile.com/images/TwGgD1.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy",
+                "Music"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 321030
+        },
+        "213874": {
+            "Title": "Lola 2",
+            "Image Source": "https://i.imgur.com/maZ0qny.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1112225
+        },
+        "213870": {
+            "Title": "Judy Blume Forever",
+            "Image Source": "https://i.imgur.com/KAhFU5L.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1058670
+        },
+        "213838": {
+            "Title": "Ghosted",
+            "Image Source": "https://i.imgur.com/tkf66cZ.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 868759
+        },
+        "213817": {
+            "Title": "A Tourists Guide to Love",
+            "Image Source": "https://i.imgur.com/tRQFKVz.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Romance",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 813726
+        },
+        "213813": {
+            "Title": "A Thousand and One",
+            "Image Source": "https://i.imgur.com/W6QNWwP.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 855263
+        },
         "213719": {
             "Title": "Mighty Morphin Power Rangers: Once & Always",
             "Image Source": "https://i.imgur.com/wAmEOWb.jpg",
@@ -32,97 +134,19 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 740049
-        },
-        "213624": {
-            "Title": "Ant-Man and the Wasp: Quantumania",
-            "Image Source": "https://i.imgur.com/FnQ0lKw.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 640146
-        },
-        "213559": {
-            "Title": "Qorin",
-            "Image Source": "https://i.imgur.com/dPBiXkv.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1045343
-        },
-        "213558": {
-            "Title": "One Day as a Lion",
-            "Image Source": "https://i.imgur.com/jLH7DMq.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1070777
-        },
-        "41125": {
-            "Title": "Phenomena",
-            "Image Source": "https://imgpile.com/images/TwTOxx.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 29161
-        },
-        "213480": {
-            "Title": "Weathering",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 1110586
-        },
-        "213477": {
-            "Title": "On the Come Up",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy",
-                "Music"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 655322
-        },
-        "213473": {
-            "Title": "Family Dinner",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 964825
-        },
-        "213468": {
-            "Title": "80 for Brady",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy",
-                "Sport"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 942922
         }
     },
     "asian-series": {
+        "204423": {
+            "Title": "Bait",
+            "Image Source": "https://i.imgur.com/DmsLwYX.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 34555
+        },
         "210203": {
             "Title": "Oasis",
             "Image Source": "https://imgpile.com/images/hllVhP.jpg",
@@ -132,76 +156,69 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 70793
-        },
-        "108969": {
-            "Title": "Master in the House",
-            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 76033
-        },
-        "210577": {
-            "Title": "Pandora: Beneath the Paradise",
-            "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Action",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 203344
         }
     },
     "anime": {
-        "212864": {
-            "Title": "Yuusha Ga Shinda!",
-            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
+        "212949": {
+            "Title": "Rokudou No Onna-Tachi",
+            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200750
+            "TMDb ID": 218563
         },
-        "212860": {
-            "Title": "mahoutsukai no Yome Season 2",
-            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+        "202482": {
+            "Title": "UNITEUP!",
+            "Image Source": "https://i.imgur.com/r3mZPR3.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Music"
+            ],
+            "Rating": "6.94",
+            "TMDb ID": 210899
+        },
+        "212945": {
+            "Title": "Tonikaku Kawaii 2nd Season",
+            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "199361": {
-            "Title": "ITAI No Wa Iya Nano de Bougyoryoku ni kyokufuri shitai to omoimasu.2",
-            "Image Source": "https://i.imgur.com/doPPWug.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "7.50",
-            "TMDb ID": 96402
-        },
-        "212857": {
-            "Title": "Dr.Stone: New World",
-            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+        "212960": {
+            "Title": "Megami no Caf Terrace",
+            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 86031
-        },
-        "213268": {
-            "Title": "Oshi no ko",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 203737
+            "TMDb ID": null
         }
     },
     "series": {
+        "149218": {
+            "Title": "Welcome to Eden",
+            "Image Source": "https://imgpile.com/images/TMu2oc.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 128010
+        },
+        "127350": {
+            "Title": "Blindspotting",
+            "Image Source": "https://imgpile.com/images/TK6Zu3.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.5",
+            "TMDb ID": 109373
+        },
         "148289": {
             "Title": "The Marked Heart",
             "Image Source": "https://imgpile.com/images/TMIpQh.jpg",
@@ -293,87 +310,33 @@
             "Rating": "8.8",
             "TMDb ID": 76331
         },
-        "131749": {
-            "Title": "The Kingdom",
-            "Image Source": "https://imgpile.com/images/TKpj8u.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.5",
-            "TMDb ID": 63333
-        },
-        "190462": {
-            "Title": "Titans",
-            "Image Source": "https://i.imgur.com/QDpHqhH.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Crime"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 75450
-        },
-        "208036": {
-            "Title": "Star Trek: Picard",
-            "Image Source": "https://imgpile.com/images/hlsDnN.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama",
-                "Sci-fi"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 85949
-        },
-        "209295": {
-            "Title": "Snowfall",
-            "Image Source": "https://i.imgur.com/d9Pn9qK.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 71694
-        },
-        "205165": {
-            "Title": "A Million Little Things",
-            "Image Source": "https://imgpile.com/images/hlsMdL.jpg",
+        "145828": {
+            "Title": "Good Trouble",
+            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy",
                 "Drama",
-                "Mystery",
                 "Romance"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 81499
+            "Rating": "7.5",
+            "TMDb ID": 80006
         },
-        "209824": {
-            "Title": "True Lies",
-            "Image Source": "https://i.imgur.com/nyBCDT5.jpg",
+        "186264": {
+            "Title": "Abbott Elementary",
+            "Image Source": "https://i.imgur.com/mZuIM3e.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
-                "Adventure"
+                "Comedy"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 202099
+            "Rating": "8.2",
+            "TMDb ID": 125935
         }
     },
     "arabic-series": {
         "4096": {
             "Title": "ضرب نار",
             "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
-            "Category": "arabic-series"
-        },
-        "4073": {
-            "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
             "Category": "arabic-series"
         },
         "4074": {
@@ -391,16 +354,6 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4093": {
-            "Title": "سره الباتع",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4072": {
             "Title": "جعفر العمدة",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -411,14 +364,34 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4105": {
-            "Title": "الزند: ذئب العاصي",
+        "4093": {
+            "Title": "سره الباتع",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4070": {
+            "Title": "الأجهر",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4073": {
+            "Title": "المداح ج3 : أسطورة العشق",
+            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
+            "Category": "arabic-series"
+        },
+        "4126": {
+            "Title": "حارة القبة الموسم الثالث",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4085": {
             "Title": "الصندوق",
             "Image Source": "https://i.imgur.com/TuxWOWu.jpg",
+            "Category": "arabic-series"
+        },
+        "4150": {
+            "Title": "ليلة السقوط",
+            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
             "Category": "arabic-series"
         },
         "4087": {
@@ -431,13 +404,28 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
+        "4098": {
+            "Title": "عملة نادرة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4104": {
+            "Title": "تلت التلاتة",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
+        "8339": {
+            "Title": "تحت تهديد السلاح",
+            "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+            "Category": "arabic-movies"
+        },
+        "8340": {
+            "Title": "ضاق الخناق",
+            "Image Source": "https://i.imgur.com/MMaI8MX.jpg",
+            "Category": "arabic-movies"
+        },
         "8329": {
             "Title": "ولا غلطة",
             "Image Source": "https://i.imgur.com/v65BNeJ.jpg",
