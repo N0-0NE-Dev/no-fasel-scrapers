@@ -241,6 +241,19 @@
             "Rating": "8.6",
             "TMDb ID": 76331
         },
+        "342": {
+            "key": "342",
+            "Title": "Lovecraft Country",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 82816
+        },
         "77": {
             "key": "77",
             "Title": "Good Girls",
@@ -319,38 +332,28 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
+        "4136": {
+            "Title": "باب الحارة الموسم الثالث عشر",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4137": {
+            "Title": "كرزون",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4085": {
             "Title": "الصندوق",
             "Image Source": "https://i.imgur.com/TuxWOWu.jpg",
             "Category": "arabic-series"
-        },
-        "4150": {
-            "Title": "ليلة السقوط",
-            "Image Source": "https://i.imgur.com/IuV8FTr.jpg",
-            "Category": "arabic-series"
-        },
-        "4087": {
-            "Title": "جت سليمة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4082": {
-            "Title": "حضرة العمدة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4098": {
-            "Title": "عملة نادرة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4104": {
-            "Title": "تلت التلاتة",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
+        "8328": {
+            "Title": "هاشتاج جوزني",
+            "Image Source": "https://i.imgur.com/p0uKSz8.jpg",
+            "Category": "arabic-movies"
+        },
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
