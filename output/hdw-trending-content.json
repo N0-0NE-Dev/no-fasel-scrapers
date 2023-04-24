@@ -1,5 +1,29 @@
 {
     "hdwmovies": {
+        "35735": {
+            "key": "35735",
+            "Title": "Shotgun Wedding",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35735/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Romance"
+            ],
+            "Rating": "5.6",
+            "TMDb ID": 758009
+        },
+        "19349": {
+            "key": "19349",
+            "Title": "Yogi Bear",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19349/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Animation"
+            ],
+            "Rating": "4.6",
+            "TMDb ID": 41515
+        },
         "19543": {
             "key": "19543",
             "Title": "The Day",
@@ -112,35 +136,22 @@
             ],
             "Rating": "5.9",
             "TMDb ID": 72358
-        },
-        "20614": {
-            "key": "20614",
-            "Title": "In the Heart of the Sea",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20614/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 205775
-        },
-        "17870": {
-            "key": "17870",
-            "Title": "Mystery Men",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17870/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Fantasy"
-            ],
-            "Rating": "6.1",
-            "TMDb ID": 9824
         }
     },
     "hdwseries": {
+        "674": {
+            "key": "674",
+            "Title": "From",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/674.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 124364
+        },
         "619": {
             "key": "619",
             "Title": "Welcome to Earth",
@@ -241,44 +252,16 @@
             "Rating": "8.6",
             "TMDb ID": 76331
         },
-        "342": {
-            "key": "342",
-            "Title": "Lovecraft Country",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
+        "640": {
+            "key": "640",
+            "Title": "Bel Air",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/640.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Drama",
-                "Fantasy",
-                "Horror"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 82816
-        },
-        "77": {
-            "key": "77",
-            "Title": "Good Girls",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
                 "Drama"
             ],
-            "Rating": "7.8",
-            "TMDb ID": 71715
-        },
-        "416": {
-            "key": "416",
-            "Title": "Elementary",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/416.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 1415
+            "Rating": "6.3",
+            "TMDb ID": 107365
         }
     },
     "arabic-series": {
@@ -327,24 +310,14 @@
             "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
             "Category": "arabic-series"
         },
-        "4126": {
-            "Title": "حارة القبة الموسم الثالث",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4136": {
-            "Title": "باب الحارة الموسم الثالث عشر",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "4137": {
             "Title": "كرزون",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4085": {
-            "Title": "الصندوق",
-            "Image Source": "https://i.imgur.com/TuxWOWu.jpg",
+        "4126": {
+            "Title": "حارة القبة الموسم الثالث",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
     },
@@ -357,6 +330,11 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+            "Category": "arabic-movies"
+        },
+        "8342": {
+            "Title": "مخرج 56",
+            "Image Source": "https://i.imgur.com/55s2ANb.jpg",
             "Category": "arabic-movies"
         },
         "8340": {
