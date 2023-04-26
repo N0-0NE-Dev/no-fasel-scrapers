@@ -135,6 +135,16 @@
         }
     },
     "asian-series": {
+        "210203": {
+            "Title": "Oasis",
+            "Image Source": "https://imgpile.com/images/hllVhP.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 70793
+        },
         "210577": {
             "Title": "Pandora: Beneath the Paradise",
             "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
@@ -148,6 +158,30 @@
         }
     },
     "anime": {
+        "213146": {
+            "Title": "The Marginal Service",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 214211
+        },
+        "213133": {
+            "Title": "Kimi Wa Houkago Insomnia",
+            "Image Source": "https://imgpile.com/images/hllsir.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 155440
+        },
+        "212704": {
+            "Title": "Skip to Loafer",
+            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 139130
+        },
         "213127": {
             "Title": "ao no Orchestra",
             "Image Source": "https://imgpile.com/images/hllc0R.jpg",
@@ -163,22 +197,6 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 204112
-        },
-        "213115": {
-            "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
-            "Image Source": "https://imgpile.com/images/hlllng.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 205366
-        },
-        "212710": {
-            "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
-            "Image Source": "https://imgpile.com/images/hlf64c.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 72505
         }
     },
     "series": {
@@ -308,6 +326,49 @@
             "Rating": "8.8",
             "TMDb ID": 76331
         },
+        "188323": {
+            "Title": "All American",
+            "Image Source": "https://i.imgur.com/3lONz8M.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 82428
+        },
+        "187159": {
+            "Title": "The Good Doctor",
+            "Image Source": "https://i.imgur.com/AnuHQTE.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 71712
+        },
+        "210236": {
+            "Title": "Perry Mason",
+            "Image Source": "https://i.imgur.com/yAUbeZx.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "History"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 4177
+        },
+        "210239": {
+            "Title": "Rain Dogs",
+            "Image Source": "https://i.imgur.com/K0uJ4B4.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 216795
+        },
         "187093": {
             "Title": "East New York",
             "Image Source": "https://i.imgur.com/qfchC34.jpg",
@@ -317,52 +378,6 @@
             ],
             "Rating": "7.1",
             "TMDb ID": 202296
-        },
-        "188230": {
-            "Title": "NCIS: Los Angeles",
-            "Image Source": "https://i.imgur.com/hVpNgtO.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 17610
-        },
-        "141625": {
-            "Title": "Somebody Somewhere",
-            "Image Source": "https://imgpile.com/images/TKyy6h.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 106308
-        },
-        "209501": {
-            "Title": "The Blacklist",
-            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 46952
-        },
-        "186507": {
-            "Title": "Family Guy",
-            "Image Source": "https://i.imgur.com/PRrUjeG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Animation",
-                "Comedy"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 1434
         }
     },
     "arabic-series": {
@@ -406,23 +421,8 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4073": {
-            "Title": "المداح ج3 : أسطورة العشق",
-            "Image Source": "https://i.imgur.com/ZKx6lcE.jpg",
-            "Category": "arabic-series"
-        },
-        "4199": {
-            "Title": "الملكة الموسم الاول",
-            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
-            "Category": "arabic-series"
-        },
-        "3798": {
-            "Title": "فتاة النافذة الموسم الثالث",
-            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
-            "Category": "arabic-series"
-        },
-        "4137": {
-            "Title": "كرزون",
+        "4127": {
+            "Title": "مقابلة مع السيد آدم الموسم الثاني",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         }
