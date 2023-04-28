@@ -168,6 +168,30 @@
         }
     },
     "anime": {
+        "212860": {
+            "Title": "mahoutsukai no Yome Season 2",
+            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "212864": {
+            "Title": "Yuusha Ga Shinda!",
+            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 200750
+        },
+        "212857": {
+            "Title": "Dr.Stone: New World",
+            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 86031
+        },
         "213268": {
             "Title": "Oshi no ko",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -175,41 +199,20 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 203737
-        },
-        "213690": {
-            "Title": "Niehime to Kemono no ou",
-            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 117024
-        },
-        "213276": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "212772": {
-            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
-            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 203040
-        },
-        "212777": {
-            "Title": "Kaminaki Sekai no Kamisama Katsudou",
-            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 199920
         }
     },
     "series": {
+        "126426": {
+            "Title": "Sweet Tooth",
+            "Image Source": "https://imgpile.com/images/TK60J1.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "7.8",
+            "TMDb ID": 103768
+        },
         "144582": {
             "Title": "From",
             "Image Source": "https://imgpile.com/images/TMnAS3.jpg",
@@ -326,49 +329,16 @@
             "Rating": "6.6",
             "TMDb ID": 69050
         },
-        "187265": {
-            "Title": "The Rookie: Feds",
-            "Image Source": "https://i.imgur.com/HqKPUaZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action"
-            ],
-            "Rating": "4.9",
-            "TMDb ID": 201992
-        },
-        "186098": {
-            "Title": "FBI: Most Wanted",
-            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 94372
-        },
-        "137834": {
-            "Title": "Power Book II: Ghost",
-            "Image Source": "https://imgpile.com/images/TKeaP4.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.3",
-            "TMDb ID": 97890
-        },
-        "187446": {
-            "Title": "Greys Anatomy",
-            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
+        "193187": {
+            "Title": "Firefly Lane",
+            "Image Source": "https://i.imgur.com/moh9TWc.png",
             "Category": "series",
             "Genres": [
                 "Drama",
                 "Romance"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
+            "Rating": "7.4",
+            "TMDb ID": 87049
         }
     },
     "arabic-series": {
@@ -411,6 +381,11 @@
             "Title": "مقابلة مع السيد آدم الموسم الثاني",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
+        },
+        "4207": {
+            "Title": "شاركدوغ الموسم الثالث",
+            "Image Source": "https://i.imgur.com/lBhFJ0M.jpg",
+            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
@@ -422,6 +397,11 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+            "Category": "arabic-movies"
+        },
+        "8367": {
+            "Title": "الخطابة",
+            "Image Source": "https://i.imgur.com/hfNu6zJ.jpg",
             "Category": "arabic-movies"
         },
         "8364": {

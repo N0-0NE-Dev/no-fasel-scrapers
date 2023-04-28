@@ -152,6 +152,19 @@
         }
     },
     "hdwseries": {
+        "407": {
+            "key": "407",
+            "Title": "Sweet Tooth",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/407.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Rating": "8.6",
+            "TMDb ID": 103768
+        },
         "674": {
             "key": "674",
             "Title": "From",
@@ -254,55 +267,17 @@
             "Rating": "6.9",
             "TMDb ID": 69050
         },
-        "104": {
-            "key": "104",
-            "Title": "The Rookie",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/104.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8",
-            "TMDb ID": 79744
-        },
-        "55": {
-            "key": "55",
-            "Title": "FBI Most Wanted",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/55.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.7",
-            "TMDb ID": 94372
-        },
-        "617": {
-            "key": "617",
-            "Title": "Power Book II Ghost",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/617.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7",
-            "TMDb ID": 97890
-        },
-        "79": {
-            "key": "79",
-            "Title": "Greys Anatomy",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/79.jpg",
+        "374": {
+            "key": "374",
+            "Title": "Firefly Lane",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/374.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Drama",
                 "Romance"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
+            "Rating": "7.5",
+            "TMDb ID": 87049
         }
     },
     "arabic-series": {
@@ -345,6 +320,11 @@
             "Title": "مقابلة مع السيد آدم الموسم الثاني",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
+        },
+        "4207": {
+            "Title": "شاركدوغ الموسم الثالث",
+            "Image Source": "https://i.imgur.com/lBhFJ0M.jpg",
+            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
@@ -356,6 +336,11 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+            "Category": "arabic-movies"
+        },
+        "8367": {
+            "Title": "الخطابة",
+            "Image Source": "https://i.imgur.com/hfNu6zJ.jpg",
             "Category": "arabic-movies"
         },
         "8364": {
