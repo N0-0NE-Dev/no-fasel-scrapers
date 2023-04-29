@@ -267,25 +267,45 @@
             "Rating": "6.9",
             "TMDb ID": 69050
         },
-        "374": {
-            "key": "374",
-            "Title": "Firefly Lane",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/374.jpg",
+        "640": {
+            "key": "640",
+            "Title": "Bel Air",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/640.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Drama",
-                "Romance"
+                "Drama"
             ],
-            "Rating": "7.5",
-            "TMDb ID": 87049
+            "Rating": "6.3",
+            "TMDb ID": 107365
+        },
+        "69": {
+            "key": "69",
+            "Title": "Lost",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/69.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "8.3",
+            "TMDb ID": 4607
+        },
+        "77": {
+            "key": "77",
+            "Title": "Good Girls",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.8",
+            "TMDb ID": 71715
         }
     },
     "arabic-series": {
-        "4096": {
-            "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
-            "Category": "arabic-series"
-        },
         "4074": {
             "Title": "سوق الكانتو",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -306,13 +326,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4071": {
-            "Title": "الكبير أوي الموسم السابع",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -338,6 +358,11 @@
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
             "Category": "arabic-movies"
         },
+        "8377": {
+            "Title": "بيتر بان وويندي",
+            "Image Source": "https://i.imgur.com/RVyfGFi.jpg",
+            "Category": "arabic-movies"
+        },
         "8367": {
             "Title": "الخطابة",
             "Image Source": "https://i.imgur.com/hfNu6zJ.jpg",
@@ -346,11 +371,6 @@
         "8364": {
             "Title": "بعد الشر",
             "Image Source": "https://i.imgur.com/YoEsKgy.jpg",
-            "Category": "arabic-movies"
-        },
-        "8358": {
-            "Title": "هارلي",
-            "Image Source": "https://i.imgur.com/iLhh0mN.jpg",
             "Category": "arabic-movies"
         }
     }

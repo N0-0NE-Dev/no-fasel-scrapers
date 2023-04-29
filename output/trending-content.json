@@ -168,37 +168,37 @@
         }
     },
     "anime": {
-        "212860": {
-            "Title": "mahoutsukai no Yome Season 2",
-            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+        "212960": {
+            "Title": "Megami no Caf Terrace",
+            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "212864": {
-            "Title": "Yuusha Ga Shinda!",
-            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
+        "212949": {
+            "Title": "Rokudou No Onna-Tachi",
+            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200750
+            "TMDb ID": 218563
         },
-        "212857": {
-            "Title": "Dr.Stone: New World",
-            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+        "212945": {
+            "Title": "Tonikaku Kawaii 2nd Season",
+            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 86031
+            "TMDb ID": null
         },
-        "213268": {
-            "Title": "Oshi no ko",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "212932": {
+            "Title": "Mashle",
+            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 203737
+            "TMDb ID": 204832
         }
     },
     "series": {
@@ -329,24 +329,41 @@
             "Rating": "6.6",
             "TMDb ID": 69050
         },
-        "193187": {
-            "Title": "Firefly Lane",
-            "Image Source": "https://i.imgur.com/moh9TWc.png",
+        "209344": {
+            "Title": "Bel-Air",
+            "Image Source": "https://imgpile.com/images/hls5dh.jpg",
             "Category": "series",
             "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 107365
+        },
+        "186814": {
+            "Title": "Ghosts",
+            "Image Source": "https://i.imgur.com/prjDhMH.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Fantasy"
+            ],
+            "Rating": "7.8",
+            "TMDb ID": 126027
+        },
+        "145828": {
+            "Title": "Good Trouble",
+            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
                 "Drama",
                 "Romance"
             ],
-            "Rating": "7.4",
-            "TMDb ID": 87049
+            "Rating": "7.5",
+            "TMDb ID": 80006
         }
     },
     "arabic-series": {
-        "4096": {
-            "Title": "ضرب نار",
-            "Image Source": "https://i.imgur.com/4kDUlG2.jpg",
-            "Category": "arabic-series"
-        },
         "4074": {
             "Title": "سوق الكانتو",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -367,13 +384,13 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4071": {
-            "Title": "الكبير أوي الموسم السابع",
+        "4093": {
+            "Title": "سره الباتع",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4093": {
-            "Title": "سره الباتع",
+        "4070": {
+            "Title": "الأجهر",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
@@ -399,6 +416,11 @@
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
             "Category": "arabic-movies"
         },
+        "8377": {
+            "Title": "بيتر بان وويندي",
+            "Image Source": "https://i.imgur.com/RVyfGFi.jpg",
+            "Category": "arabic-movies"
+        },
         "8367": {
             "Title": "الخطابة",
             "Image Source": "https://i.imgur.com/hfNu6zJ.jpg",
@@ -407,11 +429,6 @@
         "8364": {
             "Title": "بعد الشر",
             "Image Source": "https://i.imgur.com/YoEsKgy.jpg",
-            "Category": "arabic-movies"
-        },
-        "8358": {
-            "Title": "هارلي",
-            "Image Source": "https://i.imgur.com/iLhh0mN.jpg",
             "Category": "arabic-movies"
         }
     }
