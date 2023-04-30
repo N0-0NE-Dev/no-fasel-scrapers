@@ -1,5 +1,70 @@
 {
     "movies": {
+        "214396": {
+            "Title": "Peter Pan & Wendy",
+            "Image Source": "https://i.imgur.com/fTpAzO9.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 420808
+        },
+        "214391": {
+            "Title": "AKA",
+            "Image Source": "https://i.imgur.com/svvilwO.jpg",
+            "Category": "movies",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 1102776
+        },
+        "214387": {
+            "Title": "Mira",
+            "Image Source": "https://i.imgur.com/38jaUGz.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Sci-fi",
+                "Drama",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1048330
+        },
+        "214384": {
+            "Title": "The Tank",
+            "Image Source": "https://i.imgur.com/kA2AnAs.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1098160
+        },
+        "214381": {
+            "Title": "Falcon Lake",
+            "Image Source": "https://i.imgur.com/6dv459i.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 946127
+        },
+        "214376": {
+            "Title": "Clock",
+            "Image Source": "https://i.imgur.com/foHIlVu.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1085103
+        },
         "214128": {
             "Title": "The Five Devils",
             "Image Source": "https://i.imgur.com/vfBPUHo.jpg",
@@ -56,84 +121,20 @@
             ],
             "Rating": "6.9",
             "TMDb ID": 791177
-        },
-        "209641": {
-            "Title": "High Heat",
-            "Image Source": "https://i.imgur.com/K6dhICr.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1015963
-        },
-        "195918": {
-            "Title": "Mindcage",
-            "Image Source": "https://i.imgur.com/Vkd1HSQ.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "4.4",
-            "TMDb ID": 1043565
-        },
-        "209691": {
-            "Title": "Saint Omer",
-            "Image Source": "https://i.imgur.com/pb3JfiR.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 925943
-        },
-        "194093": {
-            "Title": "The Last Manhunt",
-            "Image Source": "https://i.imgur.com/aVtsQQg.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Western"
-            ],
-            "Rating": "4.2",
-            "TMDb ID": 754452
-        },
-        "214033": {
-            "Title": "The Elderly",
-            "Image Source": "https://i.imgur.com/pa7Lk77.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 994128
-        },
-        "204573": {
-            "Title": "Shotgun Wedding",
-            "Image Source": "https://i.imgur.com/c5zOQmy.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "5.5",
-            "TMDb ID": 758009
-        },
-        "210735": {
-            "Title": "Cocaine Bear",
-            "Image Source": "https://i.imgur.com/LZEBHCW.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 804150
         }
     },
     "asian-series": {
+        "210577": {
+            "Title": "Pandora: Beneath the Paradise",
+            "Image Source": "https://i.imgur.com/qEsJHMu.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Action",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 203344
+        },
         "210203": {
             "Title": "Oasis",
             "Image Source": "https://imgpile.com/images/hllVhP.jpg",
@@ -143,62 +144,40 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 70793
-        },
-        "108969": {
-            "Title": "Master in the House",
-            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 76033
-        },
-        "106890": {
-            "Title": "Knowing Bros",
-            "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Game-show",
-                "Reality-tv"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 70672
         }
     },
     "anime": {
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+        "213700": {
+            "Title": "Pokemon (2023)",
+            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 220150
         },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 218563
+            "TMDb ID": 137391
         },
-        "212945": {
-            "Title": "Tonikaku Kawaii 2nd Season",
-            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
+        "212588": {
+            "Title": "jigokuraku",
+            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 117465
         },
-        "212932": {
-            "Title": "Mashle",
-            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 204832
+            "TMDb ID": 200732
         }
     },
     "series": {
@@ -317,17 +296,16 @@
             "Rating": "7.6",
             "TMDb ID": 112693
         },
-        "137449": {
-            "Title": "Riverdale",
-            "Image Source": "https://i.imgur.com/SDU4LC6.jpg",
+        "137464": {
+            "Title": "Yellowjackets",
+            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
                 "Drama",
-                "Mystery"
+                "Horror"
             ],
-            "Rating": "6.6",
-            "TMDb ID": 69050
+            "Rating": "7.9",
+            "TMDb ID": 117488
         },
         "209344": {
             "Title": "Bel-Air",
@@ -338,29 +316,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 107365
-        },
-        "186814": {
-            "Title": "Ghosts",
-            "Image Source": "https://i.imgur.com/prjDhMH.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Fantasy"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 126027
-        },
-        "145828": {
-            "Title": "Good Trouble",
-            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 80006
         }
     },
     "arabic-series": {
@@ -394,14 +349,9 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4127": {
-            "Title": "مقابلة مع السيد آدم الموسم الثاني",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4207": {
-            "Title": "شاركدوغ الموسم الثالث",
-            "Image Source": "https://i.imgur.com/lBhFJ0M.jpg",
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },
@@ -419,16 +369,6 @@
         "8377": {
             "Title": "بيتر بان وويندي",
             "Image Source": "https://i.imgur.com/RVyfGFi.jpg",
-            "Category": "arabic-movies"
-        },
-        "8367": {
-            "Title": "الخطابة",
-            "Image Source": "https://i.imgur.com/hfNu6zJ.jpg",
-            "Category": "arabic-movies"
-        },
-        "8364": {
-            "Title": "بعد الشر",
-            "Image Source": "https://i.imgur.com/YoEsKgy.jpg",
             "Category": "arabic-movies"
         }
     }

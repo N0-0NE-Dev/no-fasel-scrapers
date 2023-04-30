@@ -1,5 +1,67 @@
 {
     "hdwmovies": {
+        "18188": {
+            "key": "18188",
+            "Title": "Peter Pan",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18188/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 10601
+        },
+        "21709": {
+            "key": "21709",
+            "Title": "Mara",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21709/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Horror",
+                "Thriller"
+            ],
+            "Rating": "5.1",
+            "TMDb ID": 514277
+        },
+        "22268": {
+            "key": "22268",
+            "Title": "The Banker",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22268/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.3",
+            "TMDb ID": 627725
+        },
+        "18773": {
+            "key": "18773",
+            "Title": "Eden Lake",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18773/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Horror",
+                "Thriller"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 13510
+        },
+        "18472": {
+            "key": "18472",
+            "Title": "Click",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18472/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 9339
+        },
         "19546": {
             "key": "19546",
             "Title": "The Details",
@@ -61,94 +123,6 @@
             ],
             "Rating": "7",
             "TMDb ID": 1365
-        },
-        "20096": {
-            "key": "20096",
-            "Title": "The Heat",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20096/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Crime"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 136795
-        },
-        "21011": {
-            "key": "21011",
-            "Title": "Mine",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21011/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Thriller"
-            ],
-            "Rating": "5.9",
-            "TMDb ID": 345009
-        },
-        "18857": {
-            "key": "18857",
-            "Title": "Splinter",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18857/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror",
-                "Sci-Fi",
-                "Thriller"
-            ],
-            "Rating": "6.1",
-            "TMDb ID": 13220
-        },
-        "20105": {
-            "key": "20105",
-            "Title": "The Last Stand",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20105/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 76640
-        },
-        "17764": {
-            "key": "17764",
-            "Title": "The Edge",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17764/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 9433
-        },
-        "35735": {
-            "key": "35735",
-            "Title": "Shotgun Wedding",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35735/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Romance"
-            ],
-            "Rating": "5.6",
-            "TMDb ID": 758009
-        },
-        "19349": {
-            "key": "19349",
-            "Title": "Yogi Bear",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19349/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Animation"
-            ],
-            "Rating": "4.6",
-            "TMDb ID": 41515
         }
     },
     "hdwseries": {
@@ -254,18 +228,18 @@
             "Rating": "8.4",
             "TMDb ID": 61427
         },
-        "286": {
-            "key": "286",
-            "Title": "Riverdale",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/286.jpg",
+        "604": {
+            "key": "604",
+            "Title": "Yellowjackets",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Crime",
                 "Drama",
+                "Horror",
                 "Mystery"
             ],
-            "Rating": "6.9",
-            "TMDb ID": 69050
+            "Rating": "8",
+            "TMDb ID": 117488
         },
         "640": {
             "key": "640",
@@ -277,32 +251,6 @@
             ],
             "Rating": "6.3",
             "TMDb ID": 107365
-        },
-        "69": {
-            "key": "69",
-            "Title": "Lost",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/69.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Adventure",
-                "Drama",
-                "Fantasy"
-            ],
-            "Rating": "8.3",
-            "TMDb ID": 4607
-        },
-        "77": {
-            "key": "77",
-            "Title": "Good Girls",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 71715
         }
     },
     "arabic-series": {
@@ -336,14 +284,9 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4127": {
-            "Title": "مقابلة مع السيد آدم الموسم الثاني",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4207": {
-            "Title": "شاركدوغ الموسم الثالث",
-            "Image Source": "https://i.imgur.com/lBhFJ0M.jpg",
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },
@@ -361,16 +304,6 @@
         "8377": {
             "Title": "بيتر بان وويندي",
             "Image Source": "https://i.imgur.com/RVyfGFi.jpg",
-            "Category": "arabic-movies"
-        },
-        "8367": {
-            "Title": "الخطابة",
-            "Image Source": "https://i.imgur.com/hfNu6zJ.jpg",
-            "Category": "arabic-movies"
-        },
-        "8364": {
-            "Title": "بعد الشر",
-            "Image Source": "https://i.imgur.com/YoEsKgy.jpg",
             "Category": "arabic-movies"
         }
     }
