@@ -1,5 +1,44 @@
 {
     "hdwmovies": {
+        "18373": {
+            "key": "18373",
+            "Title": "Kiss Kiss Bang Bang",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18373/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Mystery"
+            ],
+            "Rating": "7.5",
+            "TMDb ID": 5236
+        },
+        "18613": {
+            "key": "18613",
+            "Title": "Dead Silence",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18613/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "6.2",
+            "TMDb ID": 14001
+        },
+        "17630": {
+            "key": "17630",
+            "Title": "Assassins",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17630/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "Rating": "6.3",
+            "TMDb ID": 653740
+        },
         "18188": {
             "key": "18188",
             "Title": "Peter Pan",
@@ -73,56 +112,6 @@
             ],
             "Rating": "6.1",
             "TMDb ID": 135647
-        },
-        "20088": {
-            "key": "20088",
-            "Title": "The East",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20088/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 87499
-        },
-        "19515": {
-            "key": "19515",
-            "Title": "Scream 4",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19515/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "6.1",
-            "TMDb ID": 41446
-        },
-        "17849": {
-            "key": "17849",
-            "Title": "Blue Streak",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/17849/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Crime"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 11001
-        },
-        "18002": {
-            "key": "18002",
-            "Title": "Monsters Ball",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18002/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7",
-            "TMDb ID": 1365
         }
     },
     "hdwseries": {
@@ -228,29 +217,18 @@
             "Rating": "8.4",
             "TMDb ID": 61427
         },
-        "604": {
-            "key": "604",
-            "Title": "Yellowjackets",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
+        "450": {
+            "key": "450",
+            "Title": "Titans",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/450.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
+                "Action",
+                "Adventure",
+                "Crime"
             ],
-            "Rating": "8",
-            "TMDb ID": 117488
-        },
-        "640": {
-            "key": "640",
-            "Title": "Bel Air",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/640.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 107365
+            "Rating": "7.7",
+            "TMDb ID": 75450
         }
     },
     "arabic-series": {
@@ -284,9 +262,24 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "3798": {
-            "Title": "فتاة النافذة الموسم الثالث",
-            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "4199": {
+            "Title": "الملكة الموسم الاول",
+            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
+            "Category": "arabic-series"
+        },
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
@@ -299,11 +292,6 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
-            "Category": "arabic-movies"
-        },
-        "8377": {
-            "Title": "بيتر بان وويندي",
-            "Image Source": "https://i.imgur.com/RVyfGFi.jpg",
             "Category": "arabic-movies"
         }
     }

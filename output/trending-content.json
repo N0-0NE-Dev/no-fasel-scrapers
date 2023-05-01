@@ -1,5 +1,38 @@
 {
     "movies": {
+        "214587": {
+            "Title": "Kiss, Kiss!",
+            "Image Source": "https://i.imgur.com/SuyXSWm.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 873256
+        },
+        "214583": {
+            "Title": "Deadly Secrets",
+            "Image Source": "https://i.imgur.com/5hX2RzW.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 954018
+        },
+        "214528": {
+            "Title": "Assassin Club",
+            "Image Source": "https://i.imgur.com/rTvJ3Sy.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 876969
+        },
         "214396": {
             "Title": "Peter Pan & Wendy",
             "Image Source": "https://i.imgur.com/fTpAzO9.jpg",
@@ -76,51 +109,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 820697
-        },
-        "193523": {
-            "Title": "The Estate",
-            "Image Source": "https://i.imgur.com/Itc2U8B.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "5.3",
-            "TMDb ID": 910858
-        },
-        "214121": {
-            "Title": "Scream VI",
-            "Image Source": "https://i.imgur.com/EaH76Lx.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 934433
-        },
-        "214114": {
-            "Title": "Blueback",
-            "Image Source": "https://i.imgur.com/wzNLDmm.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Family"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 807132
-        },
-        "194964": {
-            "Title": "Bones and All",
-            "Image Source": "https://i.imgur.com/NQ88A4h.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Romance"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 791177
         }
     },
     "asian-series": {
@@ -135,49 +123,49 @@
             "Rating": "N/A",
             "TMDb ID": 203344
         },
-        "210203": {
-            "Title": "Oasis",
-            "Image Source": "https://imgpile.com/images/hllVhP.jpg",
+        "108969": {
+            "Title": "Master in the House",
+            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
             "Category": "asian-series",
             "Genres": [
-                "Drama"
+                "Reality-tv"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 70793
+            "Rating": "6.4",
+            "TMDb ID": 76033
         }
     },
     "anime": {
-        "213700": {
-            "Title": "Pokemon (2023)",
-            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
+        "213021": {
+            "Title": "Boku No Kokoro No Yabai Yatsu",
+            "Image Source": "https://imgpile.com/images/hlldUi.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 220150
+            "TMDb ID": 207250
         },
-        "213014": {
-            "Title": "ISEKAI Shoukan Wa Nidome Desu",
-            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 137391
+            "TMDb ID": null
         },
-        "212588": {
-            "Title": "jigokuraku",
-            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
+        "213051": {
+            "Title": "World Dai Star",
+            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 117465
+            "TMDb ID": 215198
         },
-        "213008": {
-            "Title": "Otonari ni ginga",
-            "Image Source": "https://imgpile.com/images/hllto2.jpg",
+        "212637": {
+            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
+            "Image Source": "https://imgpile.com/images/hlfLHG.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200732
+            "TMDb ID": 207493
         }
     },
     "series": {
@@ -296,26 +284,17 @@
             "Rating": "7.6",
             "TMDb ID": 112693
         },
-        "137464": {
-            "Title": "Yellowjackets",
-            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
+        "190462": {
+            "Title": "Titans",
+            "Image Source": "https://i.imgur.com/QDpHqhH.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Horror"
+                "Action",
+                "Adventure",
+                "Crime"
             ],
-            "Rating": "7.9",
-            "TMDb ID": 117488
-        },
-        "209344": {
-            "Title": "Bel-Air",
-            "Image Source": "https://imgpile.com/images/hls5dh.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 107365
+            "Rating": "7.6",
+            "TMDb ID": 75450
         }
     },
     "arabic-series": {
@@ -349,9 +328,24 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "3798": {
-            "Title": "فتاة النافذة الموسم الثالث",
-            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "4199": {
+            "Title": "الملكة الموسم الاول",
+            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
+            "Category": "arabic-series"
+        },
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
@@ -364,11 +358,6 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
-            "Category": "arabic-movies"
-        },
-        "8377": {
-            "Title": "بيتر بان وويندي",
-            "Image Source": "https://i.imgur.com/RVyfGFi.jpg",
             "Category": "arabic-movies"
         }
     }

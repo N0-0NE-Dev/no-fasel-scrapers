@@ -65075,6 +65075,18 @@
             "Rating": "N/A"
         },
         {
+            "key": "205293",
+            "Title": "My Dad the Bounty Hunter",
+            "Image Source": "https://i.imgur.com/oo3fYrx.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Animation"
+            ],
+            "Rating": "N/A"
+        },
+        {
             "key": "205285",
             "Title": "Killing County",
             "Image Source": "https://i.imgur.com/8q11iHS.jpg",
@@ -65764,26 +65776,34 @@
             "Rating": "7.3"
         },
         {
-            "key": "196184",
-            "Title": "1923",
-            "Image Source": "https://i.imgur.com/bStjexo.jpg",
+            "key": "195711",
+            "Title": "Modern Love Amsterdam",
+            "Image Source": "https://i.imgur.com/2BinKrX.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Western"
+                "Comedy"
             ],
-            "Rating": "8.6"
+            "Rating": "6.5"
         },
         {
-            "key": "196034",
-            "Title": "Random Acts of Flyness",
-            "Image Source": "https://imgpile.com/images/hlsNHa.jpg",
+            "key": "195686",
+            "Title": "Far from Home",
+            "Image Source": "https://i.imgur.com/z9ihC8X.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
                 "Drama"
             ],
-            "Rating": "6.8"
+            "Rating": "7.4"
+        },
+        {
+            "key": "195666",
+            "Title": "Cook at All Costs",
+            "Image Source": "https://i.imgur.com/EBF4GXB.jpg",
+            "Category": "series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "6.4"
         },
         {
             "key": "195658",
@@ -66674,16 +66694,15 @@
             "Rating": "7.2"
         },
         {
-            "key": "189784",
-            "Title": "Witness No. 3",
-            "Image Source": "https://i.imgur.com/xCZU2cY.jpg",
+            "key": "189879",
+            "Title": "Maggie",
+            "Image Source": "https://i.imgur.com/KrX253Z.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
+                "Comedy",
+                "Sci-fi"
             ],
-            "Rating": "6.2"
+            "Rating": "7.2"
         },
         {
             "key": "189764",
@@ -66762,16 +66781,15 @@
             "Rating": "5.9"
         },
         {
-            "key": "189257",
-            "Title": "The Peripheral",
-            "Image Source": "https://i.imgur.com/zyHloNj.jpg",
+            "key": "189356",
+            "Title": "Best Foot Forward",
+            "Image Source": "https://i.imgur.com/53CQWq2.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Sci-fi",
-                "Thriller"
+                "Comedy",
+                "Drama"
             ],
-            "Rating": "7.7"
+            "Rating": "7.2"
         },
         {
             "key": "202141",
@@ -67296,24 +67314,27 @@
             "Rating": "6.7"
         },
         {
-            "key": "175320",
-            "Title": "Gymnastics Academy: A Second Chance",
-            "Image Source": "https://i.imgur.com/g44s7jW.jpg",
+            "key": "186101",
+            "Title": "Andor",
+            "Image Source": "https://i.imgur.com/JMRAotU.jpg",
             "Category": "series",
             "Genres": [
+                "Action",
+                "Adventure",
                 "Drama"
             ],
-            "Rating": "6.4"
+            "Rating": "8.4"
         },
         {
-            "key": "173412",
-            "Title": "Sins of Our Mother",
-            "Image Source": "https://i.imgur.com/1nysUAq.jpg",
+            "key": "186061",
+            "Title": "Quantum Leap",
+            "Image Source": "https://i.imgur.com/gI8XKdG.jpg",
             "Category": "series",
             "Genres": [
-                "Documentary"
+                "Drama",
+                "Sci-fi"
             ],
-            "Rating": "7"
+            "Rating": "5.7"
         },
         {
             "key": "173403",
@@ -67493,26 +67514,25 @@
             "Rating": "6.5"
         },
         {
-            "key": "172859",
-            "Title": "The Girl from Plainville",
-            "Image Source": "https://imgpile.com/images/TYXqTL.jpg",
+            "key": "172747",
+            "Title": "Fakes",
+            "Image Source": "https://i.imgur.com/CKNQCzM.jpg",
             "Category": "series",
             "Genres": [
-                "Biography",
-                "Crime"
+                "Comedy"
             ],
-            "Rating": "6.3"
+            "Rating": "6.5"
         },
         {
-            "key": "172839",
-            "Title": "Mike",
-            "Image Source": "https://imgpile.com/images/TYXj44.jpg",
+            "key": "172732",
+            "Title": "Devil in Ohio",
+            "Image Source": "https://imgpile.com/images/TM52b4.jpg",
             "Category": "series",
             "Genres": [
-                "Biography",
-                "Drama"
+                "Drama",
+                "Horror"
             ],
-            "Rating": "6.1"
+            "Rating": "5.9"
         },
         {
             "key": "172718",
@@ -69185,15 +69205,25 @@
             "Rating": "8.5"
         },
         {
-            "key": "149238",
-            "Title": "Seorita 89",
-            "Image Source": "https://imgpile.com/images/TMuAZN.jpg",
+            "key": "149169",
+            "Title": "The Big Conn",
+            "Image Source": "https://imgpile.com/images/TMuonR.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Thriller"
+                "Crime",
+                "Documentary"
             ],
-            "Rating": "7.6"
+            "Rating": "7.1"
+        },
+        {
+            "key": "149154",
+            "Title": "Long Slow Exhale",
+            "Image Source": "https://imgpile.com/images/TMuXkr.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "6.5"
         },
         {
             "key": "149108",
@@ -76615,22 +76645,25 @@
             "Rating": "7.7"
         },
         {
-            "key": "105538",
-            "Title": "Kissing Game",
-            "Image Source": "https://imgpile.com/images/TKWYYE.jpg",
+            "key": "105678",
+            "Title": "El Candidato",
+            "Image Source": "https://imgpile.com/images/TKWmZN.jpg",
             "Category": "series",
             "Genres": [
-                "Drama"
+                "Thriller"
             ],
-            "Rating": "6.3"
+            "Rating": "7.5"
         },
         {
-            "key": "105526",
-            "Title": "Indian Matchmak",
-            "Image Source": "https://imgpile.com/images/TKWPUh.jpg",
+            "key": "105666",
+            "Title": "Brave New World",
+            "Image Source": "https://imgpile.com/images/TKWloc.jpg",
             "Category": "series",
-            "Genres": [],
-            "Rating": "6.2"
+            "Genres": [
+                "Drama",
+                "Sci-fi"
+            ],
+            "Rating": "7"
         },
         {
             "key": "105513",
@@ -77702,16 +77735,6 @@
                 "Comedy"
             ],
             "Rating": "7.2"
-        },
-        {
-            "key": "149472",
-            "Title": "Workin Moms",
-            "Image Source": "https://imgpile.com/images/TMu3xC.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.8"
         },
         {
             "key": "100285",
@@ -79655,24 +79678,30 @@
             "Rating": "7.7"
         },
         {
-            "key": "90176",
-            "Title": "Toon",
-            "Image Source": "https://imgpile.com/images/TMs9mG.jpg",
+            "key": "90495",
+            "Title": "Daybreak",
+            "Image Source": "https://imgpile.com/images/TMsfgP.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy"
+                "Drama",
+                "Fantasy",
+                "Mystery"
             ],
-            "Rating": "7.6"
+            "Rating": "6.7"
         },
         {
-            "key": "89870",
-            "Title": "Living with Yourself",
-            "Image Source": "https://imgpile.com/images/TMshb2.jpg",
+            "key": "90390",
+            "Title": "Pablo Escobar, The Drug Lord",
+            "Image Source": "https://imgpile.com/images/TMsM4r.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy"
+                "Biography",
+                "Crime",
+                "Drama",
+                "History",
+                "Thriller"
             ],
-            "Rating": "7.2"
+            "Rating": "8.4"
         },
         {
             "key": "131667",
@@ -80439,26 +80468,25 @@
             "Rating": "5.6"
         },
         {
-            "key": "85644",
-            "Title": "Wayne",
-            "Image Source": "https://imgpile.com/images/TMPIQh.jpg",
+            "key": "85730",
+            "Title": "Free Meek",
+            "Image Source": "https://imgpile.com/images/TMPGNx.jpg",
+            "Category": "series",
+            "Genres": [
+                "Documentary"
+            ],
+            "Rating": "6.6"
+        },
+        {
+            "key": "85693",
+            "Title": "Wu Assassins",
+            "Image Source": "https://imgpile.com/images/TMP9m1.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Comedy"
+                "Crime"
             ],
-            "Rating": "8.4"
-        },
-        {
-            "key": "85562",
-            "Title": "This is Football",
-            "Image Source": "https://imgpile.com/images/TMP1lX.jpg",
-            "Category": "series",
-            "Genres": [
-                "Documentary",
-                "Sport"
-            ],
-            "Rating": "8.1"
+            "Rating": "6.4"
         },
         {
             "key": "85445",
@@ -80687,25 +80715,25 @@
             "Rating": "7.4"
         },
         {
-            "key": "141167",
-            "Title": "Euphoria",
-            "Image Source": "https://imgpile.com/images/TKyLK8.jpg",
+            "key": "92720",
+            "Title": "The Chosen One",
+            "Image Source": "https://imgpile.com/images/TMcSCC.jpg",
             "Category": "series",
             "Genres": [
-                "Drama"
+                "Mystery",
+                "Thriller"
             ],
-            "Rating": "8.4"
+            "Rating": "2.2"
         },
         {
-            "key": "83455",
-            "Title": "Los Espookys",
-            "Image Source": "https://imgpile.com/images/TMMkza.jpg",
+            "key": "84165",
+            "Title": "The Goldbergs",
+            "Image Source": "https://imgpile.com/images/TMMj5L.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Horror"
+                "Comedy"
             ],
-            "Rating": "7.5"
+            "Rating": "8"
         },
         {
             "key": "83432",
@@ -81614,25 +81642,29 @@
             "Rating": "8.3"
         },
         {
-            "key": "209354",
-            "Title": "Formula 1: Drive to Survive",
-            "Image Source": "https://imgpile.com/images/hlsxZ1.jpg",
+            "key": "104644",
+            "Title": "The Order",
+            "Image Source": "https://imgpile.com/images/TK0Zm1.jpg",
             "Category": "series",
             "Genres": [
-                "Documentary",
-                "Sport"
+                "Drama",
+                "Fantasy",
+                "Horror"
             ],
-            "Rating": "N/A"
+            "Rating": "6.7"
         },
         {
-            "key": "77422",
-            "Title": "Shadow",
-            "Image Source": "https://imgpile.com/images/TMxfMS.jpg",
+            "key": "77356",
+            "Title": "The Name of the Rose",
+            "Image Source": "https://imgpile.com/images/TMxcuC.jpg",
             "Category": "series",
             "Genres": [
-                "N-a"
+                "Drama",
+                "History",
+                "Mystery",
+                "Thriller"
             ],
-            "Rating": "7.6"
+            "Rating": "9.3"
         },
         {
             "key": "77092",
@@ -81677,26 +81709,25 @@
             "Rating": "7.4"
         },
         {
-            "key": "76226",
-            "Title": "Rebellion",
-            "Image Source": "https://imgpile.com/images/TMx9Ig.jpg",
+            "key": "76552",
+            "Title": "The Enemy Within",
+            "Image Source": "https://imgpile.com/images/TMxGeW.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "War"
+                "N-a"
             ],
             "Rating": "7.1"
         },
         {
-            "key": "76071",
-            "Title": "Raising Hope",
-            "Image Source": "https://imgpile.com/images/TMxdBR.jpg",
+            "key": "76493",
+            "Title": "Whiskey Cavalier",
+            "Image Source": "https://imgpile.com/images/TMxDAN.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Family"
+                "Action",
+                "Comedy"
             ],
-            "Rating": "8.1"
+            "Rating": "7.1"
         },
         {
             "key": "132045",
@@ -81877,26 +81908,26 @@
             "Rating": "6.9"
         },
         {
-            "key": "74649",
-            "Title": "Superstition",
-            "Image Source": "https://imgpile.com/images/TMta3F.jpg",
+            "key": "73708",
+            "Title": "Californication",
+            "Image Source": "https://imgpile.com/images/TMt62b.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "8.3"
+        },
+        {
+            "key": "95752",
+            "Title": "El Embarcadero",
+            "Image Source": "https://imgpile.com/images/TMlW01.jpg",
             "Category": "series",
             "Genres": [
                 "Drama",
-                "Horror",
                 "Mystery"
             ],
-            "Rating": "5.1"
-        },
-        {
-            "key": "74641",
-            "Title": "Land Girls",
-            "Image Source": "https://imgpile.com/images/TMtj5i.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7"
+            "Rating": "7.1"
         },
         {
             "key": "73256",
@@ -88528,26 +88559,15 @@
             "Rating": "7"
         },
         {
-            "key": "28946",
-            "Title": "People of Earth",
-            "Image Source": "https://imgpile.com/images/TMTU9R.jpg",
+            "key": "81366",
+            "Title": "Sneaky Pete",
+            "Image Source": "https://imgpile.com/images/TMKrYR.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Mystery",
-                "Sci-fi"
+                "Crime",
+                "Drama"
             ],
-            "Rating": "7.7"
-        },
-        {
-            "key": "50541",
-            "Title": "New Girl",
-            "Image Source": "https://imgpile.com/images/TM9rP2.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.8"
+            "Rating": "8.1"
         },
         {
             "key": "53828",
@@ -90526,27 +90546,28 @@
             "Rating": "7.6"
         },
         {
-            "key": "148225",
-            "Title": "Better Call Saul",
-            "Image Source": "https://imgpile.com/images/TMIvpG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.9"
-        },
-        {
-            "key": "4544",
-            "Title": "The Night Manager",
-            "Image Source": "https://imgpile.com/images/TMhiBN.jpg",
+            "key": "4176",
+            "Title": "Prey",
+            "Image Source": "https://imgpile.com/images/TMdys8.jpg",
             "Category": "series",
             "Genres": [
                 "Crime",
                 "Drama",
-                "Mystery"
+                "Thriller"
             ],
-            "Rating": "8"
+            "Rating": "7.2"
+        },
+        {
+            "key": "4663",
+            "Title": "Spartacus",
+            "Image Source": "https://imgpile.com/images/TMhHRC.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Biography"
+            ],
+            "Rating": "8.5"
         },
         {
             "key": "128426",
@@ -90794,47 +90815,304 @@
             "Rating": "9.5"
         },
         {
-            "key": "205293",
-            "Title": "My Dad the Bounty Hunter",
-            "Image Source": "https://i.imgur.com/oo3fYrx.jpg",
+            "key": "196184",
+            "Title": "1923",
+            "Image Source": "https://i.imgur.com/bStjexo.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
-                "Adventure",
-                "Animation"
+                "Drama",
+                "Western"
             ],
-            "Rating": "N/A"
+            "Rating": "8.6"
         },
         {
-            "key": "195686",
-            "Title": "Far from Home",
-            "Image Source": "https://i.imgur.com/z9ihC8X.jpg",
+            "key": "196034",
+            "Title": "Random Acts of Flyness",
+            "Image Source": "https://imgpile.com/images/hlsNHa.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "6.8"
+        },
+        {
+            "key": "189784",
+            "Title": "Witness No. 3",
+            "Image Source": "https://i.imgur.com/xCZU2cY.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "6.2"
+        },
+        {
+            "key": "189257",
+            "Title": "The Peripheral",
+            "Image Source": "https://i.imgur.com/zyHloNj.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Sci-fi",
+                "Thriller"
+            ],
+            "Rating": "7.7"
+        },
+        {
+            "key": "175320",
+            "Title": "Gymnastics Academy: A Second Chance",
+            "Image Source": "https://i.imgur.com/g44s7jW.jpg",
             "Category": "series",
             "Genres": [
                 "Drama"
             ],
-            "Rating": "7.4"
-        },
-        {
-            "key": "195666",
-            "Title": "Cook at All Costs",
-            "Image Source": "https://i.imgur.com/EBF4GXB.jpg",
-            "Category": "series",
-            "Genres": [
-                "Reality-tv"
-            ],
             "Rating": "6.4"
         },
         {
-            "key": "189879",
-            "Title": "Maggie",
-            "Image Source": "https://i.imgur.com/KrX253Z.jpg",
+            "key": "173412",
+            "Title": "Sins of Our Mother",
+            "Image Source": "https://i.imgur.com/1nysUAq.jpg",
+            "Category": "series",
+            "Genres": [
+                "Documentary"
+            ],
+            "Rating": "7"
+        },
+        {
+            "key": "172859",
+            "Title": "The Girl from Plainville",
+            "Image Source": "https://imgpile.com/images/TYXqTL.jpg",
+            "Category": "series",
+            "Genres": [
+                "Biography",
+                "Crime"
+            ],
+            "Rating": "6.3"
+        },
+        {
+            "key": "172839",
+            "Title": "Mike",
+            "Image Source": "https://imgpile.com/images/TYXj44.jpg",
+            "Category": "series",
+            "Genres": [
+                "Biography",
+                "Drama"
+            ],
+            "Rating": "6.1"
+        },
+        {
+            "key": "149238",
+            "Title": "Seorita 89",
+            "Image Source": "https://imgpile.com/images/TMuAZN.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "7.6"
+        },
+        {
+            "key": "105538",
+            "Title": "Kissing Game",
+            "Image Source": "https://imgpile.com/images/TKWYYE.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "6.3"
+        },
+        {
+            "key": "105526",
+            "Title": "Indian Matchmak",
+            "Image Source": "https://imgpile.com/images/TKWPUh.jpg",
+            "Category": "series",
+            "Genres": [],
+            "Rating": "6.2"
+        },
+        {
+            "key": "149472",
+            "Title": "Workin Moms",
+            "Image Source": "https://imgpile.com/images/TMu3xC.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.8"
+        },
+        {
+            "key": "90176",
+            "Title": "Toon",
+            "Image Source": "https://imgpile.com/images/TMs9mG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.6"
+        },
+        {
+            "key": "89870",
+            "Title": "Living with Yourself",
+            "Image Source": "https://imgpile.com/images/TMshb2.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.2"
+        },
+        {
+            "key": "85644",
+            "Title": "Wayne",
+            "Image Source": "https://imgpile.com/images/TMPIQh.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Comedy"
+            ],
+            "Rating": "8.4"
+        },
+        {
+            "key": "85562",
+            "Title": "This is Football",
+            "Image Source": "https://imgpile.com/images/TMP1lX.jpg",
+            "Category": "series",
+            "Genres": [
+                "Documentary",
+                "Sport"
+            ],
+            "Rating": "8.1"
+        },
+        {
+            "key": "141167",
+            "Title": "Euphoria",
+            "Image Source": "https://imgpile.com/images/TKyLK8.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.4"
+        },
+        {
+            "key": "83455",
+            "Title": "Los Espookys",
+            "Image Source": "https://imgpile.com/images/TMMkza.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy",
+                "Horror"
+            ],
+            "Rating": "7.5"
+        },
+        {
+            "key": "209354",
+            "Title": "Formula 1: Drive to Survive",
+            "Image Source": "https://imgpile.com/images/hlsxZ1.jpg",
+            "Category": "series",
+            "Genres": [
+                "Documentary",
+                "Sport"
+            ],
+            "Rating": "N/A"
+        },
+        {
+            "key": "77422",
+            "Title": "Shadow",
+            "Image Source": "https://imgpile.com/images/TMxfMS.jpg",
+            "Category": "series",
+            "Genres": [
+                "N-a"
+            ],
+            "Rating": "7.6"
+        },
+        {
+            "key": "76226",
+            "Title": "Rebellion",
+            "Image Source": "https://imgpile.com/images/TMx9Ig.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "War"
+            ],
+            "Rating": "7.1"
+        },
+        {
+            "key": "76071",
+            "Title": "Raising Hope",
+            "Image Source": "https://imgpile.com/images/TMxdBR.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Family"
+            ],
+            "Rating": "8.1"
+        },
+        {
+            "key": "74649",
+            "Title": "Superstition",
+            "Image Source": "https://imgpile.com/images/TMta3F.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "5.1"
+        },
+        {
+            "key": "74641",
+            "Title": "Land Girls",
+            "Image Source": "https://imgpile.com/images/TMtj5i.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7"
+        },
+        {
+            "key": "28946",
+            "Title": "People of Earth",
+            "Image Source": "https://imgpile.com/images/TMTU9R.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Mystery",
                 "Sci-fi"
             ],
-            "Rating": "7.2"
+            "Rating": "7.7"
+        },
+        {
+            "key": "50541",
+            "Title": "New Girl",
+            "Image Source": "https://imgpile.com/images/TM9rP2.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.8"
+        },
+        {
+            "key": "148225",
+            "Title": "Better Call Saul",
+            "Image Source": "https://imgpile.com/images/TMIvpG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "8.9"
+        },
+        {
+            "key": "4544",
+            "Title": "The Night Manager",
+            "Image Source": "https://imgpile.com/images/TMhiBN.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "8"
         },
         {
             "key": "189850",
@@ -90846,17 +91124,6 @@
                 "Animation"
             ],
             "Rating": "8.2"
-        },
-        {
-            "key": "189356",
-            "Title": "Best Foot Forward",
-            "Image Source": "https://i.imgur.com/53CQWq2.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "7.2"
         },
         {
             "key": "189346",
@@ -90881,27 +91148,6 @@
             "Rating": "5"
         },
         {
-            "key": "172732",
-            "Title": "Devil in Ohio",
-            "Image Source": "https://imgpile.com/images/TM52b4.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Horror"
-            ],
-            "Rating": "5.9"
-        },
-        {
-            "key": "149154",
-            "Title": "Long Slow Exhale",
-            "Image Source": "https://imgpile.com/images/TMuXkr.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.5"
-        },
-        {
             "key": "105559",
             "Title": "Panchayat",
             "Image Source": "https://i.imgur.com/lZa3NhW.jpg",
@@ -90923,32 +91169,6 @@
             "Rating": "6.1"
         },
         {
-            "key": "90495",
-            "Title": "Daybreak",
-            "Image Source": "https://imgpile.com/images/TMsfgP.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Mystery"
-            ],
-            "Rating": "6.7"
-        },
-        {
-            "key": "90390",
-            "Title": "Pablo Escobar, The Drug Lord",
-            "Image Source": "https://imgpile.com/images/TMsM4r.jpg",
-            "Category": "series",
-            "Genres": [
-                "Biography",
-                "Crime",
-                "Drama",
-                "History",
-                "Thriller"
-            ],
-            "Rating": "8.4"
-        },
-        {
             "key": "90234",
             "Title": "Watchmen",
             "Image Source": "https://i.imgur.com/GmOPVZ4.jpg",
@@ -90960,27 +91180,6 @@
                 "Sci-fi"
             ],
             "Rating": "7.6"
-        },
-        {
-            "key": "85730",
-            "Title": "Free Meek",
-            "Image Source": "https://imgpile.com/images/TMPGNx.jpg",
-            "Category": "series",
-            "Genres": [
-                "Documentary"
-            ],
-            "Rating": "6.6"
-        },
-        {
-            "key": "85693",
-            "Title": "Wu Assassins",
-            "Image Source": "https://imgpile.com/images/TMP9m1.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime"
-            ],
-            "Rating": "6.4"
         },
         {
             "key": "85684",
@@ -91005,19 +91204,6 @@
             "Rating": "N/A"
         },
         {
-            "key": "77356",
-            "Title": "The Name of the Rose",
-            "Image Source": "https://imgpile.com/images/TMxcuC.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "History",
-                "Mystery",
-                "Thriller"
-            ],
-            "Rating": "9.3"
-        },
-        {
             "key": "76251",
             "Title": "Curfew",
             "Image Source": "https://i.imgur.com/cqHceaN.jpg",
@@ -91032,40 +91218,6 @@
             "Rating": "6.1"
         },
         {
-            "key": "95752",
-            "Title": "El Embarcadero",
-            "Image Source": "https://imgpile.com/images/TMlW01.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "7.1"
-        },
-        {
-            "key": "81366",
-            "Title": "Sneaky Pete",
-            "Image Source": "https://imgpile.com/images/TMKrYR.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.1"
-        },
-        {
-            "key": "4663",
-            "Title": "Spartacus",
-            "Image Source": "https://imgpile.com/images/TMhHRC.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Biography"
-            ],
-            "Rating": "8.5"
-        },
-        {
             "key": "195723",
             "Title": "Summer Job",
             "Image Source": "https://i.imgur.com/C1JCWpc.jpg",
@@ -91074,28 +91226,6 @@
                 "Game-show"
             ],
             "Rating": "6"
-        },
-        {
-            "key": "195711",
-            "Title": "Modern Love Amsterdam",
-            "Image Source": "https://i.imgur.com/2BinKrX.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "6.5"
-        },
-        {
-            "key": "186101",
-            "Title": "Andor",
-            "Image Source": "https://i.imgur.com/JMRAotU.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "8.4"
         },
         {
             "key": "172760",
@@ -91119,27 +91249,6 @@
             "Rating": "7.2"
         },
         {
-            "key": "105678",
-            "Title": "El Candidato",
-            "Image Source": "https://imgpile.com/images/TKWmZN.jpg",
-            "Category": "series",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "7.5"
-        },
-        {
-            "key": "92720",
-            "Title": "The Chosen One",
-            "Image Source": "https://imgpile.com/images/TMcSCC.jpg",
-            "Category": "series",
-            "Genres": [
-                "Mystery",
-                "Thriller"
-            ],
-            "Rating": "2.2"
-        },
-        {
             "key": "141374",
             "Title": "After Life",
             "Image Source": "https://imgpile.com/images/TKyEIM.jpg",
@@ -91149,28 +91258,6 @@
                 "Drama"
             ],
             "Rating": "8.4"
-        },
-        {
-            "key": "104644",
-            "Title": "The Order",
-            "Image Source": "https://imgpile.com/images/TK0Zm1.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Horror"
-            ],
-            "Rating": "6.7"
-        },
-        {
-            "key": "76552",
-            "Title": "The Enemy Within",
-            "Image Source": "https://imgpile.com/images/TMxGeW.jpg",
-            "Category": "series",
-            "Genres": [
-                "N-a"
-            ],
-            "Rating": "7.1"
         },
         {
             "key": "74478",
@@ -91194,18 +91281,6 @@
                 "Drama"
             ],
             "Rating": "8.1"
-        },
-        {
-            "key": "4176",
-            "Title": "Prey",
-            "Image Source": "https://imgpile.com/images/TMdys8.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "7.2"
         },
         {
             "key": "126426",
@@ -91285,38 +91360,6 @@
             "Rating": "6.5"
         },
         {
-            "key": "186061",
-            "Title": "Quantum Leap",
-            "Image Source": "https://i.imgur.com/gI8XKdG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Sci-fi"
-            ],
-            "Rating": "5.7"
-        },
-        {
-            "key": "172747",
-            "Title": "Fakes",
-            "Image Source": "https://i.imgur.com/CKNQCzM.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "6.5"
-        },
-        {
-            "key": "149169",
-            "Title": "The Big Conn",
-            "Image Source": "https://imgpile.com/images/TMuonR.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Documentary"
-            ],
-            "Rating": "7.1"
-        },
-        {
             "key": "117148",
             "Title": "Marvel Studios LEGENDS",
             "Image Source": "https://imgpile.com/images/TKgJ9g.jpg",
@@ -91326,49 +91369,6 @@
                 "Fantasy"
             ],
             "Rating": "6.5"
-        },
-        {
-            "key": "105666",
-            "Title": "Brave New World",
-            "Image Source": "https://imgpile.com/images/TKWloc.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Sci-fi"
-            ],
-            "Rating": "7"
-        },
-        {
-            "key": "84165",
-            "Title": "The Goldbergs",
-            "Image Source": "https://imgpile.com/images/TMMj5L.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "8"
-        },
-        {
-            "key": "76493",
-            "Title": "Whiskey Cavalier",
-            "Image Source": "https://imgpile.com/images/TMxDAN.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Comedy"
-            ],
-            "Rating": "7.1"
-        },
-        {
-            "key": "73708",
-            "Title": "Californication",
-            "Image Source": "https://imgpile.com/images/TMt62b.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "8.3"
         },
         {
             "key": "148289",
@@ -120211,6 +120211,16 @@
                 "Dubbed",
                 "Netflix",
                 "Adventure"
+            ],
+            "Rating": "N/A"
+        },
+        {
+            "key": "4210",
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
+            "Category": "arabic-series",
+            "Genres": [
+                "Drama"
             ],
             "Rating": "N/A"
         }
