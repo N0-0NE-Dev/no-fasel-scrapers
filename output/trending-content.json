@@ -135,37 +135,33 @@
         }
     },
     "anime": {
-        "213021": {
-            "Title": "Boku No Kokoro No Yabai Yatsu",
-            "Image Source": "https://imgpile.com/images/hlldUi.jpg",
+        "213115": {
+            "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
+            "Image Source": "https://imgpile.com/images/hlllng.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 207250
+            "TMDb ID": 205366
         },
-        "212670": {
-            "Title": "Edens Zero 2nd Season",
-            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
+        "202631": {
+            "Title": "Vinland Saga Season 2",
+            "Image Source": "https://i.imgur.com/8px8auH.jpg",
             "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "8.73",
+            "TMDb ID": 88803
         },
-        "213051": {
-            "Title": "World Dai Star",
-            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
+        "212710": {
+            "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
+            "Image Source": "https://imgpile.com/images/hlf64c.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 215198
-        },
-        "212637": {
-            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
-            "Image Source": "https://imgpile.com/images/hlfLHG.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 207493
+            "TMDb ID": 72505
         }
     },
     "series": {
@@ -284,17 +280,60 @@
             "Rating": "7.6",
             "TMDb ID": 112693
         },
-        "190462": {
-            "Title": "Titans",
-            "Image Source": "https://i.imgur.com/QDpHqhH.jpg",
+        "186047": {
+            "Title": "The Neighborhood",
+            "Image Source": "https://i.imgur.com/7xFBjvE.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
-                "Adventure",
-                "Crime"
+                "Comedy"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 75450
+            "Rating": "6.6",
+            "TMDb ID": 81144
+        },
+        "208866": {
+            "Title": "Law & Order: Organized Crime",
+            "Image Source": "https://i.imgur.com/kAzFD8M.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 106158
+        },
+        "208912": {
+            "Title": "The Company You Keep",
+            "Image Source": "https://i.imgur.com/c0pcJPH.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 208713
+        },
+        "141625": {
+            "Title": "Somebody Somewhere",
+            "Image Source": "https://imgpile.com/images/TKyy6h.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 106308
+        },
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 46952
         }
     },
     "arabic-series": {
@@ -323,9 +362,9 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
         "3877": {
@@ -333,14 +372,9 @@
             "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
             "Category": "arabic-series"
         },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "4199": {
-            "Title": "الملكة الموسم الاول",
-            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         },
         "4210": {
@@ -358,6 +392,16 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+            "Category": "arabic-movies"
+        },
+        "8399": {
+            "Title": "سفاح نابل",
+            "Image Source": "https://i.imgur.com/EnFM600.jpg",
+            "Category": "arabic-movies"
+        },
+        "8398": {
+            "Title": "لمسة",
+            "Image Source": "https://i.imgur.com/PGfeKo9.jpg",
             "Category": "arabic-movies"
         }
     }

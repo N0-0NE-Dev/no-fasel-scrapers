@@ -217,18 +217,29 @@
             "Rating": "8.4",
             "TMDb ID": 61427
         },
-        "450": {
-            "key": "450",
-            "Title": "Titans",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/450.jpg",
+        "448": {
+            "key": "448",
+            "Title": "The Newsroom",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/448.jpg",
             "Category": "hdwseries",
             "Genres": [
-                "Action",
-                "Adventure",
-                "Crime"
+                "Drama"
             ],
-            "Rating": "7.7",
-            "TMDb ID": 75450
+            "Rating": "8.6",
+            "TMDb ID": 15621
+        },
+        "391": {
+            "key": "391",
+            "Title": "The Blacklist",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/391.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "8",
+            "TMDb ID": 46952
         }
     },
     "arabic-series": {
@@ -257,9 +268,9 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4070": {
-            "Title": "الأجهر",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
         "3877": {
@@ -267,14 +278,9 @@
             "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
             "Category": "arabic-series"
         },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "4199": {
-            "Title": "الملكة الموسم الاول",
-            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         },
         "4210": {
@@ -292,6 +298,16 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+            "Category": "arabic-movies"
+        },
+        "8399": {
+            "Title": "سفاح نابل",
+            "Image Source": "https://i.imgur.com/EnFM600.jpg",
+            "Category": "arabic-movies"
+        },
+        "8398": {
+            "Title": "لمسة",
+            "Image Source": "https://i.imgur.com/PGfeKo9.jpg",
             "Category": "arabic-movies"
         }
     }
