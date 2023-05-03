@@ -120255,6 +120255,20 @@
                 "Crime"
             ],
             "Rating": "N/A"
+        },
+        {
+            "key": "4212",
+            "Title": "الخياط الموسم الاول",
+            "Image Source": "https://i.imgur.com/HCWGZIW.jpg",
+            "Category": "arabic-series",
+            "Genres": [
+                "Dubbed",
+                "Netflix",
+                "Romance",
+                "Thriller",
+                "Mystery"
+            ],
+            "Rating": "N/A"
         }
     ]
 }
