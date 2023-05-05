@@ -120269,6 +120269,28 @@
                 "Mystery"
             ],
             "Rating": "N/A"
+        },
+        {
+            "key": "4216",
+            "Title": "مجنون سارة",
+            "Image Source": "https://i.imgur.com/pixBA7Y.jpg",
+            "Category": "arabic-series",
+            "Genres": [
+                "Thriller",
+                "Romance"
+            ],
+            "Rating": "N/A"
+        },
+        {
+            "key": "4217",
+            "Title": "طلا وجلا",
+            "Image Source": "https://i.imgur.com/9NEeJkB.jpg",
+            "Category": "arabic-series",
+            "Genres": [
+                "Animated",
+                "Adventure"
+            ],
+            "Rating": "N/A"
         }
     ]
 }
