@@ -15,7 +15,7 @@ from requests import Response
 from os import environ
 from PIL import Image
 
-DEBUG = True
+DEBUG = False
 
 CIMA_NOW_SELECTOR = (By.CLASS_NAME, "owl-head.owl-loaded.owl-drag")
 
