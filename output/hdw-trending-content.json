@@ -11,26 +11,6 @@
             "Title": "حرب",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
-        },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
-            "Category": "arabic-series"
-        },
-        "4210": {
-            "Title": "ملح وسمرة",
-            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
-            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
@@ -42,16 +22,6 @@
         "8339": {
             "Title": "تحت تهديد السلاح",
             "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
-            "Category": "arabic-movies"
-        },
-        "8399": {
-            "Title": "سفاح نابل",
-            "Image Source": "https://i.imgur.com/EnFM600.jpg",
-            "Category": "arabic-movies"
-        },
-        "8398": {
-            "Title": "لمسة",
-            "Image Source": "https://i.imgur.com/PGfeKo9.jpg",
             "Category": "arabic-movies"
         }
     }
