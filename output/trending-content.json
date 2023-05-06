@@ -1,8 +1,288 @@
 {
-    "movies": {},
+    "movies": {
+        "214857": {
+            "Title": "Spring Break Nightmare",
+            "Image Source": "https://i.imgur.com/KoKLQ5o.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "189286": {
+            "Title": "Pearl",
+            "Image Source": "https://i.imgur.com/EpcxldZ.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "7",
+            "TMDb ID": 949423
+        },
+        "214853": {
+            "Title": "Mafia Mamma",
+            "Image Source": "https://i.imgur.com/gJO0DDh.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "214849": {
+            "Title": "Eismayer",
+            "Image Source": "https://i.imgur.com/L08fP7I.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance",
+                "History"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "214694": {
+            "Title": "The Popes Exorcist",
+            "Image Source": "https://i.imgur.com/3rcjIwb.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "214690": {
+            "Title": "Renfield",
+            "Image Source": "https://i.imgur.com/an3HhhI.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Comedy",
+                "Fantasy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "214686": {
+            "Title": "Dungeons & Dragons: Honor Among Thieves",
+            "Image Source": "https://i.imgur.com/eFYKEGl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Fantasy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "214657": {
+            "Title": "The Fearway",
+            "Image Source": "https://i.imgur.com/sXwhFal.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Sci-fi",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "214643": {
+            "Title": "El Hogar",
+            "Image Source": "https://i.imgur.com/JjWRN8D.jpg",
+            "Category": "movies",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
+        }
+    },
     "asian-series": {},
-    "anime": {},
-    "series": {},
+    "anime": {
+        "212960": {
+            "Title": "Megami no Caf Terrace",
+            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "152455": {
+            "Title": "Teppen",
+            "Image Source": "https://imgpile.com/images/TJUxBl.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "6.69",
+            "TMDb ID": 24738
+        },
+        "212949": {
+            "Title": "Rokudou No Onna-Tachi",
+            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 218563
+        }
+    },
+    "series": {
+        "126426": {
+            "Title": "Sweet Tooth",
+            "Image Source": "https://imgpile.com/images/TK60J1.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "7.8",
+            "TMDb ID": 103768
+        },
+        "144582": {
+            "Title": "From",
+            "Image Source": "https://imgpile.com/images/TMnAS3.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 124364
+        },
+        "149218": {
+            "Title": "Welcome to Eden",
+            "Image Source": "https://imgpile.com/images/TMu2oc.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 128010
+        },
+        "127350": {
+            "Title": "Blindspotting",
+            "Image Source": "https://imgpile.com/images/TK6Zu3.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.5",
+            "TMDb ID": 109373
+        },
+        "148289": {
+            "Title": "The Marked Heart",
+            "Image Source": "https://imgpile.com/images/TMIpQh.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "6.5",
+            "TMDb ID": 158916
+        },
+        "148556": {
+            "Title": "Barry",
+            "Image Source": "https://imgpile.com/images/TMu7m1.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "8.4",
+            "TMDb ID": 73107
+        },
+        "144023": {
+            "Title": "The Marvelous Mrs. Maisel",
+            "Image Source": "https://imgpile.com/images/TMnY4c.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "8.7",
+            "TMDb ID": 70796
+        },
+        "149960": {
+            "Title": "The Boss Baby: Back in the Crib",
+            "Image Source": "https://imgpile.com/images/TM791r.jpg",
+            "Category": "series",
+            "Genres": [
+                "Adventure",
+                "Animation",
+                "Drama"
+            ],
+            "Rating": "6.1",
+            "TMDb ID": 197429
+        },
+        "131972": {
+            "Title": "Slasher",
+            "Image Source": "https://imgpile.com/images/TKS7IG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "6.7",
+            "TMDb ID": 65784
+        },
+        "187455": {
+            "Title": "Walker",
+            "Image Source": "https://i.imgur.com/jBnONnL.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.1",
+            "TMDb ID": 99121
+        },
+        "145828": {
+            "Title": "Good Trouble",
+            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "7.5",
+            "TMDb ID": 80006
+        },
+        "187458": {
+            "Title": "Station 19",
+            "Image Source": "https://i.imgur.com/vDXUpLn.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Romance",
+                "Thriller"
+            ],
+            "Rating": "6.9",
+            "TMDb ID": 76773
+        },
+        "187446": {
+            "Title": "Greys Anatomy",
+            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 1416
+        }
+    },
     "arabic-series": {
         "4074": {
             "Title": "سوق الكانتو",
