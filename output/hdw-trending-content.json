@@ -81,19 +81,6 @@
             ],
             "Rating": "6.3",
             "TMDb ID": 12611
-        },
-        "22199": {
-            "key": "22199",
-            "Title": "Hogar",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22199/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Adventure",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 674944
         }
     },
     "hdwseries": {
@@ -186,6 +173,32 @@
             "Rating": "8.7",
             "TMDb ID": 70796
         },
+        "604": {
+            "key": "604",
+            "Title": "Yellowjackets",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/604.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "8",
+            "TMDb ID": 117488
+        },
+        "342": {
+            "key": "342",
+            "Title": "Lovecraft Country",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/342.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 82816
+        },
         "108": {
             "key": "108",
             "Title": "Ballers",
@@ -211,31 +224,6 @@
             ],
             "Rating": "7.8",
             "TMDb ID": 71715
-        },
-        "98": {
-            "key": "98",
-            "Title": "Station 19",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/98.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 76773
-        },
-        "79": {
-            "key": "79",
-            "Title": "Greys Anatomy",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/79.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
         }
     },
     "arabic-series": {
@@ -247,6 +235,11 @@
         "4089": {
             "Title": "حرب",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },

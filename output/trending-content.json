@@ -90,43 +90,53 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1014629
-        },
-        "214643": {
-            "Title": "El Hogar",
-            "Image Source": "https://i.imgur.com/JjWRN8D.jpg",
-            "Category": "movies",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 1097653
         }
     },
-    "asian-series": {},
-    "anime": {
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "152455": {
-            "Title": "Teppen",
-            "Image Source": "https://imgpile.com/images/TJUxBl.jpg",
-            "Category": "anime",
+    "asian-series": {
+        "108639": {
+            "Title": "Tale of the Nine Tailed",
+            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
+            "Category": "asian-series",
             "Genres": [
-                "Comedy"
+                "Fantasy",
+                "Romance"
             ],
-            "Rating": "6.69",
-            "TMDb ID": 24738
-        },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+            "Rating": "7.9",
+            "TMDb ID": 108284
+        }
+    },
+    "anime": {
+        "213021": {
+            "Title": "Boku No Kokoro No Yabai Yatsu",
+            "Image Source": "https://imgpile.com/images/hlldUi.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 218563
+            "TMDb ID": 207250
+        },
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 137391
+        },
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 200732
+        },
+        "213700": {
+            "Title": "Pokemon (2023)",
+            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 220150
         }
     },
     "series": {
@@ -234,6 +244,27 @@
             "Rating": "6.7",
             "TMDb ID": 65784
         },
+        "137464": {
+            "Title": "Yellowjackets",
+            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 117488
+        },
+        "188107": {
+            "Title": "Fire Country",
+            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 202297
+        },
         "187455": {
             "Title": "Walker",
             "Image Source": "https://i.imgur.com/jBnONnL.jpg",
@@ -257,30 +288,6 @@
             ],
             "Rating": "7.5",
             "TMDb ID": 80006
-        },
-        "187458": {
-            "Title": "Station 19",
-            "Image Source": "https://i.imgur.com/vDXUpLn.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Romance",
-                "Thriller"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 76773
-        },
-        "187446": {
-            "Title": "Greys Anatomy",
-            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
         }
     },
     "arabic-series": {
@@ -292,6 +299,11 @@
         "4089": {
             "Title": "حرب",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },
