@@ -1,5 +1,18 @@
 {
     "hdwmovies": {
+        "19275": {
+            "key": "19275",
+            "Title": "Sinners and Saints",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19275/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "Rating": "6.1",
+            "TMDb ID": 66193
+        },
         "19774": {
             "key": "19774",
             "Title": "Spring Breakers",
@@ -68,19 +81,6 @@
             ],
             "Rating": "6.3",
             "TMDb ID": 369894
-        },
-        "1602": {
-            "key": "1602",
-            "Title": "The Fury",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1602/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror",
-                "Sci-Fi",
-                "Thriller"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 12611
         }
     },
     "hdwseries": {
@@ -198,32 +198,6 @@
             ],
             "Rating": "7.1",
             "TMDb ID": 82816
-        },
-        "108": {
-            "key": "108",
-            "Title": "Ballers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/108.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 62704
-        },
-        "77": {
-            "key": "77",
-            "Title": "Good Girls",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 71715
         }
     },
     "arabic-series": {
@@ -232,14 +206,29 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4089": {
-            "Title": "حرب",
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "4118": {
+            "Title": "سكة سفر الموسم الثاني",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "3798": {
-            "Title": "فتاة النافذة الموسم الثالث",
-            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
