@@ -92025,6 +92025,17 @@
             "Rating": "8.1"
         },
         {
+            "key": "8428",
+            "Title": "تحت الضغط",
+            "Image Source": "https://i.imgur.com/lr4Z1tP.jpg",
+            "Category": "arabic-movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A"
+        },
+        {
             "key": "8399",
             "Title": "سفاح نابل",
             "Image Source": "https://i.imgur.com/EnFM600.jpg",
@@ -120301,6 +120312,19 @@
                 "Animated",
                 "Fantasy",
                 "Adventure"
+            ],
+            "Rating": "N/A"
+        },
+        {
+            "key": "4223",
+            "Title": "اسمي فرح الموسم الاول",
+            "Image Source": "https://i.imgur.com/bSSJW7h.jpg",
+            "Category": "arabic-series",
+            "Genres": [
+                "Dubbed",
+                "Romance",
+                "Drama",
+                "Crime"
             ],
             "Rating": "N/A"
         }

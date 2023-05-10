@@ -142934,5 +142934,62 @@
         "Image Source": "https://i.imgur.com/uScGx7y.jpg",
         "Source": "39c57f845556fdcc356c247cacf65bdb",
         "TMDb ID": 1111140
+    },
+    "215098": {
+        "Title": "Hannah Gadsby: Something Special",
+        "Category": "movies",
+        "Genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Source": "2d72715d96ace0cafe67470eddd2bacd",
+        "TMDb ID": 1112125
+    },
+    "215092": {
+        "Title": "Evil Dead Rise",
+        "Category": "movies",
+        "Genres": [
+            "Horror"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Source": "ffb708c192c28d11202ad18dd12c6806",
+        "TMDb ID": 713704
+    },
+    "215080": {
+        "Title": "Who Invited Them",
+        "Category": "movies",
+        "Genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Source": " 54287af17d8cab5ddc6e27a02fd24c85",
+        "TMDb ID": 931346
+    },
+    "215076": {
+        "Title": "The Donor Party",
+        "Category": "movies",
+        "Genres": [
+            "Comedy"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Source": "00765ab4108cf255d830cc5c3127938e",
+        "TMDb ID": 1081683
+    },
+    "215070": {
+        "Title": "Christmas Bloody Christmas",
+        "Category": "movies",
+        "Genres": [
+            "Horror"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "Source": "4ae2894167b04de22355c1bfa3ea5583",
+        "TMDb ID": 1019836
     }
 }
