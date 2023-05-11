@@ -1,5 +1,29 @@
 {
     "movies": {
+        "37385": {
+            "Title": "The Covenant",
+            "Image Source": "https://imgpile.com/images/TwnQJg.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Horror",
+                "Fantasy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 882569
+        },
+        "215154": {
+            "Title": "Gunfight at Rio Bravo",
+            "Image Source": "https://i.imgur.com/HVd1Fdn.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Western"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 835767
+        },
         "215092": {
             "Title": "Evil Dead Rise",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -70,80 +94,41 @@
             ],
             "Rating": "7",
             "TMDb ID": 949423
-        },
-        "214853": {
-            "Title": "Mafia Mamma",
-            "Image Source": "https://i.imgur.com/gJO0DDh.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 809787
-        },
-        "214849": {
-            "Title": "Eismayer",
-            "Image Source": "https://i.imgur.com/L08fP7I.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Romance",
-                "History"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 936362
         }
     },
-    "asian-series": {
-        "108969": {
-            "Title": "Master in the House",
-            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 76033
-        }
-    },
+    "asian-series": {},
     "anime": {
-        "213146": {
-            "Title": "The Marginal Service",
+        "213690": {
+            "Title": "Niehime to Kemono no ou",
+            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 117024
+        },
+        "212777": {
+            "Title": "Kaminaki Sekai no Kamisama Katsudou",
+            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 199920
+        },
+        "213276": {
+            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 214211
+            "TMDb ID": null
         },
-        "212704": {
-            "Title": "Skip to Loafer",
-            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
+        "212772": {
+            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
+            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 139130
-        },
-        "202631": {
-            "Title": "Vinland Saga Season 2",
-            "Image Source": "https://i.imgur.com/8px8auH.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "8.73",
-            "TMDb ID": 88803
-        },
-        "213127": {
-            "Title": "ao no Orchestra",
-            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 197368
+            "TMDb ID": 203040
         }
     },
     "series": {
@@ -239,55 +224,65 @@
             "Rating": "6.1",
             "TMDb ID": 197429
         },
-        "131972": {
-            "Title": "Slasher",
-            "Image Source": "https://imgpile.com/images/TKS7IG.jpg",
+        "186098": {
+            "Title": "FBI: Most Wanted",
+            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
+                "Action",
+                "Crime",
+                "Drama"
             ],
-            "Rating": "6.7",
-            "TMDb ID": 65784
+            "Rating": "6.9",
+            "TMDb ID": 94372
         },
-        "208912": {
-            "Title": "The Company You Keep",
-            "Image Source": "https://i.imgur.com/c0pcJPH.jpg",
+        "203387": {
+            "Title": "Night Court",
+            "Image Source": "https://i.imgur.com/D8hT6fn.jpg",
             "Category": "series",
             "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 162
+        },
+        "186095": {
+            "Title": "FBI: International",
+            "Image Source": "https://i.imgur.com/pKRojqt.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 121658
+        },
+        "186091": {
+            "Title": "FBI",
+            "Image Source": "https://i.imgur.com/ao2rekW.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7",
+            "TMDb ID": 80748
+        },
+        "210909": {
+            "Title": "Gotham Knights",
+            "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
                 "Drama"
             ],
             "Rating": "N/A",
-            "TMDb ID": 208713
-        },
-        "186054": {
-            "Title": "NCIS: Hawaii",
-            "Image Source": "https://i.imgur.com/DmcnT5K.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 124271
-        },
-        "186811": {
-            "Title": "CSI: Vegas",
-            "Image Source": "https://i.imgur.com/IKajSPZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 122194
+            "TMDb ID": 195868
         }
     },
     "arabic-series": {
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
         "3516": {
             "Title": "حيرة الموسم الاول",
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
@@ -310,9 +305,9 @@
         }
     },
     "arabic-movies": {
-        "8328": {
-            "Title": "هاشتاج جوزني",
-            "Image Source": "https://i.imgur.com/p0uKSz8.jpg",
+        "8432": {
+            "Title": "جروب الماميز",
+            "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
             "Category": "arabic-movies"
         },
         "8428": {

@@ -1,5 +1,31 @@
 {
     "hdwmovies": {
+        "18554": {
+            "key": "18554",
+            "Title": "The Covenant",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18554/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "Rating": "5.3",
+            "TMDb ID": 882569
+        },
+        "1205": {
+            "key": "1205",
+            "Title": "Rio Bravo",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1205/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Western"
+            ],
+            "Rating": "8",
+            "TMDb ID": 301
+        },
         "2315": {
             "key": "2315",
             "Title": "Evil Dead 2",
@@ -72,30 +98,6 @@
             ],
             "Rating": "7.5",
             "TMDb ID": 949423
-        },
-        "20657": {
-            "key": "20657",
-            "Title": "Mia madre",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20657/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 315872
-        },
-        "19103": {
-            "key": "19103",
-            "Title": "Timer",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19103/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 39545
         }
     },
     "hdwseries": {
@@ -188,26 +190,60 @@
             "Rating": "8.7",
             "TMDb ID": 70796
         },
-        "615": {
-            "key": "615",
-            "Title": "NCIS Hawaii",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/615.jpg",
+        "55": {
+            "key": "55",
+            "Title": "FBI Most Wanted",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/55.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Action",
                 "Crime",
-                "Mystery"
+                "Drama"
             ],
-            "Rating": "6.1",
-            "TMDb ID": 124271
+            "Rating": "6.7",
+            "TMDb ID": 94372
+        },
+        "685": {
+            "key": "685",
+            "Title": "Night Sky",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/685.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "7.4",
+            "TMDb ID": 111894
+        },
+        "74": {
+            "key": "74",
+            "Title": "FBI",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/74.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 80748
+        },
+        "658": {
+            "key": "658",
+            "Title": "Moon Knight",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/658.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 92749
         }
     },
     "arabic-series": {
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
         "3516": {
             "Title": "حيرة الموسم الاول",
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
@@ -230,9 +266,9 @@
         }
     },
     "arabic-movies": {
-        "8328": {
-            "Title": "هاشتاج جوزني",
-            "Image Source": "https://i.imgur.com/p0uKSz8.jpg",
+        "8432": {
+            "Title": "جروب الماميز",
+            "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
             "Category": "arabic-movies"
         },
         "8428": {
