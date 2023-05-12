@@ -1,5 +1,80 @@
 {
     "movies": {
+        "37385": {
+            "Title": "The Covenant",
+            "Image Source": "https://imgpile.com/images/TwnQJg.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Horror",
+                "Fantasy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 882569
+        },
+        "215154": {
+            "Title": "Gunfight at Rio Bravo",
+            "Image Source": "https://i.imgur.com/HVd1Fdn.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Western"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 835767
+        },
+        "215092": {
+            "Title": "Evil Dead Rise",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 713704
+        },
+        "215080": {
+            "Title": "Who Invited Them",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 931346
+        },
+        "215076": {
+            "Title": "The Donor Party",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1081683
+        },
+        "215070": {
+            "Title": "Christmas Bloody Christmas",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1019836
+        },
+        "215015": {
+            "Title": "Two Sinners and a Mule",
+            "Image Source": "https://i.imgur.com/uScGx7y.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Western"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1111140
+        },
         "214857": {
             "Title": "Spring Break Nightmare",
             "Image Source": "https://i.imgur.com/KoKLQ5o.jpg",
@@ -8,7 +83,7 @@
                 "Thriller"
             ],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 1081481
         },
         "189286": {
             "Title": "Pearl",
@@ -19,114 +94,41 @@
             ],
             "Rating": "7",
             "TMDb ID": 949423
-        },
-        "214853": {
-            "Title": "Mafia Mamma",
-            "Image Source": "https://i.imgur.com/gJO0DDh.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "214849": {
-            "Title": "Eismayer",
-            "Image Source": "https://i.imgur.com/L08fP7I.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Romance",
-                "History"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "214694": {
-            "Title": "The Popes Exorcist",
-            "Image Source": "https://i.imgur.com/3rcjIwb.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "214690": {
-            "Title": "Renfield",
-            "Image Source": "https://i.imgur.com/an3HhhI.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror",
-                "Comedy",
-                "Fantasy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "214686": {
-            "Title": "Dungeons & Dragons: Honor Among Thieves",
-            "Image Source": "https://i.imgur.com/eFYKEGl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Fantasy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "214657": {
-            "Title": "The Fearway",
-            "Image Source": "https://i.imgur.com/sXwhFal.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Sci-fi",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "214643": {
-            "Title": "El Hogar",
-            "Image Source": "https://i.imgur.com/JjWRN8D.jpg",
-            "Category": "movies",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
         }
     },
     "asian-series": {},
     "anime": {
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+        "213690": {
+            "Title": "Niehime to Kemono no ou",
+            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 117024
+        },
+        "212777": {
+            "Title": "Kaminaki Sekai no Kamisama Katsudou",
+            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 199920
+        },
+        "213276": {
+            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "152455": {
-            "Title": "Teppen",
-            "Image Source": "https://imgpile.com/images/TJUxBl.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "6.69",
-            "TMDb ID": 24738
-        },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+        "212772": {
+            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
+            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 218563
+            "TMDb ID": 203040
         }
     },
     "series": {
@@ -222,88 +224,95 @@
             "Rating": "6.1",
             "TMDb ID": 197429
         },
-        "131972": {
-            "Title": "Slasher",
-            "Image Source": "https://imgpile.com/images/TKS7IG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "6.7",
-            "TMDb ID": 65784
-        },
-        "187455": {
-            "Title": "Walker",
-            "Image Source": "https://i.imgur.com/jBnONnL.jpg",
+        "186098": {
+            "Title": "FBI: Most Wanted",
+            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "6.1",
-            "TMDb ID": 99121
+            "Rating": "6.9",
+            "TMDb ID": 94372
         },
-        "145828": {
-            "Title": "Good Trouble",
-            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
+        "203387": {
+            "Title": "Night Court",
+            "Image Source": "https://i.imgur.com/D8hT6fn.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
+                "Comedy"
             ],
-            "Rating": "7.5",
-            "TMDb ID": 80006
+            "Rating": "7.7",
+            "TMDb ID": 162
         },
-        "187458": {
-            "Title": "Station 19",
-            "Image Source": "https://i.imgur.com/vDXUpLn.jpg",
+        "186095": {
+            "Title": "FBI: International",
+            "Image Source": "https://i.imgur.com/pKRojqt.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 121658
+        },
+        "186091": {
+            "Title": "FBI",
+            "Image Source": "https://i.imgur.com/ao2rekW.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Drama",
-                "Romance",
-                "Thriller"
+                "Crime",
+                "Drama"
             ],
-            "Rating": "6.9",
-            "TMDb ID": 76773
+            "Rating": "7",
+            "TMDb ID": 80748
         },
-        "187446": {
-            "Title": "Greys Anatomy",
-            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
+        "210909": {
+            "Title": "Gotham Knights",
+            "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Romance"
+                "Action",
+                "Crime",
+                "Drama"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
+            "Rating": "N/A",
+            "TMDb ID": 195868
         }
     },
     "arabic-series": {
-        "4074": {
-            "Title": "سوق الكانتو",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "4118": {
+            "Title": "سكة سفر الموسم الثاني",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4089": {
-            "Title": "حرب",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
-        "8328": {
-            "Title": "هاشتاج جوزني",
-            "Image Source": "https://i.imgur.com/p0uKSz8.jpg",
+        "8432": {
+            "Title": "جروب الماميز",
+            "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
             "Category": "arabic-movies"
         },
-        "8339": {
-            "Title": "تحت تهديد السلاح",
-            "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+        "8428": {
+            "Title": "تحت الضغط",
+            "Image Source": "https://i.imgur.com/lr4Z1tP.jpg",
             "Category": "arabic-movies"
         }
     }

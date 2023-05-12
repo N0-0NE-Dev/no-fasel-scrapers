@@ -3668,111 +3668,6 @@
         },
         "TMDb ID": 82193
     },
-    "102960": {
-        "Title": "Magic for Humans",
-        "Category": "tvshows",
-        "Format": "720p Web-Dl",
-        "Genres": [],
-        "Number Of Episodes": 19,
-        "Image Source": "https://i.imgur.com/FuM5JJq.jpg",
-        "Seasons": {
-            "58609": {
-                "Season Number": 1,
-                "Number Of Episodes": 6,
-                "Episodes": {
-                    "58612": {
-                        "Episode Number": 1,
-                        "Source": "8fc3da787d5527f7b8fc7fcabd2e0d51"
-                    },
-                    "58613": {
-                        "Episode Number": 2,
-                        "Source": "6b88f6067dac33240bfb457b30b105d1"
-                    },
-                    "58614": {
-                        "Episode Number": 3,
-                        "Source": "042fc3772855244c8bda03660f67912b"
-                    },
-                    "58615": {
-                        "Episode Number": 4,
-                        "Source": "bfd45265f0f83f1ef44bf5af331a7c69"
-                    },
-                    "58616": {
-                        "Episode Number": 5,
-                        "Source": "16081db326bdd624dd2d447022814ba4"
-                    },
-                    "58617": {
-                        "Episode Number": 6,
-                        "Source": "49b1d3f56070511ac2eee533efea4edb"
-                    }
-                }
-            },
-            "92609": {
-                "Season Number": 2,
-                "Number Of Episodes": 6,
-                "Episodes": {
-                    "92611": {
-                        "Episode Number": 1,
-                        "Source": "9a607b02360ed537ebb72584f4dc2924"
-                    },
-                    "92612": {
-                        "Episode Number": 2,
-                        "Source": "8a45ff0095186551fb38b02579beae00"
-                    },
-                    "92613": {
-                        "Episode Number": 3,
-                        "Source": "60df4c25ef865e831689cbe387dff9a6"
-                    },
-                    "92614": {
-                        "Episode Number": 4,
-                        "Source": "1deea782223cf700b7e8de46fec1950e"
-                    },
-                    "92615": {
-                        "Episode Number": 5,
-                        "Source": "e8345b986da7659039d337ed08efcc84"
-                    },
-                    "92616": {
-                        "Episode Number": 6,
-                        "Source": "5b9bb207a2fcba22a2c7377d2d3f3064"
-                    }
-                }
-            },
-            "102960": {
-                "Season Number": 3,
-                "Number Of Episodes": 7,
-                "Episodes": {
-                    "102962": {
-                        "Episode Number": 1,
-                        "Source": "158f31bd9113da9b50c34f10bb727d33"
-                    },
-                    "102963": {
-                        "Episode Number": 2,
-                        "Source": "16392a2a93dff7f62646a8912c727190"
-                    },
-                    "102964": {
-                        "Episode Number": 3,
-                        "Source": "5cf9f1b8e4f0106dfdd8814bdcf778b5"
-                    },
-                    "102965": {
-                        "Episode Number": 4,
-                        "Source": "be90a5e96d0da32856f85c537db624e2"
-                    },
-                    "102966": {
-                        "Episode Number": 5,
-                        "Source": "2c98731e8ca14c95b89676d1fe8ab8f6"
-                    },
-                    "102967": {
-                        "Episode Number": 6,
-                        "Source": "77afe7d8d1be96faa4a2ff2b593c1c69"
-                    },
-                    "102968": {
-                        "Episode Number": 7,
-                        "Source": "a082e3d980e960f596c26ce7a5fddacb"
-                    }
-                }
-            }
-        },
-        "TMDb ID": 81704
-    },
     "49139": {
         "Title": "2018",
         "Category": "tvshows",
@@ -6540,6 +6435,111 @@
             }
         },
         "TMDb ID": 59186
+    },
+    "102960": {
+        "Title": "Magic for Humans",
+        "Category": "tvshows",
+        "Format": "720p Web-Dl",
+        "Genres": [],
+        "Number Of Episodes": 19,
+        "Image Source": "https://i.imgur.com/FuM5JJq.jpg",
+        "Seasons": {
+            "58609": {
+                "Season Number": 1,
+                "Number Of Episodes": 6,
+                "Episodes": {
+                    "58612": {
+                        "Episode Number": 1,
+                        "Source": "8fc3da787d5527f7b8fc7fcabd2e0d51"
+                    },
+                    "58613": {
+                        "Episode Number": 2,
+                        "Source": "6b88f6067dac33240bfb457b30b105d1"
+                    },
+                    "58614": {
+                        "Episode Number": 3,
+                        "Source": "042fc3772855244c8bda03660f67912b"
+                    },
+                    "58615": {
+                        "Episode Number": 4,
+                        "Source": "bfd45265f0f83f1ef44bf5af331a7c69"
+                    },
+                    "58616": {
+                        "Episode Number": 5,
+                        "Source": "16081db326bdd624dd2d447022814ba4"
+                    },
+                    "58617": {
+                        "Episode Number": 6,
+                        "Source": "49b1d3f56070511ac2eee533efea4edb"
+                    }
+                }
+            },
+            "92609": {
+                "Season Number": 2,
+                "Number Of Episodes": 6,
+                "Episodes": {
+                    "92611": {
+                        "Episode Number": 1,
+                        "Source": "9a607b02360ed537ebb72584f4dc2924"
+                    },
+                    "92612": {
+                        "Episode Number": 2,
+                        "Source": "8a45ff0095186551fb38b02579beae00"
+                    },
+                    "92613": {
+                        "Episode Number": 3,
+                        "Source": "60df4c25ef865e831689cbe387dff9a6"
+                    },
+                    "92614": {
+                        "Episode Number": 4,
+                        "Source": "1deea782223cf700b7e8de46fec1950e"
+                    },
+                    "92615": {
+                        "Episode Number": 5,
+                        "Source": "e8345b986da7659039d337ed08efcc84"
+                    },
+                    "92616": {
+                        "Episode Number": 6,
+                        "Source": "5b9bb207a2fcba22a2c7377d2d3f3064"
+                    }
+                }
+            },
+            "102960": {
+                "Season Number": 3,
+                "Number Of Episodes": 7,
+                "Episodes": {
+                    "102962": {
+                        "Episode Number": 1,
+                        "Source": "158f31bd9113da9b50c34f10bb727d33"
+                    },
+                    "102963": {
+                        "Episode Number": 2,
+                        "Source": "16392a2a93dff7f62646a8912c727190"
+                    },
+                    "102964": {
+                        "Episode Number": 3,
+                        "Source": "5cf9f1b8e4f0106dfdd8814bdcf778b5"
+                    },
+                    "102965": {
+                        "Episode Number": 4,
+                        "Source": "be90a5e96d0da32856f85c537db624e2"
+                    },
+                    "102966": {
+                        "Episode Number": 5,
+                        "Source": "2c98731e8ca14c95b89676d1fe8ab8f6"
+                    },
+                    "102967": {
+                        "Episode Number": 6,
+                        "Source": "77afe7d8d1be96faa4a2ff2b593c1c69"
+                    },
+                    "102968": {
+                        "Episode Number": 7,
+                        "Source": "a082e3d980e960f596c26ce7a5fddacb"
+                    }
+                }
+            }
+        },
+        "TMDb ID": 81704
     },
     "55208": {
         "Title": "Cooking on High",

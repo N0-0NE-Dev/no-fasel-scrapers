@@ -1,5 +1,81 @@
 {
     "hdwmovies": {
+        "18554": {
+            "key": "18554",
+            "Title": "The Covenant",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18554/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "Rating": "5.3",
+            "TMDb ID": 882569
+        },
+        "1205": {
+            "key": "1205",
+            "Title": "Rio Bravo",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1205/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Western"
+            ],
+            "Rating": "8",
+            "TMDb ID": 301
+        },
+        "2315": {
+            "key": "2315",
+            "Title": "Evil Dead 2",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/2315/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Horror"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 44836
+        },
+        "21458": {
+            "key": "21458",
+            "Title": "The Party",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21458/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 10794
+        },
+        "21235": {
+            "key": "21235",
+            "Title": "Christmas Inheritance",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21235/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "5.7",
+            "TMDb ID": 449755
+        },
+        "19275": {
+            "key": "19275",
+            "Title": "Sinners and Saints",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19275/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "Rating": "6.1",
+            "TMDb ID": 66193
+        },
         "19774": {
             "key": "19774",
             "Title": "Spring Breakers",
@@ -22,78 +98,6 @@
             ],
             "Rating": "7.5",
             "TMDb ID": 949423
-        },
-        "20657": {
-            "key": "20657",
-            "Title": "Mia madre",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20657/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 315872
-        },
-        "19103": {
-            "key": "19103",
-            "Title": "Timer",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19103/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 39545
-        },
-        "1553": {
-            "key": "1553",
-            "Title": "The Exorcist",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1553/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "8",
-            "TMDb ID": 9552
-        },
-        "21169": {
-            "key": "21169",
-            "Title": "Wakefield",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21169/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 369894
-        },
-        "1602": {
-            "key": "1602",
-            "Title": "The Fury",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1602/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Horror",
-                "Sci-Fi",
-                "Thriller"
-            ],
-            "Rating": "6.3",
-            "TMDb ID": 12611
-        },
-        "22199": {
-            "key": "22199",
-            "Title": "Hogar",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22199/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Adventure",
-                "Drama",
-                "Thriller"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 674944
         }
     },
     "hdwseries": {
@@ -186,79 +190,90 @@
             "Rating": "8.7",
             "TMDb ID": 70796
         },
-        "108": {
-            "key": "108",
-            "Title": "Ballers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/108.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 62704
-        },
-        "77": {
-            "key": "77",
-            "Title": "Good Girls",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/77.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.8",
-            "TMDb ID": 71715
-        },
-        "98": {
-            "key": "98",
-            "Title": "Station 19",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/98.jpg",
+        "55": {
+            "key": "55",
+            "Title": "FBI Most Wanted",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/55.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Action",
-                "Drama",
-                "Romance"
+                "Crime",
+                "Drama"
             ],
-            "Rating": "6.6",
-            "TMDb ID": 76773
+            "Rating": "6.7",
+            "TMDb ID": 94372
         },
-        "79": {
-            "key": "79",
-            "Title": "Greys Anatomy",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/79.jpg",
+        "685": {
+            "key": "685",
+            "Title": "Night Sky",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/685.jpg",
             "Category": "hdwseries",
             "Genres": [
+                "Adventure",
                 "Drama",
-                "Romance"
+                "Fantasy"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
+            "Rating": "7.4",
+            "TMDb ID": 111894
+        },
+        "74": {
+            "key": "74",
+            "Title": "FBI",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/74.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 80748
+        },
+        "658": {
+            "key": "658",
+            "Title": "Moon Knight",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/658.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 92749
         }
     },
     "arabic-series": {
-        "4074": {
-            "Title": "سوق الكانتو",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "4118": {
+            "Title": "سكة سفر الموسم الثاني",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4089": {
-            "Title": "حرب",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
-        "8328": {
-            "Title": "هاشتاج جوزني",
-            "Image Source": "https://i.imgur.com/p0uKSz8.jpg",
+        "8432": {
+            "Title": "جروب الماميز",
+            "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
             "Category": "arabic-movies"
         },
-        "8339": {
-            "Title": "تحت تهديد السلاح",
-            "Image Source": "https://i.imgur.com/9tkn7SC.jpg",
+        "8428": {
+            "Title": "تحت الضغط",
+            "Image Source": "https://i.imgur.com/lr4Z1tP.jpg",
             "Category": "arabic-movies"
         }
     }
