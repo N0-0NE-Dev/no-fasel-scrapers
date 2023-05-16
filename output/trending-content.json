@@ -1,137 +1,193 @@
 {
     "movies": {
-        "37385": {
-            "Title": "The Covenant",
-            "Image Source": "https://imgpile.com/images/TwnQJg.jpg",
+        "215637": {
+            "Title": "Dead Shot",
+            "Image Source": "https://i.imgur.com/7YwCBqf.jpg",
             "Category": "movies",
             "Genres": [
                 "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 507250
+        },
+        "2071": {
+            "Title": "The Drop",
+            "Image Source": "https://imgpile.com/images/TUmSDR.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "4.2",
+            "TMDb ID": 154400
+        },
+        "189043": {
+            "Title": "The Harbinger",
+            "Image Source": "https://i.imgur.com/u0CwCsH.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
                 "Horror",
                 "Fantasy"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 882569
+            "Rating": "5.9",
+            "TMDb ID": 529193
         },
-        "215154": {
-            "Title": "Gunfight at Rio Bravo",
-            "Image Source": "https://i.imgur.com/HVd1Fdn.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Western"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 835767
-        },
-        "215092": {
-            "Title": "Evil Dead Rise",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 713704
-        },
-        "215080": {
-            "Title": "Who Invited Them",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 931346
-        },
-        "215076": {
-            "Title": "The Donor Party",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1081683
-        },
-        "215070": {
-            "Title": "Christmas Bloody Christmas",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1019836
-        },
-        "215015": {
-            "Title": "Two Sinners and a Mule",
-            "Image Source": "https://i.imgur.com/uScGx7y.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Western"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1111140
-        },
-        "214857": {
-            "Title": "Spring Break Nightmare",
-            "Image Source": "https://i.imgur.com/KoKLQ5o.jpg",
+        "208638": {
+            "Title": "The Locksmith",
+            "Image Source": "https://i.imgur.com/I7Bdhur.jpg",
             "Category": "movies",
             "Genres": [
                 "Thriller"
             ],
             "Rating": "N/A",
-            "TMDb ID": 1081481
+            "TMDb ID": 1075519
         },
-        "189286": {
-            "Title": "Pearl",
-            "Image Source": "https://i.imgur.com/EpcxldZ.jpg",
+        "215545": {
+            "Title": "The Best Man",
+            "Image Source": "https://i.imgur.com/jFp6y6Q.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1094319
+        },
+        "215542": {
+            "Title": "Detective Knight: Independence",
+            "Image Source": "https://i.imgur.com/uvEmfKj.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1035806
+        },
+        "215538": {
+            "Title": "Burning Days",
+            "Image Source": "https://i.imgur.com/47Huk6Z.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 682152
+        },
+        "215410": {
+            "Title": "Smoking Causes Coughing",
+            "Image Source": "https://i.imgur.com/ueDOgtj.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Sci-fi",
+                "Horror",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 872709
+        },
+        "215401": {
+            "Title": "Mothers Day Is Cancelled",
+            "Image Source": "https://i.imgur.com/h38Tiw1.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1122493
+        },
+        "215397": {
+            "Title": "From Black",
+            "Image Source": "https://i.imgur.com/fB0qxPF.jpg",
             "Category": "movies",
             "Genres": [
                 "Horror"
             ],
-            "Rating": "7",
-            "TMDb ID": 949423
+            "Rating": "N/A",
+            "TMDb ID": 943788
+        },
+        "215389": {
+            "Title": "The Super Mario Bros. Movie",
+            "Image Source": "https://i.imgur.com/M9ZD4NK.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Animation",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 502356
         }
     },
-    "asian-series": {},
+    "asian-series": {
+        "108639": {
+            "Title": "Tale of the Nine Tailed",
+            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Fantasy",
+                "Romance"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 108284
+        }
+    },
     "anime": {
-        "213690": {
-            "Title": "Niehime to Kemono no ou",
-            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
+        "213100": {
+            "Title": "Dead Mount Death Play",
+            "Image Source": "https://imgpile.com/images/hllmxc.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 117024
+            "TMDb ID": 214540
         },
-        "212777": {
-            "Title": "Kaminaki Sekai no Kamisama Katsudou",
-            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
+        "202631": {
+            "Title": "Vinland Saga Season 2",
+            "Image Source": "https://i.imgur.com/8px8auH.jpg",
             "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 199920
+            "Genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "Rating": "8.73",
+            "TMDb ID": 88803
         },
-        "213276": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "213115": {
+            "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
+            "Image Source": "https://imgpile.com/images/hlllng.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 205366
         },
-        "212772": {
-            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
-            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
+        "212710": {
+            "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
+            "Image Source": "https://imgpile.com/images/hlf64c.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 203040
+            "TMDb ID": 72505
         }
     },
     "series": {
+        "135270": {
+            "Title": "Fear the Walking Dead",
+            "Image Source": "https://imgpile.com/images/TKac1b.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Sci-fi",
+                "Thriller"
+            ],
+            "Rating": "6.8",
+            "TMDb ID": 62286
+        },
         "126426": {
             "Title": "Sweet Tooth",
             "Image Source": "https://imgpile.com/images/TK60J1.jpg",
@@ -201,88 +257,73 @@
             "Rating": "8.4",
             "TMDb ID": 73107
         },
-        "144023": {
-            "Title": "The Marvelous Mrs. Maisel",
-            "Image Source": "https://imgpile.com/images/TMnY4c.jpg",
+        "186051": {
+            "Title": "Bob Hearts Abishola",
+            "Image Source": "https://i.imgur.com/2DK4bQd.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy",
-                "Drama"
+                "Romance"
             ],
-            "Rating": "8.7",
-            "TMDb ID": 70796
+            "Rating": "6.9",
+            "TMDb ID": 92461
         },
-        "149960": {
-            "Title": "The Boss Baby: Back in the Crib",
-            "Image Source": "https://imgpile.com/images/TM791r.jpg",
+        "187093": {
+            "Title": "East New York",
+            "Image Source": "https://i.imgur.com/qfchC34.jpg",
             "Category": "series",
             "Genres": [
-                "Adventure",
-                "Animation",
                 "Drama"
             ],
-            "Rating": "6.1",
-            "TMDb ID": 197429
+            "Rating": "7.1",
+            "TMDb ID": 202296
         },
-        "186098": {
-            "Title": "FBI: Most Wanted",
-            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
+        "188230": {
+            "Title": "NCIS: Los Angeles",
+            "Image Source": "https://i.imgur.com/hVpNgtO.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "6.9",
-            "TMDb ID": 94372
+            "Rating": "6.8",
+            "TMDb ID": 17610
         },
-        "203387": {
-            "Title": "Night Court",
-            "Image Source": "https://i.imgur.com/D8hT6fn.jpg",
+        "187074": {
+            "Title": "The Equalizer",
+            "Image Source": "https://i.imgur.com/A9OOt3S.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.2",
+            "TMDb ID": 95205
+        },
+        "141625": {
+            "Title": "Somebody Somewhere",
+            "Image Source": "https://imgpile.com/images/TKyy6h.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy"
             ],
-            "Rating": "7.7",
-            "TMDb ID": 162
-        },
-        "186095": {
-            "Title": "FBI: International",
-            "Image Source": "https://i.imgur.com/pKRojqt.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 121658
-        },
-        "186091": {
-            "Title": "FBI",
-            "Image Source": "https://i.imgur.com/ao2rekW.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7",
-            "TMDb ID": 80748
-        },
-        "210909": {
-            "Title": "Gotham Knights",
-            "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 195868
+            "Rating": "7.9",
+            "TMDb ID": 106308
         }
     },
     "arabic-series": {
+        "4234": {
+            "Title": "اللعبة الموسم الرابع : دوري الأبطال",
+            "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
+            "Category": "arabic-series"
+        },
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+            "Category": "arabic-series"
+        },
         "3516": {
             "Title": "حيرة الموسم الاول",
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
@@ -308,11 +349,6 @@
         "8432": {
             "Title": "جروب الماميز",
             "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
-            "Category": "arabic-movies"
-        },
-        "8428": {
-            "Title": "تحت الضغط",
-            "Image Source": "https://i.imgur.com/lr4Z1tP.jpg",
             "Category": "arabic-movies"
         }
     }

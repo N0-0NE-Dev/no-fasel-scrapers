@@ -1,106 +1,129 @@
 {
     "hdwmovies": {
-        "18554": {
-            "key": "18554",
-            "Title": "The Covenant",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/18554/1.jpg",
+        "20943": {
+            "key": "20943",
+            "Title": "Headshot",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20943/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 403605
+        },
+        "20420": {
+            "key": "20420",
+            "Title": "The Drop",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20420/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 154400
+        },
+        "19078": {
+            "key": "19078",
+            "Title": "The Hangover",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19078/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 18785
+        },
+        "34264": {
+            "key": "34264",
+            "Title": "The Lost City",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/34264/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
                 "Action",
                 "Adventure",
-                "Fantasy"
+                "Comedy"
             ],
-            "Rating": "5.3",
-            "TMDb ID": 882569
+            "Rating": "6.5",
+            "TMDb ID": 752623
         },
-        "1205": {
-            "key": "1205",
-            "Title": "Rio Bravo",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/1205/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Western"
-            ],
-            "Rating": "8",
-            "TMDb ID": 301
-        },
-        "2315": {
-            "key": "2315",
-            "Title": "Evil Dead 2",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/2315/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Horror"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 44836
-        },
-        "21458": {
-            "key": "21458",
-            "Title": "The Party",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21458/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 10794
-        },
-        "21235": {
-            "key": "21235",
-            "Title": "Christmas Inheritance",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21235/1.jpg",
-            "Category": "hdwmovies",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "5.7",
-            "TMDb ID": 449755
-        },
-        "19275": {
-            "key": "19275",
-            "Title": "Sinners and Saints",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19275/1.jpg",
+        "20412": {
+            "key": "20412",
+            "Title": "The Bag Man",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/20412/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
                 "Action",
                 "Crime",
-                "Thriller"
+                "Drama"
+            ],
+            "Rating": "5.2",
+            "TMDb ID": 242076
+        },
+        "21229": {
+            "key": "21229",
+            "Title": "Burning Sands",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21229/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Drama"
             ],
             "Rating": "6.1",
-            "TMDb ID": 66193
+            "TMDb ID": 426265
         },
-        "19774": {
-            "key": "19774",
-            "Title": "Spring Breakers",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19774/1.jpg",
+        "19239": {
+            "key": "19239",
+            "Title": "Mothers Day",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/19239/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
-                "Crime",
-                "Drama"
+                "Drama",
+                "Horror",
+                "Thriller"
             ],
-            "Rating": "5.3",
-            "TMDb ID": 122081
+            "Rating": "6.3",
+            "TMDb ID": 353069
         },
-        "35144": {
-            "key": "35144",
-            "Title": "Pearl",
-            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb1/35144/1.jpg",
+        "21599": {
+            "key": "21599",
+            "Title": "Croc Blanc",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/21599/1.jpg",
             "Category": "hdwmovies",
             "Genres": [
-                "Horror"
+                "Animation"
             ],
-            "Rating": "7.5",
-            "TMDb ID": 949423
+            "Rating": "7",
+            "TMDb ID": 456154
+        },
+        "22060": {
+            "key": "22060",
+            "Title": "The Angry Birds Movie 2",
+            "Image Source": "https://zdn.hdwatched.xyz/media/videos/tmb/22060/1.jpg",
+            "Category": "hdwmovies",
+            "Genres": [
+                "Animation"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 454640
         }
     },
     "hdwseries": {
+        "386": {
+            "key": "386",
+            "Title": "Fear the Walking Dead",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/386.jpg",
+            "Category": "hdwseries",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "Rating": "6.9",
+            "TMDb ID": 62286
+        },
         "407": {
             "key": "407",
             "Title": "Sweet Tooth",
@@ -178,72 +201,31 @@
             "Rating": "8.3",
             "TMDb ID": 73107
         },
-        "35": {
-            "key": "35",
-            "Title": "The Marvelous Mrs Maisel",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/35.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "8.7",
-            "TMDb ID": 70796
-        },
-        "55": {
-            "key": "55",
-            "Title": "FBI Most Wanted",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/55.jpg",
+        "28": {
+            "key": "28",
+            "Title": "The Punisher",
+            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/28.jpg",
             "Category": "hdwseries",
             "Genres": [
                 "Action",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "6.7",
-            "TMDb ID": 94372
-        },
-        "685": {
-            "key": "685",
-            "Title": "Night Sky",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/685.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Adventure",
-                "Drama",
-                "Fantasy"
-            ],
-            "Rating": "7.4",
-            "TMDb ID": 111894
-        },
-        "74": {
-            "key": "74",
-            "Title": "FBI",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/74.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "6.8",
-            "TMDb ID": 80748
-        },
-        "658": {
-            "key": "658",
-            "Title": "Moon Knight",
-            "Image Source": "https://zdn.hdwatched.xyz/media/categories/video/658.jpg",
-            "Category": "hdwseries",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 92749
+            "Rating": "8.5",
+            "TMDb ID": 67178
         }
     },
     "arabic-series": {
+        "4234": {
+            "Title": "اللعبة الموسم الرابع : دوري الأبطال",
+            "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
+            "Category": "arabic-series"
+        },
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+            "Category": "arabic-series"
+        },
         "3516": {
             "Title": "حيرة الموسم الاول",
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
@@ -269,11 +251,6 @@
         "8432": {
             "Title": "جروب الماميز",
             "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
-            "Category": "arabic-movies"
-        },
-        "8428": {
-            "Title": "تحت الضغط",
-            "Image Source": "https://i.imgur.com/lr4Z1tP.jpg",
             "Category": "arabic-movies"
         }
     }
