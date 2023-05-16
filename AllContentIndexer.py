@@ -15,11 +15,17 @@ def main() -> None:
             else:
                 rating = "N/A"
 
+            if "Genres" in data[key]:
+                genres = data[key]["Genres"]
+            else:
+                genres = []
+
             all_content += [{"key": key,
                             "Title": data[key]["Title"],
                              "Image Source": data[key]["Image Source"],
                              "Category": data[key]["Category"],
-                             "Rating": rating
+                             "Rating": rating,
+                             "Genres": genres
                              }]
 
         with open(f"./output/all-content.json", "w", encoding="utf-8") as fp:
