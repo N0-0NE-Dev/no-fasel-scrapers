@@ -1,5 +1,26 @@
 {
     "movies": {
+        "215663": {
+            "Title": "Anna Nicole Smith: You Dont Know Me",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Biography",
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1114590
+        },
+        "129189": {
+            "Title": "Sisu",
+            "Image Source": "https://imgpile.com/images/T75FOo.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Documentary"
+            ],
+            "Rating": "7.4",
+            "TMDb ID": 840326
+        },
         "215637": {
             "Title": "Dead Shot",
             "Image Source": "https://i.imgur.com/7YwCBqf.jpg",
@@ -99,44 +120,34 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1122493
-        },
-        "215397": {
-            "Title": "From Black",
-            "Image Source": "https://i.imgur.com/fB0qxPF.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 943788
-        },
-        "215389": {
-            "Title": "The Super Mario Bros. Movie",
-            "Image Source": "https://i.imgur.com/M9ZD4NK.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Animation",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 502356
         }
     },
-    "asian-series": {
-        "108639": {
-            "Title": "Tale of the Nine Tailed",
-            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Fantasy",
-                "Romance"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 108284
-        }
-    },
+    "asian-series": {},
     "anime": {
+        "213146": {
+            "Title": "The Marginal Service",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 214211
+        },
+        "213127": {
+            "Title": "ao no Orchestra",
+            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 197368
+        },
+        "212704": {
+            "Title": "Skip to Loafer",
+            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 139130
+        },
         "213100": {
             "Title": "Dead Mount Death Play",
             "Image Source": "https://imgpile.com/images/hllmxc.jpg",
@@ -156,22 +167,6 @@
             ],
             "Rating": "8.73",
             "TMDb ID": 88803
-        },
-        "213115": {
-            "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
-            "Image Source": "https://imgpile.com/images/hlllng.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 205366
-        },
-        "212710": {
-            "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
-            "Image Source": "https://imgpile.com/images/hlf64c.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 72505
         }
     },
     "series": {
@@ -257,6 +252,27 @@
             "Rating": "8.4",
             "TMDb ID": 73107
         },
+        "188323": {
+            "Title": "All American",
+            "Image Source": "https://i.imgur.com/3lONz8M.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Sport"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 82428
+        },
+        "186047": {
+            "Title": "The Neighborhood",
+            "Image Source": "https://i.imgur.com/7xFBjvE.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 81144
+        },
         "186051": {
             "Title": "Bob Hearts Abishola",
             "Image Source": "https://i.imgur.com/2DK4bQd.jpg",
@@ -289,28 +305,6 @@
             ],
             "Rating": "6.8",
             "TMDb ID": 17610
-        },
-        "187074": {
-            "Title": "The Equalizer",
-            "Image Source": "https://i.imgur.com/A9OOt3S.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "7.2",
-            "TMDb ID": 95205
-        },
-        "141625": {
-            "Title": "Somebody Somewhere",
-            "Image Source": "https://imgpile.com/images/TKyy6h.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 106308
         }
     },
     "arabic-series": {
