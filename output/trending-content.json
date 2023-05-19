@@ -1,5 +1,15 @@
 {
     "movies": {
+        "190955": {
+            "Title": "Shadow Master",
+            "Image Source": "https://i.imgur.com/eB1yTkZ.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action"
+            ],
+            "Rating": "4",
+            "TMDb ID": 1036561
+        },
         "215722": {
             "Title": "Fanfic",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -119,52 +129,33 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1035806
-        },
-        "215538": {
-            "Title": "Burning Days",
-            "Image Source": "https://i.imgur.com/47Huk6Z.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 682152
         }
     },
     "asian-series": {},
     "anime": {
-        "212777": {
-            "Title": "Kaminaki Sekai no Kamisama Katsudou",
-            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
+        "212864": {
+            "Title": "Yuusha Ga Shinda!",
+            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 199920
+            "TMDb ID": 200750
         },
-        "213690": {
-            "Title": "Niehime to Kemono no ou",
-            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 117024
-        },
-        "213276": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "212860": {
+            "Title": "mahoutsukai no Yome Season 2",
+            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "212772": {
-            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
-            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
+        "212857": {
+            "Title": "Dr.Stone: New World",
+            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 203040
+            "TMDb ID": 86031
         }
     },
     "series": {
@@ -238,40 +229,26 @@
             "Rating": "6.5",
             "TMDb ID": 158916
         },
-        "186095": {
-            "Title": "FBI: International",
-            "Image Source": "https://i.imgur.com/pKRojqt.jpg",
+        "186817": {
+            "Title": "Young Sheldon",
+            "Image Source": "https://i.imgur.com/vT5gMpx.jpg",
             "Category": "series",
             "Genres": [
-                "Crime",
-                "Drama"
+                "Comedy"
             ],
-            "Rating": "6.4",
-            "TMDb ID": 121658
+            "Rating": "7.6",
+            "TMDb ID": 71728
         },
-        "186098": {
-            "Title": "FBI: Most Wanted",
-            "Image Source": "https://i.imgur.com/t6SQkcV.jpg",
+        "186215": {
+            "Title": "Chicago Fire",
+            "Image Source": "https://i.imgur.com/mn9Yzye.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Crime",
                 "Drama"
             ],
-            "Rating": "6.9",
-            "TMDb ID": 94372
-        },
-        "210906": {
-            "Title": "Ted Lasso",
-            "Image Source": "https://i.imgur.com/hz2PU3K.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 97546
+            "Rating": "8",
+            "TMDb ID": 44006
         }
     },
     "arabic-series": {
@@ -280,19 +257,24 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+            "Category": "arabic-series"
+        },
         "3516": {
             "Title": "حيرة الموسم الاول",
             "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
-        "4118": {
-            "Title": "سكة سفر الموسم الثاني",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
         "3877": {
             "Title": "الثمن",
             "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "4118": {
+            "Title": "سكة سفر الموسم الثاني",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "4210": {
@@ -305,6 +287,11 @@
         "8432": {
             "Title": "جروب الماميز",
             "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
+            "Category": "arabic-movies"
+        },
+        "8486": {
+            "Title": "عياض في الرياض",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-movies"
         }
     }
