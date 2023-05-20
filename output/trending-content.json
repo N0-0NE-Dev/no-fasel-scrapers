@@ -1,5 +1,73 @@
 {
     "movies": {
+        "215892": {
+            "Title": "Asterix & Obelix: The Middle Kingdom",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy",
+                "Family",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 643215
+        },
+        "215888": {
+            "Title": "Bayi Ajaib",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1041681
+        },
+        "215871": {
+            "Title": "White Men Cant Jump",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy",
+                "Sport"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 920125
+        },
+        "212917": {
+            "Title": "Shazam! Fury of the Gods",
+            "Image Source": "https://imgpile.com/images/hlGPgb.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 594767
+        },
+        "215831": {
+            "Title": "One Ranger",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1093994
+        },
+        "147836": {
+            "Title": "Infinite Storm",
+            "Image Source": "https://imgpile.com/images/TUwlAR.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 811631
+        },
         "190955": {
             "Title": "Shadow Master",
             "Image Source": "https://i.imgur.com/eB1yTkZ.jpg",
@@ -52,110 +120,33 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1114590
-        },
-        "129189": {
-            "Title": "Sisu",
-            "Image Source": "https://imgpile.com/images/T75FOo.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Documentary"
-            ],
-            "Rating": "7.4",
-            "TMDb ID": 840326
-        },
-        "215637": {
-            "Title": "Dead Shot",
-            "Image Source": "https://i.imgur.com/7YwCBqf.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 507250
-        },
-        "2071": {
-            "Title": "The Drop",
-            "Image Source": "https://imgpile.com/images/TUmSDR.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "4.2",
-            "TMDb ID": 154400
-        },
-        "189043": {
-            "Title": "The Harbinger",
-            "Image Source": "https://i.imgur.com/u0CwCsH.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Fantasy"
-            ],
-            "Rating": "5.9",
-            "TMDb ID": 529193
-        },
-        "208638": {
-            "Title": "The Locksmith",
-            "Image Source": "https://i.imgur.com/I7Bdhur.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1075519
-        },
-        "215545": {
-            "Title": "The Best Man",
-            "Image Source": "https://i.imgur.com/jFp6y6Q.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1094319
-        },
-        "215542": {
-            "Title": "Detective Knight: Independence",
-            "Image Source": "https://i.imgur.com/uvEmfKj.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller",
-                "Crime"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1035806
         }
     },
     "asian-series": {},
     "anime": {
-        "212864": {
-            "Title": "Yuusha Ga Shinda!",
-            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
+        "213133": {
+            "Title": "Kimi Wa Houkago Insomnia",
+            "Image Source": "https://imgpile.com/images/hllsir.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200750
+            "TMDb ID": 155440
         },
-        "212860": {
-            "Title": "mahoutsukai no Yome Season 2",
-            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+        "212960": {
+            "Title": "Megami no Caf Terrace",
+            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "212857": {
-            "Title": "Dr.Stone: New World",
-            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+        "212949": {
+            "Title": "Rokudou No Onna-Tachi",
+            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 86031
+            "TMDb ID": 218563
         }
     },
     "series": {
@@ -218,37 +209,28 @@
             "Rating": "6.5",
             "TMDb ID": 109373
         },
-        "148289": {
-            "Title": "The Marked Heart",
-            "Image Source": "https://imgpile.com/images/TMIpQh.jpg",
+        "145828": {
+            "Title": "Good Trouble",
+            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "7.5",
+            "TMDb ID": 80006
+        },
+        "187446": {
+            "Title": "Greys Anatomy",
+            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
             "Category": "series",
             "Genres": [
                 "Drama",
-                "Thriller"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 158916
-        },
-        "186817": {
-            "Title": "Young Sheldon",
-            "Image Source": "https://i.imgur.com/vT5gMpx.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
+                "Romance"
             ],
             "Rating": "7.6",
-            "TMDb ID": 71728
-        },
-        "186215": {
-            "Title": "Chicago Fire",
-            "Image Source": "https://i.imgur.com/mn9Yzye.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Drama"
-            ],
-            "Rating": "8",
-            "TMDb ID": 44006
+            "TMDb ID": 1416
         }
     },
     "arabic-series": {
@@ -257,29 +239,9 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
-            "Category": "arabic-series"
-        },
-        "4118": {
-            "Title": "سكة سفر الموسم الثاني",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4210": {
-            "Title": "ملح وسمرة",
-            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
+        "4199": {
+            "Title": "الملكة الموسم الاول",
+            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
             "Category": "arabic-series"
         }
     },
