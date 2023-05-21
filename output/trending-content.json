@@ -109,44 +109,53 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 605886
-        },
-        "215663": {
-            "Title": "Anna Nicole Smith: You Dont Know Me",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Biography",
-                "Documentary"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1114590
         }
     },
-    "asian-series": {},
+    "asian-series": {
+        "108639": {
+            "Title": "Tale of the Nine Tailed",
+            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Fantasy",
+                "Romance"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 108284
+        }
+    },
     "anime": {
-        "213133": {
-            "Title": "Kimi Wa Houkago Insomnia",
-            "Image Source": "https://imgpile.com/images/hllsir.jpg",
+        "212588": {
+            "Title": "jigokuraku",
+            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 155440
+            "TMDb ID": 117465
         },
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 137391
+        },
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 200732
+        },
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
-        },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 218563
         }
     },
     "series": {
@@ -209,28 +218,57 @@
             "Rating": "6.5",
             "TMDb ID": 109373
         },
-        "145828": {
-            "Title": "Good Trouble",
-            "Image Source": "https://imgpile.com/images/TM1ma2.jpg",
+        "137834": {
+            "Title": "Power Book II: Ghost",
+            "Image Source": "https://imgpile.com/images/TKeaP4.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "7.3",
+            "TMDb ID": 97890
+        },
+        "137464": {
+            "Title": "Yellowjackets",
+            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
+            "Category": "series",
+            "Genres": [
                 "Drama",
-                "Romance"
+                "Horror"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 117488
+        },
+        "186054": {
+            "Title": "NCIS: Hawaii",
+            "Image Source": "https://i.imgur.com/DmcnT5K.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime"
+            ],
+            "Rating": "6.5",
+            "TMDb ID": 124271
+        },
+        "188107": {
+            "Title": "Fire Country",
+            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.1",
+            "TMDb ID": 202297
+        },
+        "186811": {
+            "Title": "CSI: Vegas",
+            "Image Source": "https://i.imgur.com/IKajSPZ.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime"
             ],
             "Rating": "7.5",
-            "TMDb ID": 80006
-        },
-        "187446": {
-            "Title": "Greys Anatomy",
-            "Image Source": "https://i.imgur.com/gWBa9Zw.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Romance"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 1416
+            "TMDb ID": 122194
         }
     },
     "arabic-series": {
