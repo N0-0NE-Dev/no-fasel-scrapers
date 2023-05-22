@@ -1,5 +1,16 @@
 {
     "movies": {
+        "215941": {
+            "Title": "Organ Trail",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Western"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 950141
+        },
         "215892": {
             "Title": "Asterix & Obelix: The Middle Kingdom",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
@@ -97,18 +108,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 194218
-        },
-        "215714": {
-            "Title": "To Catch a Killer",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 605886
         }
     },
     "asian-series": {
@@ -125,33 +124,33 @@
         }
     },
     "anime": {
-        "212588": {
-            "Title": "jigokuraku",
-            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
+        "213051": {
+            "Title": "World Dai Star",
+            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 117465
+            "TMDb ID": 215198
         },
-        "213014": {
-            "Title": "ISEKAI Shoukan Wa Nidome Desu",
-            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
+        "212637": {
+            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
+            "Image Source": "https://imgpile.com/images/hlfLHG.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 137391
+            "TMDb ID": 207493
         },
-        "213008": {
-            "Title": "Otonari ni ginga",
-            "Image Source": "https://imgpile.com/images/hllto2.jpg",
+        "212645": {
+            "Title": "My Home Hero",
+            "Image Source": "https://imgpile.com/images/hlf244.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200732
+            "TMDb ID": 204412
         },
-        "212670": {
-            "Title": "Edens Zero 2nd Season",
-            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
+        "213045": {
+            "Title": "Kidou Senshi Gundam: Suisei no majo Season 2",
+            "Image Source": "https://imgpile.com/images/hllPvh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
@@ -195,28 +194,17 @@
             "Rating": "7.6",
             "TMDb ID": 124364
         },
-        "149218": {
-            "Title": "Welcome to Eden",
-            "Image Source": "https://imgpile.com/images/TMu2oc.jpg",
+        "208866": {
+            "Title": "Law & Order: Organized Crime",
+            "Image Source": "https://i.imgur.com/kAzFD8M.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "5.5",
-            "TMDb ID": 128010
-        },
-        "127350": {
-            "Title": "Blindspotting",
-            "Image Source": "https://imgpile.com/images/TK6Zu3.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
                 "Crime",
-                "Drama"
+                "Drama",
+                "Mystery"
             ],
-            "Rating": "6.5",
-            "TMDb ID": 109373
+            "Rating": "N/A",
+            "TMDb ID": 106158
         },
         "137834": {
             "Title": "Power Book II: Ghost",
@@ -249,26 +237,6 @@
             ],
             "Rating": "6.5",
             "TMDb ID": 124271
-        },
-        "188107": {
-            "Title": "Fire Country",
-            "Image Source": "https://i.imgur.com/QWdLOfD.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.1",
-            "TMDb ID": 202297
-        },
-        "186811": {
-            "Title": "CSI: Vegas",
-            "Image Source": "https://i.imgur.com/IKajSPZ.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime"
-            ],
-            "Rating": "7.5",
-            "TMDb ID": 122194
         }
     },
     "arabic-series": {
@@ -277,9 +245,39 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "4199": {
-            "Title": "الملكة الموسم الاول",
-            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "4118": {
+            "Title": "سكة سفر الموسم الثاني",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
+            "Category": "arabic-series"
+        },
+        "4047": {
+            "Title": "الأوغوز التسعة الموسم الاول",
+            "Image Source": "https://i.imgur.com/0BlIrzP.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },
@@ -287,11 +285,6 @@
         "8432": {
             "Title": "جروب الماميز",
             "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
-            "Category": "arabic-movies"
-        },
-        "8486": {
-            "Title": "عياض في الرياض",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-movies"
         }
     }
