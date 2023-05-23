@@ -21,7 +21,7 @@ CIMA_NOW_SELECTOR = (By.CLASS_NAME, "owl-head.owl-loaded.owl-drag")
 
 FILE_NAMES = ["movies", "anime", "asian-series",
               "series", "tvshows", "arabic-series",
-              "arabic-movies", "hdwmovies", "hdwseries"]
+              "arabic-movies"]
 
 HDW_FILE_NAMES = ["hdwmovies", "series", "arabic-movies", "arabic-series"]
 

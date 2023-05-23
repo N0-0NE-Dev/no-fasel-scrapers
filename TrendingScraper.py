@@ -155,125 +155,12 @@ def scrape_fasel() -> None:
         json.dump(featured_content_dict, fp, indent=4)
 
 
-def hdw_featured():
-    featured = {"content": []}
-
-    with open("./output/featured-content.json", "r") as fp:
-        featured_content = json.load(fp)
-
-    with open("./output/hdwmovies.json", "r") as fp:
-        movies = json.load(fp)
-
-    names = {movies[key]["Title"]: key for key in movies}
-
-    for movie in featured_content["content"]:
-        try:
-            closest_match = names[get_close_matches(
-                movie["Title"], list(names.keys()))[0]]
-        except IndexError:
-            continue
-
-        if "Genres" in movies[closest_match]:
-            genres = movies[closest_match]["Genres"]
-        else:
-            genres = []
-
-        if "Rating" in movies[closest_match]:
-            rating = movies[closest_match]["Rating"]
-        else:
-            rating = "N/A"
-
-        if "TMDb ID" in movies[closest_match]:
-            tmdb_id = movies[closest_match]["TMDb ID"]
-        else:
-            tmdb_id = "N/A"
-
-        featured["content"].append({
-            "key": closest_match,
-            "Title": movies[closest_match]["Title"],
-            "Image Source": movies[closest_match]["Image Source"],
-            "Category": movies[closest_match]["Category"],
-            "Genres": genres,
-            "Rating": rating,
-            "TMDb ID": tmdb_id
-        })
-
-        with open("./output/hdw-featured-content.json", "w") as fp:
-            json.dump(featured, fp, indent=4)
-
-
-def hdw_trending():
-    trending = {"hdwmovies": {}, "hdwseries": {}}
-
-    with open("./output/trending-content.json", "r", encoding="utf-8") as fp:
-        trending_content = json.load(fp)
-
-    trending["arabic-series"] = trending_content["arabic-series"]
-    trending["arabic-movies"] = trending_content["arabic-movies"]
-
-    with open("./output/hdwmovies.json", "r") as fp:
-        movies = json.load(fp)
-
-    with open("./output/hdwseries.json", "r") as fp:
-        series = json.load(fp)
-
-    trending_movie_names = {
-        trending_content["movies"][key]["Title"]: key for key in trending_content["movies"]}
-
-    trending_series_names = {
-        trending_content["series"][key]["Title"]: key for key in trending_content["series"]}
-
-    movie_names = {movies[key]["Title"]: key for key in movies}
-
-    series_names = {series[key]["Title"]: key for key in series}
-
-    for name in trending_movie_names:
-        try:
-            matches = get_close_matches(name, movie_names)
-            closest_match = movie_names[matches[0]]
-        except IndexError:
-            continue
-
-        trending["hdwmovies"][closest_match] = {
-            "key": closest_match,
-            "Title": movies[closest_match]["Title"],
-            "Image Source": movies[closest_match]["Image Source"],
-            "Category": movies[closest_match]["Category"],
-            "Genres": movies[closest_match]["Genres"],
-            "Rating": movies[closest_match]["Rating"],
-            "TMDb ID": movies[closest_match]["TMDb ID"]
-        }
-
-    for name in trending_series_names:
-        try:
-            matches = get_close_matches(name, series_names)
-            closest_match = series_names[matches[0]]
-        except IndexError:
-            continue
-
-        trending["hdwseries"][closest_match] = {
-            "key": closest_match,
-            "Title": series[closest_match]["Title"],
-            "Image Source": series[closest_match]["Image Source"],
-            "Category": series[closest_match]["Category"],
-            "Genres": series[closest_match]["Genres"],
-            "Rating": series[closest_match]["Rating"],
-            "TMDb ID": series[closest_match]["TMDb ID"]
-        }
-
-    with open("./output/hdw-trending-content.json", "w", encoding="utf-8") as fp:
-        json.dump(trending, fp, indent=4, ensure_ascii=False)
-
-
 def main() -> None:
     scrape_fasel()
     scrape_akwam()
 
     with open("./output/trending-content.json", "w", encoding="utf-8") as fp:
         json.dump(content_dict, fp, indent=4, ensure_ascii=False)
-
-    hdw_featured()
-    hdw_trending()
 
 
 if __name__ == "__main__":
