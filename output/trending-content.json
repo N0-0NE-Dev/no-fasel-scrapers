@@ -1,63 +1,8 @@
 {
     "movies": {
-        "215637": {
-            "Title": "Dead Shot",
-            "Image Source": "https://i.imgur.com/7YwCBqf.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 507250
-        },
-        "2071": {
-            "Title": "The Drop",
-            "Image Source": "https://imgpile.com/images/TUmSDR.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "4.2",
-            "TMDb ID": 154400
-        },
-        "189043": {
-            "Title": "The Harbinger",
-            "Image Source": "https://i.imgur.com/u0CwCsH.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Horror",
-                "Fantasy"
-            ],
-            "Rating": "5.9",
-            "TMDb ID": 529193
-        },
-        "208638": {
-            "Title": "The Locksmith",
-            "Image Source": "https://i.imgur.com/I7Bdhur.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1075519
-        },
-        "215545": {
-            "Title": "The Best Man",
-            "Image Source": "https://i.imgur.com/jFp6y6Q.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1094319
-        },
-        "215542": {
-            "Title": "Detective Knight: Independence",
-            "Image Source": "https://i.imgur.com/uvEmfKj.jpg",
+        "216049": {
+            "Title": "John Wick: Chapter 4",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "movies",
             "Genres": [
                 "Action",
@@ -65,65 +10,120 @@
                 "Crime"
             ],
             "Rating": "N/A",
-            "TMDb ID": 1035806
+            "TMDb ID": 603692
         },
-        "215538": {
-            "Title": "Burning Days",
-            "Image Source": "https://i.imgur.com/47Huk6Z.jpg",
+        "215961": {
+            "Title": "The Weapon",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1081620
+        },
+        "215941": {
+            "Title": "Organ Trail",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Western"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 950141
+        },
+        "215892": {
+            "Title": "Asterix & Obelix: The Middle Kingdom",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy",
+                "Family",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 643215
+        },
+        "215888": {
+            "Title": "Bayi Ajaib",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1041681
+        },
+        "215871": {
+            "Title": "White Men Cant Jump",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy",
+                "Sport"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 920125
+        },
+        "212917": {
+            "Title": "Shazam! Fury of the Gods",
+            "Image Source": "https://imgpile.com/images/hlGPgb.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 594767
+        },
+        "215831": {
+            "Title": "One Ranger",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1093994
+        },
+        "147836": {
+            "Title": "Infinite Storm",
+            "Image Source": "https://imgpile.com/images/TUwlAR.jpg",
             "Category": "movies",
             "Genres": [
                 "Thriller",
                 "Drama"
             ],
             "Rating": "N/A",
-            "TMDb ID": 682152
+            "TMDb ID": 811631
         },
-        "215410": {
-            "Title": "Smoking Causes Coughing",
-            "Image Source": "https://i.imgur.com/ueDOgtj.jpg",
+        "190955": {
+            "Title": "Shadow Master",
+            "Image Source": "https://i.imgur.com/eB1yTkZ.jpg",
             "Category": "movies",
             "Genres": [
-                "Sci-fi",
-                "Horror",
-                "Comedy"
+                "Action"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 872709
-        },
-        "215401": {
-            "Title": "Mothers Day Is Cancelled",
-            "Image Source": "https://i.imgur.com/h38Tiw1.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1122493
-        },
-        "215397": {
-            "Title": "From Black",
-            "Image Source": "https://i.imgur.com/fB0qxPF.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 943788
-        },
-        "215389": {
-            "Title": "The Super Mario Bros. Movie",
-            "Image Source": "https://i.imgur.com/M9ZD4NK.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Animation",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 502356
+            "Rating": "4",
+            "TMDb ID": 1036561
         }
     },
     "asian-series": {
+        "108969": {
+            "Title": "Master in the House",
+            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 76033
+        },
         "108639": {
             "Title": "Tale of the Nine Tailed",
             "Image Source": "https://imgpile.com/images/TKclXS.jpg",
@@ -137,14 +137,6 @@
         }
     },
     "anime": {
-        "213100": {
-            "Title": "Dead Mount Death Play",
-            "Image Source": "https://imgpile.com/images/hllmxc.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 214540
-        },
         "202631": {
             "Title": "Vinland Saga Season 2",
             "Image Source": "https://i.imgur.com/8px8auH.jpg",
@@ -172,6 +164,17 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 72505
+        },
+        "187143": {
+            "Title": "Golden Kamuy 4th Season",
+            "Image Source": "https://i.imgur.com/CUj6OIk.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Animation",
+                "Adventure"
+            ],
+            "Rating": "8.28",
+            "TMDb ID": 76757
         }
     },
     "series": {
@@ -211,17 +214,6 @@
             "Rating": "7.6",
             "TMDb ID": 124364
         },
-        "149218": {
-            "Title": "Welcome to Eden",
-            "Image Source": "https://imgpile.com/images/TMu2oc.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "5.5",
-            "TMDb ID": 128010
-        },
         "127350": {
             "Title": "Blindspotting",
             "Image Source": "https://imgpile.com/images/TK6Zu3.jpg",
@@ -234,49 +226,39 @@
             "Rating": "6.5",
             "TMDb ID": 109373
         },
-        "148289": {
-            "Title": "The Marked Heart",
-            "Image Source": "https://imgpile.com/images/TMIpQh.jpg",
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
             "Category": "series",
             "Genres": [
+                "Crime",
                 "Drama",
+                "Mystery",
                 "Thriller"
             ],
-            "Rating": "6.5",
-            "TMDb ID": 158916
+            "Rating": "N/A",
+            "TMDb ID": 46952
         },
-        "148556": {
-            "Title": "Barry",
-            "Image Source": "https://imgpile.com/images/TMu7m1.jpg",
+        "150387": {
+            "Title": "Prehistoric Planet",
+            "Image Source": "https://imgpile.com/images/TM7c1j.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
+                "Documentary",
+                "History"
             ],
-            "Rating": "8.4",
-            "TMDb ID": 73107
+            "Rating": "8.5",
+            "TMDb ID": 95171
         },
-        "186051": {
-            "Title": "Bob Hearts Abishola",
-            "Image Source": "https://i.imgur.com/2DK4bQd.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Romance"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 92461
-        },
-        "187093": {
-            "Title": "East New York",
-            "Image Source": "https://i.imgur.com/qfchC34.jpg",
+        "186956": {
+            "Title": "So Help Me Todd",
+            "Image Source": "https://i.imgur.com/arFUucH.jpg",
             "Category": "series",
             "Genres": [
                 "Drama"
             ],
-            "Rating": "7.1",
-            "TMDb ID": 202296
+            "Rating": "7.3",
+            "TMDb ID": 202307
         },
         "188230": {
             "Title": "NCIS: Los Angeles",
@@ -301,16 +283,6 @@
             ],
             "Rating": "7.2",
             "TMDb ID": 95205
-        },
-        "141625": {
-            "Title": "Somebody Somewhere",
-            "Image Source": "https://imgpile.com/images/TKyy6h.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 106308
         }
     },
     "arabic-series": {
@@ -322,6 +294,11 @@
         "4211": {
             "Title": "العائلة الموسم الاول",
             "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+            "Category": "arabic-series"
+        },
+        "4247": {
+            "Title": "المستور ضحايا حلال",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "3516": {
@@ -339,17 +316,16 @@
             "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
             "Category": "arabic-series"
         },
+        "4246": {
+            "Title": "التحقيق الموسم الاول",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
         "4210": {
             "Title": "ملح وسمرة",
             "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
-    "arabic-movies": {
-        "8432": {
-            "Title": "جروب الماميز",
-            "Image Source": "https://i.imgur.com/ZTOk5zm.jpg",
-            "Category": "arabic-movies"
-        }
-    }
+    "arabic-movies": {}
 }
