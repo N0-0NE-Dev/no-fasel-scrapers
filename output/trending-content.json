@@ -1,5 +1,26 @@
 {
     "movies": {
+        "6569": {
+            "Title": "Mothers Day ",
+            "Image Source": "https://imgpile.com/images/T51Ia2.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 353069
+        },
+        "216128": {
+            "Title": "Hard Feelings",
+            "Image Source": "https://i.imgur.com/PJNp4HG.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1120628
+        },
         "216062": {
             "Title": "Butch Cassidy and the Wild Bunch",
             "Image Source": "https://i.imgur.com/aj2xE7E.jpg",
@@ -78,90 +99,49 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 920125
-        },
-        "212917": {
-            "Title": "Shazam! Fury of the Gods",
-            "Image Source": "https://imgpile.com/images/hlGPgb.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 594767
-        },
-        "215831": {
-            "Title": "One Ranger",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1093994
         }
     },
-    "asian-series": {
-        "108969": {
-            "Title": "Master in the House",
-            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 76033
-        },
-        "108639": {
-            "Title": "Tale of the Nine Tailed",
-            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Fantasy",
-                "Romance"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 108284
-        }
-    },
+    "asian-series": {},
     "anime": {
-        "213146": {
-            "Title": "The Marginal Service",
+        "213133": {
+            "Title": "Kimi Wa Houkago Insomnia",
+            "Image Source": "https://imgpile.com/images/hllsir.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 155440
+        },
+        "213690": {
+            "Title": "Niehime to Kemono no ou",
+            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 117024
+        },
+        "213276": {
+            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 214211
+            "TMDb ID": null
         },
-        "212704": {
-            "Title": "Skip to Loafer",
-            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
+        "212772": {
+            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
+            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 139130
+            "TMDb ID": 203040
         },
-        "202631": {
-            "Title": "Vinland Saga Season 2",
-            "Image Source": "https://i.imgur.com/8px8auH.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "8.73",
-            "TMDb ID": 88803
-        },
-        "213115": {
-            "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
-            "Image Source": "https://imgpile.com/images/hlllng.jpg",
+        "213127": {
+            "Title": "ao no Orchestra",
+            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 205366
+            "TMDb ID": 197368
         }
     },
     "series": {
@@ -189,60 +169,26 @@
             "Rating": "7.8",
             "TMDb ID": 103768
         },
-        "203883": {
-            "Title": "How I Met Your Father",
-            "Image Source": "https://i.imgur.com/x9wiHoX.jpg",
+        "186054": {
+            "Title": "NCIS: Hawaii",
+            "Image Source": "https://i.imgur.com/DmcnT5K.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Drama"
+                "Crime"
             ],
-            "Rating": "5.5",
-            "TMDb ID": 124010
+            "Rating": "6.5",
+            "TMDb ID": 124271
         },
-        "186051": {
-            "Title": "Bob Hearts Abishola",
-            "Image Source": "https://i.imgur.com/2DK4bQd.jpg",
+        "186095": {
+            "Title": "FBI: International",
+            "Image Source": "https://i.imgur.com/pKRojqt.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Romance"
-            ],
-            "Rating": "6.9",
-            "TMDb ID": 92461
-        },
-        "186047": {
-            "Title": "The Neighborhood",
-            "Image Source": "https://i.imgur.com/7xFBjvE.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 81144
-        },
-        "150387": {
-            "Title": "Prehistoric Planet",
-            "Image Source": "https://imgpile.com/images/TM7c1j.jpg",
-            "Category": "series",
-            "Genres": [
-                "Documentary",
-                "History"
-            ],
-            "Rating": "8.5",
-            "TMDb ID": 95171
-        },
-        "127350": {
-            "Title": "Blindspotting",
-            "Image Source": "https://imgpile.com/images/TK6Zu3.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
                 "Crime",
                 "Drama"
             ],
-            "Rating": "6.5",
-            "TMDb ID": 109373
+            "Rating": "6.4",
+            "TMDb ID": 121658
         }
     },
     "arabic-series": {
@@ -251,9 +197,9 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+        "4247": {
+            "Title": "المستور ضحايا حلال",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
         "3516": {
