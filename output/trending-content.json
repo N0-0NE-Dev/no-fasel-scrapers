@@ -1,5 +1,60 @@
 {
     "movies": {
+        "216311": {
+            "Title": "SNAG",
+            "Image Source": "https://i.imgur.com/mcDjmh1.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1105803
+        },
+        "216307": {
+            "Title": "Moving On",
+            "Image Source": "https://i.imgur.com/oOVQbAA.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 953365
+        },
+        "216303": {
+            "Title": "Motion Detected",
+            "Image Source": "https://i.imgur.com/LagVceY.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1121753
+        },
+        "216299": {
+            "Title": "Black Lotus",
+            "Image Source": "https://i.imgur.com/QVdsWXZ.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 996154
+        },
+        "212913": {
+            "Title": "65",
+            "Image Source": "https://imgpile.com/images/hlGVdM.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 700391
+        },
         "6569": {
             "Title": "Mothers Day ",
             "Image Source": "https://imgpile.com/images/T51Ia2.jpg",
@@ -54,94 +109,41 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1081620
-        },
-        "215941": {
-            "Title": "Organ Trail",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror",
-                "Western"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 950141
-        },
-        "215892": {
-            "Title": "Asterix & Obelix: The Middle Kingdom",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy",
-                "Family",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 643215
-        },
-        "215888": {
-            "Title": "Bayi Ajaib",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1041681
-        },
-        "215871": {
-            "Title": "White Men Cant Jump",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy",
-                "Sport"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 920125
         }
     },
     "asian-series": {},
     "anime": {
-        "213133": {
-            "Title": "Kimi Wa Houkago Insomnia",
-            "Image Source": "https://imgpile.com/images/hllsir.jpg",
+        "212864": {
+            "Title": "Yuusha Ga Shinda!",
+            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 155440
+            "TMDb ID": 200750
         },
-        "213690": {
-            "Title": "Niehime to Kemono no ou",
-            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 117024
-        },
-        "213276": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "212860": {
+            "Title": "mahoutsukai no Yome Season 2",
+            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "212772": {
-            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
-            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
+        "212857": {
+            "Title": "Dr.Stone: New World",
+            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 203040
+            "TMDb ID": 86031
         },
-        "213127": {
-            "Title": "ao no Orchestra",
-            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
+        "213268": {
+            "Title": "Oshi no ko",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 197368
+            "TMDb ID": 203737
         }
     },
     "series": {
@@ -169,26 +171,38 @@
             "Rating": "7.8",
             "TMDb ID": 103768
         },
-        "186054": {
-            "Title": "NCIS: Hawaii",
-            "Image Source": "https://i.imgur.com/DmcnT5K.jpg",
+        "144023": {
+            "Title": "The Marvelous Mrs. Maisel",
+            "Image Source": "https://imgpile.com/images/TMnY4c.jpg",
             "Category": "series",
             "Genres": [
-                "Crime"
-            ],
-            "Rating": "6.5",
-            "TMDb ID": 124271
-        },
-        "186095": {
-            "Title": "FBI: International",
-            "Image Source": "https://i.imgur.com/pKRojqt.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
+                "Comedy",
                 "Drama"
             ],
-            "Rating": "6.4",
-            "TMDb ID": 121658
+            "Rating": "8.7",
+            "TMDb ID": 70796
+        },
+        "186222": {
+            "Title": "The Kardashians",
+            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
+            "Category": "series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "4.8",
+            "TMDb ID": 154521
+        },
+        "205148": {
+            "Title": "The Flash",
+            "Image Source": "https://imgpile.com/images/hlsckS.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 60735
         }
     },
     "arabic-series": {
@@ -197,9 +211,9 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "4247": {
-            "Title": "المستور ضحايا حلال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         },
         "3516": {
@@ -215,6 +229,11 @@
         "4118": {
             "Title": "سكة سفر الموسم الثاني",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
