@@ -1,5 +1,76 @@
 {
     "movies": {
+        "216417": {
+            "Title": "Where the Tracks End",
+            "Image Source": "https://i.imgur.com/44cb2MU.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy",
+                "Family"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1121316
+        },
+        "216414": {
+            "Title": "Tin & Tina",
+            "Image Source": "https://i.imgur.com/D1k9Y9T.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 943930
+        },
+        "216412": {
+            "Title": "The Year I Started Masturbating",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 983105
+        },
+        "216408": {
+            "Title": "Malum",
+            "Image Source": "https://i.imgur.com/kmFJnZE.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1094403
+        },
+        "214686": {
+            "Title": "Dungeons & Dragons: Honor Among Thieves",
+            "Image Source": "https://i.imgur.com/eFYKEGl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Fantasy",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 493529
+        },
+        "216401": {
+            "Title": "Blood & Gold",
+            "Image Source": "https://i.imgur.com/0zmroKi.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1098110
+        },
         "216311": {
             "Title": "SNAG",
             "Image Source": "https://i.imgur.com/mcDjmh1.jpg",
@@ -54,96 +125,41 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 700391
-        },
-        "6569": {
-            "Title": "Mothers Day ",
-            "Image Source": "https://imgpile.com/images/T51Ia2.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 353069
-        },
-        "216128": {
-            "Title": "Hard Feelings",
-            "Image Source": "https://i.imgur.com/PJNp4HG.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1120628
-        },
-        "216062": {
-            "Title": "Butch Cassidy and the Wild Bunch",
-            "Image Source": "https://i.imgur.com/aj2xE7E.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Western"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1101574
-        },
-        "216049": {
-            "Title": "John Wick: Chapter 4",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller",
-                "Crime"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 603692
-        },
-        "215961": {
-            "Title": "The Weapon",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1081620
         }
     },
     "asian-series": {},
     "anime": {
-        "212864": {
-            "Title": "Yuusha Ga Shinda!",
-            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 200750
-        },
-        "212860": {
-            "Title": "mahoutsukai no Yome Season 2",
-            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+        "212960": {
+            "Title": "Megami no Caf Terrace",
+            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "212857": {
-            "Title": "Dr.Stone: New World",
-            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+        "212949": {
+            "Title": "Rokudou No Onna-Tachi",
+            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 86031
+            "TMDb ID": 218563
         },
-        "213268": {
-            "Title": "Oshi no ko",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "212945": {
+            "Title": "Tonikaku Kawaii 2nd Season",
+            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 203737
+            "TMDb ID": null
+        },
+        "212932": {
+            "Title": "Mashle",
+            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 204832
         }
     },
     "series": {
@@ -171,6 +187,17 @@
             "Rating": "7.8",
             "TMDb ID": 103768
         },
+        "150387": {
+            "Title": "Prehistoric Planet",
+            "Image Source": "https://imgpile.com/images/TM7c1j.jpg",
+            "Category": "series",
+            "Genres": [
+                "Documentary",
+                "History"
+            ],
+            "Rating": "8.5",
+            "TMDb ID": 95171
+        },
         "144023": {
             "Title": "The Marvelous Mrs. Maisel",
             "Image Source": "https://imgpile.com/images/TMnY4c.jpg",
@@ -181,59 +208,12 @@
             ],
             "Rating": "8.7",
             "TMDb ID": 70796
-        },
-        "186222": {
-            "Title": "The Kardashians",
-            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
-            "Category": "series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "4.8",
-            "TMDb ID": 154521
-        },
-        "205148": {
-            "Title": "The Flash",
-            "Image Source": "https://imgpile.com/images/hlsckS.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 60735
         }
     },
     "arabic-series": {
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
-            "Category": "arabic-series"
-        },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
-            "Category": "arabic-series"
-        },
-        "4118": {
-            "Title": "سكة سفر الموسم الثاني",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "arabic-series"
-        },
-        "4210": {
-            "Title": "ملح وسمرة",
-            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
             "Category": "arabic-series"
         }
     },
