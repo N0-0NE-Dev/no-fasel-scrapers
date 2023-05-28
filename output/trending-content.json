@@ -1,5 +1,38 @@
 {
     "movies": {
+        "216456": {
+            "Title": "The Eight Mountains",
+            "Image Source": "https://i.imgur.com/zjfgzaN.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 803700
+        },
+        "216453": {
+            "Title": "Influencer",
+            "Image Source": "https://i.imgur.com/45h3yHK.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1020910
+        },
+        "216450": {
+            "Title": "Gatlopp",
+            "Image Source": "https://i.imgur.com/to9Aw4k.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 893338
+        },
         "216417": {
             "Title": "Where the Tracks End",
             "Image Source": "https://i.imgur.com/44cb2MU.jpg",
@@ -102,64 +135,53 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1121753
-        },
-        "216299": {
-            "Title": "Black Lotus",
-            "Image Source": "https://i.imgur.com/QVdsWXZ.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 996154
-        },
-        "212913": {
-            "Title": "65",
-            "Image Source": "https://imgpile.com/images/hlGVdM.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 700391
         }
     },
-    "asian-series": {},
+    "asian-series": {
+        "108639": {
+            "Title": "Tale of the Nine Tailed",
+            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Fantasy",
+                "Romance"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 108284
+        }
+    },
     "anime": {
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 137391
         },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 218563
+            "TMDb ID": 200732
         },
-        "212945": {
-            "Title": "Tonikaku Kawaii 2nd Season",
-            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
+        "213700": {
+            "Title": "Pokemon (2023)",
+            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 220150
         },
-        "212932": {
-            "Title": "Mashle",
-            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 204832
+            "TMDb ID": 104711
         }
     },
     "series": {
@@ -176,16 +198,39 @@
             "Rating": "6.8",
             "TMDb ID": 62286
         },
-        "126426": {
-            "Title": "Sweet Tooth",
-            "Image Source": "https://imgpile.com/images/TK60J1.jpg",
+        "137834": {
+            "Title": "Power Book II: Ghost",
+            "Image Source": "https://imgpile.com/images/TKeaP4.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
-                "Adventure"
+                "Crime",
+                "Drama"
             ],
-            "Rating": "7.8",
-            "TMDb ID": 103768
+            "Rating": "7.3",
+            "TMDb ID": 97890
+        },
+        "127350": {
+            "Title": "Blindspotting",
+            "Image Source": "https://imgpile.com/images/TK6Zu3.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.5",
+            "TMDb ID": 109373
+        },
+        "137464": {
+            "Title": "Yellowjackets",
+            "Image Source": "https://imgpile.com/images/TKekuS.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 117488
         },
         "150387": {
             "Title": "Prehistoric Planet",
@@ -197,23 +242,22 @@
             ],
             "Rating": "8.5",
             "TMDb ID": 95171
-        },
-        "144023": {
-            "Title": "The Marvelous Mrs. Maisel",
-            "Image Source": "https://imgpile.com/images/TMnY4c.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "8.7",
-            "TMDb ID": 70796
         }
     },
     "arabic-series": {
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
+            "Category": "arabic-series"
+        },
+        "4247": {
+            "Title": "المستور ضحايا حلال",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "arabic-series"
+        },
+        "4256": {
+            "Title": "15 ثانية",
+            "Image Source": "https://i.imgur.com/tZnRqGK.jpg",
             "Category": "arabic-series"
         }
     },
