@@ -1,5 +1,39 @@
 {
     "movies": {
+        "119768": {
+            "Title": "Cherry",
+            "Image Source": "https://imgpile.com/images/TuZfHo.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 544401
+        },
+        "216485": {
+            "Title": "Polite Society",
+            "Image Source": "https://i.imgur.com/P1NHztF.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 977223
+        },
+        "216482": {
+            "Title": "Last Sentinel",
+            "Image Source": "https://i.imgur.com/hudmDhS.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Sci-fi",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 516806
+        },
         "216456": {
             "Title": "The Eight Mountains",
             "Image Source": "https://i.imgur.com/zjfgzaN.jpg",
@@ -103,38 +137,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1098110
-        },
-        "216311": {
-            "Title": "SNAG",
-            "Image Source": "https://i.imgur.com/mcDjmh1.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller",
-                "Mystery"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1105803
-        },
-        "216307": {
-            "Title": "Moving On",
-            "Image Source": "https://i.imgur.com/oOVQbAA.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 953365
-        },
-        "216303": {
-            "Title": "Motion Detected",
-            "Image Source": "https://i.imgur.com/LagVceY.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1121753
         }
     },
     "asian-series": {
@@ -151,37 +153,37 @@
         }
     },
     "anime": {
-        "213014": {
-            "Title": "ISEKAI Shoukan Wa Nidome Desu",
-            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
+        "213051": {
+            "Title": "World Dai Star",
+            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 137391
+            "TMDb ID": 215198
         },
-        "213008": {
-            "Title": "Otonari ni ginga",
-            "Image Source": "https://imgpile.com/images/hllto2.jpg",
+        "212637": {
+            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
+            "Image Source": "https://imgpile.com/images/hlfLHG.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200732
+            "TMDb ID": 207493
         },
-        "213700": {
-            "Title": "Pokemon (2023)",
-            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
+        "212645": {
+            "Title": "My Home Hero",
+            "Image Source": "https://imgpile.com/images/hlf244.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 220150
+            "TMDb ID": 204412
         },
-        "212670": {
-            "Title": "Edens Zero 2nd Season",
-            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
+        "213045": {
+            "Title": "Kidou Senshi Gundam: Suisei no majo Season 2",
+            "Image Source": "https://imgpile.com/images/hllPvh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 104711
+            "TMDb ID": null
         }
     },
     "series": {
@@ -197,6 +199,18 @@
             ],
             "Rating": "6.8",
             "TMDb ID": 62286
+        },
+        "144582": {
+            "Title": "From",
+            "Image Source": "https://imgpile.com/images/TMnAS3.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 124364
         },
         "137834": {
             "Title": "Power Book II: Ghost",
@@ -231,17 +245,6 @@
             ],
             "Rating": "7.9",
             "TMDb ID": 117488
-        },
-        "150387": {
-            "Title": "Prehistoric Planet",
-            "Image Source": "https://imgpile.com/images/TM7c1j.jpg",
-            "Category": "series",
-            "Genres": [
-                "Documentary",
-                "History"
-            ],
-            "Rating": "8.5",
-            "TMDb ID": 95171
         }
     },
     "arabic-series": {
@@ -250,14 +253,39 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
+            "Category": "arabic-series"
+        },
         "4247": {
             "Title": "المستور ضحايا حلال",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "4256": {
-            "Title": "15 ثانية",
-            "Image Source": "https://i.imgur.com/tZnRqGK.jpg",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "4210": {
+            "Title": "ملح وسمرة",
+            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+            "Category": "arabic-series"
+        },
+        "4199": {
+            "Title": "الملكة الموسم الاول",
+            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
             "Category": "arabic-series"
         }
     },
