@@ -1,5 +1,62 @@
 {
     "movies": {
+        "216651": {
+            "Title": "The Black Demon",
+            "Image Source": "https://i.imgur.com/83nO60J.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Sci-fi",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 890771
+        },
+        "188277": {
+            "Title": "Operation Seawolf",
+            "Image Source": "https://i.imgur.com/YpULt76.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Mystery",
+                "Adventure"
+            ],
+            "Rating": "3.2",
+            "TMDb ID": 1018494
+        },
+        "216646": {
+            "Title": "Legions",
+            "Image Source": "https://i.imgur.com/dlF0vAo.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Comedy",
+                "Fantasy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 709195
+        },
+        "136176": {
+            "Title": "Hypnotic",
+            "Image Source": "https://imgpile.com/images/T7Pvxb.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 864873
+        },
+        "216635": {
+            "Title": "A Good Person",
+            "Image Source": "https://i.imgur.com/eFl8CHv.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 800787
+        },
         "119768": {
             "Title": "Cherry",
             "Image Source": "https://imgpile.com/images/TuZfHo.jpg",
@@ -66,77 +123,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 893338
-        },
-        "216417": {
-            "Title": "Where the Tracks End",
-            "Image Source": "https://i.imgur.com/44cb2MU.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy",
-                "Family"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1121316
-        },
-        "216414": {
-            "Title": "Tin & Tina",
-            "Image Source": "https://i.imgur.com/D1k9Y9T.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 943930
-        },
-        "216412": {
-            "Title": "The Year I Started Masturbating",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 983105
-        },
-        "216408": {
-            "Title": "Malum",
-            "Image Source": "https://i.imgur.com/kmFJnZE.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Drama",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1094403
-        },
-        "214686": {
-            "Title": "Dungeons & Dragons: Honor Among Thieves",
-            "Image Source": "https://i.imgur.com/eFYKEGl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Fantasy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 493529
-        },
-        "216401": {
-            "Title": "Blood & Gold",
-            "Image Source": "https://i.imgur.com/0zmroKi.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Drama",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1098110
         }
     },
     "asian-series": {
@@ -151,20 +137,33 @@
             ],
             "Rating": "8.2",
             "TMDb ID": 70672
-        },
-        "108639": {
-            "Title": "Tale of the Nine Tailed",
-            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Fantasy",
-                "Romance"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 108284
         }
     },
     "anime": {
+        "213127": {
+            "Title": "ao no Orchestra",
+            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 197368
+        },
+        "213146": {
+            "Title": "The Marginal Service",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 214211
+        },
+        "212704": {
+            "Title": "Skip to Loafer",
+            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 139130
+        },
         "213100": {
             "Title": "Dead Mount Death Play",
             "Image Source": "https://imgpile.com/images/hllmxc.jpg",
@@ -172,34 +171,6 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 214540
-        },
-        "202631": {
-            "Title": "Vinland Saga Season 2",
-            "Image Source": "https://i.imgur.com/8px8auH.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "8.73",
-            "TMDb ID": 88803
-        },
-        "213115": {
-            "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
-            "Image Source": "https://imgpile.com/images/hlllng.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 205366
-        },
-        "212710": {
-            "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
-            "Image Source": "https://imgpile.com/images/hlf64c.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 72505
         }
     },
     "series": {
@@ -216,6 +187,28 @@
             "Rating": "6.8",
             "TMDb ID": 62286
         },
+        "203883": {
+            "Title": "How I Met Your Father",
+            "Image Source": "https://i.imgur.com/x9wiHoX.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 124010
+        },
+        "124995": {
+            "Title": "Run the World",
+            "Image Source": "https://imgpile.com/images/TK6b3S.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "6.2",
+            "TMDb ID": 123084
+        },
         "141625": {
             "Title": "Somebody Somewhere",
             "Image Source": "https://imgpile.com/images/TKyy6h.jpg",
@@ -225,41 +218,6 @@
             ],
             "Rating": "7.9",
             "TMDb ID": 106308
-        },
-        "148556": {
-            "Title": "Barry",
-            "Image Source": "https://imgpile.com/images/TMu7m1.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "8.4",
-            "TMDb ID": 73107
-        },
-        "209501": {
-            "Title": "The Blacklist",
-            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 46952
-        },
-        "135669": {
-            "Title": "Succession",
-            "Image Source": "https://imgpile.com/images/TKag5R.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "8.8",
-            "TMDb ID": 76331
         }
     },
     "arabic-series": {

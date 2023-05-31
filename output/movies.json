@@ -143597,5 +143597,55 @@
         "Image Source": "https://i.imgur.com/hudmDhS.jpg",
         "Source": "088682528ad37614f1f37eb1bdc29b97",
         "TMDb ID": 516806
+    },
+    "216651": {
+        "Title": "The Black Demon",
+        "Category": "movies",
+        "Genres": [
+            "Thriller",
+            "Sci-fi",
+            "Horror"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/83nO60J.jpg",
+        "Source": "b9adddf61673a5e41e57ccf1d87b9116",
+        "TMDb ID": 890771
+    },
+    "216646": {
+        "Title": "Legions",
+        "Category": "movies",
+        "Genres": [
+            "Horror",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/dlF0vAo.jpg",
+        "Source": "f2a6e26576a6b3d07b9c02b7cc040a4a",
+        "TMDb ID": 709195
+    },
+    "216643": {
+        "Title": "Hypnotic",
+        "Category": "movies",
+        "Genres": [
+            "Action",
+            "Thriller",
+            "Mystery"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/sX6ll99.jpg",
+        "Source": "41799c3c9ca67e244d49ad61282bc8b2",
+        "TMDb ID": 864873
+    },
+    "216635": {
+        "Title": "A Good Person",
+        "Category": "movies",
+        "Genres": [
+            "Drama"
+        ],
+        "Format": "Bluray",
+        "Image Source": "https://i.imgur.com/eFl8CHv.jpg",
+        "Source": "de088a79a5a9144b089bf7b1dbc9fea9",
+        "TMDb ID": 800787
     }
 }
