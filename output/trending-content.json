@@ -1,5 +1,67 @@
 {
     "movies": {
+        "216796": {
+            "Title": "Skinford: Death Sentence",
+            "Image Source": "https://i.imgur.com/5TMOGoI.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1102551
+        },
+        "214384": {
+            "Title": "The Tank",
+            "Image Source": "https://i.imgur.com/kA2AnAs.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1098160
+        },
+        "216784": {
+            "Title": "The Seven Faces of Jane",
+            "Image Source": "https://i.imgur.com/VV4zjd8.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 982813
+        },
+        "216781": {
+            "Title": "The New Toy",
+            "Image Source": "https://i.imgur.com/t3QIm5D.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 865498
+        },
+        "216778": {
+            "Title": "Reality",
+            "Image Source": "https://i.imgur.com/rP9PNrS.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 985617
+        },
+        "216774": {
+            "Title": "Mixed by Erry",
+            "Image Source": "https://i.imgur.com/qKsBDU5.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 921785
+        },
         "216651": {
             "Title": "The Black Demon",
             "Image Source": "https://i.imgur.com/83nO60J.jpg",
@@ -46,131 +108,41 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 864873
-        },
-        "216635": {
-            "Title": "A Good Person",
-            "Image Source": "https://i.imgur.com/eFl8CHv.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 800787
-        },
-        "119768": {
-            "Title": "Cherry",
-            "Image Source": "https://imgpile.com/images/TuZfHo.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 544401
-        },
-        "216485": {
-            "Title": "Polite Society",
-            "Image Source": "https://i.imgur.com/P1NHztF.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 977223
-        },
-        "216482": {
-            "Title": "Last Sentinel",
-            "Image Source": "https://i.imgur.com/hudmDhS.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Sci-fi",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 516806
-        },
-        "216456": {
-            "Title": "The Eight Mountains",
-            "Image Source": "https://i.imgur.com/zjfgzaN.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 803700
-        },
-        "216453": {
-            "Title": "Influencer",
-            "Image Source": "https://i.imgur.com/45h3yHK.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror",
-                "Mystery"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1020910
-        },
-        "216450": {
-            "Title": "Gatlopp",
-            "Image Source": "https://i.imgur.com/to9Aw4k.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 893338
         }
     },
-    "asian-series": {
-        "106890": {
-            "Title": "Knowing Bros",
-            "Image Source": "https://imgpile.com/images/TKcwfa.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Comedy",
-                "Game-show",
-                "Reality-tv"
-            ],
-            "Rating": "8.2",
-            "TMDb ID": 70672
-        }
-    },
+    "asian-series": {},
     "anime": {
-        "213127": {
-            "Title": "ao no Orchestra",
-            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
+        "213690": {
+            "Title": "Niehime to Kemono no ou",
+            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 197368
+            "TMDb ID": 117024
         },
-        "213146": {
-            "Title": "The Marginal Service",
+        "212777": {
+            "Title": "Kaminaki Sekai no Kamisama Katsudou",
+            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 199920
+        },
+        "213276": {
+            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 214211
+            "TMDb ID": null
         },
-        "212704": {
-            "Title": "Skip to Loafer",
-            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
+        "212772": {
+            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
+            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 139130
-        },
-        "213100": {
-            "Title": "Dead Mount Death Play",
-            "Image Source": "https://imgpile.com/images/hllmxc.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 214540
+            "TMDb ID": 203040
         }
     },
     "series": {
@@ -187,37 +159,41 @@
             "Rating": "6.8",
             "TMDb ID": 62286
         },
-        "203883": {
-            "Title": "How I Met Your Father",
-            "Image Source": "https://i.imgur.com/x9wiHoX.jpg",
+        "210909": {
+            "Title": "Gotham Knights",
+            "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 195868
+        },
+        "210929": {
+            "Title": "Superman and Lois",
+            "Image Source": "https://i.imgur.com/qotOzSl.png",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 95057
+        },
+        "210906": {
+            "Title": "Ted Lasso",
+            "Image Source": "https://i.imgur.com/hz2PU3K.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy",
-                "Drama"
+                "Drama",
+                "Sport"
             ],
-            "Rating": "5.5",
-            "TMDb ID": 124010
-        },
-        "124995": {
-            "Title": "Run the World",
-            "Image Source": "https://imgpile.com/images/TK6b3S.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "6.2",
-            "TMDb ID": 123084
-        },
-        "141625": {
-            "Title": "Somebody Somewhere",
-            "Image Source": "https://imgpile.com/images/TKyy6h.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 106308
+            "Rating": "N/A",
+            "TMDb ID": 97546
         }
     },
     "arabic-series": {
@@ -236,14 +212,14 @@
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "arabic-series"
         },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
         "3877": {
             "Title": "الثمن",
             "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
         "4210": {
