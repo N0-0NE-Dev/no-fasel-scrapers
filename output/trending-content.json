@@ -1,5 +1,40 @@
 {
     "movies": {
+        "216900": {
+            "Title": "Robots",
+            "Image Source": "https://i.imgur.com/tYcIUtq.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Sci-fi",
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 723347
+        },
+        "216878": {
+            "Title": "Rebel",
+            "Image Source": "https://i.imgur.com/zKnfso0.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 853332
+        },
+        "151856": {
+            "Title": "A Beautiful Life",
+            "Image Source": "https://imgpile.com/images/TUd3KL.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "8.6",
+            "TMDb ID": 58197
+        },
         "216796": {
             "Title": "Skinford: Death Sentence",
             "Image Source": "https://i.imgur.com/5TMOGoI.jpg",
@@ -85,33 +120,34 @@
             ],
             "Rating": "3.2",
             "TMDb ID": 1018494
-        },
-        "216646": {
-            "Title": "Legions",
-            "Image Source": "https://i.imgur.com/dlF0vAo.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror",
-                "Comedy",
-                "Fantasy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 709195
-        },
-        "136176": {
-            "Title": "Hypnotic",
-            "Image Source": "https://imgpile.com/images/T7Pvxb.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 864873
         }
     },
     "asian-series": {},
     "anime": {
+        "212864": {
+            "Title": "Yuusha Ga Shinda!",
+            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 200750
+        },
+        "212860": {
+            "Title": "mahoutsukai no Yome Season 2",
+            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "212857": {
+            "Title": "Dr.Stone: New World",
+            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 86031
+        },
         "213690": {
             "Title": "Niehime to Kemono no ou",
             "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
@@ -119,30 +155,6 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 117024
-        },
-        "212777": {
-            "Title": "Kaminaki Sekai no Kamisama Katsudou",
-            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 199920
-        },
-        "213276": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "212772": {
-            "Title": "Kono Subarashii Sekai Ni Bakuen Wo!",
-            "Image Source": "https://imgpile.com/images/hlfgYR.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 203040
         }
     },
     "series": {
@@ -159,6 +171,30 @@
             "Rating": "6.8",
             "TMDb ID": 62286
         },
+        "135173": {
+            "Title": "Nancy Drew",
+            "Image Source": "https://imgpile.com/images/TKaYiS.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 89572
+        },
+        "137449": {
+            "Title": "Riverdale",
+            "Image Source": "https://i.imgur.com/SDU4LC6.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Rating": "6.6",
+            "TMDb ID": 69050
+        },
         "210909": {
             "Title": "Gotham Knights",
             "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
@@ -170,30 +206,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 195868
-        },
-        "210929": {
-            "Title": "Superman and Lois",
-            "Image Source": "https://i.imgur.com/qotOzSl.png",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 95057
-        },
-        "210906": {
-            "Title": "Ted Lasso",
-            "Image Source": "https://i.imgur.com/hz2PU3K.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 97546
         }
     },
     "arabic-series": {
@@ -202,24 +214,14 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
-        "4247": {
-            "Title": "المستور ضحايا حلال",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
         "3877": {
             "Title": "الثمن",
             "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
             "Category": "arabic-series"
         },
         "4210": {
