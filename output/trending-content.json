@@ -1,5 +1,48 @@
 {
     "movies": {
+        "216951": {
+            "Title": "Um Ano Inesquecvel  Vero",
+            "Image Source": "https://i.imgur.com/srtWQx6.jpg",
+            "Category": "movies",
+            "Genres": [
+                "N-a"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "216947": {
+            "Title": "Rich in Love 2",
+            "Image Source": "https://i.imgur.com/G8kx9AA.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Romance",
+                "Comedy",
+                "Music"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1126852
+        },
+        "216943": {
+            "Title": "Missed Connections",
+            "Image Source": "https://i.imgur.com/xSFAwM2.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1123342
+        },
+        "216939": {
+            "Title": "Medellin",
+            "Image Source": "https://i.imgur.com/9LP8cJe.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 961718
+        },
         "216900": {
             "Title": "Robots",
             "Image Source": "https://i.imgur.com/tYcIUtq.jpg",
@@ -76,85 +119,33 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 865498
-        },
-        "216778": {
-            "Title": "Reality",
-            "Image Source": "https://i.imgur.com/rP9PNrS.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 985617
-        },
-        "216774": {
-            "Title": "Mixed by Erry",
-            "Image Source": "https://i.imgur.com/qKsBDU5.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 921785
-        },
-        "216651": {
-            "Title": "The Black Demon",
-            "Image Source": "https://i.imgur.com/83nO60J.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Sci-fi",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 890771
-        },
-        "188277": {
-            "Title": "Operation Seawolf",
-            "Image Source": "https://i.imgur.com/YpULt76.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Mystery",
-                "Adventure"
-            ],
-            "Rating": "3.2",
-            "TMDb ID": 1018494
         }
     },
     "asian-series": {},
     "anime": {
-        "212864": {
-            "Title": "Yuusha Ga Shinda!",
-            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 200750
-        },
-        "212860": {
-            "Title": "mahoutsukai no Yome Season 2",
-            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+        "212945": {
+            "Title": "Tonikaku Kawaii 2nd Season",
+            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "212857": {
-            "Title": "Dr.Stone: New World",
-            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+        "212949": {
+            "Title": "Rokudou No Onna-Tachi",
+            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 86031
+            "TMDb ID": 218563
         },
-        "213690": {
-            "Title": "Niehime to Kemono no ou",
-            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
+        "212960": {
+            "Title": "Megami no Caf Terrace",
+            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 117024
+            "TMDb ID": null
         }
     },
     "series": {
@@ -171,6 +162,29 @@
             "Rating": "6.8",
             "TMDb ID": 62286
         },
+        "186222": {
+            "Title": "The Kardashians",
+            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
+            "Category": "series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "4.8",
+            "TMDb ID": 154521
+        },
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 46952
+        },
         "135173": {
             "Title": "Nancy Drew",
             "Image Source": "https://imgpile.com/images/TKaYiS.jpg",
@@ -182,30 +196,6 @@
             ],
             "Rating": "6.6",
             "TMDb ID": 89572
-        },
-        "137449": {
-            "Title": "Riverdale",
-            "Image Source": "https://i.imgur.com/SDU4LC6.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 69050
-        },
-        "210909": {
-            "Title": "Gotham Knights",
-            "Image Source": "https://i.imgur.com/5TF4e6F.jpg",
-            "Category": "series",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 195868
         }
     },
     "arabic-series": {
@@ -214,19 +204,9 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
-            "Category": "arabic-series"
-        },
-        "4210": {
-            "Title": "ملح وسمرة",
-            "Image Source": "https://i.imgur.com/MSzVUuf.jpg",
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         }
     },
