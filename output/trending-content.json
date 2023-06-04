@@ -1,5 +1,39 @@
 {
     "movies": {
+        "217038": {
+            "Title": "World War III",
+            "Image Source": "https://i.imgur.com/ZrxzphD.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1005299
+        },
+        "215267": {
+            "Title": "Simulant",
+            "Image Source": "https://i.imgur.com/TelSAHG.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Sci-fi"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 942199
+        },
+        "217019": {
+            "Title": "His Only Son",
+            "Image Source": "https://i.imgur.com/h4OdVDr.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "History"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 761851
+        },
         "216951": {
             "Title": "Um Ano Inesquecvel  Vero",
             "Image Source": "https://i.imgur.com/srtWQx6.jpg",
@@ -77,75 +111,57 @@
             ],
             "Rating": "8.6",
             "TMDb ID": 58197
-        },
-        "216796": {
-            "Title": "Skinford: Death Sentence",
-            "Image Source": "https://i.imgur.com/5TMOGoI.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1102551
-        },
-        "214384": {
-            "Title": "The Tank",
-            "Image Source": "https://i.imgur.com/kA2AnAs.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1098160
-        },
-        "216784": {
-            "Title": "The Seven Faces of Jane",
-            "Image Source": "https://i.imgur.com/VV4zjd8.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 982813
-        },
-        "216781": {
-            "Title": "The New Toy",
-            "Image Source": "https://i.imgur.com/t3QIm5D.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 865498
         }
     },
-    "asian-series": {},
+    "asian-series": {
+        "108639": {
+            "Title": "Tale of the Nine Tailed",
+            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Fantasy",
+                "Romance"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 108284
+        }
+    },
     "anime": {
-        "212945": {
-            "Title": "Tonikaku Kawaii 2nd Season",
-            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
+        "202808": {
+            "Title": "Kubo-SAN WA MOB Wo Yurusanai",
+            "Image Source": "https://i.imgur.com/uw5Crvm.jpg",
             "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": null
+            "Genres": [
+                "Animation",
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "7.66",
+            "TMDb ID": 201889
         },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+        "213700": {
+            "Title": "Pokemon (2023)",
+            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 218563
+            "TMDb ID": 220150
         },
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 200732
+        },
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 104711
         }
     },
     "series": {
@@ -162,16 +178,6 @@
             "Rating": "6.8",
             "TMDb ID": 62286
         },
-        "186222": {
-            "Title": "The Kardashians",
-            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
-            "Category": "series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "4.8",
-            "TMDb ID": 154521
-        },
         "209501": {
             "Title": "The Blacklist",
             "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
@@ -183,6 +189,29 @@
                 "Thriller"
             ],
             "Rating": "N/A",
+            "TMDb ID": 46952
+        },
+        "186222": {
+            "Title": "The Kardashians",
+            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
+            "Category": "series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "4.8",
+            "TMDb ID": 154521
+        },
+        "135858": {
+            "Title": "The Blacklist",
+            "Image Source": "https://imgpile.com/images/TKapKW.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "8",
             "TMDb ID": 46952
         },
         "135173": {
@@ -202,11 +231,6 @@
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
-            "Category": "arabic-series"
-        },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         }
     },
