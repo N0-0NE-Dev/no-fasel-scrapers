@@ -1,5 +1,27 @@
 {
     "movies": {
+        "193285": {
+            "Title": "Sigurno mjesto",
+            "Image Source": "https://i.imgur.com/VIEvNL4.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8",
+            "TMDb ID": 997659
+        },
+        "217170": {
+            "Title": "Other Peoples Children",
+            "Image Source": "https://i.imgur.com/9Odv0c2.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 803694
+        },
         "217121": {
             "Title": "The Blue Caftan",
             "Image Source": "https://i.imgur.com/DrMdxOu.jpg",
@@ -89,27 +111,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 942199
-        },
-        "217019": {
-            "Title": "His Only Son",
-            "Image Source": "https://i.imgur.com/h4OdVDr.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "History"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 761851
-        },
-        "216951": {
-            "Title": "Um Ano Inesquecvel  Vero",
-            "Image Source": "https://i.imgur.com/srtWQx6.jpg",
-            "Category": "movies",
-            "Genres": [
-                "N-a"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
         }
     },
     "asian-series": {
@@ -124,30 +125,25 @@
             ],
             "Rating": "8.2",
             "TMDb ID": 70672
-        },
-        "108639": {
-            "Title": "Tale of the Nine Tailed",
-            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Fantasy",
-                "Romance"
-            ],
-            "Rating": "7.9",
-            "TMDb ID": 108284
-        },
-        "108969": {
-            "Title": "Master in the House",
-            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
-            "Category": "asian-series",
-            "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "6.4",
-            "TMDb ID": 76033
         }
     },
     "anime": {
+        "213146": {
+            "Title": "The Marginal Service",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 214211
+        },
+        "212704": {
+            "Title": "Skip to Loafer",
+            "Image Source": "https://imgpile.com/images/hlfEtN.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 139130
+        },
         "213014": {
             "Title": "ISEKAI Shoukan Wa Nidome Desu",
             "Image Source": "https://imgpile.com/images/hllGx4.jpg",
@@ -163,26 +159,6 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 214540
-        },
-        "202631": {
-            "Title": "Vinland Saga Season 2",
-            "Image Source": "https://i.imgur.com/8px8auH.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Action",
-                "Adventure"
-            ],
-            "Rating": "8.73",
-            "TMDb ID": 88803
-        },
-        "212710": {
-            "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
-            "Image Source": "https://imgpile.com/images/hlf64c.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 72505
         }
     },
     "series": {
@@ -211,33 +187,39 @@
             "Rating": "6.7",
             "TMDb ID": 65784
         },
-        "144582": {
-            "Title": "From",
-            "Image Source": "https://imgpile.com/images/TMnAS3.jpg",
+        "203883": {
+            "Title": "How I Met Your Father",
+            "Image Source": "https://i.imgur.com/x9wiHoX.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 124010
+        },
+        "123192": {
+            "Title": "Cruel Summer",
+            "Image Source": "https://imgpile.com/images/TK3A1w.jpg",
             "Category": "series",
             "Genres": [
                 "Drama",
-                "Horror",
-                "Mystery"
+                "Mystery",
+                "Thriller"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 124364
-        },
-        "141229": {
-            "Title": "Joe Pickett",
-            "Image Source": "https://imgpile.com/images/TKyB8w.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 122235
+            "Rating": "7.5",
+            "TMDb ID": 98201
         }
     },
     "arabic-series": {
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
+            "Category": "arabic-series"
+        },
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         },
         "3516": {
