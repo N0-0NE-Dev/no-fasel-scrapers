@@ -1,5 +1,60 @@
 {
     "movies": {
+        "217465": {
+            "Title": "The Wonder Weeks",
+            "Image Source": "https://i.imgur.com/4OykSg8.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1126844
+        },
+        "217461": {
+            "Title": "Showing Up",
+            "Image Source": "https://i.imgur.com/tQ8gafC.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 790416
+        },
+        "98996": {
+            "Title": "Nefarious",
+            "Image Source": "https://imgpile.com/images/T5Z8JN.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 111964
+        },
+        "217453": {
+            "Title": "Flamin Hot",
+            "Image Source": "https://i.imgur.com/0W44ZYc.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Biography",
+                "History"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 626332
+        },
+        "217449": {
+            "Title": "Fast X",
+            "Image Source": "https://i.imgur.com/OP9k4k6.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 385687
+        },
         "217307": {
             "Title": "My Fault",
             "Image Source": "https://i.imgur.com/DIF4dF5.jpg",
@@ -74,149 +129,102 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 958279
-        },
-        "217117": {
-            "Title": "Padre Pio",
-            "Image Source": "https://i.imgur.com/48eNbRY.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Biography"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 860901
-        },
-        "49705": {
-            "Title": "Inside",
-            "Image Source": "https://imgpile.com/images/TwzuBW.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 150540
-        },
-        "9511": {
-            "Title": "Control",
-            "Image Source": "https://imgpile.com/images/T5gNou.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Biography",
-                "Music"
-            ],
-            "Rating": "7.6",
-            "TMDb ID": 9636
-        },
-        "217060": {
-            "Title": "BlackBerry",
-            "Image Source": "https://i.imgur.com/Vi9cYNk.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Biography",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1016084
         }
     },
-    "asian-series": {},
+    "asian-series": {
+        "108639": {
+            "Title": "Tale of the Nine Tailed",
+            "Image Source": "https://imgpile.com/images/TKclXS.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Fantasy",
+                "Romance"
+            ],
+            "Rating": "7.9",
+            "TMDb ID": 108284
+        }
+    },
     "anime": {
-        "212860": {
-            "Title": "mahoutsukai no Yome Season 2",
-            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+        "213700": {
+            "Title": "Pokemon (2023)",
+            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 220150
         },
-        "212857": {
-            "Title": "Dr.Stone: New World",
-            "Image Source": "https://imgpile.com/images/hlfad1.jpg",
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 86031
+            "TMDb ID": 200732
         },
-        "213268": {
-            "Title": "Oshi no ko",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "42952": {
+            "Title": "Detective Conan",
+            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
+            "Category": "anime",
+            "Genres": [
+                "Mystery",
+                "Comedy",
+                "Adventure"
+            ],
+            "Rating": "8.17",
+            "TMDb ID": 195923
+        },
+        "212588": {
+            "Title": "jigokuraku",
+            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 203737
+            "TMDb ID": 117465
         }
     },
     "series": {
-        "215264": {
-            "Title": "Fear the Walking Dead",
-            "Image Source": "https://i.imgur.com/xK1DFmY.jpg",
+        "186222": {
+            "Title": "The Kardashians",
+            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
             "Category": "series",
             "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "4.8",
+            "TMDb ID": 154521
+        },
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
                 "Drama",
-                "Horror",
-                "Sci-fi",
+                "Mystery",
                 "Thriller"
             ],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 46952
         },
-        "216911": {
-            "Title": "Deadloch",
-            "Image Source": "https://i.imgur.com/nNfPTjz.jpg",
+        "144936": {
+            "Title": "Painting with John",
+            "Image Source": "https://imgpile.com/images/TMnSda.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy"
             ],
-            "Rating": "N/A",
-            "TMDb ID": null
+            "Rating": "7.7",
+            "TMDb ID": 114564
         },
-        "217333": {
-            "Title": "Based on a True Story",
-            "Image Source": "https://i.imgur.com/G6YHdQM.jpg",
+        "138697": {
+            "Title": "Its Always Sunny in Philadelphia",
+            "Image Source": "https://imgpile.com/images/TKjDbx.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy"
             ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "216896": {
-            "Title": "Nancy Drew",
-            "Image Source": "https://i.imgur.com/4k8VDiB.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
-        },
-        "137449": {
-            "Title": "Riverdale",
-            "Image Source": "https://i.imgur.com/SDU4LC6.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "Rating": "6.6",
-            "TMDb ID": 69050
-        },
-        "217195": {
-            "Title": "A Town Called Malice",
-            "Image Source": "https://i.imgur.com/zXGfVWo.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": null
+            "Rating": "8.8",
+            "TMDb ID": 2710
         }
     },
     "arabic-series": {
@@ -225,26 +233,27 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
-        "4199": {
-            "Title": "الملكة الموسم الاول",
-            "Image Source": "https://i.imgur.com/sSlKDRy.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "3877": {
-            "Title": "الثمن",
-            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },
-    "arabic-movies": {}
+    "arabic-movies": {
+        "6721": {
+            "Title": "كيرة والجن",
+            "Image Source": "https://imgpile.com/images/b0NTaF.jpg",
+            "Category": "arabic-movies"
+        },
+        "8358": {
+            "Title": "هارلي",
+            "Image Source": "https://i.imgur.com/iLhh0mN.jpg",
+            "Category": "arabic-movies"
+        },
+        "8620": {
+            "Title": "ميرف كولت",
+            "Image Source": "https://i.imgur.com/4s8kJXe.jpg",
+            "Category": "arabic-movies"
+        }
+    }
 }
