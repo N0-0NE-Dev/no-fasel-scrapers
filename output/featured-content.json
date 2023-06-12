@@ -1,6 +1,31 @@
 {
     "content": [
         {
+            "key": "214694",
+            "Title": "The Popes Exorcist",
+            "Image Source": "https://i.imgur.com/3rcjIwb.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 758323
+        },
+        {
+            "key": "214690",
+            "Title": "Renfield",
+            "Image Source": "https://i.imgur.com/an3HhhI.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Comedy",
+                "Fantasy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 649609
+        },
+        {
             "key": "217449",
             "Title": "Fast X",
             "Image Source": "https://i.imgur.com/OP9k4k6.jpg",
@@ -76,32 +101,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 700391
-        },
-        {
-            "key": "212917",
-            "Title": "Shazam! Fury of the Gods",
-            "Image Source": "https://imgpile.com/images/hlGPgb.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 594767
-        },
-        {
-            "key": "213624",
-            "Title": "Ant-Man and the Wasp: Quantumania",
-            "Image Source": "https://i.imgur.com/FnQ0lKw.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 640146
         }
     ]
 }

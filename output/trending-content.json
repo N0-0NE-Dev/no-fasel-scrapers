@@ -1,5 +1,50 @@
 {
     "movies": {
+        "214694": {
+            "Title": "The Popes Exorcist",
+            "Image Source": "https://i.imgur.com/3rcjIwb.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 758323
+        },
+        "214853": {
+            "Title": "Mafia Mamma",
+            "Image Source": "https://i.imgur.com/gJO0DDh.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 809787
+        },
+        "214690": {
+            "Title": "Renfield",
+            "Image Source": "https://i.imgur.com/an3HhhI.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror",
+                "Comedy",
+                "Fantasy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 649609
+        },
+        "217518": {
+            "Title": "97 Minutes",
+            "Image Source": "https://i.imgur.com/ZY0RlMX.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 940241
+        },
         "217465": {
             "Title": "The Wonder Weeks",
             "Image Source": "https://i.imgur.com/4OykSg8.jpg",
@@ -85,50 +130,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 10543
-        },
-        "216049": {
-            "Title": "John Wick: Chapter 4",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller",
-                "Crime"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 603692
-        },
-        "193285": {
-            "Title": "Sigurno mjesto",
-            "Image Source": "https://i.imgur.com/VIEvNL4.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "8",
-            "TMDb ID": 997659
-        },
-        "217170": {
-            "Title": "Other Peoples Children",
-            "Image Source": "https://i.imgur.com/9Odv0c2.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 803694
-        },
-        "217121": {
-            "Title": "The Blue Caftan",
-            "Image Source": "https://i.imgur.com/DrMdxOu.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 958279
         }
     },
     "asian-series": {
@@ -145,44 +146,73 @@
         }
     },
     "anime": {
-        "213700": {
-            "Title": "Pokemon (2023)",
-            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 220150
+            "TMDb ID": 137391
         },
-        "213008": {
-            "Title": "Otonari ni ginga",
-            "Image Source": "https://imgpile.com/images/hllto2.jpg",
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 200732
+            "TMDb ID": 104711
         },
-        "42952": {
-            "Title": "Detective Conan",
-            "Image Source": "https://imgpile.com/images/TJwJQW.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Mystery",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "8.17",
-            "TMDb ID": 195923
-        },
-        "212588": {
-            "Title": "jigokuraku",
-            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
+        "213051": {
+            "Title": "World Dai Star",
+            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 117465
+            "TMDb ID": 215198
+        },
+        "212637": {
+            "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou Wo Shiranai Kamigami No Shito",
+            "Image Source": "https://imgpile.com/images/hlfLHG.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 207493
         }
     },
     "series": {
+        "141229": {
+            "Title": "Joe Pickett",
+            "Image Source": "https://imgpile.com/images/TKyB8w.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 122235
+        },
+        "124995": {
+            "Title": "Run the World",
+            "Image Source": "https://imgpile.com/images/TK6b3S.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "6.2",
+            "TMDb ID": 123084
+        },
+        "144582": {
+            "Title": "From",
+            "Image Source": "https://imgpile.com/images/TMnAS3.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "7.6",
+            "TMDb ID": 124364
+        },
         "186222": {
             "Title": "The Kardashians",
             "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
@@ -215,16 +245,6 @@
             ],
             "Rating": "7.7",
             "TMDb ID": 114564
-        },
-        "138697": {
-            "Title": "Its Always Sunny in Philadelphia",
-            "Image Source": "https://imgpile.com/images/TKjDbx.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "8.8",
-            "TMDb ID": 2710
         }
     },
     "arabic-series": {
@@ -233,9 +253,19 @@
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
         },
-        "3798": {
-            "Title": "فتاة النافذة الموسم الثالث",
-            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
+        "3516": {
+            "Title": "حيرة الموسم الاول",
+            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
+            "Category": "arabic-series"
+        },
+        "3877": {
+            "Title": "الثمن",
+            "Image Source": "https://imgpile.com/images/hlsHvi.jpg",
+            "Category": "arabic-series"
+        },
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         }
     },
