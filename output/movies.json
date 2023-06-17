@@ -144158,5 +144158,42 @@
         "Image Source": "https://i.imgur.com/7G2olMx.jpg",
         "Source": "d935714ee76f8b800824f17f25ee5cbf",
         "TMDb ID": 1044300
+    },
+    "217919": {
+        "Title": "Stan Lee",
+        "Category": "movies",
+        "Genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/UXdaznk.jpg",
+        "Source": "2eac51f91217f76457b4612ff9ed04f1",
+        "TMDb ID": 717082
+    },
+    "217881": {
+        "Title": "Chevalier",
+        "Category": "movies",
+        "Genres": [
+            "Drama",
+            "Biography",
+            "History"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/rMYmn3x.jpg",
+        "Source": "9be6498c5f1fec5d62d841a5fed05ee5",
+        "TMDb ID": 812635
+    },
+    "217877": {
+        "Title": "Extraction 2",
+        "Category": "movies",
+        "Genres": [
+            "Action",
+            "Thriller"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/gvOO27G.jpg",
+        "Source": "1043a143fd78c284cd1f47bfe63e9cde",
+        "TMDb ID": 697843
     }
 }
