@@ -1,5 +1,49 @@
 {
     "movies": {
+        "216485": {
+            "Title": "Polite Society",
+            "Image Source": "https://i.imgur.com/P1NHztF.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 977223
+        },
+        "217951": {
+            "Title": "Dark Nature",
+            "Image Source": "https://i.imgur.com/T7zizMK.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 994138
+        },
+        "217940": {
+            "Title": "The Silent Twins",
+            "Image Source": "https://i.imgur.com/CRpkF2F.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Biography"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 812025
+        },
+        "217938": {
+            "Title": "The Girl Who Escaped: The Kara Robinson Story",
+            "Image Source": "https://i.imgur.com/A9DgS4Z.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1075334
+        },
         "217919": {
             "Title": "Stan Lee",
             "Image Source": "https://i.imgur.com/UXdaznk.jpg",
@@ -42,50 +86,6 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 1044300
-        },
-        "217121": {
-            "Title": "The Blue Caftan",
-            "Image Source": "https://i.imgur.com/DrMdxOu.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 958279
-        },
-        "217762": {
-            "Title": "Spoiler Alert",
-            "Image Source": "https://i.imgur.com/VB2KuT1.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 507903
-        },
-        "217660": {
-            "Title": "Honor Society",
-            "Image Source": "https://i.imgur.com/xffyLoO.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 929170
-        },
-        "210649": {
-            "Title": "Avatar: The Way of Water",
-            "Image Source": "https://imgpile.com/images/hlCx1x.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Fantasy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 76600
         }
     },
     "asian-series": {
@@ -103,40 +103,64 @@
         }
     },
     "anime": {
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 137391
         },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 218563
+            "TMDb ID": 200732
         },
-        "212945": {
-            "Title": "Tonikaku Kawaii 2nd Season",
-            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 104711
         },
-        "212932": {
-            "Title": "Mashle",
-            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
+        "212588": {
+            "Title": "jigokuraku",
+            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 204832
+            "TMDb ID": 117465
         }
     },
     "series": {
+        "145637": {
+            "Title": "Outlander",
+            "Image Source": "https://imgpile.com/images/TM1xh3.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "Rating": "8.4",
+            "TMDb ID": 56570
+        },
+        "82961": {
+            "Title": "Black Mirror",
+            "Image Source": "https://imgpile.com/images/TMMhqN.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Sci-fi",
+                "Thriller"
+            ],
+            "Rating": "8.8",
+            "TMDb ID": 42009
+        },
         "149084": {
             "Title": "Star Trek: Strange New Worlds",
             "Image Source": "https://imgpile.com/images/TMuldG.jpg",
@@ -147,6 +171,37 @@
             ],
             "Rating": "8.2",
             "TMDb ID": 103516
+        },
+        "138697": {
+            "Title": "Its Always Sunny in Philadelphia",
+            "Image Source": "https://imgpile.com/images/TKjDbx.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "8.8",
+            "TMDb ID": 2710
+        },
+        "151642": {
+            "Title": "The Lake",
+            "Image Source": "https://imgpile.com/images/TMNGuF.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "6.2",
+            "TMDb ID": 46638
+        },
+        "144936": {
+            "Title": "Painting with John",
+            "Image Source": "https://imgpile.com/images/TMnSda.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 114564
         },
         "135173": {
             "Title": "Nancy Drew",
@@ -171,28 +226,6 @@
             "TMDb ID": 154521
         }
     },
-    "arabic-series": {
-        "4234": {
-            "Title": "اللعبة الموسم الرابع : دوري الأبطال",
-            "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
-            "Category": "arabic-series"
-        },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        }
-    },
-    "arabic-movies": {
-        "6721": {
-            "Title": "كيرة والجن",
-            "Image Source": "https://imgpile.com/images/b0NTaF.jpg",
-            "Category": "arabic-movies"
-        },
-        "8358": {
-            "Title": "هارلي",
-            "Image Source": "https://i.imgur.com/iLhh0mN.jpg",
-            "Category": "arabic-movies"
-        }
-    }
+    "arabic-series": {},
+    "arabic-movies": {}
 }
