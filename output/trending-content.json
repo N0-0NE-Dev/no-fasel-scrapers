@@ -1,5 +1,81 @@
 {
     "movies": {
+        "218362": {
+            "Title": "Through My Window: Across the Sea",
+            "Image Source": "https://i.imgur.com/eR0LXIn.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 988078
+        },
+        "218359": {
+            "Title": "The Perfect Find",
+            "Image Source": "https://i.imgur.com/ebPxsYo.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 561717
+        },
+        "218356": {
+            "Title": "Surrounded",
+            "Image Source": "https://i.imgur.com/9rGOW11.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Western"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 759584
+        },
+        "218351": {
+            "Title": "King of Clones",
+            "Image Source": "https://i.imgur.com/KWTGFla.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1127211
+        },
+        "218346": {
+            "Title": "iNumber Number: Jozi Gold",
+            "Image Source": "https://i.imgur.com/5wvgIPy.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1129956
+        },
+        "218343": {
+            "Title": "Funny Pages",
+            "Image Source": "https://i.imgur.com/eMF2hp2.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 583095
+        },
+        "218340": {
+            "Title": "The Baby Swindler",
+            "Image Source": "https://i.imgur.com/LeP3IK6.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1039034
+        },
         "218180": {
             "Title": "Book Club: The Next Chapter",
             "Image Source": "https://i.imgur.com/WTacwb6.jpg",
@@ -42,98 +118,54 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 986070
-        },
-        "215389": {
-            "Title": "The Super Mario Bros. Movie",
-            "Image Source": "https://i.imgur.com/M9ZD4NK.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Animation",
-                "Comedy",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 502356
-        },
-        "218083": {
-            "Title": "Take Care of Maya",
-            "Image Source": "https://i.imgur.com/aBAVXqA.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Documentary"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1114901
-        },
-        "218079": {
-            "Title": "Stepping into Love",
-            "Image Source": "https://i.imgur.com/OAHWiI5.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Romance"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1019879
-        },
-        "218073": {
-            "Title": "Punch",
-            "Image Source": "https://i.imgur.com/ZJooWWz.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Sport"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 942802
-        },
-        "218060": {
-            "Title": "Kandahar",
-            "Image Source": "https://i.imgur.com/55kAkha.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 717930
         }
     },
     "asian-series": {},
     "anime": {
-        "212864": {
-            "Title": "Yuusha Ga Shinda!",
-            "Image Source": "https://imgpile.com/images/hlfpHW.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 200750
-        },
-        "212860": {
-            "Title": "mahoutsukai no Yome Season 2",
-            "Image Source": "https://imgpile.com/images/hlfSSP.jpg",
+        "212960": {
+            "Title": "Megami no Caf Terrace",
+            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": null
         },
-        "213700": {
-            "Title": "Pokemon (2023)",
-            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
+        "212945": {
+            "Title": "Tonikaku Kawaii 2nd Season",
+            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 220150
+            "TMDb ID": null
         },
-        "213690": {
-            "Title": "Niehime to Kemono no ou",
-            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
+        "212949": {
+            "Title": "Rokudou No Onna-Tachi",
+            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 117024
+            "TMDb ID": 218563
+        },
+        "212932": {
+            "Title": "Mashle",
+            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 204832
         }
     },
     "series": {
+        "136327": {
+            "Title": "Swagger",
+            "Image Source": "https://imgpile.com/images/TKeNMb.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.2",
+            "TMDb ID": 94245
+        },
         "150165": {
             "Title": "And Just Like That",
             "Image Source": "https://imgpile.com/images/TM7P51.jpg",
@@ -189,6 +221,29 @@
             ],
             "Rating": "8.8",
             "TMDb ID": 2710
+        },
+        "186222": {
+            "Title": "The Kardashians",
+            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
+            "Category": "series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "4.8",
+            "TMDb ID": 154521
+        },
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 46952
         }
     },
     "arabic-series": {
@@ -205,21 +260,6 @@
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
-            "Category": "arabic-series"
-        },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "4304": {
-            "Title": "الحجرة",
-            "Image Source": "https://i.imgur.com/R10DNxe.jpg",
             "Category": "arabic-series"
         }
     },
