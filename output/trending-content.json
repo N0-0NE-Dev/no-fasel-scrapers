@@ -65,94 +65,33 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 583095
-        },
-        "218340": {
-            "Title": "The Baby Swindler",
-            "Image Source": "https://i.imgur.com/LeP3IK6.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1039034
-        },
-        "218180": {
-            "Title": "Book Club: The Next Chapter",
-            "Image Source": "https://i.imgur.com/WTacwb6.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 982271
-        },
-        "118468": {
-            "Title": "Music",
-            "Image Source": "https://imgpile.com/images/TuEoOE.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Musical",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 586101
-        },
-        "218089": {
-            "Title": "Unwelcome",
-            "Image Source": "https://i.imgur.com/aIMiNa9.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 758769
-        },
-        "218086": {
-            "Title": "The Wrath of Becky",
-            "Image Source": "https://i.imgur.com/odzVoSp.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 986070
         }
     },
     "asian-series": {},
     "anime": {
-        "212960": {
-            "Title": "Megami no Caf Terrace",
-            "Image Source": "https://imgpile.com/images/hll4Nj.jpg",
+        "213008": {
+            "Title": "Otonari ni ginga",
+            "Image Source": "https://imgpile.com/images/hllto2.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 200732
         },
-        "212945": {
-            "Title": "Tonikaku Kawaii 2nd Season",
-            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
+        "212670": {
+            "Title": "Edens Zero 2nd Season",
+            "Image Source": "https://imgpile.com/images/hlfWmh.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 104711
         },
-        "212949": {
-            "Title": "Rokudou No Onna-Tachi",
-            "Image Source": "https://imgpile.com/images/hllu4S.jpg",
+        "213700": {
+            "Title": "Pokemon (2023)",
+            "Image Source": "https://i.imgur.com/6GotK0u.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 218563
-        },
-        "212932": {
-            "Title": "Mashle",
-            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 204832
+            "TMDb ID": 220150
         }
     },
     "series": {
@@ -222,6 +161,16 @@
             "Rating": "8.8",
             "TMDb ID": 2710
         },
+        "144936": {
+            "Title": "Painting with John",
+            "Image Source": "https://imgpile.com/images/TMnSda.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 114564
+        },
         "186222": {
             "Title": "The Kardashians",
             "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
@@ -231,19 +180,6 @@
             ],
             "Rating": "4.8",
             "TMDb ID": 154521
-        },
-        "209501": {
-            "Title": "The Blacklist",
-            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 46952
         }
     },
     "arabic-series": {
@@ -260,6 +196,16 @@
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
+            "Category": "arabic-series"
+        },
+        "4292": {
+            "Title": "جريمة قلب",
+            "Image Source": "https://i.imgur.com/eVN2TRz.jpg",
+            "Category": "arabic-series"
+        },
+        "3798": {
+            "Title": "فتاة النافذة الموسم الثالث",
+            "Image Source": "https://i.imgur.com/8KO5Ymg.jpg",
             "Category": "arabic-series"
         }
     },
