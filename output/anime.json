@@ -3640,7 +3640,7 @@
             "Animation",
             "Adventure"
         ],
-        "Number Of Episodes": 12,
+        "Number Of Episodes": 13,
         "Image Source": "https://i.imgur.com/CUj6OIk.jpg",
         "Episodes": {
             "187145": {
@@ -3690,6 +3690,10 @@
             "218043": {
                 "Episode Number": 12,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=a6e98e99189469b0ef1010d44867bb24&img=https://img.scdn.to/thumb/a6e98e99189469b0ef1010d44867bb24/large.jpg"
+            },
+            "218470": {
+                "Episode Number": 13,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=578d0cac04e6d775cc4e875374404587&img=https://img.scdn.to/thumb/578d0cac04e6d775cc4e875374404587/large.jpg"
             }
         },
         "Rating": "8.28",
@@ -94122,7 +94126,7 @@
     "213115": {
         "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
         "Category": "anime",
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlllng.jpg",
         "Episodes": {
@@ -94169,6 +94173,10 @@
             "218045": {
                 "Episode Number": 11,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=84382de6d77e41a719a0cc29b06d8908&img=https://img.scdn.to/thumb/84382de6d77e41a719a0cc29b06d8908/large.jpg"
+            },
+            "218469": {
+                "Episode Number": 12,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=fec5304f9e0ddb349834c8bdfa489317&img=https://img.scdn.to/thumb/fec5304f9e0ddb349834c8bdfa489317/large.jpg"
             }
         },
         "Genres": [],
@@ -94177,7 +94185,7 @@
     "213100": {
         "Title": "Dead Mount Death Play",
         "Category": "anime",
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hllmxc.jpg",
         "Episodes": {
@@ -94224,6 +94232,10 @@
             "218042": {
                 "Episode Number": 11,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=c501562ef99f26daf87f5077872fad6c&img=https://img.scdn.to/thumb/c501562ef99f26daf87f5077872fad6c/large.jpg"
+            },
+            "218471": {
+                "Episode Number": 12,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=ddeff416a44699611d63252fe74432ad&img=https://img.scdn.to/thumb/ddeff416a44699611d63252fe74432ad/large.jpg"
             }
         },
         "Genres": [],
@@ -95269,6 +95281,40 @@
             "58871": {
                 "Episode Number": 62,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=ed0ac218a93eb81c975b3873f4d6289e&img=https://img.scdn.to/thumb/ed0ac218a93eb81c975b3873f4d6289e/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "218472": {
+        "Title": "Genjitsu No Yohane: Sunshine in the Mirror",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/NhuPgHL.jpg",
+        "Episodes": {
+            "218477": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=84f6cf0f7a78935cc1a7b25076e7e416&img=https://img.scdn.to/thumb/84f6cf0f7a78935cc1a7b25076e7e416/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 204849
+    },
+    "218159": {
+        "Title": "One Piece arabasta Arc",
+        "Category": "anime",
+        "Number Of Episodes": 2,
+        "Format": "N/A",
+        "Image Source": "https://i.imgur.com/Kxn0mc8.jpg",
+        "Episodes": {
+            "58872": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=84be1fd2a06fb7a500893e649b863095&img=https://img.scdn.to/thumb/84be1fd2a06fb7a500893e649b863095/large.jpg"
+            },
+            "59000": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=cdb81b910bc136f7c8180dc0c1f89c3d&img=https://img.scdn.to/thumb/cdb81b910bc136f7c8180dc0c1f89c3d/large.jpg"
             }
         },
         "Genres": [],
