@@ -121,6 +121,22 @@
     },
     "asian-series": {},
     "anime": {
+        "213127": {
+            "Title": "ao no Orchestra",
+            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 197368
+        },
+        "213146": {
+            "Title": "The Marginal Service",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 214211
+        },
         "218472": {
             "Title": "Genjitsu No Yohane: Sunshine in the Mirror",
             "Image Source": "https://i.imgur.com/NhuPgHL.jpg",
@@ -155,22 +171,6 @@
             "Genres": [],
             "Rating": "N/A",
             "TMDb ID": 205366
-        },
-        "213133": {
-            "Title": "Kimi Wa Houkago Insomnia",
-            "Image Source": "https://imgpile.com/images/hllsir.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 155440
-        },
-        "213051": {
-            "Title": "World Dai Star",
-            "Image Source": "https://imgpile.com/images/hllJrX.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 215198
         }
     },
     "series": {
@@ -240,6 +240,29 @@
             "Rating": "8.8",
             "TMDb ID": 2710
         },
+        "203883": {
+            "Title": "How I Met Your Father",
+            "Image Source": "https://i.imgur.com/x9wiHoX.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "Rating": "5.5",
+            "TMDb ID": 124010
+        },
+        "123192": {
+            "Title": "Cruel Summer",
+            "Image Source": "https://imgpile.com/images/TK3A1w.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Rating": "7.5",
+            "TMDb ID": 98201
+        },
         "141171": {
             "Title": "The Righteous Gemstones",
             "Image Source": "https://imgpile.com/images/TKyO2b.jpg",
@@ -272,27 +295,17 @@
             ],
             "Rating": "7.6",
             "TMDb ID": 124364
-        },
-        "144936": {
-            "Title": "Painting with John",
-            "Image Source": "https://imgpile.com/images/TMnSda.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 114564
         }
     },
     "arabic-series": {
-        "4301": {
-            "Title": "ليه لأ الموسم الثالث",
-            "Image Source": "https://i.imgur.com/OvX6LHh.jpg",
-            "Category": "arabic-series"
-        },
         "4299": {
             "Title": "ريڤو الموسم الثاني",
             "Image Source": "https://i.imgur.com/llmSh4R.jpg",
+            "Category": "arabic-series"
+        },
+        "4301": {
+            "Title": "ليه لأ الموسم الثالث",
+            "Image Source": "https://i.imgur.com/OvX6LHh.jpg",
             "Category": "arabic-series"
         },
         "4234": {
