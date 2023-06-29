@@ -144496,5 +144496,64 @@
         "Image Source": "https://i.imgur.com/DI20OI1.jpg",
         "Source": "c7b1dd6bbfcc1001aec9d1010f55a1d4",
         "TMDb ID": 884535
+    },
+    "218572": {
+        "Title": "Eldorado: Everything the Nazis Hate",
+        "Category": "movies",
+        "Genres": [
+            "Drama",
+            "History",
+            "Documentary"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/EIQca1O.jpg",
+        "Source": "4b23aff9f9e379e8ec74c5dde47f5c85",
+        "TMDb ID": 1133922
+    },
+    "218531": {
+        "Title": "Worlds Best",
+        "Category": "movies",
+        "Genres": [
+            "Comedy",
+            "Family",
+            "Music"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/doGqrZZ.jpg",
+        "Source": "cebb11795fc7ba192fca271c036be9de",
+        "TMDb ID": 929569
+    },
+    "218527": {
+        "Title": "Pocket Dial Murder",
+        "Category": "movies",
+        "Genres": [
+            "Thriller"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/GXI4Quq.jpg",
+        "Source": "5078fe9c791d9d07d5614d02d3396943",
+        "TMDb ID": 1121156
+    },
+    "218524": {
+        "Title": "Manticore",
+        "Category": "movies",
+        "Genres": [
+            "Drama"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/h9P3Q7l.jpg",
+        "Source": "cb1f228168a9ef32ff1d1049e732565a",
+        "TMDb ID": 90840
+    },
+    "218515": {
+        "Title": "Barbie: Skipper and the Big Babysitting Adventure",
+        "Category": "movies",
+        "Genres": [
+            "Family"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/VxiazWb.jpg",
+        "Source": "f6953ec413290f5f45539f9fb30f0aad",
+        "TMDb ID": 1093349
     }
 }
