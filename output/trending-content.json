@@ -1,5 +1,59 @@
 {
     "movies": {
+        "218572": {
+            "Title": "Eldorado: Everything the Nazis Hate",
+            "Image Source": "https://i.imgur.com/EIQca1O.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "History",
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1133922
+        },
+        "218531": {
+            "Title": "Worlds Best",
+            "Image Source": "https://i.imgur.com/doGqrZZ.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Comedy",
+                "Family",
+                "Music"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 929569
+        },
+        "218527": {
+            "Title": "Pocket Dial Murder",
+            "Image Source": "https://i.imgur.com/GXI4Quq.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1121156
+        },
+        "218524": {
+            "Title": "Manticore",
+            "Image Source": "https://i.imgur.com/h9P3Q7l.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 90840
+        },
+        "215092": {
+            "Title": "Evil Dead Rise",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 713704
+        },
         "218423": {
             "Title": "Summer at Charlottes",
             "Image Source": "https://i.imgur.com/Lkp3oyq.jpg",
@@ -51,129 +105,61 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 884535
-        },
-        "218362": {
-            "Title": "Through My Window: Across the Sea",
-            "Image Source": "https://i.imgur.com/eR0LXIn.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 988078
-        },
-        "218359": {
-            "Title": "The Perfect Find",
-            "Image Source": "https://i.imgur.com/ebPxsYo.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "Romance",
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 561717
-        },
-        "218356": {
-            "Title": "Surrounded",
-            "Image Source": "https://i.imgur.com/9rGOW11.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Western"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 759584
-        },
-        "218351": {
-            "Title": "King of Clones",
-            "Image Source": "https://i.imgur.com/KWTGFla.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Documentary"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1127211
-        },
-        "218346": {
-            "Title": "iNumber Number: Jozi Gold",
-            "Image Source": "https://i.imgur.com/5wvgIPy.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Action",
-                "Crime",
-                "Adventure"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1129956
-        },
-        "218343": {
-            "Title": "Funny Pages",
-            "Image Source": "https://i.imgur.com/eMF2hp2.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 583095
         }
     },
     "asian-series": {},
     "anime": {
-        "213127": {
-            "Title": "ao no Orchestra",
-            "Image Source": "https://imgpile.com/images/hllc0R.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 197368
-        },
-        "213146": {
-            "Title": "The Marginal Service",
+        "213268": {
+            "Title": "Oshi no ko",
             "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 214211
+            "TMDb ID": 203737
         },
-        "218472": {
-            "Title": "Genjitsu No Yohane: Sunshine in the Mirror",
-            "Image Source": "https://i.imgur.com/NhuPgHL.jpg",
+        "212777": {
+            "Title": "Kaminaki Sekai no Kamisama Katsudou",
+            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 204849
+            "TMDb ID": 199920
         },
-        "213100": {
-            "Title": "Dead Mount Death Play",
-            "Image Source": "https://imgpile.com/images/hllmxc.jpg",
+        "213276": {
+            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 214540
-        },
-        "187143": {
-            "Title": "Golden Kamuy 4th Season",
-            "Image Source": "https://i.imgur.com/CUj6OIk.jpg",
-            "Category": "anime",
-            "Genres": [
-                "Animation",
-                "Adventure"
-            ],
-            "Rating": "8.28",
-            "TMDb ID": 76757
-        },
-        "213115": {
-            "Title": "Kanojo Ga Koushaku-Tei Ni Itta Riyuu",
-            "Image Source": "https://imgpile.com/images/hlllng.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 205366
+            "TMDb ID": null
         }
     },
     "series": {
+        "139485": {
+            "Title": "The Witcher",
+            "Image Source": "https://imgpile.com/images/TKjFYg.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "Rating": "8.1",
+            "TMDb ID": 106541
+        },
+        "66317": {
+            "Title": "Warrior",
+            "Image Source": "https://imgpile.com/images/TMGV4b.jpg",
+            "Category": "series",
+            "Genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 73544
+        },
         "136327": {
             "Title": "Swagger",
             "Image Source": "https://imgpile.com/images/TKeNMb.jpg",
@@ -230,101 +216,55 @@
             "Rating": "8.2",
             "TMDb ID": 103516
         },
-        "138697": {
-            "Title": "Its Always Sunny in Philadelphia",
-            "Image Source": "https://imgpile.com/images/TKjDbx.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "8.8",
-            "TMDb ID": 2710
-        },
-        "203883": {
-            "Title": "How I Met Your Father",
-            "Image Source": "https://i.imgur.com/x9wiHoX.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "5.5",
-            "TMDb ID": 124010
-        },
-        "123192": {
-            "Title": "Cruel Summer",
-            "Image Source": "https://imgpile.com/images/TK3A1w.jpg",
+        "135173": {
+            "Title": "Nancy Drew",
+            "Image Source": "https://imgpile.com/images/TKaYiS.jpg",
             "Category": "series",
             "Genres": [
                 "Drama",
-                "Mystery",
-                "Thriller"
+                "Fantasy",
+                "Horror"
             ],
-            "Rating": "7.5",
-            "TMDb ID": 98201
+            "Rating": "6.6",
+            "TMDb ID": 89572
         },
-        "141171": {
-            "Title": "The Righteous Gemstones",
-            "Image Source": "https://imgpile.com/images/TKyO2b.jpg",
+        "108361": {
+            "Title": "Warrior",
+            "Image Source": "https://imgpile.com/images/TKBpBL.jpg",
             "Category": "series",
             "Genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "Rating": "8.1",
-            "TMDb ID": 82782
-        },
-        "141229": {
-            "Title": "Joe Pickett",
-            "Image Source": "https://imgpile.com/images/TKyB8w.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.7",
-            "TMDb ID": 122235
-        },
-        "144582": {
-            "Title": "From",
-            "Image Source": "https://imgpile.com/images/TMnAS3.jpg",
-            "Category": "series",
-            "Genres": [
+                "Action",
+                "Crime",
                 "Drama",
-                "Horror",
-                "Mystery"
+                "History"
             ],
-            "Rating": "7.6",
-            "TMDb ID": 124364
+            "Rating": "8.2",
+            "TMDb ID": 73544
         }
     },
     "arabic-series": {
-        "4299": {
-            "Title": "ريڤو الموسم الثاني",
-            "Image Source": "https://i.imgur.com/llmSh4R.jpg",
-            "Category": "arabic-series"
-        },
         "4301": {
             "Title": "ليه لأ الموسم الثالث",
             "Image Source": "https://i.imgur.com/OvX6LHh.jpg",
+            "Category": "arabic-series"
+        },
+        "4299": {
+            "Title": "ريڤو الموسم الثاني",
+            "Image Source": "https://i.imgur.com/llmSh4R.jpg",
             "Category": "arabic-series"
         },
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
             "Category": "arabic-series"
-        },
-        "3516": {
-            "Title": "حيرة الموسم الاول",
-            "Image Source": "https://imgpile.com/images/b83Huj.jpg",
-            "Category": "arabic-series"
-        },
-        "4211": {
-            "Title": "العائلة الموسم الاول",
-            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
-            "Category": "arabic-series"
         }
     },
     "arabic-movies": {
+        "8706": {
+            "Title": "ساعة إجابة",
+            "Image Source": "https://i.imgur.com/kN3aAC8.jpg",
+            "Category": "arabic-movies"
+        },
         "6721": {
             "Title": "كيرة والجن",
             "Image Source": "https://imgpile.com/images/b0NTaF.jpg",
