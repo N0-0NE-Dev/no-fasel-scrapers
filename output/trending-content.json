@@ -1,5 +1,38 @@
 {
     "movies": {
+        "218688": {
+            "Title": "The Unseen",
+            "Image Source": "https://i.imgur.com/3i5bxMb.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Drama",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 399611
+        },
+        "218684": {
+            "Title": "Sound of Silence",
+            "Image Source": "https://i.imgur.com/BhJYyPK.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1017063
+        },
+        "218676": {
+            "Title": "Run Rabbit Run",
+            "Image Source": "https://i.imgur.com/cyGIb54.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 714669
+        },
         "218572": {
             "Title": "Eldorado: Everything the Nazis Hate",
             "Image Source": "https://i.imgur.com/EIQca1O.jpg",
@@ -53,85 +86,33 @@
             ],
             "Rating": "N/A",
             "TMDb ID": 713704
-        },
-        "218423": {
-            "Title": "Summer at Charlottes",
-            "Image Source": "https://i.imgur.com/Lkp3oyq.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Romance"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1032377
-        },
-        "218407": {
-            "Title": "How to Blow Up a Pipeline",
-            "Image Source": "https://i.imgur.com/InlIAuZ.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Crime",
-                "Drama"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1008048
-        },
-        "218404": {
-            "Title": "Fear the Invisible Man",
-            "Image Source": "https://i.imgur.com/H8re4BN.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1131438
-        },
-        "218400": {
-            "Title": "An Unforgettable Year: Spring",
-            "Image Source": "https://i.imgur.com/nSTUQOy.jpg",
-            "Category": "movies",
-            "Genres": [
-                "N-a"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 899535
-        },
-        "218397": {
-            "Title": "An Unforgettable Year: Autumn",
-            "Image Source": "https://i.imgur.com/DI20OI1.jpg",
-            "Category": "movies",
-            "Genres": [
-                "N-a"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 884535
         }
     },
     "asian-series": {},
     "anime": {
-        "213268": {
-            "Title": "Oshi no ko",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "213014": {
+            "Title": "ISEKAI Shoukan Wa Nidome Desu",
+            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 203737
+            "TMDb ID": 137391
         },
-        "212777": {
-            "Title": "Kaminaki Sekai no Kamisama Katsudou",
-            "Image Source": "https://i.imgur.com/lF3FRWZ.jpg",
+        "212932": {
+            "Title": "Mashle",
+            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 199920
+            "TMDb ID": 204832
         },
-        "213276": {
-            "Title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "213690": {
+            "Title": "Niehime to Kemono no ou",
+            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": null
+            "TMDb ID": 117024
         }
     },
     "series": {
@@ -216,30 +197,38 @@
             "Rating": "8.2",
             "TMDb ID": 103516
         },
-        "135173": {
-            "Title": "Nancy Drew",
-            "Image Source": "https://imgpile.com/images/TKaYiS.jpg",
+        "186222": {
+            "Title": "The Kardashians",
+            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
             "Category": "series",
             "Genres": [
-                "Drama",
-                "Fantasy",
-                "Horror"
+                "Reality-tv"
             ],
-            "Rating": "6.6",
-            "TMDb ID": 89572
+            "Rating": "4.8",
+            "TMDb ID": 154521
         },
-        "108361": {
-            "Title": "Warrior",
-            "Image Source": "https://imgpile.com/images/TKBpBL.jpg",
+        "209501": {
+            "Title": "The Blacklist",
+            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
             "Category": "series",
             "Genres": [
-                "Action",
                 "Crime",
                 "Drama",
-                "History"
+                "Mystery",
+                "Thriller"
             ],
-            "Rating": "8.2",
-            "TMDb ID": 73544
+            "Rating": "N/A",
+            "TMDb ID": 46952
+        },
+        "138697": {
+            "Title": "Its Always Sunny in Philadelphia",
+            "Image Source": "https://imgpile.com/images/TKjDbx.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy"
+            ],
+            "Rating": "8.8",
+            "TMDb ID": 2710
         }
     },
     "arabic-series": {
@@ -273,6 +262,11 @@
         "8358": {
             "Title": "هارلي",
             "Image Source": "https://i.imgur.com/iLhh0mN.jpg",
+            "Category": "arabic-movies"
+        },
+        "8718": {
+            "Title": "نيمونا",
+            "Image Source": "https://i.imgur.com/Z7aECSr.jpg",
             "Category": "arabic-movies"
         }
     }
