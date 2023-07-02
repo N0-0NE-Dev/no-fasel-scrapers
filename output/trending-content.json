@@ -90,29 +90,21 @@
     },
     "asian-series": {},
     "anime": {
-        "213014": {
-            "Title": "ISEKAI Shoukan Wa Nidome Desu",
-            "Image Source": "https://imgpile.com/images/hllGx4.jpg",
+        "218715": {
+            "Title": "Jitsu Wa Ore, Saikyou Deshita",
+            "Image Source": "https://i.imgur.com/2W4KeVj.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 137391
+            "TMDb ID": 209649
         },
-        "212932": {
-            "Title": "Mashle",
-            "Image Source": "https://imgpile.com/images/hllRrw.jpg",
+        "212588": {
+            "Title": "jigokuraku",
+            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 204832
-        },
-        "213690": {
-            "Title": "Niehime to Kemono no ou",
-            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
-            "Category": "anime",
-            "Genres": [],
-            "Rating": "N/A",
-            "TMDb ID": 117024
+            "TMDb ID": 117465
         }
     },
     "series": {
@@ -245,6 +237,11 @@
         "4234": {
             "Title": "اللعبة الموسم الرابع : دوري الأبطال",
             "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
+            "Category": "arabic-series"
+        },
+        "4292": {
+            "Title": "جريمة قلب",
+            "Image Source": "https://i.imgur.com/eVN2TRz.jpg",
             "Category": "arabic-series"
         }
     },
