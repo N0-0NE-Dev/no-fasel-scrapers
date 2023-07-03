@@ -93926,7 +93926,7 @@
     "213045": {
         "Title": "Kidou Senshi Gundam: Suisei no majo Season 2",
         "Category": "anime",
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hllPvh.jpg",
         "Episodes": {
@@ -93973,6 +93973,10 @@
             "218455": {
                 "Episode Number": 11,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=86bd79832d70a0d2c2dd851177e78315&img=https://img.scdn.to/thumb/86bd79832d70a0d2c2dd851177e78315/large.jpg"
+            },
+            "218823": {
+                "Episode Number": 12,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=48aeb04fc3f720b738e6b142e70a534b&img=https://img.scdn.to/thumb/48aeb04fc3f720b738e6b142e70a534b/large.jpg"
             }
         },
         "Genres": [],
@@ -95345,13 +95349,17 @@
     "218472": {
         "Title": "Genjitsu No Yohane: Sunshine in the Mirror",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/NhuPgHL.jpg",
         "Episodes": {
             "218477": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=84f6cf0f7a78935cc1a7b25076e7e416&img=https://img.scdn.to/thumb/84f6cf0f7a78935cc1a7b25076e7e416/large.jpg"
+            },
+            "218816": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=370759608fda2d07bdd6cc4577f31c95&img=https://img.scdn.to/thumb/370759608fda2d07bdd6cc4577f31c95/large.jpg"
             }
         },
         "Genres": [],
@@ -98901,5 +98909,35 @@
         },
         "Genres": [],
         "TMDb ID": 213233
+    },
+    "218830": {
+        "Title": "Fate/Strange Fake: Whispers of Dawn",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/FG6JdqL.jpg",
+        "Episodes": {
+            "218835": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=57d41c575410a9cf8dab7d028b61b08d&img=https://img.scdn.to/thumb/57d41c575410a9cf8dab7d028b61b08d/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 229868
+    },
+    "218818": {
+        "Title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/88TY5W4.jpg",
+        "Episodes": {
+            "218817": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=8a60d55a32f50503903be909270d38b3&img=https://img.scdn.to/thumb/8a60d55a32f50503903be909270d38b3/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
     }
 }
