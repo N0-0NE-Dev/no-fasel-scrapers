@@ -94778,7 +94778,7 @@
     "214624": {
         "Title": "Ona Huo Feng Liao Yuan Season 1",
         "Category": "anime",
-        "Number Of Episodes": 3,
+        "Number Of Episodes": 4,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/9kEOWEv.jpg",
         "Episodes": {
@@ -94793,6 +94793,10 @@
             "217493": {
                 "Episode Number": 3,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=2f3117d8807a3d3a9eee5e6d7d45faa2&img=https://img.scdn.to/thumb/2f3117d8807a3d3a9eee5e6d7d45faa2/large.jpg"
+            },
+            "218845": {
+                "Episode Number": 4,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=be0940d3f598fd00c0a9eb6e404b0440&img=https://img.scdn.to/thumb/be0940d3f598fd00c0a9eb6e404b0440/large.jpg"
             }
         },
         "Genres": [],
@@ -98939,5 +98943,50 @@
         },
         "Genres": [],
         "TMDb ID": null
+    },
+    "218846": {
+        "Title": "okashi na Tensei",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/JLWyh1Y.jpg",
+        "Episodes": {
+            "218851": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=d8164b65f3d2fc32a573cdbfd16e1a9f&img=https://img.scdn.to/thumb/d8164b65f3d2fc32a573cdbfd16e1a9f/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 207521
+    },
+    "218842": {
+        "Title": "MononGATARI 2nd Season",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/pqJUsJP.png",
+        "Episodes": {
+            "218844": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=597c7cc6c78815a51ddf9a7876676af1&img=https://img.scdn.to/thumb/597c7cc6c78815a51ddf9a7876676af1/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "218839": {
+        "Title": "MASAMUNE-KUN No Revenge R",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/ZnTQWwf.jpg",
+        "Episodes": {
+            "218841": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=c95e40f0b25b67d0280234011c758b57&img=https://img.scdn.to/thumb/c95e40f0b25b67d0280234011c758b57/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 69295
     }
 }
