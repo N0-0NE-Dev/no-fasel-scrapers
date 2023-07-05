@@ -92931,7 +92931,7 @@
     "212710": {
         "Title": "ISEKAI WA Smartphone to Tomo Ni.2",
         "Category": "anime",
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hlf64c.jpg",
         "Episodes": {
@@ -92976,7 +92976,7 @@
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=28a7d1c6888d34b4c7944aa67939c7c9&img=https://img.scdn.to/thumb/28a7d1c6888d34b4c7944aa67939c7c9/large.jpg"
             },
             "218044": {
-                "Episode Number": 11,
+                "Episode Number": 12,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=50b8f2aee3875abaa17d8000e8a9c837&img=https://img.scdn.to/thumb/50b8f2aee3875abaa17d8000e8a9c837/large.jpg"
             }
         },
@@ -94048,7 +94048,7 @@
     "213133": {
         "Title": "Kimi Wa Houkago Insomnia",
         "Category": "anime",
-        "Number Of Episodes": 9,
+        "Number Of Episodes": 10,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hllsir.jpg",
         "Episodes": {
@@ -94087,6 +94087,10 @@
             "218462": {
                 "Episode Number": 9,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=fb323b8d21bffe466e404c20b8d13c08&img=https://img.scdn.to/thumb/fb323b8d21bffe466e404c20b8d13c08/large.jpg"
+            },
+            "218886": {
+                "Episode Number": 10,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=a148a0c3b805f66391ba1c5549cf2447&img=https://img.scdn.to/thumb/a148a0c3b805f66391ba1c5549cf2447/large.jpg"
             }
         },
         "Genres": [],
@@ -95016,7 +95020,7 @@
     "217325": {
         "Title": "UNO REN: Blades of the Guardians Season 1",
         "Category": "anime",
-        "Number Of Episodes": 6,
+        "Number Of Episodes": 7,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/d6FpI0M.jpg",
         "Episodes": {
@@ -95043,6 +95047,10 @@
             "218702": {
                 "Episode Number": 6,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=37cb79f85655381d3e27cf560aeeca16&img=https://img.scdn.to/thumb/37cb79f85655381d3e27cf560aeeca16/large.jpg"
+            },
+            "218855": {
+                "Episode Number": 7,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=a42f99a956a6ba1b7c1d7f4a26ea3515&img=https://img.scdn.to/thumb/a42f99a956a6ba1b7c1d7f4a26ea3515/large.jpg"
             }
         },
         "Genres": [],
@@ -98942,7 +98950,7 @@
             }
         },
         "Genres": [],
-        "TMDb ID": null
+        "TMDb ID": 94664
     },
     "218846": {
         "Title": "okashi na Tensei",
@@ -98988,5 +98996,20 @@
         },
         "Genres": [],
         "TMDb ID": 69295
+    },
+    "218887": {
+        "Title": "Yumemiru Danshi Wa Genjitsushugisha",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/sUXaYji.jpg",
+        "Episodes": {
+            "218892": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=46dacb9751fd788dc1749ac2369387ac&img=https://img.scdn.to/thumb/46dacb9751fd788dc1749ac2369387ac/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 214651
     }
 }
