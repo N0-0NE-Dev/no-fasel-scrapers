@@ -94398,7 +94398,7 @@
     "213280": {
         "Title": "Ayou de Mishi",
         "Category": "anime",
-        "Number Of Episodes": 13,
+        "Number Of Episodes": 14,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
         "Episodes": {
@@ -94449,6 +94449,10 @@
             "218578": {
                 "Episode Number": 13,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=7dd7497a4e332981413e46643431c33b&img=https://img.scdn.to/thumb/7dd7497a4e332981413e46643431c33b/large.jpg"
+            },
+            "219062": {
+                "Episode Number": 14,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=0d19e645f03937a9d2a482a3079c1dfb&img=https://img.scdn.to/thumb/0d19e645f03937a9d2a482a3079c1dfb/large.jpg"
             }
         },
         "Genres": [],
@@ -94731,7 +94735,7 @@
     "213690": {
         "Title": "Niehime to Kemono no ou",
         "Category": "anime",
-        "Number Of Episodes": 11,
+        "Number Of Episodes": 12,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
         "Episodes": {
@@ -94778,6 +94782,10 @@
             "218696": {
                 "Episode Number": 11,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=3dd9bad08e30db929400b0a7918c4fe1&img=https://img.scdn.to/thumb/3dd9bad08e30db929400b0a7918c4fe1/large.jpg"
+            },
+            "219045": {
+                "Episode Number": 12,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=dccb004224e60059eb00bc614b159419&img=https://img.scdn.to/thumb/dccb004224e60059eb00bc614b159419/large.jpg"
             }
         },
         "Genres": [],
@@ -95024,7 +95032,7 @@
     "217325": {
         "Title": "UNO REN: Blades of the Guardians Season 1",
         "Category": "anime",
-        "Number Of Episodes": 7,
+        "Number Of Episodes": 8,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/d6FpI0M.jpg",
         "Episodes": {
@@ -95055,6 +95063,10 @@
             "218855": {
                 "Episode Number": 7,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=a42f99a956a6ba1b7c1d7f4a26ea3515&img=https://img.scdn.to/thumb/a42f99a956a6ba1b7c1d7f4a26ea3515/large.jpg"
+            },
+            "219046": {
+                "Episode Number": 8,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=36b6a3833f7fa18873121c6b07f8e252&img=https://img.scdn.to/thumb/36b6a3833f7fa18873121c6b07f8e252/large.jpg"
             }
         },
         "Genres": [],
@@ -98846,7 +98858,7 @@
     "218739": {
         "Title": "Bang Dream!It's mygo !!!!!",
         "Category": "anime",
-        "Number Of Episodes": 3,
+        "Number Of Episodes": 4,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/7geSCwJ.jpg",
         "Episodes": {
@@ -98861,6 +98873,10 @@
             "218746": {
                 "Episode Number": 3,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=d6772ce091e6f8256f365b81fdd471b9&img=https://img.scdn.to/thumb/d6772ce091e6f8256f365b81fdd471b9/large.jpg"
+            },
+            "219043": {
+                "Episode Number": 4,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=0da6703fd800db8ac1b9af1dedcfbe12&img=https://img.scdn.to/thumb/0da6703fd800db8ac1b9af1dedcfbe12/large.jpg"
             }
         },
         "Genres": [],
@@ -98959,13 +98975,17 @@
     "218846": {
         "Title": "okashi na Tensei",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/JLWyh1Y.jpg",
         "Episodes": {
             "218851": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=d8164b65f3d2fc32a573cdbfd16e1a9f&img=https://img.scdn.to/thumb/d8164b65f3d2fc32a573cdbfd16e1a9f/large.jpg"
+            },
+            "219044": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=da8490ef4af33d8c19939757f29bd167&img=https://img.scdn.to/thumb/da8490ef4af33d8c19939757f29bd167/large.jpg"
             }
         },
         "Genres": [],
@@ -99137,5 +99157,35 @@
         },
         "Genres": [],
         "TMDb ID": null
+    },
+    "219053": {
+        "Title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/OrReufe.png",
+        "Episodes": {
+            "219058": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=2b86e3302f9c8aab6b8ad5006086a9f7&img=https://img.scdn.to/thumb/2b86e3302f9c8aab6b8ad5006086a9f7/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 28136
+    },
+    "219047": {
+        "Title": "Seija Musou: Salaryman, Isekai de ikinokoru tame ni ayumu michi",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/CmqTqvu.jpg",
+        "Episodes": {
+            "219052": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=d493e4debf813febd28e99260f961e5a&img=https://img.scdn.to/thumb/d493e4debf813febd28e99260f961e5a/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 220779
     }
 }
