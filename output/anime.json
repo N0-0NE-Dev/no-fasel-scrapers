@@ -42993,7 +42993,7 @@
             "Comedy",
             "Adventure"
         ],
-        "Number Of Episodes": 491,
+        "Number Of Episodes": 495,
         "Image Source": "https://imgpile.com/images/TJdLEj.jpg",
         "Episodes": {
             "67853": {
@@ -44945,20 +44945,20 @@
                 "Source": "8f96c7eed6f2787d74f0a56f664677d0"
             },
             "69984": {
-                "Episode Number": 488,
-                "Source": "4ef3a5cede6fec725ee75a501045ec39"
+                "Episode Number": 478,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=4ef3a5cede6fec725ee75a501045ec39&img=https://img.scdn.to/thumb/4ef3a5cede6fec725ee75a501045ec39/large.jpg"
             },
             "69985": {
-                "Episode Number": 489,
-                "Source": "5fd0a85f8b805d5249b71e88435ca691"
+                "Episode Number": 479,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=5fd0a85f8b805d5249b71e88435ca691&img=https://img.scdn.to/thumb/5fd0a85f8b805d5249b71e88435ca691/large.jpg"
             },
             "69986": {
-                "Episode Number": 490,
-                "Source": "ba948134bded1f0905a1c72f660a66d3"
+                "Episode Number": 480,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=ba948134bded1f0905a1c72f660a66d3&img=https://img.scdn.to/thumb/ba948134bded1f0905a1c72f660a66d3/large.jpg"
             },
             "130327": {
-                "Episode Number": 491,
-                "Source": "2f3a13c60486cdbab1996db1e82ac5a8"
+                "Episode Number": 481,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=2f3a13c60486cdbab1996db1e82ac5a8&img=https://img.scdn.to/thumb/2f3a13c60486cdbab1996db1e82ac5a8/large.jpg"
             }
         },
         "Rating": "8.25",
@@ -94064,7 +94064,7 @@
     "213133": {
         "Title": "Kimi Wa Houkago Insomnia",
         "Category": "anime",
-        "Number Of Episodes": 10,
+        "Number Of Episodes": 11,
         "Format": "1080p WEB-DL",
         "Image Source": "https://imgpile.com/images/hllsir.jpg",
         "Episodes": {
@@ -94107,6 +94107,10 @@
             "218886": {
                 "Episode Number": 10,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=a148a0c3b805f66391ba1c5549cf2447&img=https://img.scdn.to/thumb/a148a0c3b805f66391ba1c5549cf2447/large.jpg"
+            },
+            "219342": {
+                "Episode Number": 11,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=c662945963475db78924de7dec7b5255&img=https://img.scdn.to/thumb/c662945963475db78924de7dec7b5255/large.jpg"
             }
         },
         "Genres": [],
@@ -95397,7 +95401,7 @@
     "218472": {
         "Title": "Genjitsu No Yohane: Sunshine in the Mirror",
         "Category": "anime",
-        "Number Of Episodes": 2,
+        "Number Of Episodes": 3,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/NhuPgHL.jpg",
         "Episodes": {
@@ -95408,6 +95412,10 @@
             "218816": {
                 "Episode Number": 2,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=370759608fda2d07bdd6cc4577f31c95&img=https://img.scdn.to/thumb/370759608fda2d07bdd6cc4577f31c95/large.jpg"
+            },
+            "219292": {
+                "Episode Number": 3,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=70c02e65b507c82bac260ec7ff32e3e9&img=https://img.scdn.to/thumb/70c02e65b507c82bac260ec7ff32e3e9/large.jpg"
             }
         },
         "Genres": [],
@@ -98909,13 +98917,17 @@
     "218733": {
         "Title": "Ryza No Atlier: Tokoyami no Joou to Himitsu no Kakurega",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/crqCe7m.jpg",
         "Episodes": {
             "218738": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=134a3672879c79c6395e906b14b65a76&img=https://img.scdn.to/thumb/134a3672879c79c6395e906b14b65a76/large.jpg"
+            },
+            "219291": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=ccf07ee3256f06ede602646ee950408b&img=https://img.scdn.to/thumb/ccf07ee3256f06ede602646ee950408b/large.jpg"
             }
         },
         "Genres": [],
@@ -98996,13 +99008,17 @@
     "218818": {
         "Title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/88TY5W4.jpg",
         "Episodes": {
             "218817": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=8a60d55a32f50503903be909270d38b3&img=https://img.scdn.to/thumb/8a60d55a32f50503903be909270d38b3/large.jpg"
+            },
+            "219293": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=5ec0eb74e45f3b374fc3ac4e81e41028&img=https://img.scdn.to/thumb/5ec0eb74e45f3b374fc3ac4e81e41028/large.jpg"
             }
         },
         "Genres": [],
@@ -99373,6 +99389,117 @@
             "219147": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=f07df1476432228d39e398cb9693df87&img=https://img.scdn.to/thumb/f07df1476432228d39e398cb9693df87/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "219313": {
+        "Title": "Zom 100: Zombie Ni Naru Made Ni Shitai 100 No Koto",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/gXF238k.jpg",
+        "Episodes": {
+            "219318": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=f15dac2dace86005e16a5d7d8d296fe1&img=https://img.scdn.to/thumb/f15dac2dace86005e16a5d7d8d296fe1/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": 217766
+    },
+    "219309": {
+        "Title": "Shinigami Bocchaan to Kuro Maid 2nd Season",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/VuzXUtr.jpg",
+        "Episodes": {
+            "219312": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=f6b971f5822eb36365ee27e126a95fab&img=https://img.scdn.to/thumb/f6b971f5822eb36365ee27e126a95fab/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "219302": {
+        "Title": "Eyuu Kyoushitsu",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/rjr621L.jpg",
+        "Episodes": {
+            "219308": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=dba8966014f40f8e16de8ea0d144631e&img=https://img.scdn.to/thumb/dba8966014f40f8e16de8ea0d144631e/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "219294": {
+        "Title": "Cardfight !!Vanguard: Will+Dress Season 3",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/5UZZh6o.jpg",
+        "Episodes": {
+            "219301": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=b0b202a4f02af84f7d6637fd62d662ce&img=https://img.scdn.to/thumb/b0b202a4f02af84f7d6637fd62d662ce/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "219323": {
+        "Title": "Naruto Shippuden Season 2",
+        "Category": "anime",
+        "Number Of Episodes": 10,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/Gy6YA88.jpg",
+        "Episodes": {
+            "67899": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=0d0a5e1f0256a17acc2beffe3ee12db6&img=https://img.scdn.to/thumb/0d0a5e1f0256a17acc2beffe3ee12db6/large.jpg"
+            },
+            "67900": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=864efd2da484c5b0528d5735f7e7e4fd&img=https://img.scdn.to/thumb/864efd2da484c5b0528d5735f7e7e4fd/large.jpg"
+            },
+            "152101": {
+                "Episode Number": 3,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=9f108e4f9ed4ac9cbb2b5be9d3ad7230&img=https://img.scdn.to/thumb/9f108e4f9ed4ac9cbb2b5be9d3ad7230/large.jpg"
+            },
+            "67901": {
+                "Episode Number": 4,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=483bad8da2dbdb11a02cf500b886c224&img=https://img.scdn.to/thumb/483bad8da2dbdb11a02cf500b886c224/large.jpg"
+            },
+            "67902": {
+                "Episode Number": 5,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=35e53b2e95c35577ef398154cc3efca1&img=https://img.scdn.to/thumb/35e53b2e95c35577ef398154cc3efca1/large.jpg"
+            },
+            "67903": {
+                "Episode Number": 6,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=1532afb68445fad3340db19856267933&img=https://img.scdn.to/thumb/1532afb68445fad3340db19856267933/large.jpg"
+            },
+            "67904": {
+                "Episode Number": 7,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=c48b70144f2fe2aee592593c2cf4a8ab&img=https://img.scdn.to/thumb/c48b70144f2fe2aee592593c2cf4a8ab/large.jpg"
+            },
+            "67905": {
+                "Episode Number": 8,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=bfd42cc6b4b1fd8b165baf994ebec11b&img=https://img.scdn.to/thumb/bfd42cc6b4b1fd8b165baf994ebec11b/large.jpg"
+            },
+            "67906": {
+                "Episode Number": 9,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=b983b13ad0c446ea84f0267917981ea2&img=https://img.scdn.to/thumb/b983b13ad0c446ea84f0267917981ea2/large.jpg"
+            },
+            "152102": {
+                "Episode Number": 10,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=203a7198d2a89a4686aee3c65e447ec1&img=https://img.scdn.to/thumb/203a7198d2a89a4686aee3c65e447ec1/large.jpg"
             }
         },
         "Genres": [],
