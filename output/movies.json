@@ -144858,5 +144858,57 @@
         "Image Source": "https://i.imgur.com/RGUtYoN.jpg",
         "Source": "c72ca1bbea2041a54c78342f7e5b4ce2",
         "TMDb ID": 972619
+    },
+    "219486": {
+        "Title": "Transformers: Rise of the Beasts",
+        "Category": "movies",
+        "Genres": [
+            "Action",
+            "Sci-fi",
+            "Adventure"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/Ks4N7jI.jpg",
+        "Source": "8d3f6c951208796f9ceeaad86232059c",
+        "TMDb ID": 667538
+    },
+    "219482": {
+        "Title": "Mr. Car and the Knights Templar",
+        "Category": "movies",
+        "Genres": [
+            "Drama",
+            "Family",
+            "Adventure"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/nh945YU.jpg",
+        "Source": "c6cf74a82e599211b089c8338fa7d226",
+        "TMDb ID": 1059638
+    },
+    "219478": {
+        "Title": "Brooklyn 45",
+        "Category": "movies",
+        "Genres": [
+            "Drama",
+            "Horror",
+            "History"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/CczuB2K.jpg",
+        "Source": "44389396d3bde2c96f27c636575804f0",
+        "TMDb ID": 916433
+    },
+    "219474": {
+        "Title": "Asteroid City",
+        "Category": "movies",
+        "Genres": [
+            "Drama",
+            "Romance",
+            "Comedy"
+        ],
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/OJRfCxm.jpg",
+        "Source": "5bcbb749c4a7c7bd0d364068cf28001d",
+        "TMDb ID": 747188
     }
 }

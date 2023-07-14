@@ -98922,7 +98922,7 @@
     "218739": {
         "Title": "Bang Dream!It's mygo !!!!!",
         "Category": "anime",
-        "Number Of Episodes": 4,
+        "Number Of Episodes": 5,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/7geSCwJ.jpg",
         "Episodes": {
@@ -98941,6 +98941,10 @@
             "219043": {
                 "Episode Number": 4,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=0da6703fd800db8ac1b9af1dedcfbe12&img=https://img.scdn.to/thumb/0da6703fd800db8ac1b9af1dedcfbe12/large.jpg"
+            },
+            "219604": {
+                "Episode Number": 5,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=570dc5656d716fca177befb3c099eb2d&img=https://img.scdn.to/thumb/570dc5656d716fca177befb3c099eb2d/large.jpg"
             }
         },
         "Genres": [],
@@ -99135,13 +99139,17 @@
     "218990": {
         "Title": "Jujutsu Kaisen 2nd Season",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/dCeetX3.png",
         "Episodes": {
             "218992": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=63f396180cc024b54ab59324d11cf188&img=https://img.scdn.to/thumb/63f396180cc024b54ab59324d11cf188/large.jpg"
+            },
+            "219609": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=0f12bef866e468b16305083ec0d36967&img=https://img.scdn.to/thumb/0f12bef866e468b16305083ec0d36967/large.jpg"
             }
         },
         "Genres": [],
@@ -99273,13 +99281,17 @@
     "219053": {
         "Title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/OrReufe.png",
         "Episodes": {
             "219058": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=2b86e3302f9c8aab6b8ad5006086a9f7&img=https://img.scdn.to/thumb/2b86e3302f9c8aab6b8ad5006086a9f7/large.jpg"
+            },
+            "219611": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=fd1db1c1c3aa4d8f5c0428f1f0b5bdb9&img=https://img.scdn.to/thumb/fd1db1c1c3aa4d8f5c0428f1f0b5bdb9/large.jpg"
             }
         },
         "Genres": [],
@@ -99288,13 +99300,17 @@
     "219047": {
         "Title": "Seija Musou: Salaryman, Isekai de ikinokoru tame ni ayumu michi",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/CmqTqvu.jpg",
         "Episodes": {
             "219052": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=d493e4debf813febd28e99260f961e5a&img=https://img.scdn.to/thumb/d493e4debf813febd28e99260f961e5a/large.jpg"
+            },
+            "219610": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=45fe455bdf202005fccf572a1e02656e&img=https://img.scdn.to/thumb/45fe455bdf202005fccf572a1e02656e/large.jpg"
             }
         },
         "Genres": [],
@@ -99965,6 +99981,21 @@
             "219414": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=ab46da0589f961cd2f82dada25fb0a81&img=https://img.scdn.to/thumb/ab46da0589f961cd2f82dada25fb0a81/large.jpg"
+            }
+        },
+        "Genres": [],
+        "TMDb ID": null
+    },
+    "219606": {
+        "Title": "Hataraku Maou-SAMA 3RD Season",
+        "Category": "anime",
+        "Number Of Episodes": 1,
+        "Format": "1080p WEB-DL",
+        "Image Source": "https://i.imgur.com/Xy5gb9l.jpg",
+        "Episodes": {
+            "219608": {
+                "Episode Number": 1,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=c84979dd49affac7a445218716103ea5&img=https://img.scdn.to/thumb/c84979dd49affac7a445218716103ea5/large.jpg"
             }
         },
         "Genres": [],
