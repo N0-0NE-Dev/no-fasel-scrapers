@@ -100057,13 +100057,17 @@
     "219389": {
         "Title": "Dark Gathering",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/aFl9bTC.jpg",
         "Episodes": {
             "219394": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=eed5ecc0873e4ed264ad482c660ce905&img=https://img.scdn.to/thumb/eed5ecc0873e4ed264ad482c660ce905/large.jpg"
+            },
+            "219793": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=19fe133108a45cbffd3e96e8be90122f&img=https://img.scdn.to/thumb/19fe133108a45cbffd3e96e8be90122f/large.jpg"
             }
         },
         "Genres": [],
