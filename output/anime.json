@@ -99272,13 +99272,17 @@
     "218887": {
         "Title": "Yumemiru Danshi Wa Genjitsushugisha",
         "Category": "anime",
-        "Number Of Episodes": 1,
+        "Number Of Episodes": 2,
         "Format": "1080p WEB-DL",
         "Image Source": "https://i.imgur.com/sUXaYji.jpg",
         "Episodes": {
             "218892": {
                 "Episode Number": 1,
                 "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=46dacb9751fd788dc1749ac2369387ac&img=https://img.scdn.to/thumb/46dacb9751fd788dc1749ac2369387ac/large.jpg"
+            },
+            "220037": {
+                "Episode Number": 2,
+                "Source": "https://faselhd-embed.scdn.to/video_player?uid=0&vid=03e689989f59cad6c1e21748ebec6aba&img=https://img.scdn.to/thumb/03e689989f59cad6c1e21748ebec6aba/large.jpg"
             }
         },
         "Genres": [],
