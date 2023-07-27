@@ -1,113 +1,254 @@
 {
     "movies": {
-        "218688": {
-            "Title": "The Unseen",
-            "Image Source": "https://i.imgur.com/3i5bxMb.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Drama",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 399611
-        },
-        "218684": {
-            "Title": "Sound of Silence",
-            "Image Source": "https://i.imgur.com/BhJYyPK.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1017063
-        },
-        "218676": {
-            "Title": "Run Rabbit Run",
-            "Image Source": "https://i.imgur.com/cyGIb54.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller",
-                "Horror"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 714669
-        },
-        "218572": {
-            "Title": "Eldorado: Everything the Nazis Hate",
-            "Image Source": "https://i.imgur.com/EIQca1O.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Drama",
-                "History",
-                "Documentary"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1133922
-        },
-        "218531": {
-            "Title": "Worlds Best",
-            "Image Source": "https://i.imgur.com/doGqrZZ.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Comedy",
-                "Family",
-                "Music"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 929569
-        },
-        "218527": {
-            "Title": "Pocket Dial Murder",
-            "Image Source": "https://i.imgur.com/GXI4Quq.jpg",
-            "Category": "movies",
-            "Genres": [
-                "Thriller"
-            ],
-            "Rating": "N/A",
-            "TMDb ID": 1121156
-        },
-        "218524": {
-            "Title": "Manticore",
-            "Image Source": "https://i.imgur.com/h9P3Q7l.jpg",
+        "220158": {
+            "Title": "Klip Anker Baai",
+            "Image Source": "https://i.imgur.com/mYmV4Ne.jpg",
             "Category": "movies",
             "Genres": [
                 "Drama"
             ],
             "Rating": "N/A",
-            "TMDb ID": 90840
+            "TMDb ID": 1143515
         },
-        "215092": {
-            "Title": "Evil Dead Rise",
-            "Image Source": "https://imgpile.com/images/TPDrVl.jpg",
+        "220107": {
+            "Title": "The Warrant: Breakers Law",
+            "Image Source": "https://i.imgur.com/9uNESFR.jpg",
             "Category": "movies",
             "Genres": [
-                "Horror"
+                "Thriller",
+                "Western"
             ],
             "Rating": "N/A",
-            "TMDb ID": 713704
+            "TMDb ID": 1032134
+        },
+        "61911": {
+            "Title": "The Little Mermaid",
+            "Image Source": "https://imgpile.com/images/Twedfo.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 10144
+        },
+        "220090": {
+            "Title": "Fear the Night",
+            "Image Source": "https://i.imgur.com/Y1TZaK9.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1143190
+        },
+        "220024": {
+            "Title": "Unknown: Cosmic Time Machine",
+            "Image Source": "https://i.imgur.com/Sa5Gvz3.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1128719
+        },
+        "220021": {
+            "Title": "Sun Moon",
+            "Image Source": "https://i.imgur.com/e6ZPDSm.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Drama",
+                "Romance"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1132008
+        },
+        "220017": {
+            "Title": "Resident Evil: Death Island",
+            "Image Source": "https://i.imgur.com/AG4C0tS.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Animation",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1083862
+        },
+        "220013": {
+            "Title": "Justice League: Warworld",
+            "Image Source": "https://i.imgur.com/0zDRU4M.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Animation",
+                "Adventure"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1003581
+        },
+        "219959": {
+            "Title": "January 6th",
+            "Image Source": "https://i.imgur.com/kLrdtpZ.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Crime",
+                "History",
+                "Documentary"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1049686
+        },
+        "219947": {
+            "Title": "Waktu Maghrib",
+            "Image Source": "https://i.imgur.com/9mmAE3t.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Thriller",
+                "Horror",
+                "Mystery"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1064312
+        },
+        "219944": {
+            "Title": "The Channel",
+            "Image Source": "https://i.imgur.com/su9jS4Q.jpg",
+            "Category": "movies",
+            "Genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ],
+            "Rating": "N/A",
+            "TMDb ID": 1140692
         }
     },
-    "asian-series": {},
+    "asian-series": {
+        "108969": {
+            "Title": "Master in the House",
+            "Image Source": "https://i.imgur.com/dzEFc2N.jpg",
+            "Category": "asian-series",
+            "Genres": [
+                "Reality-tv"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 76033
+        }
+    },
     "anime": {
-        "218715": {
-            "Title": "Jitsu Wa Ore, Saikyou Deshita",
-            "Image Source": "https://i.imgur.com/2W4KeVj.jpg",
+        "218983": {
+            "Title": "Suki Na Ko Ga Megane Wo Wasureta",
+            "Image Source": "https://i.imgur.com/0b5Mv90.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 209649
+            "TMDb ID": 218263
         },
-        "212588": {
-            "Title": "jigokuraku",
-            "Image Source": "https://imgpile.com/images/hlfXNu.jpg",
+        "219432": {
+            "Title": "Shiro Seijo to Kuro Bokushi",
+            "Image Source": "https://i.imgur.com/m4M4ohU.jpg",
             "Category": "anime",
             "Genres": [],
             "Rating": "N/A",
-            "TMDb ID": 117465
+            "TMDb ID": 204148
+        },
+        "212945": {
+            "Title": "Tonikaku Kawaii 2nd Season",
+            "Image Source": "https://imgpile.com/images/hllUS3.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": null
+        },
+        "213690": {
+            "Title": "Niehime to Kemono no ou",
+            "Image Source": "https://i.imgur.com/1MSAoqp.jpg",
+            "Category": "anime",
+            "Genres": [],
+            "Rating": "N/A",
+            "TMDb ID": 117024
         }
     },
     "series": {
+        "152937": {
+            "Title": "Sintonia",
+            "Image Source": "https://imgpile.com/images/TMUb4r.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama"
+            ],
+            "Rating": "6.7",
+            "TMDb ID": 78074
+        },
+        "88304": {
+            "Title": "World on Fire",
+            "Image Source": "https://imgpile.com/images/TMiHTG.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama",
+                "War"
+            ],
+            "Rating": "7.3",
+            "TMDb ID": 83015
+        },
+        "142690": {
+            "Title": "Sweet Magnolias",
+            "Image Source": "https://imgpile.com/images/TM40Jg.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "7.4",
+            "TMDb ID": 102904
+        },
+        "152977": {
+            "Title": "What We Do in the Shadows",
+            "Image Source": "https://imgpile.com/images/TMUhHg.jpg",
+            "Category": "series",
+            "Genres": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "Rating": "8.6",
+            "TMDb ID": 83631
+        },
+        "153418": {
+            "Title": "The Bear",
+            "Image Source": "https://imgpile.com/images/TMUmrb.jpg",
+            "Category": "series",
+            "Genres": [
+                "Drama"
+            ],
+            "Rating": "8.4",
+            "TMDb ID": 136315
+        },
+        "149608": {
+            "Title": "The Lincoln Lawyer",
+            "Image Source": "https://imgpile.com/images/TMujww.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "7.7",
+            "TMDb ID": 116799
+        },
+        "147730": {
+            "Title": "61st Street",
+            "Image Source": "https://imgpile.com/images/TMImuj.jpg",
+            "Category": "series",
+            "Genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Rating": "6.4",
+            "TMDb ID": 98657
+        },
         "139485": {
             "Title": "The Witcher",
             "Image Source": "https://imgpile.com/images/TKjFYg.jpg",
@@ -133,122 +274,69 @@
             "Rating": "N/A",
             "TMDb ID": 73544
         },
-        "136327": {
-            "Title": "Swagger",
-            "Image Source": "https://imgpile.com/images/TKeNMb.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama"
-            ],
-            "Rating": "7.2",
-            "TMDb ID": 94245
-        },
-        "150165": {
-            "Title": "And Just Like That",
-            "Image Source": "https://imgpile.com/images/TM7P51.jpg",
+        "142280": {
+            "Title": "The Afterparty",
+            "Image Source": "https://imgpile.com/images/TM4cfi.jpg",
             "Category": "series",
             "Genres": [
                 "Comedy",
-                "Drama"
+                "Crime",
+                "Mystery"
             ],
-            "Rating": "5.7",
-            "TMDb ID": 116450
+            "Rating": "7.2",
+            "TMDb ID": 106454
         },
-        "145637": {
-            "Title": "Outlander",
-            "Image Source": "https://imgpile.com/images/TM1xh3.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Fantasy",
-                "Romance"
-            ],
-            "Rating": "8.4",
-            "TMDb ID": 56570
-        },
-        "82961": {
-            "Title": "Black Mirror",
-            "Image Source": "https://imgpile.com/images/TMMhqN.jpg",
-            "Category": "series",
-            "Genres": [
-                "Drama",
-                "Sci-fi",
-                "Thriller"
-            ],
-            "Rating": "8.8",
-            "TMDb ID": 42009
-        },
-        "149084": {
-            "Title": "Star Trek: Strange New Worlds",
-            "Image Source": "https://imgpile.com/images/TMuldG.jpg",
+        "120881": {
+            "Title": "Invincible",
+            "Image Source": "https://imgpile.com/images/TKvObc.jpg",
             "Category": "series",
             "Genres": [
                 "Action",
-                "Adventure"
+                "Adventure",
+                "Animation",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Sci-fi",
+                "Thriller"
             ],
-            "Rating": "8.2",
-            "TMDb ID": 103516
+            "Rating": "8.7",
+            "TMDb ID": 95557
         },
-        "186222": {
-            "Title": "The Kardashians",
-            "Image Source": "https://i.imgur.com/MfHmMHy.jpg",
+        "123192": {
+            "Title": "Cruel Summer",
+            "Image Source": "https://imgpile.com/images/TK3A1w.jpg",
             "Category": "series",
             "Genres": [
-                "Reality-tv"
-            ],
-            "Rating": "4.8",
-            "TMDb ID": 154521
-        },
-        "209501": {
-            "Title": "The Blacklist",
-            "Image Source": "https://i.imgur.com/Lu6JtZG.jpg",
-            "Category": "series",
-            "Genres": [
-                "Crime",
                 "Drama",
                 "Mystery",
                 "Thriller"
             ],
-            "Rating": "N/A",
-            "TMDb ID": 46952
-        },
-        "138697": {
-            "Title": "Its Always Sunny in Philadelphia",
-            "Image Source": "https://imgpile.com/images/TKjDbx.jpg",
-            "Category": "series",
-            "Genres": [
-                "Comedy"
-            ],
-            "Rating": "8.8",
-            "TMDb ID": 2710
+            "Rating": "7.5",
+            "TMDb ID": 98201
         }
     },
     "arabic-series": {
-        "4301": {
-            "Title": "ليه لأ الموسم الثالث",
-            "Image Source": "https://i.imgur.com/OvX6LHh.jpg",
+        "4349": {
+            "Title": "سيب وأنا أسيب",
+            "Image Source": "https://i.imgur.com/u58Dk8T.jpg",
             "Category": "arabic-series"
         },
-        "4299": {
-            "Title": "ريڤو الموسم الثاني",
-            "Image Source": "https://i.imgur.com/llmSh4R.jpg",
+        "4211": {
+            "Title": "العائلة الموسم الاول",
+            "Image Source": "https://i.imgur.com/RV1tu8A.jpg",
             "Category": "arabic-series"
         },
-        "4234": {
-            "Title": "اللعبة الموسم الرابع : دوري الأبطال",
-            "Image Source": "https://i.imgur.com/UDAJ9d3.jpg",
-            "Category": "arabic-series"
-        },
-        "4292": {
-            "Title": "جريمة قلب",
-            "Image Source": "https://i.imgur.com/eVN2TRz.jpg",
+        "4317": {
+            "Title": "كريستال",
+            "Image Source": "https://i.imgur.com/qLqIbZ0.jpg",
             "Category": "arabic-series"
         }
     },
     "arabic-movies": {
-        "8706": {
-            "Title": "ساعة إجابة",
-            "Image Source": "https://i.imgur.com/kN3aAC8.jpg",
+        "8795": {
+            "Title": "فضل ونعمة",
+            "Image Source": "https://i.imgur.com/BDJFsPD.jpg",
             "Category": "arabic-movies"
         },
         "6721": {
@@ -261,9 +349,9 @@
             "Image Source": "https://i.imgur.com/iLhh0mN.jpg",
             "Category": "arabic-movies"
         },
-        "8718": {
-            "Title": "نيمونا",
-            "Image Source": "https://i.imgur.com/Z7aECSr.jpg",
+        "8858": {
+            "Title": "الحورية الصغيرة",
+            "Image Source": "https://i.imgur.com/CaChdWh.jpg",
             "Category": "arabic-movies"
         }
     }
