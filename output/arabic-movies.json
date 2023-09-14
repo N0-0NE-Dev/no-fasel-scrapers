@@ -1,4 +1,25 @@
 {
+    "9052": {
+        "Title": "هليوبوليس",
+        "Category": "arabic-movies",
+        "Genres": [
+            "History",
+            "Drama"
+        ],
+        "Image Source": "https://i.imgur.com/bti0KBf.jpg",
+        "Source": "https://akwam.to/watch/148331/9052",
+        "TMDb ID": 57526
+    },
+    "9050": {
+        "Title": "ملك الحلبة",
+        "Category": "arabic-movies",
+        "Genres": [
+            "Comedy"
+        ],
+        "Image Source": "https://i.imgur.com/5jGAkP7.jpg",
+        "Source": "https://akwam.to/watch/148327/9050",
+        "TMDb ID": null
+    },
     "9031": {
         "Title": "بيت الروبي",
         "Category": "arabic-movies",
@@ -9,6 +30,32 @@
         "Image Source": "https://i.imgur.com/HMXX9gm.jpg",
         "Source": "https://akwam.to/watch/148035/9031",
         "TMDb ID": 1084660
+    },
+    "9049": {
+        "Title": "مدينة العناصر مدبلج مصري",
+        "Category": "arabic-movies",
+        "Genres": [
+            "Animated",
+            "Dubbed",
+            "Comedy",
+            "Adventure"
+        ],
+        "Image Source": "https://i.imgur.com/G45qLQT.jpg",
+        "Source": "https://akwam.to/watch/148280/9049",
+        "TMDb ID": null
+    },
+    "9051": {
+        "Title": "موعد كارل الغرامي",
+        "Category": "arabic-movies",
+        "Genres": [
+            "Animated",
+            "Dubbed",
+            "Comedy",
+            "Short"
+        ],
+        "Image Source": "https://i.imgur.com/D9822U1.jpg",
+        "Source": "https://akwam.to/watch/148326/9051",
+        "TMDb ID": null
     },
     "9042": {
         "Title": "مدينة العناصر",
@@ -1059,7 +1106,7 @@
         ],
         "Image Source": "https://imgpile.com/images/b0w743.jpg",
         "Source": "https://akwam.to/watch/128501/7677",
-        "TMDb ID": 950024
+        "TMDb ID": 533502
     },
     "7663": {
         "Title": "الطفل الزعيم: مكافأة عيد الميلاد",
@@ -2716,7 +2763,7 @@
         ],
         "Image Source": "https://imgpile.com/images/b0ujmM.jpg",
         "Source": "https://akwam.to/watch/111531/6464",
-        "TMDb ID": 997172
+        "TMDb ID": 715643
     },
     "6448": {
         "Title": "نزال",
@@ -6979,7 +7026,7 @@
         ],
         "Image Source": "https://imgpile.com/images/bkZBlw.jpg",
         "Source": "https://akwam.to/watch/63719/3781",
-        "TMDb ID": 1002421
+        "TMDb ID": 1002422
     },
     "3780": {
         "Title": "سندريلا 2 ويتحقق الحلم",
